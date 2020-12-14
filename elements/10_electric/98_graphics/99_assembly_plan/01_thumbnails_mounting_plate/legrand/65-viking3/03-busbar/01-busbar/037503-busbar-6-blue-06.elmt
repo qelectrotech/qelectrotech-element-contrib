@@ -1,0 +1,27 @@
+<definition version="0.80" width="80" hotspot_y="4" type="element" hotspot_x="7" orientation="dyyy" link_type="terminal" height="10">
+    <uuid uuid="{b224b375-7c82-4260-b956-a532145c26ee}"/>
+    <names>
+        <name lang="fr">037503 - Peigne bloc vis et ressort 6mm Bleu (6/10)</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Legrand</elementInformation>
+        <elementInformation show="1" name="description">Peigne pour 10 blocs de jonction à vis ou ressort Viking3 pas 6mm - bleu</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="designation">037503</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect rx="0" width="69" style="line-style:normal;line-weight:thin;filling:HTMLBlueDeepSkyBlue;color:black" x="-2" y="-2" ry="0" antialias="false" height="4"/>
+        <terminal x="0" y="0" orientation="w"/>
+        <terminal x="13" y="0" orientation="w"/>
+        <terminal x="65" y="0" orientation="e"/>
+        <terminal x="52" y="0" orientation="w"/>
+        <terminal x="26" y="0" orientation="w"/>
+        <terminal x="39" y="0" orientation="w"/>
+    </description>
+</definition>

@@ -1,0 +1,13 @@
+<definition version="0.80" width="20" hotspot_y="4" type="element" hotspot_x="4" orientation="dyyy" link_type="simple" height="10">
+    <uuid uuid="{c0cf2480-9861-465a-8852-7efffdf5a8cb}"/>
+    <names>
+        <name lang="fr">037546 - Peigne bloc vis 3 étages 5mm Brun (2/12)</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect rx="0" width="15" style="line-style:normal;line-weight:thin;filling:HTMLBrownMaroon;color:black" x="-2" y="-2" ry="0" antialias="false" height="4"/>
+        <terminal x="0" y="0" orientation="w"/>
+        <terminal x="11" y="0" orientation="e"/>
+    </description>
+</definition>

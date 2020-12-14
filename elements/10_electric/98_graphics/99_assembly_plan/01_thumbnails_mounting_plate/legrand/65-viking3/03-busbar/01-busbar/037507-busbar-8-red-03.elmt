@@ -1,0 +1,24 @@
+<definition version="0.80" width="50" hotspot_y="4" type="element" hotspot_x="6" orientation="dyyy" link_type="terminal" height="10">
+    <uuid uuid="{3303ae8e-c3d4-462f-8647-c8b8380c4005}"/>
+    <names>
+        <name lang="fr">037507 - Peigne bloc vis et ressort 8mm Rouge (3)</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Legrand</elementInformation>
+        <elementInformation show="1" name="description">Peigne pour 3 blocs de jonction à vis ou ressort Viking3 pas 8mm - rouge</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="designation">037507</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect rx="0" width="40" style="line-style:normal;line-weight:thin;filling:HTMLRedCrimson;color:black" x="-2" y="-2" ry="0" antialias="false" height="4"/>
+        <terminal x="0" y="0" orientation="w"/>
+        <terminal x="36" y="0" orientation="e"/>
+        <terminal x="18" y="0" orientation="w"/>
+    </description>
+</definition>
