@@ -1,0 +1,26 @@
+<definition version="0.80" width="100" hotspot_y="4" type="element" hotspot_x="5" orientation="dyyy" link_type="terminal" height="10">
+    <uuid uuid="{a33bb691-bdf6-4845-8fcd-48e8640da73b}"/>
+    <names>
+        <name lang="fr">037500 - Peigne bloc vis et ressort 5mm Bleu (5, 9/10)</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Legrand</elementInformation>
+        <elementInformation show="1" name="description">Peigne pour 10 blocs de jonction à vis ou ressort Viking3 pas 5mm - bleu</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="designation">037500</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect rx="0" width="92" style="line-style:normal;line-weight:thin;filling:HTMLBlueDeepSkyBlue;color:black" x="-2" y="-2" ry="0" antialias="false" height="4"/>
+        <terminal x="66" y="0" orientation="w"/>
+        <terminal x="22" y="0" orientation="w"/>
+        <terminal x="0" y="0" orientation="w"/>
+        <terminal x="88" y="0" orientation="e"/>
+        <terminal x="44" y="0" orientation="w"/>
+    </description>
+</definition>

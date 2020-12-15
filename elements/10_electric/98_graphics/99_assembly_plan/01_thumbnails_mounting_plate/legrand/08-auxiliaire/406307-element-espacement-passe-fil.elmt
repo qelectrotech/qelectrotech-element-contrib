@@ -1,0 +1,38 @@
+<definition type="element" version="0.80" link_type="simple" width="30" height="210" hotspot_x="5" hotspot_y="5">
+    <uuid uuid="{026b44a7-6d4b-436c-a8d9-534f41e368cb}"/>
+    <names>
+        <name lang="fr">406307 - Elément d'espacement passe-fil 0,5 module</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="designation" show="1">4063 07</elementInformation>
+        <elementInformation name="manufacturer" show="1">Legrand</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Elément d'espacement passe-fil 0,5 module</elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Arnaud Valmary</informations>
+    <description>
+        <dynamic_text y="-20" rotation="0" z="1" Halignment="AlignLeft" Valignment="AlignTop" text_from="ElementInfo" text_width="-1" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" uuid="{58b7ce38-810c-4865-8f14-ee41cd829a36}" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect y="0" rx="0" antialias="false" ry="0" width="20" height="200" x="0" style="line-style:normal;line-weight:thin;filling:white;color:black"/>
+        <rect y="50" rx="0" antialias="false" ry="0" width="20" height="100" x="0" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <rect y="77" rx="0" antialias="false" ry="0" width="4" height="18" x="11.9" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <circle y="92" antialias="false" diameter="2" x="12.9" style="line-style:normal;line-weight:thin;filling:white;color:black"/>
+        <polygon x2="3" x1="18" antialias="false" x3="3" y3="127" y2="147" y1="147" style="line-style:normal;line-weight:normal;filling:none;color:red" closed="false"/>
+        <dynamic_text y="65" rotation="0" z="9" Halignment="AlignLeft" Valignment="AlignTop" text_from="UserText" text_width="-1" x="0" font="Sans Serif,4,-1,5,25,0,0,0,0,0" uuid="{64bd90f5-9227-4c8a-b9af-0c89d568a812}" frame="false">
+            <text>_</text>
+        </dynamic_text>
+        <dynamic_text y="95" rotation="270" z="36" Halignment="AlignLeft" Valignment="AlignTop" text_from="ElementInfo" text_width="-1" x="12" font="DejaVu Sans,2,-1,5,50,0,0,0,0,0" uuid="{e9015d33-dac1-4928-9c1a-0b9dc300e5da}" frame="false">
+            <text>4063 07</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+    </description>
+</definition>

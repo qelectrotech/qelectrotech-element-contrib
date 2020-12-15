@@ -1,0 +1,18 @@
+<definition version="0.80" width="80" hotspot_y="4" type="element" hotspot_x="6" orientation="dyyy" link_type="simple" height="10">
+    <uuid uuid="{18fa2fe1-6d79-4c05-9ddc-2f762fb11a38}"/>
+    <names>
+        <name lang="fr">037547 - Peigne bloc vis 3 étages 5mm Bleu (7/12)</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect rx="0" width="70" style="line-style:normal;line-weight:thin;filling:HTMLBrownMaroon;color:black" x="-2" y="-2" ry="0" antialias="false" height="4"/>
+        <terminal x="55" y="0" orientation="w"/>
+        <terminal x="66" y="0" orientation="e"/>
+        <terminal x="33" y="0" orientation="w"/>
+        <terminal x="11" y="0" orientation="w"/>
+        <terminal x="22" y="0" orientation="w"/>
+        <terminal x="0" y="0" orientation="w"/>
+        <terminal x="44" y="0" orientation="w"/>
+    </description>
+</definition>
