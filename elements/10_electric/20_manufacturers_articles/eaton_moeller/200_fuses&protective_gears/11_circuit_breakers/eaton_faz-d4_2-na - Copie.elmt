@@ -1,0 +1,57 @@
+<definition type="element" version="0.90" link_type="master" width="80" height="80" hotspot_y="28" hotspot_x="48">
+    <uuid uuid="{1dfa59f4-178d-4a48-86ab-d919776eea02}"/>
+    <names>
+        <name lang="en">FAZ-D4/2-NA </name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="35" text="30mA" x="-40" rotation="0" color="#000000"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" rx="5" width="40" height="10" ry="5" y="25" x="-10"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="45" text="2" x="21" rotation="0" color="#000000"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-15" text="C/16A/1+N" x="-45" rotation="0" color="#000000"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" x1="15" y2="10" y1="-10" x3="20" x2="20" closed="false" y3="40"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="45" text="N" x="2" rotation="0" color="#000000"/>
+        <line end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" antialias="false" x1="20" y2="-12" y1="-20" length1="1.5" x2="20"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" x1="-5" y2="10" y1="-10" x3="0" x2="0" closed="false" y3="40"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-15" text="1" x="22" rotation="0" color="#000000"/>
+        <dynamic_text frame="false" text_width="-1" z="8" Halignment="AlignLeft" uuid="{64877d19-2ac5-4af9-84af-e4e7261afb92}" Valignment="AlignTop" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-10.5" x="-53" rotation="0" text_from="ElementInfo" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon y1="0" x2="8" x7="16" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y2="-1" antialias="false" y8="-3" y4="-6" y5="-2" x4="11" x1="4" x5="12" y7="-3" y6="-3" x3="7" x6="16" x8="16" y3="-5"/>
+        <line end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" antialias="false" x1="0" y2="-12" y1="-20" length1="1.5" x2="0"/>
+        <line end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" antialias="false" x1="5" y2="2" y1="5" length1="1.5" x2="17"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-15" text="N" x="2" rotation="0" color="#000000"/>
+        <polygon y1="0" x2="-12" x7="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y2="-1" antialias="false" y8="-3" y4="-6" y5="-2" x4="-9" x1="-16" x5="-8" y7="-3" y6="-3" x3="-13" x6="-4" x8="-4" y3="-5"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" rx="0" width="12" height="12" ry="0" y="7" x="-22"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x1="4" y2="2.97827" y4="5.43882" y1="5.43882" x3="8.05" x6="4" y5="5.43882" x4="4" x2="7.15" y3="5.84891" y6="5.43882" x5="4"/>
+        <line end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" antialias="false" x1="-15" y2="2" y1="5" length1="1.5" x2="-3"/>
+        <line end1="none" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" antialias="false" x1="-10" y2="13" y1="13" length1="1.5" x2="-29"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x1="-16" y2="2.97827" y4="5.43882" y1="5.43882" x3="-11.95" x6="-16" y5="5.43882" x4="-16" x2="-12.85" y3="5.84891" y6="5.43882" x5="-16"/>
+        <line end1="none" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" antialias="false" x1="-29" y2="17" y1="9" length1="1.5" x2="-29"/>
+        <line end1="none" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" antialias="false" x1="-16" y2="7" y1="19" length1="1.5" x2="-16"/>
+        <line end1="none" length2="1.5" style="line-style:dashed;line-weight:thin;filling:none;color:black" end2="none" antialias="false" x1="-9.5883" y2="13" y1="13" length1="1.5" x2="21"/>
+        <polygon style="line-style:dashed;line-weight:thin;filling:none;color:black" antialias="false" x1="-10" y2="30" y1="30" x3="-16" x2="-16" closed="false" y3="9"/>
+        <terminal type="Generic" uuid="{eb3ef003-dace-479b-bb30-fbf4c3e5567f}" y="40" orientation="s" x="20" name=""/>
+        <terminal type="Generic" uuid="{4e1b8e4d-44ad-49d0-8df8-fcaa05bb13b1}" y="-20" orientation="n" x="0" name=""/>
+        <terminal type="Generic" uuid="{006eb1e0-3325-421a-97fd-0a7a661733e4}" y="-20" orientation="n" x="20" name=""/>
+        <terminal type="Generic" uuid="{c9233347-909a-4702-850f-e4daec239b9b}" y="40" orientation="s" x="0" name=""/>
+    </description>
+</definition>

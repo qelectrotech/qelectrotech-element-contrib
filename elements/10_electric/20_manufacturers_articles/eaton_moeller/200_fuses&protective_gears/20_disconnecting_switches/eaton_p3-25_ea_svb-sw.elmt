@@ -1,25 +1,25 @@
-<definition height="60" version="0.90" hotspot_y="31" type="element" link_type="simple" width="80" hotspot_x="40">
-    <uuid uuid="{76eda25c-46d4-4c04-8727-b1650e134733}"/>
+<definition height="60" version="0.90" hotspot_y="31" type="element" link_type="simple" width="80" hotspot_x="39">
+    <uuid uuid="{a28bde17-9e7d-440b-a28c-38f4e77b9be0}"/>
     <names>
-        <name lang="en">P3-63/EA/SVB-SW (057857)</name>
+        <name lang="en">P3-25/EA/SVB-SW </name>
     </names>
     <elementInformations>
         <elementInformation name="supplier" show="1"></elementInformation>
         <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
         <elementInformation name="comment" show="1"></elementInformation>
-        <elementInformation name="designation" show="1">057857</elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
         <elementInformation name="plant" show="1"></elementInformation>
         <elementInformation name="manufacturer" show="1">Eaton Moeller</elementInformation>
         <elementInformation name="unity" show="1"></elementInformation>
         <elementInformation name="quantity" show="1"></elementInformation>
         <elementInformation name="manufacturer_reference" show="1"></elementInformation>
         <elementInformation name="label" show="1"></elementInformation>
-        <elementInformation name="description" show="1">P3-63/EA/SVB-SW </elementInformation>
+        <elementInformation name="description" show="1">P3-25/EA/SVB-SW </elementInformation>
     </elementInformations>
     <informations>Author: The QElectroTech team&#xd;&#xd;
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
     <description>
-        <text x="-37" color="#000000" text="63A" rotation="0" y="18" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text x="-35" color="#000000" text="25A" rotation="0" y="20" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
         <text x="12" color="#000000" text="3" rotation="0" y="-15" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
         <circle antialias="true" x="28" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-12"/>
         <text x="32" color="#000000" text="5" rotation="0" y="-15" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
