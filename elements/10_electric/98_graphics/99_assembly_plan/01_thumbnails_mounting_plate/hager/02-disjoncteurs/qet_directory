@@ -1,5 +1,7 @@
 <qet-directory>
     <names>
+        <name lang="de">Leitungsschutzschalter</name>
+        <name lang="en">Circuit Breaker</name>
         <name lang="fr">Disjoncteur</name>
     </names>
 </qet-directory>

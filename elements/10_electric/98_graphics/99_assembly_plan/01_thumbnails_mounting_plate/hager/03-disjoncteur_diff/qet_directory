@@ -1,6 +1,7 @@
 <qet-directory>
     <names>
-        <name lang="fr">Disjoncteur différentiel</name>
+        <name lang="de">Fi-Schutzschalter</name>
         <name lang="en">Residual current circuit breaker</name>
+        <name lang="fr">Disjoncteur différentiel</name>
     </names>
 </qet-directory>
