@@ -1,7 +1,7 @@
 <qet-directory>
     <names>
-        <name lang="de">Leitungsschutzschalter</name>
-        <name lang="en">Circuit Breaker</name>
+        <name lang="de">Leitungsschutzschalter LS</name>
+        <name lang="en">Miniature Circuit Breaker MCB</name>
         <name lang="fr">Disjoncteur</name>
     </names>
 </qet-directory>
