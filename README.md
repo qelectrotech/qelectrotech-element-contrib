@@ -1,5 +1,5 @@
 # qelectrotech-element-contrib
-Duplicate elements but with different manufacturer references have been discarded on official GIT and made available on this Github repository.
+Duplicate elements but with different manufacturer references have been discarded on official collection and made available on this Github repository.
 
 
 Adding some elements I use to update the documentation while renovating the house. Mainly using Wago and Hager components.
