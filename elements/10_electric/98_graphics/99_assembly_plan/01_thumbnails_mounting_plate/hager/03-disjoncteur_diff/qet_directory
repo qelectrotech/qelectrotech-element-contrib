@@ -1,7 +1,7 @@
 <qet-directory>
     <names>
-        <name lang="de">Fi-Schutzschalter</name>
-        <name lang="en">Residual current circuit breaker RCD</name>
+        <name lang="de">Fehlerstromschutzschalter</name>
         <name lang="fr">Disjoncteur différentiel</name>
+        <name lang="en">Residual current circuit breaker RCD</name>
     </names>
 </qet-directory>
