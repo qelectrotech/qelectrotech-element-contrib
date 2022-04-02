@@ -1,0 +1,34 @@
+<definition height="90" version="0.5" width="90" hotspot_x="15" type="element" link_type="simple" hotspot_y="44">
+    <uuid uuid="{60ea7c8b-47e6-4e9d-8025-268ea093ed71}"/>
+    <names>
+        <name lang="en">Flow divider</name>
+        <name lang="pl">Dzielnik strumienia</name>
+        <name lang="cs">Dělič průtoku</name>
+        <name lang="nl">Stroomverdeler</name>
+        <name lang="fr">Diviseur de débit</name>
+        <name lang="it">Ripartitore di flusso</name>
+        <name lang="ar">مُقسّم تدفّق</name>
+    </names>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line y1="-20" end2="none" length2="1.5" x1="40" end1="none" x2="40" length1="1.5" y2="25" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <input x="63" tagg="label" y="-14.45" rotate="true" text="_" size="9"/>
+        <line y1="-20" end2="none" length2="1.5" x1="20" end1="none" x2="20" length1="1.5" y2="25" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-40" end2="none" length2="1.5" x1="30" end1="none" x2="30" length1="1.5" y2="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-20" end2="none" length2="1.5" x1="20" end1="none" x2="40" length1="1.5" y2="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="28.85" y="-21.15" diameter="2.3" antialias="true" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <rect x="5" height="60" width="50" y="-30" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc x="42" height="30" width="30" start="-135" y="-15" angle="-90" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc x="22" height="30" width="30" start="-135" y="-15" angle="-90" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="31" end2="none" length2="1.5" x1="40" end1="none" x2="40" length1="1.5" y2="40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y1="24.5" x3="40" y4="24.5" x1="38" y3="29.5" x4="38" x2="42" y2="24.5" antialias="true" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <line y1="31" end2="none" length2="1.5" x1="20" end1="none" x2="20" length1="1.5" y2="40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <arc x="8" height="30" width="30" start="45" y="-15" angle="-90" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y1="24.5" x3="20" y4="24.5" x1="18" y3="29.5" x4="18" x2="22" y2="24.5" antialias="true" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+        <arc x="-12" height="30" width="30" start="45" y="-15" angle="-90" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal x="30" y="-40" orientation="n"/>
+        <terminal x="20" y="40" orientation="s"/>
+        <terminal x="40" y="40" orientation="s"/>
+    </description>
+</definition>
