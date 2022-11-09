@@ -1,0 +1,29 @@
+<definition hotspot_x="15" height="60" version="0.70" hotspot_y="21" link_type="simple" type="element" width="40" orientation="dyyy">
+    <uuid uuid="{4d887baa-e8b5-4fb1-be44-7320d7e20502}"/>
+    <names>
+        <name lang="pt">CSW-CK3F45 WH</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="designation" show="1">CSW-CK3F45 WH + AF3F + BC10F-CSW</elementInformation>
+        <elementInformation name="description" show="1">COMUTADORA 3 POS. RETENÇÃO + FLANGE + 2 CONT. NA</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text x="1" size="4" y="3" text="0"/>
+        <line antialias="false" x1="7" y1="10" end1="none" y2="10" style="line-style:dotted;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" x2="18" end2="none"/>
+        <text x="-4" size="4" y="4" text="1"/>
+        <text x="6" size="4" y="4" text="2"/>
+        <polygon antialias="true" y3="0" closed="false" x1="20" y1="30" y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" x3="14"/>
+        <line antialias="true" x1="4" y1="12" end1="none" y2="6" style="line-style:dotted;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" x2="8" end2="none"/>
+        <line antialias="false" x1="20" y1="-10" end1="none" y2="1" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" x2="20" end2="none"/>
+        <line antialias="false" x1="3" y1="6" end1="none" y2="13" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" x2="3" end2="none"/>
+        <line antialias="false" x1="-10" y1="10" end1="none" y2="10" style="line-style:dotted;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" x2="1" end2="none"/>
+        <line antialias="true" x1="2" y1="12" end1="none" y2="6" style="line-style:dotted;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" x2="-2" end2="none"/>
+        <polygon antialias="false" y3="6" closed="false" x1="-13" y1="14" y2="14" style="line-style:normal;line-weight:normal;filling:none;color:black" y4="6" x4="-7" x2="-10" x3="-10"/>
+        <input rotate="true" x="25" size="9" tagg="label" y="14" text="_"/>
+        <text x="10" size="5" y="32" text="14"/>
+        <text x="10" size="5" y="-7" text="13"/>
+        <terminal x="20" orientation="n" y="-10"/>
+        <terminal x="20" orientation="s" y="30"/>
+    </description>
+</definition>

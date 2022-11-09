@@ -1,0 +1,72 @@
+<definition link_type="master" type="element" width="110" orientation="dyyy" height="110" version="0.70" hotspot_x="51" hotspot_y="55">
+    <uuid uuid="{059108e0-bda8-4ce7-adf8-507b0a92ec0e}"/>
+    <names>
+        <name lang="pt">DWB 250 B 200- 3 DF - MRXS + HASTE 130</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type" show="1">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="designation" show="1">DWB 250 B 200- 3 DF - MRXS + HASTE 130</elementInformation>
+        <elementInformation name="description" show="1">DISJUNTOR CAIXA MOLDADA 200 + HASTE DE MANOPLA PORTA</elementInformation>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text text="3&#xa;L2" y="-40" x="24" size="4"/>
+        <text text="5&#xa;L3" y="-40" x="44" size="4"/>
+        <text text="4&#xa;T2" y="39" x="24" size="4"/>
+        <text text="2&#xa;T1" y="39" x="4" size="4"/>
+        <text text="5&#xa;T3" y="39" x="44" size="4"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" y="3.55271e-15" antialias="false" width="20" height="14" x="-10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="40" x1="40" length2="1.5" length1="1.5" y2="40" antialias="false" y1="28" end1="none" end2="none"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" y="14" antialias="false" width="20" height="14" x="30"/>
+        <polygon y4="-29" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="-39" x1="-38" y2="-25" antialias="true" y3="-25" x4="-36" y1="-29" x3="-35" closed="false"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" y="14" antialias="false" width="20" height="14" x="-10"/>
+        <circle style="line-style:normal;line-weight:thin;filling:none;color:black" y="-33.2361" diameter="4.4721" antialias="true" x="-39.2361"/>
+        <polygon y4="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="40" x1="40" x7="33" y5="4" y2="10" antialias="true" y6="-7" x5="40" y3="10" x4="45" x6="40" y1="14" y7="-25" x3="45" closed="false"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" y="14" antialias="false" width="20" height="14" x="10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" x1="20" length2="1.5" length1="1.5" y2="40" antialias="false" y1="28" end1="none" end2="none"/>
+        <text text="I>" y="26" x="15" size="8"/>
+        <polygon y4="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" x1="20" x7="13" y5="4" y2="10" antialias="true" y6="-7" x5="20" y3="10" x4="25" x6="20" y1="14" y7="-25" x3="25" closed="false"/>
+        <text text="I>" y="26" x="35" size="8"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" y="3.55271e-15" antialias="false" width="20" height="14" x="30"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:black" x2="-34.75" x1="-34.75" length2="1.5" length1="1.5" y2="24.95" antialias="false" y1="16.95" end1="none" end2="none"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" y="3.55271e-15" antialias="false" width="20" height="14" x="10"/>
+        <polygon y4="20.95" style="line-style:dashed;line-weight:thin;filling:none;color:black" x2="-28.75" x1="-34.75" y5="20.95" y2="20.95" antialias="true" x5="-19.75" y3="23.95" x4="-24.75" y1="20.95" x3="-26.75" closed="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-2" x1="2" length2="1.5" length1="1.5" y2="-25" antialias="false" y1="-29" end1="none" end2="none"/>
+        <line style="line-style:dashed;line-weight:thin;filling:none;color:black" x2="-26" x1="-37.9656" length2="1.5" length1="1.5" y2="-16" antialias="false" y1="-16" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="2" x1="-2" length2="1.5" length1="1.5" y2="-25" antialias="false" y1="-29" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="18" x1="22" length2="1.5" length1="1.5" y2="-25" antialias="false" y1="-29" end1="none" end2="none"/>
+        <polygon y4="-22.5769" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-40" x1="-46" y5="-22.5769" y2="-10.4751" antialias="false" x5="-34" y3="-22.5769" x4="-34" y1="-10.4751" x3="-40" closed="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="22" x1="18" length2="1.5" length1="1.5" y2="-25" antialias="false" y1="-29" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="38" x1="42" length2="1.5" length1="1.5" y2="-25" antialias="false" y1="-29" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="42" x1="38" length2="1.5" length1="1.5" y2="-25" antialias="false" y1="-29" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="40" x1="40" length2="1.5" length1="1.5" y2="-31" antialias="false" y1="-33" end1="none" end2="none"/>
+        <input text="_" y="-9.5" tagg="label" x="70" size="9"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" x1="0" length2="1.5" length1="1.5" y2="-40" antialias="false" y1="-27" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="40" x1="40" length2="1.5" length1="1.5" y2="-40" antialias="false" y1="-27" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" x1="20" length2="1.5" length1="1.5" y2="-40" antialias="false" y1="-27" end1="none" end2="none"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:black" y="-22" antialias="false" width="12" height="12" x="-26"/>
+        <polygon y4="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" x1="0" x7="-7" y5="4" y2="10" antialias="true" y6="-7" x5="0" y3="10" x4="5" x6="0" y1="14" y7="-25" x3="5" closed="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" x1="0" length2="1.5" length1="1.5" y2="40" antialias="false" y1="28" end1="none" end2="none"/>
+        <text text="I>" y="26" x="-6" size="8"/>
+        <line style="line-style:dashed;line-weight:thin;filling:none;color:black" x2="-20" x1="-10" length2="1.5" length1="1.5" y2="7" antialias="false" y1="7" end1="none" end2="none"/>
+        <line style="line-style:dashed;line-weight:thin;filling:none;color:black" x2="-20" x1="-10" length2="1.5" length1="1.5" y2="21" antialias="false" y1="21" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:black" x2="-20" x1="-20" length2="1.5" length1="1.5" y2="-10" antialias="false" y1="-22" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:black" x2="-14" x1="-26" length2="1.5" length1="1.5" y2="-16" antialias="false" y1="-16" end1="none" end2="none"/>
+        <line style="line-style:dashed;line-weight:thin;filling:none;color:black" x2="36" x1="-14" length2="1.5" length1="1.5" y2="-16" antialias="false" y1="-16" end1="none" end2="none"/>
+        <line style="line-style:dashed;line-weight:thin;filling:none;color:black" x2="-20" x1="-20" length2="1.5" length1="1.5" y2="21" antialias="false" y1="-10" end1="none" end2="none"/>
+        <text text="1&#xa;L1" y="-40" x="4" size="4"/>
+        <dynamic_text rotation="0" y="23" text_from="UserText" uuid="{ad3e275b-bc06-42fb-980b-e46385ee9fba}" x="-38" z="47" font_size="3" frame="true">
+            <text>DWB250
+B2003DF</text>
+        </dynamic_text>
+        <terminal y="-40" orientation="n" x="20"/>
+        <terminal y="40" orientation="s" x="0"/>
+        <terminal y="-40" orientation="n" x="40"/>
+        <terminal y="-40" orientation="n" x="0"/>
+        <terminal y="40" orientation="s" x="40"/>
+        <terminal y="40" orientation="s" x="20"/>
+    </description>
+</definition>

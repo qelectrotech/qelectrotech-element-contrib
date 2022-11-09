@@ -1,0 +1,34 @@
+<definition width="30" type="element" hotspot_x="15" version="0.70" link_type="simple" height="60" orientation="dyyy" hotspot_y="29">
+    <uuid uuid="{65f03fac-b337-4959-a77f-020a716dba2a}"/>
+    <names>
+        <name lang="cs">Světlo</name>
+        <name lang="pt">Lâmpada</name>
+        <name lang="nl">Lamp</name>
+        <name lang="de">Meldeleuchte</name>
+        <name lang="el">Λυχνία</name>
+        <name lang="pl">Lampa</name>
+        <name lang="ar">مصباح</name>
+        <name lang="it">Luce</name>
+        <name lang="fr">Lampe</name>
+        <name lang="es">Lámpara</name>
+        <name lang="en">CEW-SM0-E26 - BRANCO</name>
+        <name lang="ru">Лампа</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="description">SIANLEIRO 22mm BRANCO 24VCC/VCA</elementInformation>
+        <elementInformation show="1" name="designation">CEW-SM0-E26</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle x="-10" y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="20" antialias="true"/>
+        <line end2="none" end1="none" y2="7.03" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" y1="-7.03" x2="-7.03" x1="7.03" antialias="false"/>
+        <line end2="none" end1="none" y2="7.03" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" y1="-7.03" x2="7.03" x1="-7.03" antialias="false"/>
+        <line end2="none" end1="none" y2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" y1="-20" x2="0" x1="0" antialias="false"/>
+        <line end2="none" end1="none" y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" y1="10" x2="0" x1="0" antialias="false"/>
+        <input x="15" y="6" text="H_" size="7" tagg="label"/>
+        <terminal x="0" y="-21" orientation="n"/>
+        <terminal x="0" y="21" orientation="s"/>
+    </description>
+</definition>

@@ -1,0 +1,37 @@
+<definition type="element" hotspot_x="10" width="40" orientation="dyyy" hotspot_y="21" height="60" link_type="simple" version="0.70">
+    <uuid uuid="{a790f77d-a9f6-4bf8-b263-515e685191e2}"/>
+    <names>
+        <name lang="pl">Zestyk rozwierny łącznika krańcowego</name>
+        <name lang="nl">eindschakelaar (NC)</name>
+        <name lang="ar">مفتاح نهاية مشوار بحدبة (NC)</name>
+        <name lang="de">Grenzschalter (NC)</name>
+        <name lang="ru">Концевой контакт (НЗ)</name>
+        <name lang="es">Final de carrera (NC)</name>
+        <name lang="it">Finecorsa (NC)</name>
+        <name lang="el">Τερματικό, κλειστό</name>
+        <name lang="cs">Konec vodivého spojení (NC)</name>
+        <name lang="en">Limitswitch (NC)</name>
+        <name lang="fr">Fin de course  à came (NF)</name>
+        <name lang="pt">Fim de curso (NC)</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="designation">LSW-PF14ALP11</elementInformation>
+        <elementInformation show="1" name="description">MICRO FIM DE CURSO</elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon x7="-7" closed="false" x1="-4" x6="-7" antialias="true" x3="-5" y3="8" y5="0" y6="22" y4="0" y7="22" y1="22" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="-4" y2="11" x4="-5" x5="-7"/>
+        <polygon closed="false" x1="26" antialias="true" x3="20" y3="30.05" y1="0.05" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" y2="20.05"/>
+        <circle antialias="true" diameter="3" x="-4.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y="7.5"/>
+        <text x="9" text="12" size="5" y="31.05"/>
+        <line x1="20" length2="1.5" end2="none" antialias="false" y1="1.05" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="27" end1="none" y2="1.05" length1="1.5"/>
+        <line x1="-1.5" length2="1.5" end2="none" antialias="false" y1="9" style="line-style:dashed;line-weight:thin;filling:none;color:black" x2="23" end1="none" y2="9" length1="1.5"/>
+        <line x1="20" length2="1.5" end2="none" antialias="false" y1="-9.95" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" end1="none" y2="1.05" length1="1.5"/>
+        <text x="9" text="11" size="5" y="-5.95"/>
+        <input rotate="true" x="28" text="" size="9" y="11.05" tagg="label"/>
+        <terminal orientation="n" x="20" y="-9.95"/>
+        <terminal orientation="s" x="20" y="30.05"/>
+    </description>
+</definition>

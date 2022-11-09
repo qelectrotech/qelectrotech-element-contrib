@@ -1,0 +1,33 @@
+<definition hotspot_y="54" link_type="simple" width="80" version="0.70" type="element" height="80" hotspot_x="38" orientation="dyyy">
+    <uuid uuid="{86e0240a-470a-449b-893f-95cf2eeb5ef5}"/>
+    <names>
+        <name lang="pt">SSM5-30R1P201</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="description" show="1">Sensor magnético com função de segurança</elementInformation>
+        <elementInformation name="designation" show="1">SSM5-30R1P201</elementInformation>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text y="-35" text="MR" size="5" x="28" rotation="270"/>
+        <rect width="76" y="-47" antialias="false" height="65" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" x="-36"/>
+        <polygon y1="19" x1="30" y2="0" x3="22.5" closed="false" x2="30" y3="-20" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text y="16" text="AZ" size="5" x="-12" rotation="270"/>
+        <text y="15" text="BR" size="5" x="27" rotation="270"/>
+        <polygon y1="19" x1="-10" y2="0" x3="-17.5" closed="false" x2="-10" y3="-20" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" y1="-48" x1="30" y2="-15" end2="none" x2="30" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5"/>
+        <line length1="1.5" y1="-50" x1="-10" y2="-20" end2="none" x2="-10" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5"/>
+        <line length1="1.5" y1="-15" x1="-31" y2="-15" end2="none" x2="-29" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5"/>
+        <line length1="1.5" y1="-15" x1="-31" y2="-5" end2="none" x2="-31" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5"/>
+        <polygon y4="-5" y1="-10" x1="-19" x4="-24" y2="-15" x3="-29" x2="-24" y3="-10" antialias="false" x5="-19" style="line-style:normal;line-weight:normal;filling:black;color:black" y5="-10"/>
+        <line length1="1.5" y1="-10" x1="-19" y2="-10" end2="none" x2="30.5" end1="none" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" length2="1.5"/>
+        <line length1="1.5" y1="-5" x1="-31" y2="-5" end2="none" x2="-29" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5"/>
+        <input tagg="label" y="-18" text="_" size="9" rotate="true" x="47"/>
+        <text y="-36" text="PR" size="5" x="-12" rotation="270"/>
+        <terminal y="-50" x="-10" orientation="n"/>
+        <terminal y="20" x="30" orientation="s"/>
+        <terminal y="20" x="-10" orientation="s"/>
+        <terminal y="-50" x="30" orientation="n"/>
+    </description>
+</definition>

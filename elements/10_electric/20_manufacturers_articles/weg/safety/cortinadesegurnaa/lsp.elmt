@@ -1,0 +1,47 @@
+<definition version="0.70" height="190" width="110" hotspot_y="55" orientation="dyyy" link_type="simple" type="element" hotspot_x="79">
+    <uuid uuid="{01422779-c73d-4e7a-8db7-605d518a3d8c}"/>
+    <names>
+        <name lang="pt">LSP-RECEPTOR</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+        <elementInformation name="designation" show="1">LSP-RECEPTOR</elementInformation>
+        <elementInformation name="description" show="1">CORTINA DE LUZ DE SEGURANÇA</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon y3="-6" y1="-14" y2="-10" closed="false" x3="-64" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" x2="-60" x1="-64"/>
+        <text text="0 Vcc" size="6" x="-12" y="73"/>
+        <line length1="1.5" length2="1.5" y1="73" y2="97" style="line-style:dashed;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x2="20" x1="20"/>
+        <line length1="1.5" length2="1.5" y1="43" y2="67" style="line-style:dashed;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x2="20" x1="20"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" antialias="false" x="17.5" y="7.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" antialias="false" x="17.5" y="37.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" antialias="false" x="17.5" y="97.5"/>
+        <dynamic_text rotation="0" text_from="UserText" frame="true" z="7" font_size="5" uuid="{e6f9c7a4-8481-4983-a7d5-2ee0087620e8}" x="-48" y="114">
+            <text>LSP - RECEPTOR</text>
+        </dynamic_text>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" antialias="false" x="17.5" y="-22.5"/>
+        <text text="GND" size="6" x="-6" y="104"/>
+        <text text="OSSD 1" size="6" x="-21" y="14"/>
+        <text text="OSSD 2" size="6" x="-22" y="44"/>
+        <line length1="1.5" length2="1.5" y1="13" y2="37" style="line-style:dashed;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x2="20" x1="20"/>
+        <polygon y3="74" y1="66" y2="70" closed="false" x3="-64" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" x2="-60" x1="-64"/>
+        <polygon y3="34" y1="26" y2="30" closed="false" x3="-64" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" x2="-60" x1="-64"/>
+        <polygon y3="14" y1="6" y2="10" closed="false" x3="-64" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" x2="-60" x1="-64"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" antialias="false" x="17.5" y="67.5"/>
+        <polygon y3="114" y1="106" y2="110" closed="false" x3="-64" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" x2="-60" x1="-64"/>
+        <polygon y3="94" y1="86" y2="90" closed="false" x3="-64" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" x2="-60" x1="-64"/>
+        <line length1="1.5" length2="1.5" y1="-17" y2="7" style="line-style:dashed;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x2="20" x1="20"/>
+        <polygon y3="54" y1="46" y2="50" closed="false" x3="-64" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" x2="-60" x1="-64"/>
+        <polygon y3="-50" y5="130" y1="-23" y2="-50" closed="false" y6="103" x3="-50" x5="20" style="line-style:dashed;line-weight:normal;filling:none;color:black" y4="130" x6="20" x4="-50" antialias="false" x2="20" x1="20"/>
+        <rect height="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" width="22" x="-72" y="-50"/>
+        <text text="+24 Vcc" size="6" x="-22" y="-12"/>
+        <input rotate="true" text="_" size="9" x="-50" y="-70" tagg="label"/>
+        <polygon y3="-26" y1="-34" y2="-30" closed="false" x3="-64" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" x2="-60" x1="-64"/>
+        <terminal orientation="e" x="22" y="-20"/>
+        <terminal orientation="e" x="22" y="10"/>
+        <terminal orientation="e" x="22" y="40"/>
+        <terminal orientation="e" x="22" y="70"/>
+        <terminal orientation="e" x="22" y="100"/>
+    </description>
+</definition>

@@ -1,0 +1,42 @@
+<definition hotspot_y="29" orientation="dyyy" height="60" hotspot_x="18" link_type="master" width="50" version="0.70" type="element">
+    <uuid uuid="{8c7105fb-3fb5-444d-b3f7-bc9f50b03185}"/>
+    <names>
+        <name lang="it">Bobina</name>
+        <name lang="nl">Spoel</name>
+        <name lang="pl">Cewka</name>
+        <name lang="cs">Cívka</name>
+        <name lang="de">Spule</name>
+        <name lang="es">Bobina</name>
+        <name lang="ru">Обмотка</name>
+        <name lang="ar">ملف</name>
+        <name lang="fr">Bobine</name>
+        <name lang="pt">Bobina P</name>
+        <name lang="be">Relais spoel (algemeen)</name>
+        <name lang="el">Πηνίο</name>
+        <name lang="en">CWC09-01-30C03</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="description">MINICONTATORA 9A-C3 BOBINA 24VCC 1NF + SUPRESSOR</elementInformation>
+        <elementInformation show="1" name="designation">CWC09-01-30C03 + DIC0-1 C33</elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" x="-14" height="16" width="28" antialias="false" y="-8"/>
+        <text text="A1" x="-14" size="5" y="-11"/>
+        <line end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="-20" x1="0" length2="1.5" x2="0" y2="-8" antialias="false"/>
+        <line end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="8" x1="0" length2="1.5" x2="0" y2="20" antialias="false"/>
+        <text text="A2" x="-14" size="5" y="18"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" y3="3" y1="3" x4="20" y4="3" x1="20" x2="24" y2="-3" closed="false" x3="28" antialias="false"/>
+        <line end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" y1="-3" x1="20" length2="1.5" x2="28" y2="-3" antialias="false"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y3="14" y1="8" x4="24" y4="3" x1="0" x2="6" y2="14" closed="false" x3="24" antialias="false"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y3="-14" y1="-8" x4="24" y4="-3" x1="0" x2="6" y2="-14" closed="false" x3="24" antialias="false"/>
+        <input tagg="label" text="_" x="32" rotate="true" size="9" y="0"/>
+        <terminal orientation="n" x="0" y="-21"/>
+        <terminal orientation="s" x="0" y="21"/>
+    </description>
+</definition>

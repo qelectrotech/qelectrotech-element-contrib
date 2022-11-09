@@ -1,0 +1,48 @@
+<definition link_type="master" type="element" width="70" orientation="dyyy" height="50" version="0.70" hotspot_x="41" hotspot_y="24">
+    <uuid uuid="{d0e55f7e-2f62-4783-92a6-3655ce592941}"/>
+    <names>
+        <name lang="fr">Sectionneur portes fusible tri</name>
+        <name lang="ar">مفتاح عزل ثلاثي بمصهرات</name>
+        <name lang="cs">Tavný odpojovač</name>
+        <name lang="nl">Zekeringscheider 3</name>
+        <name lang="pl">Odłącznik bezpiecznikowy</name>
+        <name lang="en">FSW-250-3 - FNH1-400K-A x3</name>
+        <name lang="it">Sezionatore con fusibile 3P</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type" show="1">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="comment" show="1">SECCIONADORA SACA FUSÍVEL</elementInformation>
+        <elementInformation name="designation" show="1">FSW-250-3 - FNH1-400K-A x3</elementInformation>
+        <elementInformation name="description" show="1">CHAVE SECCIONADORA SACA FUSÍVEL COM FUSIVEIS ULTRA RÁPIDOS</elementInformation>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line style="line-style:dotted;line-weight:normal;filling:none;color:black" x2="-26" x1="-33" length2="1.5" length1="1.5" y2="0" antialias="false" y1="0" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-30" x1="-35" length2="1.5" length1="1.5" y2="10" antialias="true" y1="-10" end1="none" end2="circle"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" x1="-5" y2="10" antialias="true" y3="20" y1="-10" x3="0" closed="false"/>
+        <polygon y4="-5.49" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-3.19" x1="-5.69" y2="5.49" antialias="true" y3="4.51" x4="-1.81" y1="-4.51" x3="0.69"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-20" x1="-25" y2="10" antialias="true" y3="20" y1="-10" x3="-20" closed="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" x1="0" length2="1.5" length1="1.5" y2="-10" antialias="false" y1="-20" end1="none" end2="none"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" x1="15" y2="10" antialias="true" y3="20" y1="-10" x3="20" closed="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-2" x1="2" length2="1.5" length1="1.5" y2="-10" antialias="false" y1="-10" end1="none" end2="none"/>
+        <polygon y4="-5.49" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="16.81" x1="14.31" y2="5.49" antialias="true" y3="4.51" x4="18.19" y1="-4.51" x3="20.69"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="22" x1="18" length2="1.5" length1="1.5" y2="-10" antialias="false" y1="-10" end1="none" end2="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" x1="20" length2="1.5" length1="1.5" y2="-10" antialias="false" y1="-20" end1="none" end2="none"/>
+        <polygon y4="-5.49" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-23.19" x1="-25.69" y2="5.49" antialias="true" y3="4.51" x4="-21.81" y1="-4.51" x3="-19.31"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-20" x1="-20" length2="1.5" length1="1.5" y2="-10" antialias="false" y1="-20" end1="none" end2="none"/>
+        <input text="_" y="0.5" tagg="label" x="40" size="9"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-22" x1="-18" length2="1.5" length1="1.5" y2="-10" antialias="false" y1="-10" end1="none" end2="none"/>
+        <line style="line-style:dashed;line-weight:normal;filling:none;color:black" x2="-5" x1="-20" length2="1.5" length1="1.5" y2="0" antialias="false" y1="0" end1="none" end2="none"/>
+        <line style="line-style:dashed;line-weight:normal;filling:none;color:black" x2="15" x1="-1" length2="1.5" length1="1.5" y2="0" antialias="false" y1="0" end1="none" end2="none"/>
+        <terminal y="20" orientation="s" x="-20"/>
+        <terminal y="-20" orientation="n" x="20"/>
+        <terminal y="-20" orientation="n" x="0"/>
+        <terminal y="-20" orientation="n" x="-20"/>
+        <terminal y="20" orientation="s" x="0"/>
+        <terminal y="20" orientation="s" x="20"/>
+    </description>
+</definition>

@@ -1,0 +1,47 @@
+<definition height="90" type="element" link_type="simple" version="0.70" width="100" hotspot_x="48" hotspot_y="36" orientation="dyyy">
+    <uuid uuid="{0a06c062-774a-4f5a-8f90-57c94b233840}"/>
+    <names>
+        <name lang="pt">CISC-PP21A - Plastica</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">CHAVE DE SEGURANÇA PLÁSTICA ACIONAMENTO POR LINGUETA</elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="designation">CISC-PP21A + ACIS-PFP</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon x3="39" x1="30" y3="-1" antialias="false" y2="21" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="40" x2="30" closed="false"/>
+        <line x1="30" end1="none" length1="1.5" end2="none" antialias="false" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" x2="40"/>
+        <dynamic_text x="-25" rotation="270" z="3" uuid="{7101d04c-7a8a-4c64-bcb2-74a20e8c4839}" font_size="5" text_from="UserText" frame="false" y="42">
+            <text>11</text>
+        </dynamic_text>
+        <line x1="30" end1="none" length1="1.5" end2="none" antialias="false" y2="-30.4808" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-0.5192" x2="30"/>
+        <dynamic_text x="15" rotation="270" z="4" uuid="{8f7680f1-aa2a-4b89-af6e-58a7bfd4b2f8}" font_size="5" text_from="UserText" frame="false" y="-9">
+            <text>22</text>
+        </dynamic_text>
+        <dynamic_text x="16" rotation="270" z="5" uuid="{df7d3d26-ae19-4d7b-ace0-cb5bece2dacd}" font_size="5" text_from="UserText" frame="false" y="42">
+            <text>21</text>
+        </dynamic_text>
+        <dynamic_text x="-25" rotation="270" z="6" uuid="{8b06a6ea-01ff-4df4-966d-563871c2f0df}" font_size="5" text_from="UserText" frame="false" y="-10">
+            <text>12</text>
+        </dynamic_text>
+        <input x="47" size="9" text="_" tagg="label" y="2"/>
+        <line x1="-10" end1="none" length1="1.5" end2="none" antialias="false" y2="-30.4707" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-0.5293" x2="-10"/>
+        <line x1="-10" end1="none" length1="1.5" end2="none" antialias="false" y2="47" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="41" x2="-10"/>
+        <line x1="30" end1="none" length1="1.5" end2="none" antialias="false" y2="47.2083" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="40.7917" x2="30"/>
+        <line x1="-26.878" end1="none" length1="1.5" end2="none" antialias="false" y2="9" length2="1.5" style="line-style:dashed;line-weight:thin;filling:none;color:black" y1="9" x2="34.878"/>
+        <polygon y12="6" y11="4" y4="13" y9="4" style="line-style:normal;line-weight:thin;filling:none;color:black" y5="4" y2="13" x2="44" y6="13" x11="35" closed="false" x9="37" y13="6" x10="36" y1="4" x1="45" x7="39" x5="41" x6="40" y3="4" y10="13" x4="42" x3="43" y7="4" x12="35" x13="35" x14="35" x8="38" y8="13" y14="6" antialias="false"/>
+        <line x1="-27" end1="none" length1="1.5" end2="none" antialias="false" y2="12" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="6" x2="-27"/>
+        <polygon y11="-26" y4="44" y9="-26" style="line-style:dashdotted;line-weight:thin;filling:none;color:black" y5="14" y2="-26" x2="45" y6="14" x11="-30" closed="false" x9="-30" x10="-30" y1="-26" x1="-30" x7="-20" x5="-30" x6="-20" y3="44" y10="-26" x4="-30" x3="45" y7="4" x8="-30" y8="4" antialias="false"/>
+        <polygon x3="-1" x1="-10" y3="-1" antialias="false" y2="21" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="40" x2="-10" closed="false"/>
+        <line x1="-10" end1="none" length1="1.5" end2="none" antialias="false" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" x2="0"/>
+        <polygon x3="14" y5="18" x4="16" y4="16" x1="11" y3="14" y6="16" x6="14" antialias="false" y2="16" style="line-style:normal;line-weight:thin;filling:black;color:black" y1="16" x5="14" x2="14"/>
+        <circle x="10" diameter="8" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y="12"/>
+        <polygon y4="12" y9="6" style="line-style:normal;line-weight:thin;filling:none;color:black" y5="17" y2="6" x2="-28" y6="17" closed="false" x9="-38" y1="6" x1="-38" x7="-42" x5="-38" x6="-42" y3="12" x4="-38" x3="-28" y7="1" x8="-38" y8="1" antialias="false"/>
+        <rect x="-36" height="4" width="7" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y="7"/>
+        <terminal x="-10" orientation="n" y="-30"/>
+        <terminal x="30" orientation="n" y="-30"/>
+        <terminal x="30" orientation="s" y="47"/>
+        <terminal x="-10" orientation="s" y="47"/>
+    </description>
+</definition>

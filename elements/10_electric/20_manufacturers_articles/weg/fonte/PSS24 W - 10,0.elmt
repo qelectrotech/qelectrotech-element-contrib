@@ -1,0 +1,51 @@
+<definition orientation="dyyy" hotspot_x="95" hotspot_y="87" type="element" height="180" link_type="simple" width="210" version="0.70">
+    <uuid uuid="{4b8635b7-2039-4031-b82f-7bd30d235331}"/>
+    <names>
+        <name lang="pt">PSS24 W - 10,0 </name>
+    </names>
+    <elementInformations>
+        <elementInformation name="designation" show="1">PSS24 W - 10,0 </elementInformation>
+        <elementInformation name="manufacturer" show="1">WEG</elementInformation>
+        <elementInformation name="description" show="1">FONTE CHAVEADA 24VCC / 10A MONOFÁSICA</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon closed="false" y3="-35.95" y4="-35.95" x1="110" x3="110" y1="17.05" x2="110" style="line-style:dashdotted;line-weight:normal;filling:none;color:black" antialias="false" y2="-35.95" x4="110"/>
+        <rect x="-55" height="13" y="-54.95" width="75" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <circle x="97.5" y="17.55" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" antialias="true"/>
+        <circle x="-82.5" y="17.55" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" antialias="true"/>
+        <circle x="97.5" y="-42.45" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" antialias="true"/>
+        <circle x="-82.5" y="-42.45" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" antialias="true"/>
+        <text text="~" x="-30" size="20" y="-14.95"/>
+        <text text="L" x="-75" size="9" y="-34.95"/>
+        <text text="N" x="-75" size="9" y="25.05"/>
+        <polygon closed="false" y3="17.05" x1="100" x3="100" y1="-36.95" x2="100" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="17.05"/>
+        <text text="+" x="75" size="15" y="-31.95"/>
+        <text text="-" x="83" size="15" y="28.05"/>
+        <polygon closed="false" y3="15.05" x1="26" x3="66" y1="15.05" x2="66" style="line-style:dotted;line-weight:hight;filling:none;color:black" antialias="false" y2="15.05"/>
+        <polygon closed="false" y3="8.05" x1="26" x3="64" y1="8.05" x2="64" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" y2="8.05"/>
+        <polygon closed="false" y3="70.05" x1="10" x3="10" y1="60.05" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="70.05"/>
+        <polygon closed="false" y3="70.05" x1="2" x3="18" y1="70.05" x2="18" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="70.05"/>
+        <polygon closed="false" x1="5" y1="73.05" x2="15" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="73.05"/>
+        <polygon closed="false" y3="76.05" x1="7" x3="13" y1="76.05" x2="13" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="76.05"/>
+        <ellipse x="0" height="16" y="64.05" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <polygon closed="false" x1="10" y1="80.05" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="84.05"/>
+        <polygon closed="false" y3="-36.95" x1="-80" x3="-80" y1="17.05" x2="-80" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-36.95"/>
+        <polygon y7="-42.95" closed="false" y3="-69.95" y4="-69.95" x6="-80" x7="-80" x1="-80" x3="96" y6="-42.95" y1="23.05" y5="-42.95" x2="-80" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="50.05" x5="-80" x4="-80"/>
+        <polygon y7="23.05" closed="false" y3="53.05" y4="53.05" x6="100" x7="100" x1="100" x3="-76" y6="23.05" y1="-42.95" y5="23.05" x2="100" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-66.95" x5="100" x4="100"/>
+        <polygon closed="false" y3="-79.95" y4="-43.95" x6="110" x1="-90" x3="110" y6="-43.95" y1="-44.95" y5="-43.95" x2="-90" style="line-style:dashdotted;line-weight:normal;filling:none;color:black" antialias="false" y2="-79.95" x5="110" x4="110"/>
+        <polygon closed="false" y3="60.05" y4="24.05" x6="110" x1="-90" x3="110" y6="24.05" y1="24.05" y5="24.05" x2="-90" style="line-style:dashdotted;line-weight:normal;filling:none;color:black" antialias="false" y2="60.05" x5="110" x4="110"/>
+        <polygon closed="false" y3="-33.95" y4="-33.95" x1="-90" x3="-90" y1="16.05" x2="-90" style="line-style:dashdotted;line-weight:normal;filling:none;color:black" antialias="false" y2="-33.95" x4="-90"/>
+        <input text="_" x="-77" size="9" y="-92.45" rotate="true" tagg="label"/>
+        <line length2="1.5" end2="none" x1="-79" end1="none" length1="1.5" y1="52.05" x2="100" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false" y2="-69.95"/>
+        <rect x="20" height="13" y="24" width="55" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false"/>
+        <text text="24VCC - 10A" x="25" size="5" y="34.05"/>
+        <text text="110-220 VCA 60 HZ" x="-51" size="5" y="-45"/>
+        <text text="PSS24 W - 10,0 " x="-16" size="4" y="-64"/>
+        <terminal orientation="s" x="10" y="84.05"/>
+        <terminal orientation="w" x="-82" y="20.05"/>
+        <terminal orientation="e" x="102" y="20.05"/>
+        <terminal orientation="e" x="102" y="-39.95"/>
+        <terminal orientation="w" x="-82" y="-39.95"/>
+    </description>
+</definition>

@@ -1,0 +1,58 @@
+<definition hotspot_y="49" orientation="dyyy" version="0.70" width="430" link_type="simple" type="element" hotspot_x="185" height="120">
+    <uuid uuid="{48670d0d-2690-4883-95d6-083cc8bbb44a}"/>
+    <names>
+        <name lang="pt">RMW17-SS01D23 </name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="designation">RMW17-SS01D23 </elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="description">RELÉ MONITORAMENTO SUB/SOBRE TENSÃO TRIFÁSICO 220V - 60HZ</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y2="-40" x1="-97" y1="-40" end1="none" end2="none" style="line-style:dashed;line-weight:normal;filling:none;color:black" length2="1.5" x2="-53" length1="1.5" antialias="false"/>
+        <text text="L3" x="-97" y="34" size="5"/>
+        <text text="15" x="156" y="-27" size="7"/>
+        <polygon y2="60" x1="-150" y1="60" style="line-style:dashed;line-weight:normal;filling:none;color:black" x2="117" closed="false" antialias="false"/>
+        <text text="L2" x="-79" y="-7" size="5"/>
+        <circle diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="157.5" y="-42.5" antialias="false"/>
+        <text text="L2" x="-104" y="-27" size="7"/>
+        <circle diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-102.5" y="-42.5" antialias="false"/>
+        <text text="16" x="115" y="54" size="7"/>
+        <text text="18" x="195" y="54" size="7"/>
+        <text text="L3" x="-54" y="-27" size="7"/>
+        <circle diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="117.5" y="57.5" antialias="false"/>
+        <circle diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="197.5" y="57.5" antialias="false"/>
+        <circle diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-52.5" y="-42.5" antialias="false"/>
+        <circle diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-152.5" y="-42.5" antialias="false"/>
+        <text text="L1" x="-155" y="-28" size="7"/>
+        <input text="_" rotate="true" x="264" y="4" size="9" tagg="label"/>
+        <polygon y2="60" x4="-153" x1="-153" y1="60" style="line-style:dashed;line-weight:normal;filling:none;color:black" y3="-40" x2="-180" y4="-40" closed="false" antialias="false" x3="-180"/>
+        <line y2="6" x1="-119" y1="-14" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-99" length1="1.5" antialias="false"/>
+        <line y2="-14" x1="-99" y1="6" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-79" length1="1.5" antialias="false"/>
+        <line y2="31" x1="-99" y1="6" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-99" length1="1.5" antialias="false"/>
+        <text text="L1" x="-127" y="-2" size="5"/>
+        <line y2="-40" x1="-147" y1="-40" end1="none" end2="none" style="line-style:dashed;line-weight:normal;filling:none;color:black" length2="1.5" x2="-103" length1="1.5" antialias="false"/>
+        <polygon y2="20" x1="120" y1="40" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="20" x2="120" closed="false" antialias="false" x3="140"/>
+        <polygon y2="20" x1="200" y1="40" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="20" x2="200" closed="false" antialias="false" x3="180"/>
+        <polygon y2="0" x1="160" y1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="24" x2="160" closed="false" antialias="false" x3="136"/>
+        <polygon x4="3.176" x7="7.352" y1="-11.6207" y5="-19.2068" y8="3.55196" x10="11.528" y6="-15.4138" x12="15.704" y14="-11.6207" x9="11.528" x2="24.056" style="line-style:normal;line-weight:normal;filling:blue;color:black" y4="-19.2068" y10="-11.6207" x3="3.176" x13="19.88" x1="24.056" y12="3.55196" x14="19.88" x8="7.352" y3="7.345" x11="15.704" y7="-15.4138" x5="57.464" antialias="false" x6="57.464" y9="3.55196" y11="-11.6207" y2="7.345" y13="3.55196"/>
+        <polygon y2="-11.6207" x1="19.88" y1="-11.6207" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="24.056" closed="false" antialias="false"/>
+        <polygon x4="40.76" x7="40.76" y1="-11.6207" y5="3.55196" y8="-11.6207" y6="-0.24125" x9="28.232" x2="28.232" style="line-style:normal;line-weight:normal;filling:blue;color:black" y4="3.55196" x3="40.76" x1="28.232" x8="40.76" y3="7.345" y7="-0.24125" x5="32.408" antialias="false" x6="32.408" y9="-11.6207" y2="7.345"/>
+        <polygon y2="-4.03446" x4="36.584" x1="32.408" y1="-7.8275" style="line-style:normal;line-weight:normal;filling:white;color:black" y3="-4.03446" x2="32.408" y4="-7.8275" y5="-7.8275" x5="32.408" antialias="false" x3="36.584"/>
+        <polygon x4="3.176" x7="44.936" y1="-11.6207" y5="11.138" y8="-11.6207" y6="7.345" x9="57.464" x2="57.464" style="line-style:normal;line-weight:normal;filling:blue;color:black" y4="11.138" x3="3.176" x1="57.464" x8="44.936" y3="14.9312" y7="7.345" x5="53.288" antialias="false" x6="53.288" y9="-11.6207" y2="14.9312"/>
+        <polygon y2="3.55196" x4="53.288" x1="49.112" y1="-7.8275" style="line-style:normal;line-weight:normal;filling:white;color:black" y3="3.55196" x2="49.112" y4="-7.8275" y5="-7.8275" x5="49.112" antialias="false" x3="53.288"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" width="62.64" x="-1" y="-23" antialias="false" height="41.7245"/>
+        <text text="RMW17-SS01D23 " x="-30" y="40" size="9"/>
+        <line y2="60" x1="123" y1="60" end1="none" end2="none" style="line-style:dashed;line-weight:normal;filling:none;color:black" length2="1.5" x2="197" length1="1.5" antialias="false"/>
+        <polygon y2="-40" x1="-47" y1="-40" style="line-style:dashed;line-weight:normal;filling:none;color:black" x2="157" closed="false" antialias="false"/>
+        <polygon y2="60" x4="163" x1="203" y1="60" style="line-style:dashed;line-weight:normal;filling:none;color:black" y3="-40" x2="240" y4="-40" closed="false" antialias="false" x3="240"/>
+        <text text="220V - 60HZ" x="-120" y="60" size="5"/>
+        <terminal orientation="n" x="-100" y="-42"/>
+        <terminal orientation="n" x="-50" y="-42"/>
+        <terminal orientation="n" x="160" y="-42"/>
+        <terminal orientation="s" x="120" y="62"/>
+        <terminal orientation="s" x="200" y="62"/>
+        <terminal orientation="n" x="-150" y="-42"/>
+    </description>
+</definition>

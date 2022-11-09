@@ -1,0 +1,61 @@
+<definition height="160" type="element" link_type="simple" version="0.70" width="340" hotspot_x="165" hotspot_y="79" orientation="dyyy">
+    <uuid uuid="{794db44a-79c6-43c0-a261-1a204bc68cef}"/>
+    <names>
+        <name lang="pt">RPW-PTCE05</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">RELÉ MONITORAMENTO TERMISTOR MOTOR</elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="designation">RPW-PTCE05</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text x="2" size="9" text="15" y="-51"/>
+        <line x1="-117" end1="none" length1="1.5" end2="none" antialias="false" y2="70" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" y1="70" x2="-24"/>
+        <circle x="7.5" diameter="5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-72.5"/>
+        <rect x="-26" height="89" width="73" antialias="false" style="line-style:dotted;line-weight:thin;filling:none;color:black" y="-44"/>
+        <circle x="37.5" diameter="5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y="67.5"/>
+        <circle x="-22.5" diameter="5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y="67.5"/>
+        <circle x="87.5" diameter="5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-72.5"/>
+        <circle x="-122.5" diameter="5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-72.5"/>
+        <circle x="127.5" diameter="5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-72.5"/>
+        <text x="-129" size="9" text="A1" y="-52"/>
+        <text x="-128" size="9" text="A2" y="63"/>
+        <text x="82" size="9" text="S1" y="-53"/>
+        <text x="122" size="9" text="S2" y="-53"/>
+        <circle x="-122.5" diameter="5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" y="67.5"/>
+        <text x="-28" size="9" text="18" y="63"/>
+        <text x="32" size="9" text="16" y="64"/>
+        <text x="-149" size="6" text="RTW-PTCE05" y="28"/>
+        <rect x="99" height="5.65561" width="20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-38.5447"/>
+        <input x="197" size="9" text="_" tagg="label" rotate="true" y="2"/>
+        <polygon x3="99" x1="89" y3="-35.7169" antialias="false" y2="-35.7169" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-40.6656" x2="89" closed="false"/>
+        <polygon x3="129" x1="119" y3="-40.6656" antialias="false" y2="-35.7169" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-35.7169" x2="129" closed="false"/>
+        <line x1="100" end1="none" length1="1.5" end2="none" antialias="false" y2="-41.3725" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28.6474" x2="114"/>
+        <line x1="-117" end1="none" length1="1.5" end2="none" antialias="false" y2="-70" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" y1="-70" x2="7"/>
+        <line x1="98" end1="none" length1="1.5" end2="none" antialias="false" y2="-27.2335" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-29.3543" x2="101"/>
+        <line x1="-17" end1="none" length1="1.5" end2="none" antialias="false" y2="70" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" y1="70" x2="37"/>
+        <polygon x3="-5" x1="-20" y3="10" antialias="false" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="40" x2="-20" closed="false"/>
+        <polygon x3="25" x1="40" y3="10" antialias="false" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="40" x2="40" closed="false"/>
+        <polygon x3="30" x1="10" y3="20" antialias="false" y2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-40" x2="10" closed="false"/>
+        <line x1="13" end1="none" length1="1.5" end2="none" antialias="false" y2="-70" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" y1="-70" x2="87"/>
+        <polygon x3="170" x4="133" y4="-70" x1="43" y3="-70" antialias="false" y2="70" style="line-style:dashed;line-weight:normal;filling:none;color:black" y1="70" x2="170" closed="false"/>
+        <polygon x3="-160" x4="-123" y4="70" x1="-123" y3="70" antialias="false" y2="-70" style="line-style:dashed;line-weight:normal;filling:none;color:black" y1="-70" x2="-160" closed="false"/>
+        <line x1="93" end1="none" length1="1.5" end2="none" antialias="false" y2="-70" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" y1="-70" x2="127"/>
+        <polygon y12="-1.01196" y11="-14.2739" y4="-20.9049" y9="-1.01196" style="line-style:normal;line-weight:normal;filling:blue;color:black" y5="-20.9049" y2="2.30353" x2="-123.509" y6="-17.5894" x11="-130.566" x9="-134.095" y13="-1.01196" x10="-134.095" y1="-14.2739" x1="-123.509" x7="-137.623" x5="-95.2787" x6="-95.2787" y3="2.30353" y10="-14.2739" x4="-141.152" x3="-141.152" y7="-17.5894" x12="-130.566" x13="-127.037" x14="-127.037" x8="-137.623" y8="-1.01196" y14="-14.2739" antialias="false"/>
+        <polygon x1="-127.037" antialias="false" y2="-14.2739" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-14.2739" x2="-123.509" closed="false"/>
+        <polygon y4="-1.01196" y9="-14.2739" style="line-style:normal;line-weight:normal;filling:blue;color:black" y5="-1.01196" y2="2.30353" x2="-119.98" y6="-4.32745" x9="-119.98" y1="-14.2739" x1="-119.98" x7="-109.394" x5="-116.451" x6="-116.451" y3="2.30353" x4="-109.394" x3="-109.394" y7="-4.32745" x8="-109.394" y8="-14.2739" antialias="false"/>
+        <polygon x3="-112.922" y5="-10.9584" x4="-112.922" y4="-10.9584" x1="-116.451" y3="-7.64294" antialias="false" y2="-7.64294" style="line-style:normal;line-weight:normal;filling:white;color:black" y1="-10.9584" x5="-116.451" x2="-116.451"/>
+        <polygon y4="5.61902" y9="-14.2739" style="line-style:normal;line-weight:normal;filling:blue;color:black" y5="5.61902" y2="8.93451" x2="-95.2787" y6="2.30353" x9="-95.2787" y1="-14.2739" x1="-95.2787" x7="-105.865" x5="-98.8075" x6="-98.8075" y3="8.93451" x4="-141.152" x3="-141.152" y7="2.30353" x8="-105.865" y8="-14.2739" antialias="false"/>
+        <polygon x3="-98.8075" y5="-10.9584" x4="-98.8075" y4="-10.9584" x1="-102.336" y3="-1.01196" antialias="false" y2="-1.01196" style="line-style:normal;line-weight:normal;filling:white;color:black" y1="-10.9584" x5="-102.336" x2="-102.336"/>
+        <rect x="-144.681" height="36.4704" width="52.9309" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-24.2204"/>
+        <text x="104" size="4" text="PTC" y="-10"/>
+        <terminal x="-20" orientation="s" y="72"/>
+        <terminal x="130" orientation="n" y="-72"/>
+        <terminal x="10" orientation="n" y="-72"/>
+        <terminal x="-120" orientation="n" y="-72"/>
+        <terminal x="90" orientation="n" y="-72"/>
+        <terminal x="-120" orientation="s" y="72"/>
+        <terminal x="40" orientation="s" y="72"/>
+    </description>
+</definition>

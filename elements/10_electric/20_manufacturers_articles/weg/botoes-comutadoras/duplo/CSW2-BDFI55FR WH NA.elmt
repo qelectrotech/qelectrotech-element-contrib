@@ -1,0 +1,31 @@
+<definition height="60" type="element" link_type="simple" version="0.70" width="40" hotspot_x="32" hotspot_y="31" orientation="dyyy">
+    <uuid uuid="{9da94af6-c15a-4d53-8905-fd94824f9369}"/>
+    <names>
+        <name lang="pt">CSW2-BDFI55FR WH - SETAS</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">BOTÃO DE PUSLO DUPLO COM SETA + FLANGE + 2 CONT. NA + 1 BLOCO LED INCOLOR 24VCC</elementInformation>
+        <elementInformation show="1" name="manufacturer">WEG</elementInformation>
+        <elementInformation show="1" name="designation">CSW2-BDFI55FR WH + AF3F + BC10F-CSW x2 + CSW-BIDLF-0E26</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon x3="-25" x4="-25" y4="3" x1="-27" y3="3" antialias="false" y2="4" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="3" x2="-26" closed="false"/>
+        <text x="-10" size="5" text="14" y="22"/>
+        <polygon x1="-26" antialias="false" y2="4" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="2" x2="-26" closed="false"/>
+        <polygon x3="0" x1="-5" y3="21" antialias="true" y2="11" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-9" x2="0" closed="false"/>
+        <line x1="-22" end1="none" length1="1.5" end2="none" antialias="false" y2="-1" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="3" x2="-18"/>
+        <line x1="0" end1="none" length1="1.5" end2="none" antialias="false" y2="-9" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-19" x2="0"/>
+        <line x1="-22" end1="none" length1="1.5" end2="none" antialias="false" y2="3" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-1" x2="-18"/>
+        <input x="5" size="9" text="_" tagg="label" y="0"/>
+        <line x1="-12" end1="none" length1="1.5" end2="none" antialias="false" y2="1" length2="1.5" style="line-style:dotted;line-weight:normal;filling:none;color:black" y1="1" x2="-3"/>
+        <circle x="-23.75" diameter="7.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black" y="-2.75"/>
+        <polygon x3="-13" x4="-10" y4="6" x1="-10" y3="6" antialias="false" y2="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-4" x2="-13" closed="false"/>
+        <text x="-10" size="5" text="13" y="-17"/>
+        <line x1="-14" end1="none" length1="1.5" end2="none" antialias="false" y2="1" length2="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="1" x2="-16"/>
+        <polygon x3="-25" x4="-25" y4="0" x1="-27" y3="0" antialias="false" y2="-1" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="0" x2="-26" closed="false"/>
+        <polygon x1="-26" antialias="false" y2="1" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-1" x2="-26" closed="false"/>
+        <terminal x="0" orientation="s" y="22"/>
+        <terminal x="0" orientation="n" y="-20"/>
+    </description>
+</definition>
