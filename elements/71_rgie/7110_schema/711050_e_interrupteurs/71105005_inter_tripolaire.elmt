@@ -1,0 +1,36 @@
+<definition version="0.100.0" hotspot_x="17" height="30" width="30" type="element" hotspot_y="20" link_type="master">
+    <uuid uuid="{5b03db4b-87d0-4779-a40f-6ec0152dd83f}"/>
+    <names>
+        <name lang="fr">Interrupteur tripolaire</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{403d336d-5c25-406f-9b6b-295edb2cec4e}" y="-2.5" frame="false" text_from="ElementInfo" x="0" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="4" x3="7" y1="-5" y2="-16" y3="-14" closed="false" antialias="true"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" y="-5" x="-10" antialias="true"/>
+        <line x1="2" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="5" y1="-13" y2="-11" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="0" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="3" y1="-10" y2="-8" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{4d565b94-0883-485a-90ef-48e4e7c49716}" y="0" x="-10" orientation="w"/>
+        <terminal name="" type="Generic" uuid="{d834b226-eb6b-479d-830e-292f178b409b}" y="0" x="0" orientation="e"/>
+    </description>
+</definition>

@@ -1,0 +1,42 @@
+<definition version="0.100.0" hotspot_x="18" height="30" width="50" type="element" hotspot_y="15" link_type="master">
+    <uuid uuid="{28ff747c-3d4a-44fa-9aec-eeea550abe72}"/>
+    <names>
+        <name lang="fr">Appareil chauffage à accumulation</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="30" rx="0" y="-10" x="-5" antialias="false" ry="0"/>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{9a9dd4bb-f15b-4b0d-b7ee-5cc8bb219441}" y="-36" frame="false" text_from="ElementInfo" x="-6" z="2" keep_visual_rotation="true">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect height="14" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" rx="0" y="-7" x="0" antialias="false" ry="0"/>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-5" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="10" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="10" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="8" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="8" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="6" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="6" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="4" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="4" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="2" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="2" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="12" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="12" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="14" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="14" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="16" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="16" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="18" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="18" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{541a31dd-ecc0-4f76-999d-926c6ee82824}" y="0" x="-10" orientation="w"/>
+    </description>
+</definition>

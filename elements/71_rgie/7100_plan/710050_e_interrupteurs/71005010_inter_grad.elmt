@@ -1,0 +1,21 @@
+<definition link_type="slave" width="30" version="0.100.0" hotspot_x="11" type="element" height="30" hotspot_y="20">
+    <uuid uuid="{ca254627-d0b6-4cc7-921a-6c54b89b020e}"/>
+    <names>
+        <name lang="fr">Interrupteur graduateur</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <dynamic_text y="-2" z="1" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" x="5" uuid="{1c1b5e1a-7fcc-414e-8f4c-ce0f80f61b09}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="2" x2="9" closed="false" y3="-14" antialias="true" x3="12" y1="-5" y2="-16" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-5" x="-5" diameter="10" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="-5" x2="13" y3="-12" antialias="false" y4="-8" x3="13" y1="-8" x4="-5" y2="-8" style="line-style:normal;line-weight:thin;filling:black;color:black"/>
+    </description>
+</definition>

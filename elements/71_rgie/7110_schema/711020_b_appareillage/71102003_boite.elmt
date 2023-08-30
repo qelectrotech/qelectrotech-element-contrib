@@ -1,0 +1,32 @@
+<definition link_type="master" width="30" version="0.100.0" hotspot_x="14" type="element" height="30" hotspot_y="15">
+    <uuid uuid="{27119f05-8932-4425-902c-108fe5fb1294}"/>
+    <names>
+        <name lang="fr">Boîte (symbole général)</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text y="-36" z="1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" x="-15" uuid="{f5d6df0a-2285-42bb-a54b-aa7c62139c5e}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle y="-10" x="-10" diameter="20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal y="0" x="10" uuid="{40f6664f-0ac7-455c-a5f3-9f533f887d16}" type="Generic" orientation="e" name=""/>
+        <terminal y="0" x="-10" uuid="{db30b0b3-5200-4504-a44f-a498fd5275ca}" type="Generic" orientation="w" name=""/>
+    </description>
+</definition>

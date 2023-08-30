@@ -1,0 +1,28 @@
+<definition link_type="slave" width="40" version="0.100.0" hotspot_x="15" type="element" height="30" hotspot_y="15">
+    <uuid uuid="{aa5879d9-9a1b-45c7-8362-a1be1f7d582a}"/>
+    <names>
+        <name lang="fr">Chauffe-eau à accumulation</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text y="-36.5" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="-6" uuid="{4a711125-44ab-446c-9976-273bd785bb84}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-10" x2="0" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <circle y="-10" x="0" diameter="20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="10" x2="10" end1="none" antialias="false" y1="8" y2="-8" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <circle y="-8" x="2" diameter="16" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="8" x2="8" end1="none" antialias="false" y1="-8" y2="8" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="6" x2="6" end1="none" antialias="false" y1="-7" y2="7" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="4" x2="4" end1="none" antialias="false" y1="-5" y2="5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="12" x2="12" end1="none" antialias="false" y1="-8" y2="8" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="14" x2="14" end1="none" antialias="false" y1="-7" y2="7" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="16" x2="16" end1="none" antialias="false" y1="-5" y2="5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+    </description>
+</definition>

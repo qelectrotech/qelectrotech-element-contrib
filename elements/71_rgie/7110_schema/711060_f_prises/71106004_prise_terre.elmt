@@ -1,0 +1,33 @@
+<definition version="0.100.0" hotspot_x="16" height="20" width="20" type="element" hotspot_y="10" link_type="master">
+    <uuid uuid="{0e68c499-d517-4e2b-a34e-d886c68c6164}"/>
+    <names>
+        <name lang="fr">Prise avec terre</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <arc height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" angle="180" start="90" y="-5" x="-5" antialias="true"/>
+        <line x1="-6" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-6" y1="5" y2="-6" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{3a7adeae-df84-4043-83b9-d267b5b363d9}" y="-11" frame="false" text_from="ElementInfo" x="3" z="3" keep_visual_rotation="true">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-5" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{740214c4-fda8-457c-9e0e-52bf654fb2ce}" y="0" x="-10" orientation="w"/>
+    </description>
+</definition>

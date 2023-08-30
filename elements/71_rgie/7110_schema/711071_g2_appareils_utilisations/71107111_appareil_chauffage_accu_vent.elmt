@@ -1,0 +1,44 @@
+<definition version="0.100.0" hotspot_x="16" height="30" width="50" type="element" hotspot_y="15" link_type="master">
+    <uuid uuid="{58def8b1-df67-4997-b27f-afa2f65e4f9c}"/>
+    <names>
+        <name lang="fr">Appareil chauffage à accumation et ventilateur</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect height="14" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" rx="0" y="-7" x="-3" antialias="false" ry="0"/>
+        <rect height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="35" rx="0" y="-10" x="-5" antialias="false" ry="0"/>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{ab99510c-65fb-4a22-ad26-d35552959f78}" y="-36" frame="false" text_from="ElementInfo" x="-6" z="3" keep_visual_rotation="true">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-5" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="9" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="9" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="7" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="7" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="5" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="5" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="3" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="3" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="1" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="1" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="11" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="11" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="13" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="13" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="15" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="15" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="-1" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="-1" y1="-7" y2="7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" y="-2.5" x="18.5" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5" y="-2.5" x="23.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{02c8dcdb-63f4-4d8e-8d42-865f6e134c03}" y="0" x="-10" orientation="w"/>
+    </description>
+</definition>

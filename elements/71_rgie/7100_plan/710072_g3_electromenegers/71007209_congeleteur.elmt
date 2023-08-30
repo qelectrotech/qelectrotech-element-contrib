@@ -1,0 +1,29 @@
+<definition version="0.100.0" hotspot_x="15" height="30" width="40" type="element" hotspot_y="15" link_type="slave">
+    <uuid uuid="{8984cfc5-af9f-49c4-b804-2662e2ba8fad}"/>
+    <names>
+        <name lang="fr">Congélateur</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line x1="2" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="6" y1="2" y2="-2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="10" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="10" y1="-2" y2="2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="4" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="4" y1="-2" y2="2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <dynamic_text rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{f3ccf452-d1a7-4bab-b582-7da11aabeb97}" y="-36.5" frame="false" text_from="ElementInfo" x="-6" z="4" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" rx="0" y="-10" x="0" antialias="false" ry="0"/>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="8" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="12" y1="-2" y2="2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="8" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="12" y1="2" y2="-2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="2" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="6" y1="-2" y2="2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="14" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="18" y1="2" y2="-2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="14" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="18" y1="-2" y2="2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="16" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="16" y1="-2" y2="2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+    </description>
+</definition>

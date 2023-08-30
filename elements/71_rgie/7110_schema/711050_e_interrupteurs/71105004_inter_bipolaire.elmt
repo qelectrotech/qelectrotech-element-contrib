@@ -1,0 +1,35 @@
+<definition version="0.100.0" hotspot_x="17" height="30" width="30" type="element" hotspot_y="20" link_type="master">
+    <uuid uuid="{47d48363-4a1e-4192-aff6-70eac27f7fc6}"/>
+    <names>
+        <name lang="fr">Interrupteur bipolaire</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{50f97dd5-0248-4535-8b04-9b27f3a7d970}" y="-2.5" frame="false" text_from="ElementInfo" x="0" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="4" x3="7" y1="-5" y2="-16" y3="-14" closed="false" antialias="true"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" y="-5" x="-10" antialias="true"/>
+        <line x1="2" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="5" y1="-13" y2="-11" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{f2df1011-3726-420a-99e6-64f7b5364b99}" y="0" x="-10" orientation="w"/>
+        <terminal name="" type="Generic" uuid="{d8e9170d-3811-4c9e-bb08-950b8b88f84a}" y="0" x="0" orientation="e"/>
+    </description>
+</definition>

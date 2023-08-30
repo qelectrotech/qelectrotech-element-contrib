@@ -1,0 +1,22 @@
+<definition hotspot_y="13" version="0.70" width="70" link_type="simple" orientation="dyyy" height="20" type="element" hotspot_x="34">
+    <uuid uuid="{cc149360-0b4a-4108-9359-c5d589fa33ad}"/>
+    <names>
+        <name lang="fr">Conduit encastré dans une paroi</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line y1="0" antialias="false" length1="1.5" x1="-30" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="30" y2="0"/>
+        <dynamic_text z="2" y="-36" text_from="ElementInfo" uuid="{66ce4228-1d90-4486-81a7-725cae18a91a}" rotation="0" text_width="-1" font_size="9" x="-15" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="-7" antialias="false" length1="1.5" x1="-30" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-22" y2="-7"/>
+        <line y1="-7" antialias="false" length1="1.5" x1="-30" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-30" y2="-3"/>
+        <line y1="-7" antialias="false" length1="1.5" x1="-22" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-22" y2="-3"/>
+        <line y1="-7" antialias="false" length1="1.5" x1="-26" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-26" y2="-3"/>
+        <circle antialias="false" diameter="6" y="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x="24"/>
+        <terminal y="0" orientation="e" x="30"/>
+        <terminal y="0" orientation="w" x="-30"/>
+    </description>
+</definition>

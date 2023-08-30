@@ -1,0 +1,33 @@
+<definition version="0.100.0" hotspot_x="28" height="20" width="40" type="element" hotspot_y="10" link_type="master">
+    <uuid uuid="{ce4c7ac0-3a0b-424c-82f5-caaa9f3a4bf8}"/>
+    <names>
+        <name lang="fr">Point lumineux</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{041289f0-aba1-45cb-8dff-cb851c5e8fd4}" y="-36.5" frame="false" text_from="ElementInfo" x="-15" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-20" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="-6" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="6" y1="-6" y2="6" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="6" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-6" y1="-6" y2="6" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{10acebd5-3dab-4f27-9f86-fff34dac77d2}" y="0" x="-20" orientation="w"/>
+    </description>
+</definition>

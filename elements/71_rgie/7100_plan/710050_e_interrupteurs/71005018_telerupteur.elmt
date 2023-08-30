@@ -1,0 +1,23 @@
+<definition link_type="slave" width="40" version="0.100.0" hotspot_x="20" type="element" height="20" hotspot_y="10">
+    <uuid uuid="{bbb6b568-4463-441c-9537-d54c45190187}"/>
+    <names>
+        <name lang="fr">Télérupteur</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text y="-26.5" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="-15" uuid="{c3fc0f39-9402-4787-9f76-20cdf60a4c61}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect y="-5" x="-15" antialias="false" width="30" rx="0" ry="0" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-11" x2="-9" end1="none" antialias="false" y1="2" y2="2" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="-9" x2="-9" end1="none" antialias="false" y1="2" y2="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="11" x2="9" end1="none" antialias="false" y1="2" y2="2" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="9" x2="9" end1="none" antialias="false" y1="2" y2="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+    </description>
+</definition>

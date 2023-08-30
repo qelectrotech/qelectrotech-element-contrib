@@ -1,0 +1,26 @@
+<definition link_type="simple" width="50" version="0.100.0" hotspot_x="24" type="element" height="20" hotspot_y="14">
+    <uuid uuid="{a06a8fcf-8f13-4c8d-b995-90b52d2c9212}"/>
+    <names>
+        <name lang="fr">Continu</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x1="-20" x2="20" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="-8" x2="8" end1="none" antialias="false" y1="-10" y2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <terminal y="0" x="20" uuid="{f411ec4e-3ca4-4568-b9d2-0aaa73e22485}" type="Generic" orientation="e" name=""/>
+        <terminal y="0" x="-20" uuid="{408b2596-f593-49a2-92d3-fa342684b73d}" type="Generic" orientation="w" name=""/>
+    </description>
+</definition>

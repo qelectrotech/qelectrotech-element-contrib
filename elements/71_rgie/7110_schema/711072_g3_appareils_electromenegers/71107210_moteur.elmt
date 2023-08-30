@@ -1,0 +1,33 @@
+<definition version="0.100.0" hotspot_x="16" height="30" width="40" type="element" hotspot_y="15" link_type="master">
+    <uuid uuid="{acf57542-0746-494c-b13d-3ec105b87653}"/>
+    <names>
+        <name lang="fr">Moteur</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{535ca2c0-7e64-4434-91ff-df3113a20e5a}" y="-36.5" frame="false" text_from="ElementInfo" x="-6" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <text rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" y="3" x="7" text="M"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="20" y="-10" x="0" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{3631e935-e19e-4ce6-b5c1-0817463621ff}" y="0" x="-10" orientation="w"/>
+    </description>
+</definition>

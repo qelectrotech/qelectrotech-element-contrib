@@ -1,0 +1,35 @@
+<definition version="0.100.0" hotspot_x="14" height="20" width="20" type="element" hotspot_y="10" link_type="master">
+    <uuid uuid="{49d04f2e-767c-4063-afb7-2a0c552b5585}"/>
+    <names>
+        <name lang="fr">bouton poussoir à accès protégé</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{51bd0e5e-7a80-4938-a68a-16951df20346}" y="0.5" frame="false" text_from="ElementInfo" x="3" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" y="-5" x="-10" antialias="true"/>
+        <polygon x1="1" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="1" x3="3" x7="1" y1="-8" y2="-6" y3="-6" x4="3" x6="1" closed="false" x5="1" y5="5" y6="7" y7="7" y4="5" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-2" x="-7" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{2c405206-1594-41f0-9c1d-e1c7b8f04788}" y="0" x="0.25" orientation="e"/>
+        <terminal name="" type="Generic" uuid="{48d80616-c115-46fb-8044-6d327c8f7e93}" y="0" x="-10" orientation="w"/>
+    </description>
+</definition>

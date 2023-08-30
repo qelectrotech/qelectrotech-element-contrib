@@ -1,0 +1,20 @@
+<definition link_type="slave" width="20" version="0.100.0" hotspot_x="10" type="element" height="20" hotspot_y="10">
+    <uuid uuid="{b4a864e5-63b2-4804-a053-1f6e629e0f84}"/>
+    <names>
+        <name lang="fr">Point lumineux</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text y="-36.5" z="1" font="Sans Serif,9,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="-15" uuid="{9b0f9d39-13ce-4af8-82be-60920184d89f}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-6" x2="6" end1="none" antialias="false" y1="-6" y2="6" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="6" x2="-6" end1="none" antialias="false" y1="-6" y2="6" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+    </description>
+</definition>

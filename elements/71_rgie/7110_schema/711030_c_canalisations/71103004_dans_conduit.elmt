@@ -1,0 +1,14 @@
+<definition width="50" version="0.70" hotspot_x="24" orientation="dyyy" hotspot_y="13" link_type="simple" height="20" type="element">
+    <uuid uuid="{0351006a-3b50-400b-84c6-bc74c29bc84a}"/>
+    <names>
+        <name lang="fr">Dans un conduit</name>
+    </names>
+    <informations></informations>
+    <description>
+        <line x2="20" length2="1.5" length1="1.5" y1="0" y2="0" x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" antialias="false"/>
+        <input text="_" rotate="true" x="-15" tagg="label" size="9" y="-25"/>
+        <circle diameter="6" x="-3" style="line-style:normal;line-weight:thin;filling:none;color:black" y="-8" antialias="false"/>
+        <terminal x="-20" orientation="w" y="0"/>
+        <terminal x="20" orientation="e" y="0"/>
+    </description>
+</definition>

@@ -1,0 +1,35 @@
+<definition version="0.100.0" hotspot_x="16" height="30" width="40" type="element" hotspot_y="15" link_type="master">
+    <uuid uuid="{9afb381f-ba5e-4927-94d7-9d5da5dd9031}"/>
+    <names>
+        <name lang="fr">Frigo</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{42e674e8-75d7-4e6d-a36f-1db94ec15b9e}" y="-36.5" frame="false" text_from="ElementInfo" x="-6" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" rx="0" y="-10" x="0" antialias="false" ry="0"/>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="8" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="12" y1="-2" y2="2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="12" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="8" y1="-2" y2="2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="10" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="10" y1="-2" y2="2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{785d4d5c-4f7e-48f6-bb9e-3e820a42e723}" y="0" x="-10" orientation="w"/>
+    </description>
+</definition>

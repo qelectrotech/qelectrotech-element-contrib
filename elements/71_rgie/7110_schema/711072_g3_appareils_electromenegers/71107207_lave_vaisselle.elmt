@@ -1,0 +1,37 @@
+<definition version="0.100.0" hotspot_x="16" height="30" width="40" type="element" hotspot_y="15" link_type="master">
+    <uuid uuid="{20da721e-d849-4790-8e9b-a6919319734f}"/>
+    <names>
+        <name lang="fr">Lave-Vaisselle</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{dc34e7c8-7934-4977-b024-8295e47b1c69}" y="-36.5" frame="false" text_from="ElementInfo" x="-6" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" rx="0" y="-10" x="0" antialias="false" ry="0"/>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <circle style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="5.5" y="-2.75" x="7.25" antialias="false"/>
+        <line x1="8" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="0" y1="2" y2="10" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="20" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="12" y1="-10" y2="-2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="0" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="8" y1="-10" y2="-2" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="12" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="20" y1="2" y2="10" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{5854d7eb-2596-4e3d-9d62-0b5418e521c5}" y="0" x="-10" orientation="w"/>
+    </description>
+</definition>

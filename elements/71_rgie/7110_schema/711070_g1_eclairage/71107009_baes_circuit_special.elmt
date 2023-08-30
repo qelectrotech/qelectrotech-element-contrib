@@ -1,0 +1,33 @@
+<definition version="0.100.0" hotspot_x="8" height="20" width="20" type="element" hotspot_y="10" link_type="master">
+    <uuid uuid="{e0ca3fb5-b8e5-492c-9b1d-733871110d23}"/>
+    <names>
+        <name lang="fr">BAES sur circuit spécial</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{52957bb5-a902-400d-b57d-de6d754f2948}" y="-36.5" frame="false" text_from="ElementInfo" x="-13" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-4" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="8" y1="-6" y2="6" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="8" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-4" y1="-6" y2="6" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:black;color:black" diameter="4" y="-2" x="0" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{5d4f9eee-a1a1-4277-81dd-ab7ee2307561}" y="0" x="0" orientation="w"/>
+    </description>
+</definition>

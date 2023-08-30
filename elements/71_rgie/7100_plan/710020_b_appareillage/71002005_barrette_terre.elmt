@@ -1,0 +1,25 @@
+<definition version="0.100.0" hotspot_x="25" height="10" width="50" type="element" hotspot_y="5" link_type="slave">
+    <uuid uuid="{94366a11-fdf2-4166-99d2-286b268afff0}"/>
+    <names>
+        <name lang="fr">Barrette de terre</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line x1="-20" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-10" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{2b759e3e-2780-41a1-a219-906e4ecf74a5}" y="-36.5" frame="false" text_from="ElementInfo" x="-15" z="2" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-10" y1="-3" y2="3" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="-7" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-7" y1="-3" y2="3" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="10" y1="-3" y2="3" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="8" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="8" y1="-3" y2="3" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="-7" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="7" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+    </description>
+</definition>

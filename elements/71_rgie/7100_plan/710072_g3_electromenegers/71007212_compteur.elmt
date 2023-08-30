@@ -1,0 +1,22 @@
+<definition version="0.100.0" hotspot_x="15" height="30" width="40" type="element" hotspot_y="15" link_type="slave">
+    <uuid uuid="{35a07c4e-6f29-4dfc-a45f-a5ac73c5914f}"/>
+    <names>
+        <name lang="fr">Compteur</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{743f4045-7ef6-442a-9b3d-4e59b36d5ed3}" y="-36.5" frame="false" text_from="ElementInfo" x="-6" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" rx="0" y="-10" x="0" antialias="false" ry="0"/>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="0" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" y1="-7" y2="-7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <text rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" y="5" x="3" text="kWh"/>
+    </description>
+</definition>

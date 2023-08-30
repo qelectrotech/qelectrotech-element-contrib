@@ -1,0 +1,20 @@
+<definition version="0.100.0" hotspot_x="15" height="30" width="30" type="element" hotspot_y="15" link_type="slave">
+    <uuid uuid="{a6ac0ea9-59fb-4d11-8a32-0bb03370a958}"/>
+    <names>
+        <name lang="fr">Boîte dérivation, connexion</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{b4979aae-7998-4d43-b741-e009b1769265}" y="-36" frame="false" text_from="ElementInfo" x="-15" z="1" keep_visual_rotation="true">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="20" y="-10" x="-10" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:black;color:black" diameter="6" y="-3" x="-3" antialias="false"/>
+    </description>
+</definition>

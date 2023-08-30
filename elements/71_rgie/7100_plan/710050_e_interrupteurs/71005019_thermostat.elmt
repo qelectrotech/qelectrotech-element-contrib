@@ -1,0 +1,21 @@
+<definition link_type="slave" width="40" version="0.100.0" hotspot_x="20" type="element" height="20" hotspot_y="10">
+    <uuid uuid="{8b43a50d-e469-4ab4-ad46-f743e480f954}"/>
+    <names>
+        <name lang="fr">Thermostat</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text y="-26.5" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="-15" uuid="{75ee3514-6fa0-4951-a656-b8d2da576c07}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect y="-5" x="-15" antialias="false" width="30" rx="0" ry="0" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-3" x="-3" diameter="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-3" x2="3" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+    </description>
+</definition>

@@ -1,0 +1,34 @@
+<definition version="0.100.0" hotspot_x="25" height="20" width="40" type="element" hotspot_y="10" link_type="master">
+    <uuid uuid="{dab5ab0c-ed85-4032-8e09-07a152f45278}"/>
+    <names>
+        <name lang="fr">Fluo à 2 lampes</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{fe055e2a-7c5a-4480-8659-e20629244445}" y="-36" frame="false" text_from="ElementInfo" x="-15" z="1" keep_visual_rotation="true">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-19" end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" x2="-19" y1="-5" y2="5" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="11" end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" x2="11" y1="-5" y2="5" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="-19" end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" x2="10" y1="-3" y2="-3" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="-19" end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" x2="11" y1="3" y2="3" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{62af4a6f-2721-4c00-adc1-4dc1758c30fe}" y="0" x="-20" orientation="w"/>
+    </description>
+</definition>

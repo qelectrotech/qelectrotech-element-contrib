@@ -1,0 +1,33 @@
+<definition version="0.100.0" hotspot_x="28" height="20" width="50" type="element" hotspot_y="10" link_type="master">
+    <uuid uuid="{957389e6-1721-4114-a0b3-95edf8ee039d}"/>
+    <names>
+        <name lang="fr">Appereil auxiliaire pour lampe à décharge</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{e1a7ab0b-8115-4029-8589-73202cb368b4}" y="-36.5" frame="false" text_from="ElementInfo" x="-15" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" width="30" rx="0" y="-5" x="-15" antialias="false" ry="0"/>
+        <rect height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" width="26" rx="0" y="-3" x="-13" antialias="false" ry="0"/>
+        <line x1="-20" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-15" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{20aece0e-0631-46c8-8987-afa17cc6d314}" y="0" x="-20" orientation="w"/>
+    </description>
+</definition>

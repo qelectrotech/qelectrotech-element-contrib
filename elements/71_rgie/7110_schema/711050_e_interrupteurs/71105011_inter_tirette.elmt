@@ -1,0 +1,34 @@
+<definition version="0.100.0" hotspot_x="16" height="30" width="30" type="element" hotspot_y="20" link_type="master">
+    <uuid uuid="{e4bd2359-0203-4eb9-a0b5-1c5df1bea1f2}"/>
+    <names>
+        <name lang="fr">Interrupteur unipolaire à tirette</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{23c6c58e-8b8b-4eeb-a929-7ff29783c6b9}" y="0" frame="false" text_from="ElementInfo" x="0" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="4" x3="7" y1="-5" y2="-16" y3="-14" closed="false" antialias="true"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" y="-5" x="-10" antialias="true"/>
+        <line x1="9" end2="simple" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="9" y1="-16" y2="-8" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{5d707f9d-9c98-4b5f-b889-8cacfe2c2aba}" y="0" x="-10" orientation="w"/>
+        <terminal name="" type="Generic" uuid="{c6d08789-2885-475d-bff5-05cb3ccd88be}" y="0" x="0" orientation="e"/>
+    </description>
+</definition>

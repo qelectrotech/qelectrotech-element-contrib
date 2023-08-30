@@ -1,0 +1,34 @@
+<definition version="0.100.0" hotspot_x="14" height="20" width="20" type="element" hotspot_y="10" link_type="master">
+    <uuid uuid="{e830820d-47f5-4731-b697-c190af92c63f}"/>
+    <names>
+        <name lang="fr">Bouton poussoir</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{f67f53f0-3605-4a0a-8621-ef9a9eb5d69a}" y="0.5" frame="false" text_from="ElementInfo" x="0" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" y="-5" x="-10" antialias="true"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-2" x="-7" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{330cf6cc-7f3f-4f10-b32d-e307437e1f7f}" y="0" x="-10" orientation="w"/>
+        <terminal name="" type="Generic" uuid="{39ea13f0-6964-44be-8bfb-8d53bb6cc9b3}" y="0" x="0.25" orientation="e"/>
+    </description>
+</definition>

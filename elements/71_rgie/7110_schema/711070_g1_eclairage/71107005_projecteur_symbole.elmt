@@ -1,0 +1,34 @@
+<definition version="0.100.0" hotspot_x="5" height="30" width="30" type="element" hotspot_y="15" link_type="master">
+    <uuid uuid="{02f76bec-f290-4d15-b793-27c44426136f}"/>
+    <names>
+        <name lang="fr">Projecteur (symbole général)</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{c9bfef36-edee-4457-8cdb-b04ea2c15f0e}" y="-36.5" frame="false" text_from="ElementInfo" x="-2" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="7" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="19" y1="-6" y2="6" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="19" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="7" y1="-6" y2="6" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <arc height="26" style="line-style:normal;line-weight:normal;filling:none;color:black" width="26" angle="180" start="90" y="-13" x="0" antialias="true"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="18" y="-9" x="4" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{d05af4a8-ea13-4477-a06b-cd0321f4f1e9}" y="0" x="0" orientation="w"/>
+    </description>
+</definition>
