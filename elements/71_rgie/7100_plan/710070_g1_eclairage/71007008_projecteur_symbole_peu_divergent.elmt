@@ -1,0 +1,24 @@
+<definition link_type="slave" width="40" version="0.100.0" hotspot_x="2" type="element" height="30" hotspot_y="15">
+    <uuid uuid="{a8de11c4-4072-459f-9b81-ed11ff88d460}"/>
+    <names>
+        <name lang="fr">Projecteur peu divergent</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text y="-36.5" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="-2" uuid="{4c0975ee-4428-48b9-ac03-20e288850063}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="7" x2="19" end1="none" antialias="false" y1="-6" y2="6" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="19" x2="7" end1="none" antialias="false" y1="-6" y2="6" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <arc y="-13" x="0" start="90" antialias="true" width="26" height="26" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="180"/>
+        <circle y="-9" x="4" diameter="18" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="27" x2="36" end1="none" antialias="false" y1="-5" y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="triangle" length2="1" length1="1.5"/>
+        <line x1="27" x2="36" end1="none" antialias="false" y1="4" y2="4" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="triangle" length2="1" length1="1.5"/>
+    </description>
+</definition>

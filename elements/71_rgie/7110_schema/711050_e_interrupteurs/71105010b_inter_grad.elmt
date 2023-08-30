@@ -1,0 +1,34 @@
+<definition version="0.100.0" hotspot_x="17" height="30" width="30" type="element" hotspot_y="20" link_type="master">
+    <uuid uuid="{2d8f38d7-f38f-4a94-b768-d8f8f6117b15}"/>
+    <names>
+        <name lang="fr">Interrupteur graduateur</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{1c1b5e1a-7fcc-414e-8f4c-ce0f80f61b09}" y="0" frame="false" text_from="ElementInfo" x="0" z="1" keep_visual_rotation="true">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="4" x3="7" y1="-5" y2="-16" y3="-14" closed="false" antialias="true"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" y="-5" x="-10" antialias="true"/>
+        <polygon x1="-10" style="line-style:normal;line-weight:thin;filling:black;color:black" x2="8" x3="8" y1="-8" y2="-8" y3="-12" x4="-10" y4="-8" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{2de1c1ea-fcc5-4256-9e8e-cbff76401ad7}" y="0" x="-10" orientation="w"/>
+        <terminal name="" type="Generic" uuid="{e8a91d47-2cec-4bdc-b848-fa5635d15cb8}" y="0" x="0" orientation="e"/>
+    </description>
+</definition>

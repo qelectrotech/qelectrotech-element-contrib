@@ -1,0 +1,33 @@
+<definition version="0.100.0" hotspot_x="16" height="30" width="30" type="element" hotspot_y="15" link_type="master">
+    <uuid uuid="{cb11653e-25ba-4669-b756-c590637f00c0}"/>
+    <names>
+        <name lang="fr">Vibreur, trembleur</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{53b426d8-e383-40ab-a283-ef89868d8cab}" y="-36.5" frame="false" text_from="ElementInfo" x="-6" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <arc height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" angle="180" start="90" y="-10" x="0" antialias="true"/>
+        <line x1="10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="10" y1="-9" y2="9" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{30ab72f5-3153-4ed9-b8a5-2716e452ab1a}" y="0" x="-10" orientation="w"/>
+    </description>
+</definition>

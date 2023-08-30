@@ -1,0 +1,15 @@
+<definition link_type="simple" hotspot_x="24" version="0.70" type="element" hotspot_y="10" height="20" width="50" orientation="dyyy">
+    <uuid uuid="{d5f1ce1c-bc55-4209-9cce-77f30ceb50a0}"/>
+    <names>
+        <name lang="fr">2 Canalisations</name>
+    </names>
+    <informations></informations>
+    <description>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" x1="-20" end1="none" end2="none" x2="20" y1="0" length1="1.5" length2="1.5" antialias="false"/>
+        <input size="9" text="_" rotate="true" x="-15" y="-25" tagg="label"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="4" x1="-2" end1="none" end2="none" x2="-2" y1="-4" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="4" x1="2" end1="none" end2="none" x2="2" y1="-4" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal x="-20" y="0" orientation="w"/>
+        <terminal x="20" y="0" orientation="e"/>
+    </description>
+</definition>

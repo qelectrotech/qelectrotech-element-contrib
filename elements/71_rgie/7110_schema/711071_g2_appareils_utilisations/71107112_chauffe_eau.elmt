@@ -1,0 +1,39 @@
+<definition version="0.100.0" hotspot_x="16" height="30" width="40" type="element" hotspot_y="15" link_type="master">
+    <uuid uuid="{fb795d89-8c77-45cb-977f-2ebf76471753}"/>
+    <names>
+        <name lang="fr">Chauffe_eau</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{c0749580-beea-4c61-bf15-65b6b6b4cf7d}" y="-36.5" frame="false" text_from="ElementInfo" x="-6" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="20" y="-10" x="0" antialias="false"/>
+        <line x1="10" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="10" y1="10" y2="-10" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="7" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="7" y1="-10" y2="9" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="4" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="4" y1="-8" y2="8" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="1" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="1" y1="-4" y2="4" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="13" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="13" y1="-9" y2="9" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="16" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="16" y1="-8" y2="8" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="19" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="19" y1="-4" y2="4" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{51157f08-36d8-4e0b-bc40-bede32eccdf1}" y="0" x="-10" orientation="w"/>
+    </description>
+</definition>

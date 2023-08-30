@@ -1,0 +1,21 @@
+<definition link_type="slave" width="20" version="0.100.0" hotspot_x="8" type="element" height="30" hotspot_y="20">
+    <uuid uuid="{97c53d83-252c-4a83-95be-68bc1238387c}"/>
+    <names>
+        <name lang="fr">Interrupteur (symbole général)</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text y="-2.5" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="5" uuid="{3b6183fe-f229-429a-ae88-f3b7c8450af8}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="2" x2="9" closed="false" y3="-5" antialias="true" x3="2" y1="-5" y2="-16" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-5" x="-5" diameter="10" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+    </description>
+</definition>

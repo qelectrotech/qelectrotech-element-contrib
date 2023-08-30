@@ -1,0 +1,21 @@
+<definition link_type="simple" width="50" version="0.100.0" hotspot_x="24" type="element" height="20" hotspot_y="14">
+    <uuid uuid="{8bb30c90-21fd-41ad-a68a-9005684f07e1}"/>
+    <names>
+        <name lang="fr">Souterraine</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line x1="-20" x2="20" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <dynamic_text y="-36.5" z="2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="-15" uuid="{1341de1a-f12a-428c-90fa-a49e16d87c52}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-8" x2="8" end1="none" antialias="false" y1="-10" y2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="-6" x2="6" end1="none" antialias="false" y1="-7" y2="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="-4" x2="4" end1="none" antialias="false" y1="-4" y2="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="-1" x2="1" end1="none" antialias="false" y1="-1" y2="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <terminal y="0" x="20" uuid="{18bcd229-b654-438b-b958-880fb1a971c9}" type="Generic" orientation="e" name=""/>
+        <terminal y="0" x="-20" uuid="{6dba94a1-2716-4b85-96f7-60d1e8ab41fc}" type="Generic" orientation="w" name=""/>
+    </description>
+</definition>

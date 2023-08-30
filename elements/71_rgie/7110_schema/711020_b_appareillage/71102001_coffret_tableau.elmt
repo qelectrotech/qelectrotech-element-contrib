@@ -1,0 +1,32 @@
+<definition link_type="master" width="50" version="0.100.0" hotspot_x="24" type="element" height="20" hotspot_y="10">
+    <uuid uuid="{4f7e1f78-9284-46f9-89f9-0ce528264156}"/>
+    <names>
+        <name lang="fr">Coffret, Tableau (symbole général)</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text y="5" z="1" font="Sans Serif,9,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="-16" uuid="{7c91039a-44ab-4c68-a8a3-f0c2efcf9db4}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect y="-5" x="-15" antialias="false" width="30" rx="0" ry="0" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal y="0" x="-20" uuid="{57577d9d-2033-4861-95d5-026cd6497255}" type="Generic" orientation="w" name=""/>
+        <terminal y="0" x="20" uuid="{9f24c4ac-5fa4-4b7d-85c7-d86594acc823}" type="Generic" orientation="e" name=""/>
+    </description>
+</definition>

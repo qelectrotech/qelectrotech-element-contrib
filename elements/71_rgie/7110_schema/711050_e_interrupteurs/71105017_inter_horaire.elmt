@@ -1,0 +1,37 @@
+<definition version="0.100.0" hotspot_x="24" height="20" width="50" type="element" hotspot_y="10" link_type="master">
+    <uuid uuid="{0a268f3b-adc7-49fa-89b1-c3624e59415d}"/>
+    <names>
+        <name lang="fr">Interrupteur horaire</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="-8" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <polygon x1="5" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="9" x3="12" y1="-2" y2="0" y3="0" closed="false" antialias="false"/>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{78354225-e687-4f51-b426-e9317303b788}" y="-26.5" frame="false" text_from="ElementInfo" x="-15" z="3" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" width="30" rx="0" y="-5" x="-15" antialias="false" ry="0"/>
+        <line x1="2" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="5" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <circle style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="6" y="-3" x="-13" antialias="false"/>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="-10" y1="-2" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{1895992b-ad78-442c-b6c3-3b76de896638}" y="0" x="20" orientation="e"/>
+        <terminal name="" type="Generic" uuid="{e95ac465-f70b-4812-ab6e-bac5556d4fd2}" y="0" x="-20" orientation="w"/>
+    </description>
+</definition>

@@ -1,0 +1,35 @@
+<definition version="0.100.0" hotspot_x="20" height="40" width="30" type="element" hotspot_y="20" link_type="master">
+    <uuid uuid="{a83a4258-f3fd-4373-9976-a3a6fc432e0c}"/>
+    <names>
+        <name lang="fr">Interrupteur unipolaire va-et-vient
+</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{cdb2b55f-0678-4dde-9705-19c1e073b6e0}" y="-2.5" frame="false" text_from="ElementInfo" x="0" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-14" x3="-17" y1="5" y2="15" y3="13" closed="false" antialias="true"/>
+        <polygon x1="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="4" x3="7" y1="-5" y2="-16" y3="-14" closed="false" antialias="true"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" y="-5" x="-10" antialias="true"/>
+        <terminal name="" type="Generic" uuid="{24378f1d-b373-46a4-95e5-bbcd591b0bda}" y="0" x="-10" orientation="w"/>
+        <terminal name="" type="Generic" uuid="{1863b64c-f61a-4201-a2c8-227f7c095b70}" y="0" x="0" orientation="e"/>
+    </description>
+</definition>

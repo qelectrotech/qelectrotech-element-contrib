@@ -1,0 +1,22 @@
+<definition link_type="slave" width="40" version="0.100.0" hotspot_x="15" type="element" height="30" hotspot_y="15">
+    <uuid uuid="{6c7c5705-e2b3-447f-8da7-7b0c012f6056}"/>
+    <names>
+        <name lang="fr">Ventilateur</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text y="-36.5" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="-6" uuid="{ae93b251-7193-499a-aaf4-0c0740e3d8fc}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect y="-10" x="0" antialias="false" width="20" rx="0" ry="0" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-10" x2="0" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <circle y="-4" x="2" diameter="8" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-4" x="10" diameter="8" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+    </description>
+</definition>

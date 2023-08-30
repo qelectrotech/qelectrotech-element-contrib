@@ -1,0 +1,33 @@
+<definition link_type="master" width="30" version="0.100.0" hotspot_x="14" type="element" height="30" hotspot_y="15">
+    <uuid uuid="{6cba32f0-7f2a-480a-99b9-5b1de393d49f}"/>
+    <names>
+        <name lang="fr">Boîte dérivation, connexion</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text y="-36" z="1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" x="-15" uuid="{b4979aae-7998-4d43-b741-e009b1769265}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle y="-10" x="-10" diameter="20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-3" x="-3" diameter="6" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <terminal y="0" x="-10" uuid="{afb879a1-3e3b-4a15-8688-c8e36890e483}" type="Generic" orientation="w" name=""/>
+        <terminal y="0" x="10" uuid="{5e1dc6f9-3ea7-40c2-a651-d689272b7a58}" type="Generic" orientation="e" name=""/>
+    </description>
+</definition>

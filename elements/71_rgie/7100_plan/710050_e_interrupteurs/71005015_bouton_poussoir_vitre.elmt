@@ -1,0 +1,22 @@
+<definition link_type="slave" width="20" version="0.100.0" hotspot_x="8" type="element" height="20" hotspot_y="10">
+    <uuid uuid="{41d69359-a139-4a57-b665-1458f64cdc93}"/>
+    <names>
+        <name lang="fr">bouton poussoir à accès protégé</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text y="-8" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="9" uuid="{f7db2f52-7768-4073-b365-e4a3a169e6bd}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle y="-5" x="-5" diameter="10" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x5="6" x1="6" x2="6" y5="5" closed="false" y3="-6" y6="7" y7="7" antialias="false" y4="5" x3="8" x6="6" x7="6" y1="-8" x4="8" y2="-6" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-2" x="-2" diameter="4" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+    </description>
+</definition>

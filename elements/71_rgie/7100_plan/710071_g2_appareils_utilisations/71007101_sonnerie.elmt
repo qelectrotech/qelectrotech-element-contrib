@@ -1,0 +1,21 @@
+<definition link_type="slave" width="30" version="0.100.0" hotspot_x="15" type="element" height="30" hotspot_y="15">
+    <uuid uuid="{479b5810-e5bc-4f21-a75d-666a15604d5a}"/>
+    <names>
+        <name lang="fr">Sonnerie</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text y="-36.5" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="-6" uuid="{2e1a1bae-3dec-4a0b-a937-fee83142c356}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-10" x2="0" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <arc y="-10" x="-10" start="270" antialias="true" width="20" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="180"/>
+        <line x1="0" x2="0" end1="none" antialias="false" y1="-9" y2="9" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+    </description>
+</definition>

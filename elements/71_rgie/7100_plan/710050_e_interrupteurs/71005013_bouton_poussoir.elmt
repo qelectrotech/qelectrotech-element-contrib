@@ -1,0 +1,21 @@
+<definition link_type="slave" width="20" version="0.100.0" hotspot_x="10" type="element" height="20" hotspot_y="10">
+    <uuid uuid="{95cd355c-f171-49d6-8607-3eaa9e336554}"/>
+    <names>
+        <name lang="fr">Bouton poussoir</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text y="-2.5" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="5" uuid="{ecd7c192-78a8-447c-ae1b-2b97192561f9}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle y="-5" x="-5" diameter="10" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-2" x="-2" diameter="4" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+    </description>
+</definition>

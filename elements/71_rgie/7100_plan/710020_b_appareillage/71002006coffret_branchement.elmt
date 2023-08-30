@@ -1,0 +1,21 @@
+<definition version="0.100.0" hotspot_x="25" height="20" width="50" type="element" hotspot_y="10" link_type="slave">
+    <uuid uuid="{feb60ab8-c2ac-4129-acc7-167263d953bf}"/>
+    <names>
+        <name lang="fr">Coffret de branchement</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line x1="-20" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{06d4679c-a191-4290-8e1c-e0d1f326d7d7}" y="-36.5" frame="false" text_from="ElementInfo" x="-15" z="2" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" width="30" rx="0" y="-5" x="-15" antialias="false" ry="0"/>
+        <circle style="line-style:normal;line-weight:normal;filling:black;color:black" diameter="4" y="-2" x="-2" antialias="false"/>
+    </description>
+</definition>

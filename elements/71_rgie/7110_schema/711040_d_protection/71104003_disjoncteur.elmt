@@ -1,0 +1,41 @@
+<definition version="0.100.0" hotspot_x="11" height="50" width="40" type="element" hotspot_y="24" link_type="master">
+    <uuid uuid="{98162e75-6350-49b9-9ea0-fb3a0c270ccc}"/>
+    <names>
+        <name lang="fr">Disjoncteur</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{399a037a-a6c8-4688-947d-e5d897396a80}" y="1" frame="false" text_from="ElementInfo" x="7" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" x3="-5" y1="20" y2="10" y3="-10" x4="-5" closed="false" x5="-5" y5="-10" y4="-10" antialias="true"/>
+        <line x1="0" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="-20" y2="-10" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <text rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" y="-14" x="2" text="1"/>
+        <text rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" y="18" x="3" text="2"/>
+        <polygon x1="-5" style="line-style:normal;line-weight:normal;filling:black;color:black" x2="-8" x3="-7" y1="-10" y2="-9" y3="-6" x4="-4" x5="-5" y5="-10" y4="-7" antialias="false"/>
+        <text rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" y="0" x="19" text="A"/>
+        <dynamic_text rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{ba62e697-53ec-40d9-8623-6581ff192f9e}" y="-13" frame="false" text_from="UserText" x="5" z="8" keep_visual_rotation="false">
+            <text>_</text>
+        </dynamic_text>
+        <terminal name="" type="Generic" uuid="{a39d146d-88f0-4456-aa94-cc51129c579d}" y="20" x="0" orientation="s"/>
+        <terminal name="" type="Generic" uuid="{353477e6-f13e-4c50-b58e-d60477936cb0}" y="-20" x="0" orientation="n"/>
+    </description>
+</definition>

@@ -1,0 +1,31 @@
+<definition version="0.100.0" hotspot_x="30" height="30" width="60" type="element" hotspot_y="14" link_type="slave">
+    <uuid uuid="{34307153-11d5-48bd-a022-1e004967148f}"/>
+    <names>
+        <name lang="fr">Coffret avec 5 canalisations</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{e6e154d7-8398-47aa-8c0b-1a147d9a47ba}" y="-36" frame="false" text_from="ElementInfo" x="-15" z="2" keep_visual_rotation="true">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" width="50" rx="0" y="-5" x="-25" antialias="false" ry="0"/>
+        <line x1="0" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="5" y2="10" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-10" y1="-5" y2="-10" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="10" y1="-5" y2="-10" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="0" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="-5" y2="-10" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="-20" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-20" y1="-10" y2="-5" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="20" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" y1="-10" y2="-5" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{f7bff24d-92d8-43ee-b419-f22715135dad}" y="-10" x="10" orientation="n"/>
+        <terminal name="" type="Generic" uuid="{9509a05e-adb0-48cc-956e-80a824446cb1}" y="10" x="0" orientation="s"/>
+        <terminal name="" type="Generic" uuid="{694f798d-0dc6-4afa-ae54-d72f08136d2e}" y="-10" x="20" orientation="n"/>
+        <terminal name="" type="Generic" uuid="{7ae6d6a1-2446-44d9-bc98-047a09fad034}" y="-10" x="0" orientation="n"/>
+        <terminal name="" type="Generic" uuid="{58db6cef-acc6-4b02-b1fc-3bc9a8ae0282}" y="-10" x="-10" orientation="n"/>
+        <terminal name="" type="Generic" uuid="{1bc37444-618a-4bac-87b2-9326c86deb42}" y="-10" x="-20" orientation="n"/>
+    </description>
+</definition>

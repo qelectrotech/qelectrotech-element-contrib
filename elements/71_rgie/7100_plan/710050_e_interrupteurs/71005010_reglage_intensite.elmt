@@ -1,0 +1,22 @@
+<definition link_type="slave" width="30" version="0.100.0" hotspot_x="11" type="element" height="30" hotspot_y="20">
+    <uuid uuid="{dadbb884-eda5-4d67-b5d8-11b4b8eb5c47}"/>
+    <names>
+        <name lang="fr">Réglage d'intensité</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text y="-2.5" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="5" uuid="{3205a805-5442-4db5-b695-f4a52e22715c}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="2" x2="9" closed="false" y3="-5" antialias="true" x3="2" y1="-5" y2="-16" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-5" x="-5" diameter="10" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x1="3" x2="13" y3="-11" antialias="false" y4="-13" x3="13" y1="-13" x4="3" y2="-15" style="line-style:normal;line-weight:normal;filling:white;color:black"/>
+    </description>
+</definition>

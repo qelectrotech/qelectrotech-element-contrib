@@ -1,0 +1,35 @@
+<definition version="0.100.0" hotspot_x="20" height="30" width="30" type="element" hotspot_y="20" link_type="master">
+    <uuid uuid="{72983861-6aa4-47fa-a7ed-e802de56291b}"/>
+    <names>
+        <name lang="fr">Commutateur unipolaire</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{a11f9ed0-8bca-4961-98cd-ef1d71d658ea}" y="-2.5" frame="false" text_from="ElementInfo" x="0" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="4" x3="7" y1="-5" y2="-16" y3="-14" closed="false" antialias="true"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" y="-5" x="-10" antialias="true"/>
+        <polygon x1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-14" x3="-17" y1="-5" y2="-16" y3="-14" closed="false" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{7f254f04-65f3-4a51-9bf6-e77f8dfeb9de}" y="0" x="0" orientation="e"/>
+        <terminal name="" type="Generic" uuid="{628316e3-3091-4411-853b-0cb1814c6ea5}" y="0" x="-10" orientation="w"/>
+    </description>
+</definition>

@@ -1,0 +1,23 @@
+<definition link_type="slave" width="30" version="0.100.0" hotspot_x="11" type="element" height="30" hotspot_y="20">
+    <uuid uuid="{7f18b02f-31ba-4fad-b7e2-59c8b74a263d}"/>
+    <names>
+        <name lang="fr">Interrupteur tripolaire</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text y="-2.5" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="5" uuid="{a5b60e29-15da-4994-a2f1-2ffe238d7bab}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="2" x2="9" closed="false" y3="-14" antialias="true" x3="12" y1="-5" y2="-16" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-5" x="-5" diameter="10" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="7" x2="10" end1="none" antialias="false" y1="-13" y2="-11" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="5" x2="8" end1="none" antialias="false" y1="-10" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+    </description>
+</definition>

@@ -1,0 +1,34 @@
+<definition version="0.100.0" hotspot_x="16" height="30" width="30" type="element" hotspot_y="20" link_type="master">
+    <uuid uuid="{dd336262-c906-4bd3-a6cd-1526be595db5}"/>
+    <names>
+        <name lang="fr">Interrupteur à ouverture retardée</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{120c6ce5-ec65-4cdb-aa97-4762b2a1432e}" y="0" frame="false" text_from="ElementInfo" x="5" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="4" x3="7" y1="-5" y2="-16" y3="-14" closed="false" antialias="true"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" y="-5" x="-10" antialias="true"/>
+        <text rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" y="-5" x="5" text="t"/>
+        <terminal name="" type="Generic" uuid="{b3761c05-e66b-46fa-a79e-46f4c7942238}" y="0" x="0" orientation="e"/>
+        <terminal name="" type="Generic" uuid="{d1a9086d-45c5-4482-b7ce-f1818dd228c2}" y="0" x="-10" orientation="w"/>
+    </description>
+</definition>

@@ -1,0 +1,38 @@
+<definition link_type="master" width="50" version="0.100.0" hotspot_x="24" type="element" height="10" hotspot_y="5">
+    <uuid uuid="{ab6de9f7-395b-4b8c-b3ca-38a169b5bf44}"/>
+    <names>
+        <name lang="fr">Barrette de terre</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x1="-20" x2="-10" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <dynamic_text y="-36.5" z="2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="-15" uuid="{f2670dcf-04f9-4aa2-bc5f-15c16fc5f03b}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-10" x2="-10" end1="none" antialias="false" y1="-3" y2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="-8" x2="-8" end1="none" antialias="false" y1="-3" y2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="10" x2="10" end1="none" antialias="false" y1="-3" y2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="8" x2="8" end1="none" antialias="false" y1="-3" y2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="-8" x2="8" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="10" x2="20" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <terminal y="0" x="-20" uuid="{af0988e6-d170-42de-a3e2-801c1ce5ec51}" type="Generic" orientation="w" name=""/>
+        <terminal y="0" x="20" uuid="{cab7b4e1-344f-4d3b-a6f7-e315658cc462}" type="Generic" orientation="e" name=""/>
+    </description>
+</definition>

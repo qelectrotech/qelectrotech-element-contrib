@@ -1,0 +1,24 @@
+<definition link_type="slave" width="40" version="0.100.0" hotspot_x="20" type="element" height="20" hotspot_y="10">
+    <uuid uuid="{717fe561-b2c6-4099-9202-a444a62cade3}"/>
+    <names>
+        <name lang="fr">Interrupteur horaire</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line x1="-10" x2="-8" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <polygon x1="5" x2="9" closed="false" y3="0" antialias="false" x3="12" y1="-2" y2="0" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <dynamic_text y="-26.5" z="3" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="-15" uuid="{0950504f-c682-4e34-bdca-5392ee2bd205}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect y="-5" x="-15" antialias="false" width="30" rx="0" ry="0" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="2" x2="5" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <circle y="-3" x="-13" diameter="6" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line x1="-10" x2="-10" end1="none" antialias="false" y1="-2" y2="0" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+    </description>
+</definition>

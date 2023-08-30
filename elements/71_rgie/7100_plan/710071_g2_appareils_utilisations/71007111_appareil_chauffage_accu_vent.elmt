@@ -1,0 +1,24 @@
+<definition link_type="slave" width="50" version="0.100.0" hotspot_x="15" type="element" height="30" hotspot_y="15">
+    <uuid uuid="{fe366f7a-e37b-4ba2-b94b-030b4d4398f6}"/>
+    <names>
+        <name lang="fr">Appareil chauffage à accumation et ventilateur</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <polygon x9="7" y6="-7" y9="7" y10="-7" y2="-7" x5="3" y17="7" y12="7" closed="false" x4="1" x13="11" y1="7" y4="7" y7="-7" x18="15" x17="15" y16="7" y13="7" y11="-7" y3="-7" y14="-7" x7="5" y15="-7" x6="3" x1="-1" x11="9" y5="7" x14="11" antialias="false" x12="9" y8="7" x15="13" y18="-7" x2="-1" x16="13" x10="7" x8="5" x3="1" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <rect y="-7" x="-3" antialias="false" width="20" rx="0" ry="0" height="14" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect y="-10" x="-5" antialias="false" width="35" rx="0" ry="0" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text y="-36" z="4" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" x="-6" uuid="{ab99510c-65fb-4a22-ad26-d35552959f78}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-10" x2="-5" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <circle y="-2.5" x="18.5" diameter="5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-2.5" x="23.5" diameter="5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+    </description>
+</definition>

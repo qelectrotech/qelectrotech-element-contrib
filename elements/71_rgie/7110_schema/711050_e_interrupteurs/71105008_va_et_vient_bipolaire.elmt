@@ -1,0 +1,37 @@
+<definition version="0.100.0" hotspot_x="20" height="40" width="30" type="element" hotspot_y="20" link_type="master">
+    <uuid uuid="{8ca5707e-43e9-4680-8ae4-255f3815518b}"/>
+    <names>
+        <name lang="fr">Interrupteur bipolaire va-et-vient
+</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{78d83e52-c344-4c01-ae7c-ebe70f1da718}" y="0" frame="false" text_from="ElementInfo" x="0" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-14" x3="-17" y1="5" y2="15" y3="13" closed="false" antialias="true"/>
+        <polygon x1="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="4" x3="7" y1="-5" y2="-16" y3="-14" closed="false" antialias="true"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" y="-5" x="-10" antialias="true"/>
+        <line x1="2" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="5" y1="-13" y2="-11" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="-12" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-15" y1="12" y2="10" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{0550596a-a920-4a73-811f-b2c1f8743f4f}" y="0" x="-10" orientation="w"/>
+        <terminal name="" type="Generic" uuid="{57239f86-fc61-49b9-b121-d8fd6b737222}" y="0" x="0" orientation="e"/>
+    </description>
+</definition>

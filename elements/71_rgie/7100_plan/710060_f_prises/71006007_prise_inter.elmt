@@ -1,0 +1,22 @@
+<definition link_type="slave" width="20" version="0.100.0" hotspot_x="15" type="element" height="20" hotspot_y="13">
+    <uuid uuid="{c5d3a7ad-9e27-4412-9131-9c260ec64536}"/>
+    <names>
+        <name lang="fr">Prise avec inter bipolaire</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <arc y="-5" x="-5" start="90" antialias="true" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="180"/>
+        <polygon x1="-5" x2="-11" closed="false" y3="-11" antialias="true" x3="-8" y1="0" y2="-9" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-9" x2="-6" end1="none" antialias="false" y1="-6" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="-10" x2="-5" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <dynamic_text y="-11" z="5" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" x="3" uuid="{2c64baff-5c99-4a78-b039-b6013e4a7210}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

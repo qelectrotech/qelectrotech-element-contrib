@@ -1,0 +1,36 @@
+<definition version="0.100.0" hotspot_x="16" height="20" width="20" type="element" hotspot_y="11" link_type="master">
+    <uuid uuid="{74f69fb6-c083-4559-a0b0-ba9f96e7e34b}"/>
+    <names>
+        <name lang="fr">n Prises</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <arc height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" angle="180" start="90" y="-5" x="-5" antialias="true"/>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{151a9882-4078-42dd-b98f-d79808027cc3}" y="-11" frame="false" text_from="ElementInfo" x="3" z="3" keep_visual_rotation="true">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-3" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x2="-5" y1="-4" y2="-7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-5" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{045bc24c-3299-4aeb-9fe6-fcc02cd6c569}" y="-22" frame="false" text_from="UserText" x="-10" z="6" keep_visual_rotation="true">
+            <text>n</text>
+        </dynamic_text>
+        <terminal name="" type="Generic" uuid="{b4e19d8a-3c9d-43d9-a469-0ab4de79844c}" y="0" x="-10" orientation="w"/>
+    </description>
+</definition>

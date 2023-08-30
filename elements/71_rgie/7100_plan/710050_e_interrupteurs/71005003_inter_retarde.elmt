@@ -1,0 +1,21 @@
+<definition link_type="slave" width="30" version="0.100.0" hotspot_x="10" type="element" height="30" hotspot_y="20">
+    <uuid uuid="{39174c38-34f8-4dfb-bea5-fa78ddd2f40a}"/>
+    <names>
+        <name lang="fr">Interrupteur à ouverture retardée</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <dynamic_text y="-2.5" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="5" uuid="{776d8a72-8a65-4530-860d-e61beb3656d4}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="2" x2="9" closed="false" y3="-14" antialias="true" x3="12" y1="-5" y2="-16" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-5" x="-5" diameter="10" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text y="-5" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="10" text="t" color="#000000" rotation="0"/>
+    </description>
+</definition>

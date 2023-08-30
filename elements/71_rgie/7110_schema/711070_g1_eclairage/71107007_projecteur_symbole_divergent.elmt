@@ -1,0 +1,36 @@
+<definition version="0.100.0" hotspot_x="6" height="40" width="40" type="element" hotspot_y="20" link_type="master">
+    <uuid uuid="{044d728f-3a1d-4c3f-8d0c-b71314f2edfb}"/>
+    <names>
+        <name lang="fr">Projecteur divergent</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{0bf64ec9-31d8-4485-a2aa-e044d2e0b00d}" y="-36" frame="false" text_from="ElementInfo" x="-2" z="1" keep_visual_rotation="true">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="7" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="19" y1="-6" y2="6" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="19" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="7" y1="-6" y2="6" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <arc height="26" style="line-style:normal;line-weight:normal;filling:none;color:black" width="26" angle="180" start="90" y="-13" x="0" antialias="true"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="18" y="-9" x="4" antialias="false"/>
+        <line x1="20" end2="triangle" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="29" y1="-10" y2="-14" end1="none" length1="1.5" length2="1" antialias="false"/>
+        <line x1="20" end2="triangle" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="29" y1="10" y2="14" end1="none" length1="1.5" length2="1" antialias="false"/>
+        <terminal name="" type="Generic" uuid="{c4271c27-9def-4330-83ff-915b0155f4f2}" y="0" x="0" orientation="w"/>
+    </description>
+</definition>

@@ -1,0 +1,21 @@
+<definition link_type="slave" width="30" version="0.100.0" hotspot_x="11" type="element" height="30" hotspot_y="20">
+    <uuid uuid="{987dc91b-53b5-411b-8495-2ac522a70b7f}"/>
+    <names>
+        <name lang="fr">Interrupteur unipolaire à tirette</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <dynamic_text y="-2.5" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" x="5" uuid="{7e2a419f-5001-41b7-b0a5-73e51e4671ef}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="2" x2="9" closed="false" y3="-14" antialias="true" x3="12" y1="-5" y2="-16" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle y="-5" x="-5" diameter="10" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="9" x2="9" end1="none" antialias="false" y1="-16" y2="-8" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="simple" length2="1.5" length1="1.5"/>
+    </description>
+</definition>

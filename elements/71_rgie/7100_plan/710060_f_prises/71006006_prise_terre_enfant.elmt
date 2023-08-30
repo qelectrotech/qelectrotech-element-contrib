@@ -1,0 +1,23 @@
+<definition link_type="slave" width="20" version="0.100.0" hotspot_x="15" type="element" height="20" hotspot_y="10">
+    <uuid uuid="{198223fd-f127-43fe-bbda-01ad66505b0f}"/>
+    <names>
+        <name lang="fr">Prise avec terre &amp; protection enfant</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <arc y="-5" x="-5" start="90" antialias="true" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="180"/>
+        <line x1="-6" x2="-6" end1="none" antialias="false" y1="5" y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <dynamic_text y="-11" z="3" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" x="3" uuid="{230ca5f1-884e-4bde-89e4-70898424f335}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="0" x2="0" end1="none" antialias="false" y1="5" y2="7" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="0" x2="0" end1="none" antialias="false" y1="-5" y2="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="-10" x2="-5" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+    </description>
+</definition>

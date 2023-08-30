@@ -1,0 +1,37 @@
+<definition version="0.100.0" hotspot_x="24" height="30" width="50" type="element" hotspot_y="21" link_type="master">
+    <uuid uuid="{1587b72a-4dea-4fe9-8ddf-68e2ba45fa9e}"/>
+    <names>
+        <name lang="fr">Coupe-Circuit</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x1="-20" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <dynamic_text rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{23cdb3ad-58ff-42ed-a4cd-ceda32888efe}" y="4" frame="false" text_from="ElementInfo" x="-14" z="2" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" width="30" rx="0" y="-5" x="-15" antialias="false" ry="0"/>
+        <dynamic_text rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{743f758e-753f-4057-a3e3-f4508649ef1a}" y="-19.5" frame="false" text_from="UserText" x="-12" z="4" keep_visual_rotation="false">
+            <text>n</text>
+        </dynamic_text>
+        <text rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" color="#000000" y="-7" x="5" text="A"/>
+        <terminal name="" type="Generic" uuid="{f02386d6-8927-418c-bc38-4d36381d7753}" y="0" x="20" orientation="e"/>
+        <terminal name="" type="Generic" uuid="{85ebf238-00d3-49a2-a460-83e1d45400c4}" y="0" x="-20" orientation="w"/>
+    </description>
+</definition>

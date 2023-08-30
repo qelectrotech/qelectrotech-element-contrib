@@ -1,0 +1,22 @@
+<definition version="0.100.0" hotspot_x="15" height="30" width="40" type="element" hotspot_y="15" link_type="slave">
+    <uuid uuid="{ee36472b-486b-4e66-9963-cc35516e81c7}"/>
+    <names>
+        <name lang="fr">Four électrique</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{0cd1dda1-b422-476f-8c1f-cb09973d4e00}" y="-36.5" frame="false" text_from="ElementInfo" x="-6" z="1" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" rx="0" y="-10" x="0" antialias="false" ry="0"/>
+        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <line x1="0" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="20" y1="-7" y2="-7" end1="none" length1="1.5" length2="1.5" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:black;color:black" diameter="4" y="1" x="8" antialias="false"/>
+    </description>
+</definition>

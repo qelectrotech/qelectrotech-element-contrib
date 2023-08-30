@@ -1,0 +1,21 @@
+<definition link_type="slave" width="40" version="0.100.0" hotspot_x="20" type="element" height="20" hotspot_y="10">
+    <uuid uuid="{e43b9c10-5864-403e-b36d-6e634f3c0a38}"/>
+    <names>
+        <name lang="fr">Fluo (symbole general)</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text y="-36" z="1" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="true" x="-15" uuid="{067ce31f-18e6-4d2c-865a-3183f0b2331a}" text_width="-1" text_from="ElementInfo" frame="false" Halignment="AlignLeft" rotation="0" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-15" x2="15" end1="none" antialias="false" y1="0" y2="0" style="line-style:normal;line-weight:hight;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="-15" x2="-15" end1="none" antialias="false" y1="-5" y2="5" style="line-style:normal;line-weight:hight;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+        <line x1="15" x2="15" end1="none" antialias="false" y1="-5" y2="5" style="line-style:normal;line-weight:hight;filling:none;color:black" end2="none" length2="1.5" length1="1.5"/>
+    </description>
+</definition>
