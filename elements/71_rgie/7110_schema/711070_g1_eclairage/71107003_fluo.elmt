@@ -1,33 +1,33 @@
-<definition version="0.100.0" hotspot_x="25" height="20" width="40" type="element" hotspot_y="10" link_type="master">
-    <uuid uuid="{31670c36-d596-46b4-bafa-c1813e44e5fd}"/>
+<definition width="40" height="20" hotspot_y="10" type="element" hotspot_x="25" version="0.90" link_type="master">
+    <uuid uuid="{e96db6e9-817e-4811-9e31-5a0757678bf9}"/>
     <names>
-        <name lang="fr">Fluo (symbole general)</name>
+        <name lang="fr">Fluo (symbole général)</name>
     </names>
     <kindInformations>
         <kindInformation name="type">commutator</kindInformation>
     </kindInformations>
     <elementInformations>
-        <elementInformation name="unity" show="1"></elementInformation>
-        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
-        <elementInformation name="comment" show="1"></elementInformation>
-        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
-        <elementInformation name="plant" show="1"></elementInformation>
-        <elementInformation name="designation" show="1"></elementInformation>
-        <elementInformation name="supplier" show="1"></elementInformation>
-        <elementInformation name="manufacturer" show="1"></elementInformation>
-        <elementInformation name="label" show="1"></elementInformation>
-        <elementInformation name="description" show="1"></elementInformation>
-        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
     </elementInformations>
     <informations></informations>
     <description>
-        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{067ce31f-18e6-4d2c-865a-3183f0b2331a}" y="-36" frame="false" text_from="ElementInfo" x="-15" z="1" keep_visual_rotation="true">
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="-36" Halignment="AlignLeft" Valignment="AlignTop" z="1" x="-15" rotation="0" keep_visual_rotation="true" frame="false" text_width="-1" uuid="{067ce31f-18e6-4d2c-865a-3183f0b2331a}" text_from="ElementInfo">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <line x1="-19" end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" x2="11" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
-        <line x1="-19" end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" x2="-19" y1="-5" y2="5" end1="none" length1="1.5" length2="1.5" antialias="false"/>
-        <line x1="11" end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" x2="11" y1="-5" y2="5" end1="none" length1="1.5" length2="1.5" antialias="false"/>
-        <terminal name="" type="Generic" uuid="{63c7bf82-4c39-4e0f-9275-425f3eb9b100}" y="0" x="-20" orientation="w"/>
+        <line x1="-19" y1="0" x2="11" end1="none" style="line-style:normal;line-weight:hight;filling:none;color:black" y2="0" antialias="false" length1="1.5" end2="none" length2="1.5"/>
+        <line x1="-19" y1="-5" x2="-19" end1="none" style="line-style:normal;line-weight:hight;filling:none;color:black" y2="5" antialias="false" length1="1.5" end2="none" length2="1.5"/>
+        <line x1="11" y1="-5" x2="11" end1="none" style="line-style:normal;line-weight:hight;filling:none;color:black" y2="5" antialias="false" length1="1.5" end2="none" length2="1.5"/>
+        <terminal y="0" orientation="w" type="Generic" x="-20" name="" uuid="{63c7bf82-4c39-4e0f-9275-425f3eb9b100}"/>
     </description>
 </definition>

@@ -1,7 +1,7 @@
-<definition version="0.100.0" hotspot_x="14" height="30" width="60" type="element" hotspot_y="15" link_type="slave">
-    <uuid uuid="{d0a8db99-cc39-4c34-9668-aa8f67662fcd}"/>
+<definition width="60" height="30" hotspot_y="15" type="element" hotspot_x="14" version="0.90" link_type="slave">
+    <uuid uuid="{f79d7f9f-eb16-4643-ba27-95928f34e22f}"/>
     <names>
-        <name lang="fr">Moteur</name>
+        <name lang="fr">Transformateur</name>
     </names>
     <kindInformations>
         <kindInformation name="type">simple</kindInformation>
@@ -10,15 +10,15 @@
     </kindInformations>
     <informations></informations>
     <description>
-        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="20" y="-10" x="10" antialias="false"/>
-        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{69a900f5-ed43-4abc-a2ea-4cc33715b71c}" y="-36.5" frame="false" text_from="ElementInfo" x="-6" z="1" keep_visual_rotation="false">
+        <circle y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" x="10" diameter="20" antialias="false"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-36.5" Halignment="AlignLeft" Valignment="AlignTop" z="1" x="-6" rotation="0" keep_visual_rotation="false" frame="false" text_width="-1" uuid="{69a900f5-ed43-4abc-a2ea-4cc33715b71c}" text_from="ElementInfo">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <line x1="30" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="40" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
-        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
-        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="20" y="-10" x="0" antialias="false"/>
-        <terminal name="" type="Generic" uuid="{bdc1c109-8a3f-45eb-a00f-7a098680a206}" y="0" x="-10" orientation="w"/>
-        <terminal name="" type="Generic" uuid="{862b0b38-6d15-4695-8c40-c37fb79ab6c2}" y="0" x="40" orientation="e"/>
+        <line x1="30" y1="0" x2="40" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" antialias="false" length1="1.5" end2="none" length2="1.5"/>
+        <line x1="-10" y1="0" x2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" antialias="false" length1="1.5" end2="none" length2="1.5"/>
+        <circle y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" diameter="20" antialias="false"/>
+        <terminal y="0" orientation="w" type="Generic" x="-10" name="" uuid="{bdc1c109-8a3f-45eb-a00f-7a098680a206}"/>
+        <terminal y="0" orientation="e" type="Generic" x="40" name="" uuid="{862b0b38-6d15-4695-8c40-c37fb79ab6c2}"/>
     </description>
 </definition>

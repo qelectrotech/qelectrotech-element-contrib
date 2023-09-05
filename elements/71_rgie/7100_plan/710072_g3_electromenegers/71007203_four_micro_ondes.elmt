@@ -1,6 +1,7 @@
-<definition version="0.100.0" hotspot_x="15" height="30" width="40" type="element" hotspot_y="15" link_type="slave">
-    <uuid uuid="{a69024e3-f47e-454b-9931-5c2e03928ecc}"/>
+<definition link_type="slave" width="40" height="30" hotspot_x="15" type="element" hotspot_y="15" version="0.90">
+    <uuid uuid="{09c4f9c5-f2a1-4cf2-bab7-99d3a6dd4d68}"/>
     <names>
+        <name lang="en">Microwave oven</name>
         <name lang="fr">Four à micro-ondes</name>
     </names>
     <kindInformations>
@@ -10,17 +11,17 @@
     </kindInformations>
     <informations></informations>
     <description>
-        <dynamic_text rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" Valignment="AlignTop" text_width="-1" Halignment="AlignLeft" uuid="{bd06a5aa-0a19-4dff-bf00-1bdcf6a6e8ee}" y="-36.5" frame="false" text_from="ElementInfo" x="-6" z="1" keep_visual_rotation="false">
+        <dynamic_text uuid="{bd06a5aa-0a19-4dff-bf00-1bdcf6a6e8ee}" z="1" rotation="0" Valignment="AlignTop" x="-6" text_from="ElementInfo" font="Sans Serif,7,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" y="-36.5">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <rect height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" rx="0" y="-10" x="0" antialias="false" ry="0"/>
-        <line x1="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y1="0" y2="0" end1="none" length1="1.5" length2="1.5" antialias="false"/>
-        <arc height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" angle="180" start="0" y="-5" x="4" antialias="true"/>
-        <arc height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" angle="180" start="0" y="-1" x="4" antialias="true"/>
-        <arc height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" angle="180" start="0" y="3" x="4" antialias="true"/>
-        <arc height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" angle="180" start="180" y="-4" x="10" antialias="true"/>
-        <arc height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" angle="180" start="180" y="0" x="10" antialias="true"/>
-        <arc height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" angle="180" start="180" y="4" x="10" antialias="true"/>
+        <rect width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" ry="0" rx="0" x="0" height="20" antialias="false" y="-10"/>
+        <line y1="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y2="0" length1="1.5" x1="-10" end1="none" antialias="false" x2="0"/>
+        <arc angle="180" start="0" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" x="4" height="2" antialias="true" y="-5"/>
+        <arc angle="180" start="0" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" x="4" height="2" antialias="true" y="-1"/>
+        <arc angle="180" start="0" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" x="4" height="2" antialias="true" y="3"/>
+        <arc angle="180" start="180" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" x="10" height="2" antialias="true" y="-4"/>
+        <arc angle="180" start="180" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" x="10" height="2" antialias="true" y="0"/>
+        <arc angle="180" start="180" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" x="10" height="2" antialias="true" y="4"/>
     </description>
 </definition>
