@@ -1,0 +1,35 @@
+<definition width="40" height="30" hotspot_y="15" type="element" hotspot_x="16" version="0.90" link_type="master">
+    <uuid uuid="{feb8ae3c-8e0f-4d7b-a1a7-1174941f0645}"/>
+    <names>
+        <name lang="fr">Séchoir</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-36.5" Halignment="AlignLeft" Valignment="AlignTop" z="1" x="-6" rotation="0" keep_visual_rotation="false" frame="false" text_width="-1" uuid="{8a3e4b60-a519-4534-a084-1b30a89ea6cc}" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect width="20" y="-10" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" ry="0" x="0" rx="0" antialias="false"/>
+        <line x1="-10" y1="0" x2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" antialias="false" length1="1.5" end2="none" length2="1.5"/>
+        <circle y="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" x="6" diameter="4" antialias="false"/>
+        <circle y="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" x="10" diameter="4" antialias="false"/>
+        <circle y="2" style="line-style:normal;line-weight:normal;filling:black;color:black" x="8" diameter="4" antialias="false"/>
+        <terminal y="0" orientation="w" type="Generic" x="-10" name="" uuid="{5e2bb4a2-59b1-4833-8fb7-8c246ab1e2bf}"/>
+    </description>
+</definition>
