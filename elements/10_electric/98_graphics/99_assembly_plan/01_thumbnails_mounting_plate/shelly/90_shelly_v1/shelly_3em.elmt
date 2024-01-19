@@ -1,0 +1,35 @@
+<definition hotspot_x="25" hotspot_y="168" type="element" height="170" version="0.90" link_type="simple" width="50">
+    <uuid uuid="{c89deafc-b3b2-781e-a936-bfb12628c13b}" />
+    <names>
+        <name lang="de">Shelly 3EM</name>
+        <name lang="en">Shelly 3EM</name>
+        <name lang="fr">Shelly 3EM</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="supplier">shelly.cloud</elementInformation>
+        <elementInformation show="1" name="comment" />
+        <elementInformation show="1" name="manufacturer">Alterco Robotics</elementInformation>
+        <elementInformation show="1" name="designation">Shelly 3EM</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">Shelly 3EM</elementInformation>
+        <elementInformation show="1" name="plant" />
+        <elementInformation show="1" name="description">WiFi 3 phase power meter with relay contact</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference" />
+        <elementInformation show="1" name="label" />
+        <elementInformation show="1" name="unity" />
+        <elementInformation show="1" name="quantity">1</elementInformation>
+    </elementInformations>
+    <informations />
+    <description>
+        <rect y="-166" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" ry="20.33" rx="22.05" antialias="false" x="-22.05" height="166" width="44.1" />
+        <rect y="-60.59" style="line-style:dashed;line-weight:thin;filling:HTMLRedRed;color:black" ry="0" rx="0" antialias="false" x="3.6" height="4.15" width="9" />
+        <rect y="-123.67" style="line-style:normal;line-weight:thin;filling:none;color:black" ry="19.5" rx="21.15" antialias="false" x="-21.15" height="81.34" width="42.3" />
+        <rect y="-113.71" style="line-style:dashed;line-weight:thin;filling:green;color:black" ry="0" rx="0" antialias="false" x="3.6" height="4.15" width="9" />
+        <dynamic_text y="-166" rotation="0" frame="false" text_from="ElementInfo" text_width="-1" Halignment="AlignLeft" font="Sans,7,-1,5,50,0,0,0,0,0" Valignment="AlignTop" z="65" keep_visual_rotation="false" x="22.5" uuid="{0dc27683-ebd8-4a71-8b0a-20383148eb2f}">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text y="-146.08" rotation="0" frame="false" text_from="UserText" text_width="-1" Halignment="AlignLeft" font="Sans,7,-1,5,50,0,0,0,0,0" Valignment="AlignTop" z="66" keep_visual_rotation="false" x="21.6" uuid="{dec29dbe-3668-4c27-87ce-ab01e45bf915}">
+            <text>IP:</text>
+        </dynamic_text>
+    </description>
+</definition>

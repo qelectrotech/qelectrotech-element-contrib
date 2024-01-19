@@ -1,0 +1,65 @@
+<definition link_type="master" height="60" width="60" hotspot_x="38" version="0.90" type="element" hotspot_y="29">
+    <uuid uuid="{298675b2-59dd-4e63-af82-74ff8e6f2ee1}"/>
+    <names>
+        <name lang="de">Shelly Schalter 1-Eingang</name>
+        <name lang="en">Shelly switch 1-input</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="machine-manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Shelly</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer-reference"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+    </elementInformations>
+    <informations>License: see http://qelectrotech.org/wiki/doc/elements_license
+Author: TheKilroy</informations>
+    <description>
+        <line y2="-2" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y1="-8" antialias="true" x2="0" x1="7" end1="none" length2="1.5"/>
+        <circle x="-18" style="line-style:normal;line-weight:normal;filling:black;color:black" diameter="2" antialias="true" y="10"/>
+        <rect height="30" x="-25" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="40" rx="0" antialias="false" y="-15"/>
+        <arc height="6" x="-20" start="45" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" angle="90" antialias="true" y="8"/>
+        <line y2="2" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y1="8" antialias="true" x2="0" x1="7" end1="none" length2="1.5"/>
+        <arc height="10" x="-22" start="45" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" angle="90" antialias="true" y="6"/>
+        <line y2="0" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y1="0" antialias="false" x2="0" x1="-7" end1="none" length2="1.5"/>
+        <arc height="14" x="-24" start="45" style="line-style:normal;line-weight:normal;filling:none;color:black" width="14" angle="90" antialias="true" y="4"/>
+        <dynamic_text Valignment="AlignTop" frame="false" x="-12" font="Sans Serif,5,-1,5,25,0,0,0,0,0" text_from="UserText" uuid="{96611e2b-3d2d-4c9d-b61f-5bd7014dbdbd}" rotation="0" Halignment="AlignLeft" text_width="-1" z="9" keep_visual_rotation="true" y="-28">
+            <text>SW1</text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" frame="false" x="-32" font="Sans Serif,5,-1,5,25,0,0,0,0,0" text_from="UserText" uuid="{96611e2b-3d2d-4c9d-b61f-5bd7014dbdbd}" rotation="0" Halignment="AlignLeft" text_width="-1" z="9" keep_visual_rotation="true" y="-28">
+            <text>L</text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" frame="false" x="-32" font="Sans Serif,5,-1,5,25,0,0,0,0,0" text_from="UserText" uuid="{96611e2b-3d2d-4c9d-b61f-5bd7014dbdbd}" rotation="0" Halignment="AlignLeft" text_width="-1" z="9" keep_visual_rotation="true" y="12">
+            <text>N</text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" frame="false" x="16" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_from="ElementInfo" uuid="{8b1a8cee-c90e-4752-bc11-9c244d682c37}" rotation="0" Halignment="AlignLeft" text_width="-1" z="10" keep_visual_rotation="true" y="-10">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y2="6" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y1="-6" antialias="true" x2="0" x1="0" end1="none" length2="1.5"/>
+        <line y2="-11" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y1="-21" antialias="false" x2="-10" x1="-10" end1="none" length2="1.5"/>
+        <line y2="0" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y1="-11" antialias="false" x2="-10" x1="-10" end1="none" length2="1.5"/>
+        <line y2="0" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y1="0" antialias="false" x2="-5" x1="-10" end1="none" length2="1.5"/>
+        <line y2="-7" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y1="-21" antialias="false" x2="-30" x1="-30" end1="none" length2="1.5"/>
+        <line y2="7" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y1="21" antialias="false" x2="-30" x1="-30" end1="none" length2="1.5"/>
+        <line y2="7" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y1="7" antialias="false" x2="-26" x1="-30" end1="none" length2="1.5"/>
+        <line y2="-7" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y1="-7" antialias="false" x2="-25" x1="-30" end1="none" length2="1.5"/>
+        <dynamic_text Valignment="AlignTop" frame="false" x="-25" font="Sans,5,-1,5,50,0,0,0,0,0" text_from="CompositeText" uuid="{2e740fc1-fb89-4a88-b2a9-b376c49d9305}" rotation="0" Halignment="AlignLeft" text_width="-1" z="21" keep_visual_rotation="false" y="12">
+            <text>IP: </text>
+            <composite_text>IP: %{auxiliary1}</composite_text>
+        </dynamic_text>
+        <terminal orientation="s" x="-30" uuid="{92707dd6-8ed0-46a3-b5c8-b2c4b71f02e0}" name="" type="Generic" y="25"/>
+        <terminal orientation="n" x="-10" uuid="{d879e806-6ba9-452f-a4a5-b0c5dc1751be}" name="" type="Generic" y="-25"/>
+        <terminal orientation="n" x="-30" uuid="{c6190de5-cbb6-4f5b-a38a-8ae0d02291cf}" name="" type="Generic" y="-25"/>
+    </description>
+</definition>

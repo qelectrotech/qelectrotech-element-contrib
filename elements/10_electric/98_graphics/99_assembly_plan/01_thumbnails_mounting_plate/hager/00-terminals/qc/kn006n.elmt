@@ -1,57 +1,66 @@
-<definition width="70" height="80" hotspot_x="35" hotspot_y="39" type="element" link_type="simple" orientation="dyyy" version="0.70">
-    <uuid uuid="{3a89defd-bdae-491d-b176-14ce17c92145}"/>
+<definition width="70" height="80" hotspot_x="35" hotspot_y="39" type="element" link_type="simple" version="0.90">
+    <uuid uuid="{0e4e2869-f5b7-45f1-8f41-3ed59f5d6221}"/>
     <names>
-        <name lang="de">KN006E</name>
         <name lang="en">KN006E</name>
+        <name lang="de">KN006E</name>
     </names>
     <elementInformations>
-        <elementInformation show="1" name="label"></elementInformation>
-        <elementInformation show="1" name="supplier"></elementInformation>
-        <elementInformation show="1" name="designation">KN006E</elementInformation>
-        <elementInformation show="1" name="manufacturer">Hager</elementInformation>
-        <elementInformation show="1" name="comment"></elementInformation>
-        <elementInformation show="1" name="quantity"></elementInformation>
-        <elementInformation show="1" name="machine-manufacturer-reference"></elementInformation>
-        <elementInformation show="1" name="plant"></elementInformation>
-        <elementInformation show="1" name="manufacturer-reference"></elementInformation>
-        <elementInformation show="1" name="description"></elementInformation>
-        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Hager</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="manufacturer-reference" show="1"></elementInformation>
+        <elementInformation name="machine-manufacturer-reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">KN006E</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
     </elementInformations>
     <informations></informations>
     <description>
-        <rect y="-36.5" width="66" style="line-style:normal;line-weight:thin;filling:green;color:black" x="-33" height="73" ry="0" rx="0" antialias="false"/>
-        <rect y="-35" width="63" style="line-style:normal;line-weight:thin;filling:white;color:gray" x="-31.5" height="70" ry="0" rx="0" antialias="false"/>
-        <rect y="6" width="23.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-11.75" height="27" ry="0" rx="0" antialias="false"/>
-        <rect y="-33" width="59" style="line-style:normal;line-weight:thin;filling:none;color:black" x="-29.5" height="30.4" ry="0" rx="0" antialias="false"/>
-        <line x1="-18" x2="-18" y1="-33" end1="none" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" antialias="false" y2="-3" length2="1.5"/>
-        <line x1="-6" x2="-6" y1="-33" end1="none" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" antialias="false" y2="-3" length2="1.5"/>
-        <line x1="6" x2="6" y1="-33" end1="none" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" antialias="false" y2="-3" length2="1.5"/>
-        <line x1="18" x2="18" y1="-33" end1="none" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" antialias="false" y2="-3" length2="1.5"/>
-        <arc y="-15" angle="90" width="12" start="270" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-30" height="12" antialias="true"/>
-        <arc y="-15" angle="90" width="12" start="180" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-30" height="12" antialias="true"/>
-        <arc y="-15" angle="90" width="12" start="270" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-18" height="12" antialias="true"/>
-        <arc y="-15" angle="90" width="12" start="270" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-6" height="12" antialias="true"/>
-        <arc y="-15" angle="90" width="12" start="270" style="line-style:normal;line-weight:normal;filling:none;color:black" x="18" height="12" antialias="true"/>
-        <arc y="-15" angle="90" width="12" start="270" style="line-style:normal;line-weight:normal;filling:none;color:black" x="6" height="12" antialias="true"/>
-        <arc y="-15" angle="90" width="12" start="180" style="line-style:normal;line-weight:normal;filling:none;color:black" x="18" height="12" antialias="true"/>
-        <arc y="-15" angle="90" width="12" start="180" style="line-style:normal;line-weight:normal;filling:none;color:black" x="6" height="12" antialias="true"/>
-        <arc y="-15" angle="90" width="12" start="180" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-6" height="12" antialias="true"/>
-        <arc y="-15" angle="90" width="12" start="180" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-18" height="12" antialias="true"/>
-        <arc y="-17" angle="90" width="12" start="0" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="6" height="12" antialias="true"/>
-        <arc y="-17" angle="90" width="12" start="0" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="-6" height="12" antialias="true"/>
-        <arc y="-17" angle="90" width="12" start="0" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="-18" height="12" antialias="true"/>
-        <arc y="-17" angle="90" width="12" start="0" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="18" height="12" antialias="true"/>
-        <arc y="-17" angle="90" width="12" start="90" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="6" height="12" antialias="true"/>
-        <arc y="-17" angle="90" width="12" start="90" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="-18" height="12" antialias="true"/>
-        <arc y="-17" angle="90" width="12" start="90" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="-6" height="12" antialias="true"/>
-        <arc y="-17" angle="90" width="12" start="90" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="18" height="12" antialias="true"/>
-        <arc y="-17" angle="90" width="12" start="0" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="-30" height="12" antialias="true"/>
-        <arc y="-17" angle="90" width="12" start="90" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="-30" height="12" antialias="true"/>
-        <rect y="-31" width="12" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="-6" height="10" ry="0" rx="0" antialias="false"/>
-        <rect y="-31" width="12" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="-18" height="10" ry="0" rx="0" antialias="false"/>
-        <rect y="-31" width="12" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="6" height="10" ry="0" rx="0" antialias="false"/>
-        <rect y="-31" width="11" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="18" height="10" ry="0" rx="0" antialias="false"/>
-        <rect y="-31" width="11" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="-29" height="10" ry="0" rx="0" antialias="false"/>
-        <rect y="11" width="20" style="line-style:normal;line-weight:normal;filling:none;color:gray" x="-10" height="20" ry="0" rx="0" antialias="false"/>
+        <rect width="66" height="73" antialias="false" x="-33" style="line-style:normal;line-weight:thin;filling:HTMLGreenGreen;color:black" y="-36.5" rx="0" ry="0"/>
+        <rect width="63" height="70" antialias="false" x="-31.5" style="line-style:normal;line-weight:thin;filling:white;color:gray" y="-35" rx="0" ry="0"/>
+        <rect width="23.5" height="27" antialias="false" x="-11.75" style="line-style:normal;line-weight:normal;filling:none;color:black" y="6" rx="0" ry="0"/>
+        <rect width="59" height="30.4" antialias="false" x="-29.5" style="line-style:normal;line-weight:thin;filling:none;color:black" y="-33" rx="0" ry="0"/>
+        <line y1="-33" y2="-3" length2="1.5" antialias="false" end1="none" length1="1.5" x2="-18" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-18"/>
+        <line y1="-33" y2="-3" length2="1.5" antialias="false" end1="none" length1="1.5" x2="-6" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-6"/>
+        <line y1="-33" y2="-3" length2="1.5" antialias="false" end1="none" length1="1.5" x2="6" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="6"/>
+        <line y1="-33" y2="-3" length2="1.5" antialias="false" end1="none" length1="1.5" x2="18" end2="none" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="18"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-15" start="270"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-15" start="180"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="-18" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-15" start="270"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-15" start="270"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="18" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-15" start="270"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="6" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-15" start="270"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="18" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-15" start="180"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="6" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-15" start="180"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-15" start="180"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="-18" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-15" start="180"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="6" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-17" start="0"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="-6" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-17" start="0"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="-18" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-17" start="0"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="18" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-17" start="0"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="6" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-17" start="90"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="-18" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-17" start="90"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="-6" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-17" start="90"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="18" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-17" start="90"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="-30" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-17" start="0"/>
+        <arc width="12" height="12" antialias="true" angle="90" x="-30" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-17" start="90"/>
+        <rect width="12" height="10" antialias="false" x="-6" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-31" rx="0" ry="0"/>
+        <rect width="12" height="10" antialias="false" x="-18" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-31" rx="0" ry="0"/>
+        <rect width="12" height="10" antialias="false" x="6" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-31" rx="0" ry="0"/>
+        <rect width="11" height="10" antialias="false" x="18" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-31" rx="0" ry="0"/>
+        <rect width="11" height="10" antialias="false" x="-29" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="-31" rx="0" ry="0"/>
+        <rect width="20" height="20" antialias="false" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:gray" y="11" rx="0" ry="0"/>
+        <dynamic_text text_width="-1" rotation="270" x="-35" font="Sans,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" uuid="{27b2d1c1-d2c7-4c33-b5fd-cbd5b4b99ef2}" Halignment="AlignLeft" frame="false" y="-40" text_from="ElementInfo" z="35" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text text_width="-1" rotation="270" x="10" font="Sans,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" uuid="{4e37fcfc-169c-4d64-8ab0-3e703c039e02}" Halignment="AlignLeft" frame="false" y="-40" text_from="ElementInfo" z="36" keep_visual_rotation="false">
+            <text></text>
+            <info_name>function</info_name>
+        </dynamic_text>
+        <terminal name="" x="0" type="Generic" uuid="{b02c5d4d-3916-4d81-a5c2-3a83726a5ff7}" orientation="s" y="20"/>
     </description>
 </definition>

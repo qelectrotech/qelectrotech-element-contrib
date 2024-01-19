@@ -1,0 +1,30 @@
+<definition height="10" width="30" hotspot_y="5" type="element" link_type="simple" hotspot_x="6" version="0.90">
+    <uuid uuid="{1d16e8ac-fcfb-9eff-74fc-b67fa6c4bbed}" />
+    <names>
+        <name lang="cs">2004-499</name>
+        <name lang="de">2004-499</name>
+        <name lang="fr">2004-499</name>
+        <name lang="en">2004-499</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="plant" show="1" />
+        <elementInformation name="comment" show="1" />
+        <elementInformation name="description" show="1" />
+        <elementInformation name="quantity" show="1" />
+        <elementInformation name="manufacturer" show="1">WAGO</elementInformation>
+        <elementInformation name="unity" show="1" />
+        <elementInformation name="designation" show="1">2004-499</elementInformation>
+        <elementInformation name="label" show="1" />
+        <elementInformation name="manufacturer_reference" show="1" />
+        <elementInformation name="machine_manufacturer_reference" show="1" />
+        <elementInformation name="supplier" show="1" />
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+        License:see https://qelectrotech.org/wiki_new/doc/elements_license
+    </informations>
+    <description>
+        <rect height="5.69" style="line-style:normal;line-weight:thin;filling:white;color:black" width="21.61" rx="0" y="-2.85" x="-2" antialias="false" ry="0" />
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" y3="-1.42" y1="1.42" x3="18" y4="1.42" x1="0.26" antialias="false" y2="-1.42" x4="18" x2="0.26" />
+        <text font="Sans Serif,2,-1,5,50,0,0,0,0,0" color="#000000" y="1.19" rotation="0" x="2.7" text="2004-499" />
+    </description>
+</definition>

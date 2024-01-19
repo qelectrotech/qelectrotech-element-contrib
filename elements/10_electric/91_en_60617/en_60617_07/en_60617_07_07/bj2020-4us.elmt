@@ -1,0 +1,33 @@
+<definition hotspot_y="42" link_type="simple" width="50" height="80" hotspot_x="32" type="element" version="0.90">
+    <uuid uuid="{261b9b0a-e6e5-4781-93fb-41d42613bfdf}"/>
+    <names>
+        <name lang="de">Jalousietaster mit Umkehrsperre</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line x1="-10" x2="-10" end2="circle" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="-30" y2="-20"/>
+        <line x1="-10" x2="-10" end2="circle" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="25" y2="10"/>
+        <line x1="10" x2="10" end2="circle" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="25" y2="10"/>
+        <line x1="-10" x2="-5" end2="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="-10" y2="10"/>
+        <line x1="5" x2="10" end2="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="10" y2="-10"/>
+        <line x1="10" x2="10" end2="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="-10" y2="-15"/>
+        <line x1="10" x2="-10" end2="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="-15" y2="-15"/>
+        <line x1="-9" x2="9" end2="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="-7" y2="-7"/>
+        <line x1="-7" x2="7" end2="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="2" y2="2"/>
+        <line x1="-7" x2="2" end2="none" length1="1.5" style="line-style:dotted;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="-3" y2="-3"/>
+        <text x="1" y="0" text="s" color="#000000" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <line x1="-10" x2="-10" end2="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="-10" y2="-14"/>
+        <line x1="-10" x2="-10" end2="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="-16" y2="-18"/>
+        <line x1="-11" x2="-25" end2="none" length1="1.5" style="line-style:dotted;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="-4" y2="-4"/>
+        <line x1="-11" x2="-25" end2="none" length1="1.5" style="line-style:dotted;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="-1" y2="-1"/>
+        <line x1="-23" x2="-26" end2="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="1" y2="1"/>
+        <line x1="-26" x2="-26" end2="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="1" y2="-6"/>
+        <line x1="-26" x2="-23" end2="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="-6" y2="-6"/>
+        <line x1="-5" x2="-5" end2="triangle" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="15" y2="25"/>
+        <line x1="5" x2="5" end2="triangle" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" antialias="false" y1="25" y2="15"/>
+        <terminal x="10" uuid="{472eced9-5cf8-4f94-8e17-52e1a06049e7}" y="30" name="" orientation="s" type="Generic"/>
+        <terminal x="-10" uuid="{8fd9c118-7c36-4a2d-a83e-565632002be4}" y="-35" name="" orientation="n" type="Generic"/>
+        <terminal x="-10" uuid="{97065cf9-bcc7-4383-b6b7-28c6fb588610}" y="30" name="" orientation="s" type="Generic"/>
+    </description>
+</definition>
