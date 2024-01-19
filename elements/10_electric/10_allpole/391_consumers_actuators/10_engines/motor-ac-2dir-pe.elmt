@@ -1,0 +1,48 @@
+<definition hotspot_y="24" link_type="simple" width="40" hotspot_x="20" height="50" type="element" version="0.90">
+    <uuid uuid="{aa86ad32-4a38-4aa6-8087-e832d2bd0705}"/>
+    <names>
+        <name lang="fr">Moteur monophasé - 2 dir</name>
+        <name lang="nl">Motor 1AC - 2 richt.</name>
+        <name lang="de">Wechselstrom Motor - 2 Richtungen</name>
+        <name lang="el">Μονοφασικό μοτέρ</name>
+        <name lang="es">Motor monofásico - 2 dir</name>
+        <name lang="it">Motore monofase - 2 dir</name>
+        <name lang="en">One-phase engine - 2 directions</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="machine-manufacturer-reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer-reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: TheKilroy
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text y="6" font="Sans Serif,18,-1,5,50,0,0,0,0,0" x="-10" text="M" rotation="0" color="#000000"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-20" x2="13" x1="13" end2="none" antialias="false" length2="1.5" end1="none" y2="-15" length1="1.5"/>
+        <dynamic_text z="3" frame="false" keep_visual_rotation="true" y="-5.5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop" x="18" uuid="{0b7c7353-aed6-4a5f-a4c1-ee1cc2bf9239}" text_from="ElementInfo" text_width="-1" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text y="20" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="1" text="N" rotation="0" color="#000000"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" y="-15" antialias="true" x="-15.25" diameter="30"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-16" x2="10" x1="10" end2="none" antialias="false" length2="1.5" end1="none" y2="-11.25" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-17" x2="-10" x1="-10" end2="none" antialias="false" length2="1.5" end1="none" y2="-12" length1="1.5"/>
+        <text y="16" font="Sans Serif,18,-1,5,50,0,0,0,0,0" x="-10" text="~" rotation="0" color="#000000"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" y1="-17" x2="-14" x1="-12" antialias="true" x4="-12" x3="-13" y4="-17" y2="-17" y3="-20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-18" x2="-13" x1="-13" end2="none" antialias="false" length2="1.5" end1="none" y2="-13" length1="1.5"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:black;color:black" y1="-13" x2="12" x1="13" antialias="true" x3="14" y2="-16" y3="-16"/>
+        <terminal name="" y="-20" x="10" uuid="{6c21d1df-100d-49b9-868d-88462694da09}" type="Generic" orientation="n"/>
+        <terminal name="" y="-20" x="-10" uuid="{3d55e72d-d31c-4fbc-a668-dc2089a0f9fe}" type="Generic" orientation="n"/>
+        <terminal name="" y="20" x="0" uuid="{f23d80d6-ab28-4821-a360-cc8d88d2ec2a}" type="Generic" orientation="s"/>
+    </description>
+</definition>

@@ -1,0 +1,76 @@
+<definition height="90" version="0.90" type="element" hotspot_x="50" hotspot_y="47" width="100" link_type="simple">
+    <uuid uuid="{034603ed-1594-e683-cc27-d872983062f0}" />
+    <names>
+        <name lang="en">Shelly RGBW2</name>
+        <name lang="de">Shelly RGBW2</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="label" />
+        <elementInformation show="1" name="supplier">Alterco Robotics</elementInformation>
+        <elementInformation show="1" name="designation">Shelly RGBW2</elementInformation>
+        <elementInformation show="1" name="description">Wifi RGB Controller</elementInformation>
+        <elementInformation show="1" name="plant" />
+        <elementInformation show="1" name="machine_manufacturer_reference" />
+        <elementInformation show="1" name="unity">1</elementInformation>
+        <elementInformation show="1" name="manufacturer">Alterco Robotics</elementInformation>
+        <elementInformation show="1" name="quantity">1</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">Shelly RGBW2</elementInformation>
+        <elementInformation show="1" name="comment" />
+    </elementInformations>
+    <informations />
+    <description>
+        <rect x="22.5" height="8.3" y="-8.3" antialias="false" ry="2.49" style="line-style:normal;line-weight:thin;filling:HTMLYellowGold;color:black" width="4.5" rx="2.7" />
+        <polygon y1="37.35" y6="37.35" y5="-24.9" x1="-45" x4="27" x2="-45" y2="-24.9" x5="45" antialias="false" y4="-40.67" style="line-style:normal;line-weight:normal;filling:HTMLYellowYellow;color:black" x3="-27" y3="-40.67" x6="45" />
+        <line y1="-31.54" length1="1.5" x1="36.9" x2="24.3" y2="-31.54" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <text x="14.4" y="17.43" rotation="180" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" color="#000000" text="G" />
+        <text x="-6.3" y="17.43" rotation="180" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" color="#000000" text="GND" />
+        <text x="26.1" y="17.43" rotation="180" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" color="#000000" text="B" />
+        <text x="-36" y="17.43" rotation="180" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" color="#000000" text="I" />
+        <text x="-47.34" y="14.82" rotation="180" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" color="#d3d7cf" text="_" />
+        <text x="39.6" y="17.43" rotation="180" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" color="#000000" text="W" />
+        <text x="1.8" y="17.43" rotation="180" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" color="#000000" text="R" />
+        <text x="-20.7" y="17.43" rotation="180" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" color="#000000" text="DC" />
+        <line y1="14.94" length1="1.5" x1="43.2" x2="-42.3" y2="14.94" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <rect x="-42.91" height="11.31" y="24.09" antialias="false" ry="0" style="line-style:normal;line-weight:thin;filling:HTMLBlueDodgerBlue;color:black" width="86" rx="0" />
+        <ellipse x="32.19" height="8.8" y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" />
+        <ellipse x="19.9" height="8.8" y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" />
+        <ellipse x="-41.55" height="8.8" y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" />
+        <ellipse x="-29.26" height="8.8" y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" />
+        <ellipse x="-4.68" height="8.8" y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" />
+        <ellipse x="7.61" height="8.8" y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" />
+        <line y1="27.09" length1="1.5" x1="-39.62" x2="-33.77" y2="32.23" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="27.09" length1="1.5" x1="34.12" x2="40" y2="32.23" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="27.09" length1="1.5" x1="21.83" x2="27.67" y2="32.23" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="27.09" length1="1.5" x1="-2.75" x2="3.1" y2="32.23" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="27.09" length1="1.5" x1="-27.33" x2="-21.48" y2="32.23" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="27.09" length1="1.5" x1="9.54" x2="15.38" y2="32.23" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="24.09" length1="1.5" x1="-30.62" x2="-30.62" y2="35.4" end1="none" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="24.09" length1="1.5" x1="-18.33" x2="-18.33" y2="35.4" end1="none" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="24.09" length1="1.5" x1="-6.05" x2="-6.05" y2="35.4" end1="none" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="24.09" length1="1.5" x1="6.24" x2="6.24" y2="35.4" end1="none" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end2="none" />
+        <dynamic_text x="45" text_width="-1" y="-37.35" keep_visual_rotation="false" Valignment="AlignTop" rotation="180" uuid="{9ba48a98-4c3e-474e-b71d-120ebe7c7461}" font="Sans,7,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" z="29" frame="false" text_from="UserText">
+            <text>IP:</text>
+        </dynamic_text>
+        <line y1="24.09" length1="1.5" x1="30.82" x2="30.82" y2="35.4" end1="none" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end2="none" />
+        <dynamic_text x="-45.67" text_width="-1" y="38.2" keep_visual_rotation="false" Valignment="AlignTop" rotation="180" uuid="{2d77da30-4bd4-4c6d-a1ab-906ef53cfc67}" font="Sans,7,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" z="31" frame="false" text_from="ElementInfo">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="24.09" length1="1.5" x1="18.53" x2="18.53" y2="35.4" end1="none" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" length2="1.5" end2="none" />
+        <ellipse x="-17" height="8.8" y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" />
+        <line y1="27.09" length1="1.5" x1="-15" x2="-9.19" y2="32.23" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="8.3" length1="1.5" x1="45" x2="24.3" y2="8.3" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="8.3" length1="1.5" x1="24.3" x2="12.6" y2="-2.49" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="-20.75" length1="1.5" x1="12.6" x2="12.6" y2="-2.49" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <line y1="-31.54" length1="1.5" x1="24.3" x2="12.6" y2="-20.75" end1="none" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" />
+        <rect x="36" height="16.6" y="-20.75" antialias="false" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="4.5" rx="0" />
+        <rect x="22.5" height="8.3" y="-26.56" antialias="false" ry="2.49" style="line-style:normal;line-weight:normal;filling:none;color:black" width="4.5" rx="2.7" />
+        <terminal x="13" orientation="s" y="37" uuid="{2b2511f0-0f6d-4eb7-8312-b172a646ed68}" type="Outer" name="G" />
+        <terminal x="-37" orientation="s" y="37" uuid="{060821b5-57e7-4771-9836-6a22145e8575}" type="Outer" name="I" />
+        <terminal x="0" orientation="s" y="37" uuid="{096d6111-6145-4aa3-bb28-3964f424439b}" type="Outer" name="R" />
+        <terminal x="-12" orientation="s" y="37" uuid="{455839e4-083a-41bf-b64d-f18c66047cbe}" type="Outer" name="GND" />
+        <terminal x="-24" orientation="s" y="37" uuid="{fd125058-0378-4da1-ab5f-83e8e9bad155}" type="Outer" name="DC" />
+        <terminal x="24" orientation="s" y="37" uuid="{ee769930-d8c0-4552-9a17-233027133a44}" type="Outer" name="B" />
+        <terminal x="37" orientation="s" y="37" uuid="{de909544-d920-4691-b965-db0983011db6}" type="Outer" name="W" />
+    </description>
+</definition>

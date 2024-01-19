@@ -1,0 +1,102 @@
+<definition hotspot_x="50" type="element" hotspot_y="47" link_type="simple" version="0.90" width="100" height="90">
+    <uuid uuid="{c69e69eb-b49b-abaf-e3c6-0918040380ef}" />
+    <names>
+        <name lang="en">Shelly Plus 1</name>
+        <name lang="de">Shelly Plus 1</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="plant" show="1" />
+        <elementInformation name="comment" show="1" />
+        <elementInformation name="supplier" show="1">Alterco Robotics</elementInformation>
+        <elementInformation name="designation" show="1">Shelly Plus 1</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1" />
+        <elementInformation name="unity" show="1">1</elementInformation>
+        <elementInformation name="quantity" show="1">1</elementInformation>
+        <elementInformation name="label" show="1" />
+        <elementInformation name="manufacturer" show="1">Alterco Robotics</elementInformation>
+        <elementInformation name="description" show="1">Wifi potential free relay</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Shelly Plus 1</elementInformation>
+    </elementInformations>
+    <informations />
+    <description>
+        <line x2="-24.3" x1="-24.3" y1="5" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="1.66" end1="none" />
+        <line x2="0" x1="0" y1="-10.79" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="-0.83" end1="none" />
+        <text color="#babdb6" text="+" y="10.79" font="DejaVu Sans,7,-1,5,75,0,0,0,0,0" x="-8.66" rotation="180" />
+        <text color="#babdb6" text="DC 12V" y="-19.82" font="DejaVu Sans,2,-1,5,75,0,0,0,0,0" x="-11.43" rotation="180" />
+        <rect ry="0" style="line-style:dotted;line-weight:normal;filling:none;color:lightgray" y="-0.83" antialias="false" x="-30.51" rx="0" width="12.15" height="8.3" />
+        <text color="#d3d7cf" text="SW" y="17.47" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" x="4.46" rotation="180" />
+        <line x2="18" x1="42.3" y1="14.94" style="line-style:normal;line-weight:thin;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="14.94" end1="none" />
+        <polygon x4="27" x2="-45" x3="-27" x1="-45" y1="37.35" style="line-style:normal;line-weight:normal;filling:HTMLBlueSteelBlue;color:black" y6="37.35" antialias="false" y3="-40.67" y5="-24.9" x6="45" y2="-24.9" y4="-40.67" x5="45" />
+        <text color="#d3d7cf" text="12V" y="17.43" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" x="-6.3" rotation="180" />
+        <line x2="-24.3" x1="0" y1="-10.79" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="-10.79" end1="none" />
+        <line x2="2.7" x1="0" y1="-0.83" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="5.81" end1="none" />
+        <rect ry="0" style="line-style:dotted;line-weight:normal;filling:none;color:lightgray" y="-21.07" antialias="false" x="-31.81" rx="0" width="30" height="4.77" />
+        <rect ry="0" style="line-style:dotted;line-weight:normal;filling:none;color:lightgray" y="8.3" antialias="false" x="-18" rx="0" width="12.15" height="14.94" />
+        <line x2="6.3" x1="6.3" y1="24.07" style="line-style:normal;line-weight:thin;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="14.94" end1="none" />
+        <line x2="-5.4" x1="6.3" y1="14.94" style="line-style:normal;line-weight:thin;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="14.94" end1="none" />
+        <line x2="-30.6" x1="-30.6" y1="24.07" style="line-style:normal;line-weight:thin;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="14.94" end1="none" />
+        <line x2="-27" x1="-21.6" y1="0.83" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="0.83" end1="none" />
+        <text color="#babdb6" text="DC 10A/30V" y="-24.9" font="DejaVu Sans,2,-1,5,75,0,0,0,0,0" x="37.8" rotation="180" />
+        <text color="#babdb6" text="AC 16A/240V" y="-21.33" font="DejaVu Sans,2,-1,5,75,0,0,0,0,0" x="38.61" rotation="180" />
+        <line x2="23.85" x1="23.85" y1="-11.62" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="14.11" end1="none" />
+        <line x2="39.56" x1="34.2" y1="-0.83" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="3.92" end1="none" />
+        <line x2="34.2" x1="39.56" y1="-0.83" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="3.92" end1="none" />
+        <rect ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" y="6.64" antialias="false" x="-30.51" rx="0" width="12.51" height="8.3" />
+        <line x2="30.6" x1="30.6" y1="24.07" style="line-style:normal;line-weight:thin;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="14.94" end1="none" />
+        <line x2="42.3" x1="42.3" y1="24.07" style="line-style:normal;line-weight:thin;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="14.94" end1="none" />
+        <line x2="18" x1="18" y1="24.07" style="line-style:normal;line-weight:thin;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="14.94" end1="none" />
+        <line x2="-42.3" x1="-42.3" y1="24.07" style="line-style:normal;line-weight:thin;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="14.94" end1="none" />
+        <text color="#d3d7cf" text="I" y="17.43" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" x="25.2" rotation="180" />
+        <text color="#d3d7cf" text="_" y="14.82" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" x="-47.34" rotation="180" />
+        <text color="#d3d7cf" text="O" y="17.43" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" x="38.7" rotation="180" />
+        <text color="#d3d7cf" text="L" y="17.47" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" x="-22.84" rotation="180" />
+        <text color="#d3d7cf" text="N" y="17.43" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" x="-34.2" rotation="180" />
+        <line x2="-41.4" x1="-18" y1="14.94" style="line-style:normal;line-weight:thin;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="14.94" end1="none" />
+        <rect ry="0" style="line-style:normal;line-weight:thin;filling:HTMLBlueDodgerBlue;color:black" y="24.07" antialias="false" x="-43.2" rx="0" width="86" height="11.31" />
+        <ellipse style="line-style:normal;line-weight:thin;filling:lightgray;color:black" y="25.34" antialias="false" x="32.19" width="9.56" height="8.8" />
+        <ellipse style="line-style:normal;line-weight:thin;filling:lightgray;color:black" y="25.34" antialias="false" x="19.9" width="9.56" height="8.8" />
+        <ellipse style="line-style:normal;line-weight:thin;filling:lightgray;color:black" y="25.34" antialias="false" x="-41.55" width="9.56" height="8.8" />
+        <ellipse style="line-style:normal;line-weight:thin;filling:lightgray;color:black" y="25.34" antialias="false" x="-29.26" width="9.56" height="8.8" />
+        <ellipse style="line-style:normal;line-weight:thin;filling:lightgray;color:black" y="25.34" antialias="false" x="-4.68" width="9.56" height="8.8" />
+        <line x2="-33.77" x1="-39.62" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="32.23" end1="none" />
+        <line x2="40" x1="34.12" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="32.23" end1="none" />
+        <line x2="27.67" x1="21.83" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="32.23" end1="none" />
+        <line x2="3.1" x1="-2.75" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="32.23" end1="none" />
+        <line x2="-21.48" x1="-27.33" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="32.23" end1="none" />
+        <line x2="-30.62" x1="-30.62" y1="24.09" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="35.4" end1="none" />
+        <line x2="-18.33" x1="-18.33" y1="24.09" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="35.4" end1="none" />
+        <line x2="-6.05" x1="-6.05" y1="24.09" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="35.4" end1="none" />
+        <line x2="6.24" x1="6.24" y1="24.09" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="35.4" end1="none" />
+        <dynamic_text frame="false" Valignment="AlignTop" z="38" keep_visual_rotation="false" text_width="-1" uuid="{9ba48a98-4c3e-474e-b71d-120ebe7c7461}" y="-37.35" font="Sans,7,-1,5,50,0,0,0,0,0" x="45" rotation="180" Halignment="AlignLeft" text_from="UserText">
+            <text>IP:</text>
+        </dynamic_text>
+        <line x2="30.82" x1="30.82" y1="24.09" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="35.4" end1="none" />
+        <dynamic_text frame="false" Valignment="AlignTop" z="40" keep_visual_rotation="false" text_width="-1" uuid="{2d77da30-4bd4-4c6d-a1ab-906ef53cfc67}" y="38.2" font="Sans,7,-1,5,50,0,0,0,0,0" x="-45.67" rotation="180" Halignment="AlignLeft" text_from="ElementInfo">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x2="18.53" x1="18.53" y1="24.09" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="35.4" end1="none" />
+        <ellipse style="line-style:normal;line-weight:thin;filling:lightgray;color:black" y="25.34" antialias="false" x="-17" width="9.56" height="8.8" />
+        <line x2="-9.19" x1="-15" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="32.23" end1="none" />
+        <rect ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" y="6.64" antialias="false" x="-42.3" rx="0" width="11.61" height="8.3" />
+        <text color="#000000" text="+" y="8.3" font="DejaVu Sans,7,-1,5,75,0,0,0,0,0" x="-32.4" rotation="180" />
+        <line x2="-24.3" x1="-24.3" y1="13.28" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="10" end1="none" />
+        <line x2="-27" x1="-21.6" y1="9.13" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length2="1.5" length1="1.5" end2="none" y2="9.13" end1="none" />
+        <circle diameter="8.3" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" y="-2.49" antialias="false" x="32.4" />
+        <line x2="36.9" x1="36.9" y1="5.81" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="14.11" end1="none" />
+        <line x2="0" x1="0" y1="6.64" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="14.11" end1="none" />
+        <rect ry="0" style="line-style:normal;line-weight:thin;filling:lightgray;color:lightgray" y="-30.61" antialias="false" x="-31.81" rx="0" width="30" height="4.77" />
+        <text color="#babdb6" text="AC 110-240V" y="-24.88" font="DejaVu Sans,2,-1,5,75,0,0,0,0,0" x="-6.57" rotation="180" />
+        <text color="#729fcf" text="DC 24-30V" y="-29.47" font="DejaVu Sans,2,-1,5,75,0,0,0,0,0" x="-8.41" rotation="180" />
+        <line x2="36.9" x1="36.9" y1="-11.62" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="-2.49" end1="none" />
+        <line x2="-24.3" x1="-24.3" y1="-10.79" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" length1="1.5" end2="none" y2="-0.83" end1="none" />
+        <line x2="42.3" x1="-42.3" y1="23.24" style="line-style:normal;line-weight:hight;filling:HTMLBlueRoyalBlue;color:HTMLBlueRoyalBlue" antialias="false" length2="1.5" length1="1.5" end2="none" y2="23.24" end1="none" />
+        <rect ry="0" style="line-style:normal;line-weight:normal;filling:HTMLBlueSteelBlue;color:HTMLBlueSteelBlue" y="22.41" antialias="false" x="6.72" rx="0" width="11.32" height="13.28" />
+        <terminal uuid="{096d6111-6145-4aa3-bb28-3964f424439b}" name="SW" y="37" type="Outer" orientation="s" x="0" />
+        <terminal uuid="{de909544-d920-4691-b965-db0983011db6}" name="O" y="37" type="Outer" orientation="s" x="37" />
+        <terminal uuid="{060821b5-57e7-4771-9836-6a22145e8575}" name="N" y="37" type="Outer" orientation="s" x="-37" />
+        <terminal uuid="{ee769930-d8c0-4552-9a17-233027133a44}" name="I" y="37" type="Outer" orientation="s" x="24" />
+        <terminal uuid="{455839e4-083a-41bf-b64d-f18c66047cbe}" name="12V" y="37" type="Outer" orientation="s" x="-12" />
+        <terminal uuid="{fd125058-0378-4da1-ab5f-83e8e9bad155}" name="L" y="37" type="Outer" orientation="s" x="-24" />
+    </description>
+</definition>

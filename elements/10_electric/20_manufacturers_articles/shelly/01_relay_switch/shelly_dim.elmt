@@ -1,0 +1,31 @@
+<definition link_type="slave" height="50" width="40" hotspot_x="24" version="0.90" type="element" hotspot_y="24">
+    <uuid uuid="{8edd8b83-b465-455e-bba0-a00dc822aa13}"/>
+    <names>
+        <name lang="de">Shelly Dimmer 2</name>
+        <name lang="en">Shelly Dimmer 2</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">2</kindInformation>
+    </kindInformations>
+    <informations>Author: TheKilroy</informations>
+    <description>
+        <circle x="-14.0625" style="line-style:normal;line-weight:normal;filling:black;color:black" diameter="2" antialias="true" y="-1"/>
+        <arc height="6" x="-16.0625" start="45" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" angle="90" antialias="true" y="-3"/>
+        <arc height="10" x="-18.0625" start="45" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" angle="90" antialias="true" y="-5"/>
+        <arc height="14" x="-20.0625" start="45" style="line-style:normal;line-weight:normal;filling:none;color:black" width="14" angle="90" antialias="true" y="-7"/>
+        <line y2="-6" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" y1="-12" antialias="true" x2="-0.0625" x1="-0.0625" end1="none" length2="1.5"/>
+        <line y2="0" length1="1.5" style="line-style:dotted;line-weight:normal;filling:none;color:black" end2="none" y1="0" antialias="true" x2="-8.0625" x1="-1.0625" end1="none" length2="1.5"/>
+        <text color="#000000" x="-5.0625" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="I" rotation="0" y="-10"/>
+        <text color="#000000" x="-6.0625" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="O" rotation="0" y="14"/>
+        <polygon y4="-6" y2="6" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="3.9375" closed="false" x3="3.9375" y1="12" antialias="true" x2="-0.0625" y3="-6" x1="-0.0625"/>
+        <polygon y2="-2" style="line-style:normal;line-weight:thin;filling:none;color:black" x3="9" y1="1" antialias="false" x2="9" y3="1" x1="3"/>
+        <dynamic_text Valignment="AlignTop" frame="false" x="1" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" uuid="{92478ee8-d8fa-4dd9-858b-e1f3eeaea3ed}" rotation="0" Halignment="AlignLeft" text_width="-1" z="14" keep_visual_rotation="true" y="-24">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal orientation="n" x="-0.0625" uuid="{61569619-933a-4bcd-a9d9-e358292afd6d}" name="" type="Generic" y="-16"/>
+        <terminal orientation="s" x="-0.0625" uuid="{a8bb7747-3f2c-4c7f-a3de-c60d49063df8}" name="" type="Generic" y="16"/>
+    </description>
+</definition>

@@ -1,0 +1,72 @@
+<definition link_type="simple" hotspot_x="50" type="element" width="100" height="90" hotspot_y="47" version="0.90">
+    <uuid uuid="{2de96c76-6970-07c7-00d5-5a8dc533ec97}" />
+    <names>
+        <name lang="de">Shelly Dimmer 2</name>
+        <name lang="en">Shelly Dimmer 2</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="unity" show="1">1</elementInformation>
+        <elementInformation name="manufacturer" show="1">Alterco Robotics</elementInformation>
+        <elementInformation name="label" show="1" />
+        <elementInformation name="manufacturer_reference" show="1">Shelly Dimmer 2</elementInformation>
+        <elementInformation name="supplier" show="1">Alterco Robotics</elementInformation>
+        <elementInformation name="designation" show="1">Shelly Dimmer 2</elementInformation>
+        <elementInformation name="quantity" show="1">1</elementInformation>
+        <elementInformation name="plant" show="1" />
+        <elementInformation name="machine_manufacturer_reference" show="1" />
+        <elementInformation name="comment" show="1" />
+        <elementInformation name="description" show="1">Wifi Dimmer with Power Metering</elementInformation>
+    </elementInformations>
+    <informations />
+    <description>
+        <polygon y4="-40.67" y3="-40.67" antialias="false" y1="37.35" style="line-style:normal;line-weight:normal;filling:HTMLGreenGreen;color:black" x3="-27" x2="-45" y5="-24.9" x6="45" x1="-45" y6="37.35" y2="-24.9" x5="45" x4="27" />
+        <text y="-9.13" color="#000000" font="DejaVu Sans,3,-1,5,50,0,0,0,0,0" rotation="180" x="18.9" text="www.shelly.cloud" />
+        <text y="-4.15" color="#000000" font="DejaVu Sans,3,-1,5,50,0,0,0,0,0" rotation="180" x="32.4" text="Switch inputs up to 230 VAC" />
+        <text y="1.66" color="#000000" font="DejaVu Sans,3,-1,5,50,0,0,0,0,0" rotation="180" x="36" text="0.1-1.1A. ~110-240V, 50/60 Hz" />
+        <text y="17.43" color="#000000" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" rotation="180" x="13.5" text="L" />
+        <text y="17.43" color="#000000" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" rotation="180" x="-10.8" text="L" />
+        <text y="17.43" color="#000000" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" rotation="180" x="30.6" text="SW1" />
+        <text y="17.43" color="#000000" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" rotation="180" x="-35.1" text="O" />
+        <text y="14.82" color="#d3d7cf" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" rotation="180" x="-47.34" text="_" />
+        <text y="17.43" color="#000000" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" rotation="180" x="43.2" text="SW2" />
+        <text y="17.43" color="#000000" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" rotation="180" x="1.8" text="L" />
+        <text y="17.43" color="#000000" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" rotation="180" x="-22.5" text="N" />
+        <line antialias="false" y1="14.94" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" x2="-42.3" x1="43.2" y2="14.94" length2="1.5" end1="none" />
+        <text y="7.47" color="#000000" font="DejaVu Sans,3,-1,5,50,0,0,0,0,0" rotation="180" x="22.5" text=" (c) Shelly Dimmer 2" />
+        <rect y="24.09" rx="0" antialias="false" style="line-style:normal;line-weight:thin;filling:HTMLBlueDodgerBlue;color:black" ry="0" width="86" x="-42.91" height="11.31" />
+        <ellipse y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" x="32.19" height="8.8" />
+        <ellipse y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" x="19.9" height="8.8" />
+        <ellipse y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" x="-41.55" height="8.8" />
+        <ellipse y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" x="-29.26" height="8.8" />
+        <ellipse y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" x="-4.68" height="8.8" />
+        <ellipse y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" x="7.61" height="8.8" />
+        <line antialias="false" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" x2="-33.77" x1="-39.62" y2="32.23" length2="1.5" end1="none" />
+        <line antialias="false" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" x2="40" x1="34.12" y2="32.23" length2="1.5" end1="none" />
+        <line antialias="false" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" x2="27.67" x1="21.83" y2="32.23" length2="1.5" end1="none" />
+        <line antialias="false" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" x2="3.1" x1="-2.75" y2="32.23" length2="1.5" end1="none" />
+        <line antialias="false" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" x2="-21.48" x1="-27.33" y2="32.23" length2="1.5" end1="none" />
+        <line antialias="false" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" x2="15.38" x1="9.54" y2="32.23" length2="1.5" end1="none" />
+        <line antialias="false" y1="24.09" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length1="1.5" x2="-30.62" x1="-30.62" y2="35.4" length2="1.5" end1="none" />
+        <line antialias="false" y1="24.09" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length1="1.5" x2="-18.33" x1="-18.33" y2="35.4" length2="1.5" end1="none" />
+        <line antialias="false" y1="24.09" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length1="1.5" x2="-6.05" x1="-6.05" y2="35.4" length2="1.5" end1="none" />
+        <line antialias="false" y1="24.09" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length1="1.5" x2="6.24" x1="6.24" y2="35.4" length2="1.5" end1="none" />
+        <dynamic_text y="-37.35" text_from="UserText" font="Sans,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" Halignment="AlignLeft" uuid="{9ba48a98-4c3e-474e-b71d-120ebe7c7461}" rotation="180" Valignment="AlignTop" text_width="-1" x="45" frame="false" z="32">
+            <text>IP:</text>
+        </dynamic_text>
+        <line antialias="false" y1="24.09" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length1="1.5" x2="30.82" x1="30.82" y2="35.4" length2="1.5" end1="none" />
+        <dynamic_text y="38.2" text_from="ElementInfo" font="Sans,7,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" Halignment="AlignLeft" uuid="{2d77da30-4bd4-4c6d-a1ab-906ef53cfc67}" rotation="180" Valignment="AlignTop" text_width="-1" x="-45.67" frame="false" z="34">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line antialias="false" y1="24.09" style="line-style:normal;line-weight:thin;filling:none;color:black" end2="none" length1="1.5" x2="18.53" x1="18.53" y2="35.4" length2="1.5" end1="none" />
+        <ellipse y="25.34" antialias="false" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" width="9.56" x="-17" height="8.8" />
+        <line antialias="false" y1="27.09" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" x2="-9.19" x1="-15" y2="32.23" length2="1.5" end1="none" />
+        <terminal y="37" uuid="{2b2511f0-0f6d-4eb7-8312-b172a646ed68}" orientation="s" type="Outer" name="L" x="13" />
+        <terminal y="37" uuid="{060821b5-57e7-4771-9836-6a22145e8575}" orientation="s" type="Outer" name="O" x="-37" />
+        <terminal y="37" uuid="{096d6111-6145-4aa3-bb28-3964f424439b}" orientation="s" type="Outer" name="L" x="0" />
+        <terminal y="37" uuid="{455839e4-083a-41bf-b64d-f18c66047cbe}" orientation="s" type="Outer" name="L" x="-12" />
+        <terminal y="37" uuid="{fd125058-0378-4da1-ab5f-83e8e9bad155}" orientation="s" type="Outer" name="N" x="-24" />
+        <terminal y="37" uuid="{ee769930-d8c0-4552-9a17-233027133a44}" orientation="s" type="Outer" name="SW1" x="24" />
+        <terminal y="37" uuid="{de909544-d920-4691-b965-db0983011db6}" orientation="s" type="Outer" name="SW2" x="37" />
+    </description>
+</definition>

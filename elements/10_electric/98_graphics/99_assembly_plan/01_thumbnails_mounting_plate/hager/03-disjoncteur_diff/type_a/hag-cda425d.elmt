@@ -1,10 +1,10 @@
 <definition width="150" hotspot_y="82" type="element" version="0.90" hotspot_x="75" link_type="thumbnail" height="170">
-    <uuid uuid="{deda7429-3862-4a36-9d43-feaccc4121fc}"/>
+    <uuid uuid="{17d6f8e1-18cb-4c08-ae08-76da87d77d5d}"/>
     <names>
-        <name lang="fr">CDA 463D</name>
-        <name lang="de">CDA 463D</name>
-        <name lang="en">CDA 463D</name>
-        <name lang="cs">CDA 463D</name>
+        <name lang="fr">CDA 425D</name>
+        <name lang="de">CDA 425D</name>
+        <name lang="en">CDA 425D</name>
+        <name lang="cs">CDA 425D</name>
     </names>
     <kindInformations/>
     <elementInformations>
@@ -64,12 +64,12 @@ modified by TheKilroy</informations>
         <line length1="1.5" end2="none" x1="-21" y1="-70" x2="-15" y2="-64" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length2="1.5"/>
         <line length1="1.5" end2="none" x1="-21" y1="-64" x2="-15" y2="-70" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length2="1.5"/>
         <dynamic_text frame="false" uuid="{8bb939d1-3a61-48ee-99ac-e4d3f9f6c390}" keep_visual_rotation="false" text_width="-1" y="-26" Valignment="AlignTop" rotation="0" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal" z="37" x="-3" text_from="UserText" Halignment="AlignLeft">
-            <text>63A / IΔn 0,03 A</text>
-        </dynamic_text>
-        <dynamic_text frame="false" uuid="{8bb939d1-3a61-48ee-99ac-e4d3f9f6c390}" keep_visual_rotation="false" text_width="-1" y="-36" Valignment="AlignTop" rotation="0" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" z="38" x="-3" text_from="UserText" Halignment="AlignLeft">
-            <text>CDA 463D</text>
+            <text>25A / IΔn 0,03 A</text>
         </dynamic_text>
         <line length1="1.5" end2="none" x1="-18" y1="-70" x2="-18" y2="-64" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" length2="1.5"/>
+        <dynamic_text frame="false" uuid="{8bb939d1-3a61-48ee-99ac-e4d3f9f6c390}" keep_visual_rotation="false" text_width="-1" y="-36" Valignment="AlignTop" rotation="0" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" z="38" x="-3" text_from="UserText" Halignment="AlignLeft">
+            <text>CDA 425D</text>
+        </dynamic_text>
         <line length1="1.5" end2="none" x1="-21" y1="-67" x2="-15" y2="-67" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" length2="1.5"/>
         <circle diameter="13" y="-73.5" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false" x="10.5"/>
         <line length1="1.5" end2="none" x1="14" y1="-70" x2="20" y2="-64" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length2="1.5"/>
