@@ -20,18 +20,18 @@ I will add also some elements for the new smarthome using mainly Shelly products
 
 ## Preview
 ### Hager QuickConnect Series KN
-![Hager QuickConnect Terminals - Serie KN06](preview(hager/kn06.png)
-![Hager QuickConnect Terminals - Series KN10](preview(hager/kn10.png)
-![Hager QuickConnect Terminals - Series KN14](preview(hager/kn15.png)
-![Hager QuickConnect Terminals - Series KN18](preview(hager/kn18.png)
-![Hager QuickConnect Terminals - Series KN22](preview(hager/kn22.png)
-![Hager QuickConnect Terminals - Series KN26](preview(hager/kn26.png)
+![Hager QuickConnect Terminals - Serie KN06](preview/hager/kn06.png)
+![Hager QuickConnect Terminals - Series KN10](preview/hager/kn10.png)
+![Hager QuickConnect Terminals - Series KN14](preview/hager/kn15.png)
+![Hager QuickConnect Terminals - Series KN18](preview/hager/kn18.png)
+![Hager QuickConnect Terminals - Series KN22](preview/hager/kn22.png)
+![Hager QuickConnect Terminals - Series KN26](preview/hager/kn26.png)
 ### Hager Circuit Breaker - Series MBN
-![Hager Circuit Breaker - Series MBN1xx](preview(hager/mbn1xx.png)
-![Hager Circuit Breaker - Series MBN3xx](preview(hager/mbn3xx.png)
+![Hager Circuit Breaker - Series MBN1xx](preview/hager/mbn1xx.png)
+![Hager Circuit Breaker - Series MBN3xx](preview/hager/mbn3xx.png)
 ### Hager Residual Current Protective Device (RCD) - Series CDA
-![Hager RCD - Series CDA2xx](preview(hager/cda2xx.png)
-![Hager RCD - Series CDA4xx](preview(hager/cda4xx.png)
+![Hager RCD - Series CDA2xx](preview/hager/cda2xx.png)
+![Hager RCD - Series CDA4xx](preview/hager/cda4xx.png)
 ### Shelly
 ### Shelly Gen 1
 ![Elements of Generation 1 devices](preview/shelly/1_shelly_v1.png)
