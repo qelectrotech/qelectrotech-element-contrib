@@ -36,7 +36,7 @@ I will add also some elements for the new smarthome using mainly Shelly products
 ### Shelly Gen 1
 ![Elements of Generation 1 devices](preview/shelly/1_shelly_v1.png)
 ### Shelly 3EM
-![Shelly 3 EM](preview/shelly/2_shelly_3ems.png)
+![Shelly 3 EM](preview/shelly/2_shelly_3em.png)
 ### Shelly Plus Line
 ![Elements of the Plus line](preview/shelly/3_shelly_plus.png)
 ### Shelly Pro Line
