@@ -1,0 +1,93 @@
+<definition width="510" height="910" type="element" hotspot_x="5" hotspot_y="5" version="0.90" link_type="thumbnail">
+    <uuid uuid="{2e682404-c725-4c83-ae23-baa3ca0720c7}"/>
+    <names>
+        <name lang="fr">F93b - Type 80SL - 3 rangées</name>
+        <name lang="de">F93b - Typ 80SL - 3-reihig</name>
+        <name lang="cs">F93b - 80SL - 3 řady</name>
+        <name lang="en">F93b - Type 80SL - 3 rows</name>
+    </names>
+    <kindInformations/>
+    <elementInformations>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Coffret GAMMA+ 13 modules 2 rangées</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Hager</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">GD213A</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: TheKilroy</informations>
+    <description>
+        <rect width="490" style="line-style:normal;line-weight:thin;filling:gray;color:black" y="655" height="70" ry="0" rx="0" x="5" antialias="false"/>
+        <rect width="5.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="10" height="10.8" ry="2.7" rx="2.7" x="19.8" antialias="false"/>
+        <rect width="7.2" style="line-style:normal;line-weight:thin;filling:white;color:black" y="676.6" height="25.2" ry="0" rx="0" x="391" antialias="true"/>
+        <rect width="5.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="854" height="10.8" ry="2.7" rx="2.7" x="474.8" antialias="false"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="680.2" diameter="18" x="160.6" antialias="true"/>
+        <rect width="490" style="line-style:normal;line-weight:thin;filling:gray;color:black" y="435" height="70" ry="0" rx="0" x="5" antialias="false"/>
+        <rect width="5.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="10" height="10.8" ry="2.7" rx="2.7" x="474.8" antialias="false"/>
+        <rect width="5.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="854" height="10.8" ry="2.7" rx="2.7" x="19.8" antialias="false"/>
+        <rect width="7.2" style="line-style:normal;line-weight:thin;filling:white;color:black" y="676.6" height="25.2" ry="0" rx="0" x="103" antialias="true"/>
+        <rect width="32.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="676.6" height="25.2" ry="0" rx="0" x="349.6" antialias="true"/>
+        <rect width="3.6" style="line-style:normal;line-weight:thin;filling:yellow;color:black" y="24.4" height="8.1" ry="0" rx="0" x="9.9" antialias="false"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="680.2" diameter="18" x="322.6" antialias="true"/>
+        <rect width="3.6" style="line-style:normal;line-weight:thin;filling:yellow;color:black" y="868.4" height="8.1" ry="0" rx="0" x="464.9" antialias="false"/>
+        <rect width="7.2" style="line-style:normal;line-weight:thin;filling:white;color:black" y="456.6" height="25.2" ry="0" rx="0" x="391" antialias="true"/>
+        <rect width="25.2" style="line-style:normal;line-weight:thin;filling:gray;color:black" y="682" height="14.4" ry="3.6" rx="3.6" x="356.8" antialias="true"/>
+        <rect width="3.6" style="line-style:normal;line-weight:thin;filling:yellow;color:black" y="868.4" height="8.1" ry="0" rx="0" x="9.9" antialias="false"/>
+        <rect width="3.6" style="line-style:normal;line-weight:thin;filling:yellow;color:black" y="24.4" height="8.1" ry="0" rx="0" x="464.9" antialias="false"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="687.4" diameter="3.6" x="360.4" antialias="true"/>
+        <rect width="3.6" style="line-style:normal;line-weight:thin;filling:yellow;color:black" y="24.4" height="8.1" ry="0" rx="0" x="31.5" antialias="false"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="460.2" diameter="18" x="160.6" antialias="true"/>
+        <rect width="45" style="line-style:normal;line-weight:thin;filling:white;color:black" y="680.2" height="18" ry="9" rx="9" x="187.6" antialias="true"/>
+        <rect width="3.6" style="line-style:normal;line-weight:thin;filling:yellow;color:black" y="868.4" height="8.1" ry="0" rx="0" x="486.5" antialias="false"/>
+        <rect width="3.6" style="line-style:normal;line-weight:thin;filling:yellow;color:black" y="24.4" height="8.1" ry="0" rx="0" x="486.5" antialias="false"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="680.2" diameter="18" x="241.6" antialias="true"/>
+        <rect width="3.6" style="line-style:normal;line-weight:thin;filling:yellow;color:black" y="868.4" height="8.1" ry="0" rx="0" x="31.5" antialias="false"/>
+        <rect width="490" style="line-style:normal;line-weight:thin;filling:gray;color:black" y="175" height="70" ry="0" rx="0" x="5" antialias="false"/>
+        <rect width="5.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="35.2" height="10.8" ry="2.7" rx="2.7" x="474.8" antialias="false"/>
+        <rect width="45" style="line-style:normal;line-weight:thin;filling:white;color:black" y="680.2" height="18" ry="9" rx="9" x="268.6" antialias="true"/>
+        <rect width="5.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="35.2" height="10.8" ry="2.7" rx="2.7" x="19.8" antialias="false"/>
+        <rect width="32.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="676.6" height="25.2" ry="0" rx="0" x="119.2" antialias="true"/>
+        <rect width="7.2" style="line-style:normal;line-weight:thin;filling:white;color:black" y="456.6" height="25.2" ry="0" rx="0" x="103" antialias="true"/>
+        <rect width="25.2" style="line-style:normal;line-weight:thin;filling:gray;color:black" y="682" height="14.4" ry="3.6" rx="3.6" x="119.2" antialias="true"/>
+        <rect width="5.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="879.2" height="10.8" ry="2.7" rx="2.7" x="19.8" antialias="false"/>
+        <rect width="5.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="879.2" height="10.8" ry="2.7" rx="2.7" x="474.8" antialias="false"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="687.4" diameter="3.6" x="137.2" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:yellow;color:black" y="18.1" diameter="19.8" x="467.6" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:yellow;color:black" y="18.1" diameter="19.8" x="12.6" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:yellow;color:black" y="862.1" diameter="19.8" x="12.6" antialias="true"/>
+        <rect width="32.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="456.6" height="25.2" ry="0" rx="0" x="349.6" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:yellow;color:black" y="862.1" diameter="19.8" x="467.6" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="460.2" diameter="18" x="322.6" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="20.8" diameter="14.4" x="15.3" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="864.8" diameter="14.4" x="470.3" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="20.8" diameter="14.4" x="470.3" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="864.8" diameter="14.4" x="15.3" antialias="true"/>
+        <rect width="25.2" style="line-style:normal;line-weight:thin;filling:gray;color:black" y="462" height="14.4" ry="3.6" rx="3.6" x="356.8" antialias="true"/>
+        <rect width="7.2" style="line-style:normal;line-weight:thin;filling:white;color:black" y="196.4" height="25.2" ry="0" rx="0" x="391.3" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="200" diameter="18" x="160.9" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="467.4" diameter="3.6" x="360.4" antialias="true"/>
+        <rect width="45" style="line-style:normal;line-weight:thin;filling:white;color:black" y="460.2" height="18" ry="9" rx="9" x="187.6" antialias="true"/>
+        <rect width="7.2" style="line-style:normal;line-weight:thin;filling:white;color:black" y="196.4" height="25.2" ry="0" rx="0" x="103.3" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="460.2" diameter="18" x="241.6" antialias="true"/>
+        <rect width="32.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="196.4" height="25.2" ry="0" rx="0" x="349.9" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="200" diameter="18" x="322.9" antialias="true"/>
+        <rect width="45" style="line-style:normal;line-weight:thin;filling:white;color:black" y="460.2" height="18" ry="9" rx="9" x="268.6" antialias="true"/>
+        <rect width="25.2" style="line-style:normal;line-weight:thin;filling:gray;color:black" y="201.8" height="14.4" ry="3.6" rx="3.6" x="357.1" antialias="true"/>
+        <rect width="32.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="456.6" height="25.2" ry="0" rx="0" x="119.2" antialias="true"/>
+        <rect width="25.2" style="line-style:normal;line-weight:thin;filling:gray;color:black" y="462" height="14.4" ry="3.6" rx="3.6" x="119.2" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="207.2" diameter="3.6" x="360.7" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="467.4" diameter="3.6" x="137.2" antialias="true"/>
+        <rect width="45" style="line-style:normal;line-weight:thin;filling:white;color:black" y="200" height="18" ry="9" rx="9" x="187.9" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="200" diameter="18" x="241.9" antialias="true"/>
+        <rect width="45" style="line-style:normal;line-weight:thin;filling:white;color:black" y="200" height="18" ry="9" rx="9" x="268.9" antialias="true"/>
+        <rect width="32.4" style="line-style:normal;line-weight:thin;filling:white;color:black" y="196.4" height="25.2" ry="0" rx="0" x="119.5" antialias="true"/>
+        <rect width="25.2" style="line-style:normal;line-weight:thin;filling:gray;color:black" y="201.8" height="14.4" ry="3.6" rx="3.6" x="119.5" antialias="true"/>
+        <circle style="line-style:normal;line-weight:thin;filling:white;color:black" y="207.2" diameter="3.6" x="137.5" antialias="true"/>
+        <rect width="500" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" height="900" ry="0" rx="0" x="0" antialias="false"/>
+    </description>
+</definition>

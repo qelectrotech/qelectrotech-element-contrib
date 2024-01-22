@@ -5,16 +5,43 @@ Adding some elements I use to update the documentation while renovating the hous
 I will add also some elements for the new smarthome using mainly Shelly products.
 
 ## Changes
+
+### 2024-01-22
+* reflect scale changes to Hager quick connect terminals
+* added missing Hager quick connect terminals
+  Overview and datasheets [Hager QuickConnect] (https://hager.com/uk/search?q=QuickConnect)
+
 ### 2024-01-19
 * had to resize the graphic components to reflect the scale change.
 * added some missing Hager circuit breaker and RCD.
-* removed the Hager components that are already included in the QElectrotech package
+* added the old Hager System SL80 - F91 board
 * added the old Hager System SL80 - F92 board
+* added the old Hager System SL80 - F93 board
 
-## Shelly
+## Preview
+### Hager QuickConnect Series KN
+![Hager QuickConnect Terminals - Serie KN06](preview(hager/kn06.png)
+![Hager QuickConnect Terminals - Series KN10](preview(hager/kn10.png)
+![Hager QuickConnect Terminals - Series KN14](preview(hager/kn15.png)
+![Hager QuickConnect Terminals - Series KN18](preview(hager/kn18.png)
+![Hager QuickConnect Terminals - Series KN22](preview(hager/kn22.png)
+![Hager QuickConnect Terminals - Series KN26](preview(hager/kn26.png)
+### Hager Circuit Breaker - Series MBN
+![Hager Circuit Breaker - Series MBN1xx](preview(hager/mbn1xx.png)
+![Hager Circuit Breaker - Series MBN3xx](preview(hager/mbn3xx.png)
+### Hager Residual Current Protective Device (RCD) - Series CDA
+![Hager RCD - Series CDA2xx](preview(hager/cda2xx.png)
+![Hager RCD - Series CDA4xx](preview(hager/cda4xx.png)
+### Shelly
 ### Shelly Gen 1
-![Elements of Generation 1 devices](https://github.com/TheKilroy/qelectrotech-element-contrib/blob/main/elements/10_electric/20_manufacturers_articles/shelly/99_doc/1_shelly_gen_1.png)
+![Elements of Generation 1 devices](preview/shelly/1_shelly_v1.png)
+### Shelly 3EM
+![Shelly 3 EM](preview/shelly/2_shelly_3ems.png)
 ### Shelly Plus Line
-![Elements of the Plus line](https://github.com/TheKilroy/qelectrotech-element-contrib/blob/main/elements/10_electric/20_manufacturers_articles/shelly/99_doc/2_shelly_plus_line.png)
+![Elements of the Plus line](preview/shelly/3_shelly_plus.png)
 ### Shelly Pro Line
-![Elements of the Pro line](https://github.com/TheKilroy/qelectrotech-element-contrib/blob/main/elements/10_electric/20_manufacturers_articles/shelly/99_doc/3_shelly_pro_line.png)
+![Elements of the Pro line](preview/shelly/4_shelly_pro.png)
+### ABB - Main Switch
+![ABB E463/3KB](preview/abb/abb_e463.png)
+### Hensel
+![Hensel KKL54](preview/hensel/hens_kkl54.png)

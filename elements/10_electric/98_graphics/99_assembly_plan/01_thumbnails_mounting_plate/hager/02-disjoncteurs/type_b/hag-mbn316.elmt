@@ -1,21 +1,28 @@
 <definition width="120" type="element" link_type="thumbnail" height="170" hotspot_x="60" version="0.90" hotspot_y="85">
-    <uuid uuid="{09f4ca50-6941-491a-87b4-4618867332cb}"/>
+    <uuid uuid="{4e877a29-3c26-4cbd-a452-dd255458277a}"/>
     <names>
-        <name lang="de">MBN363</name>
-        <name lang="en">MBN363</name>
-        <name lang="fr">MBN363</name>
-        <name lang="cs">MBN363</name>
+        <name lang="de">MBN316</name>
+        <name lang="en">MBN316</name>
+        <name lang="fr">MBN316</name>
+        <name lang="cs">MBN316</name>
     </names>
     <kindInformations/>
     <elementInformations>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
         <elementInformation show="1" name="label">-F1</elementInformation>
         <elementInformation show="1" name="manufacturer">Hager</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
         <elementInformation show="1" name="designation">MBN316</elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
         <elementInformation show="1" name="description">Leitungsschutzschalter (LS 3P) B 16A</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
     </elementInformations>
     <informations>Author: plc-user for QElectroTech
 License:see http://qelectrotech.org/wiki/doc/elements_license
-modified by: TheKilroy</informations>
+modified by: TheKilroy    </informations>
     <description>
         <rect ry="0" width="36" rx="0" x="-54" height="166" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false" y="-83"/>
         <rect ry="0" width="36" rx="0" x="-18" height="166" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false" y="-83"/>
@@ -44,11 +51,11 @@ modified by: TheKilroy</informations>
         <text color="#99c1f1" x="30" rotation="0" y="-34" text=":hager" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
         <rect ry="0" width="4" rx="0" x="-54" height="22" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false" y="-66"/>
         <dynamic_text text_from="UserText" z="26" frame="false" keep_visual_rotation="false" Halignment="AlignLeft" uuid="{8bb939d1-3a61-48ee-99ac-e4d3f9f6c390}" x="-57" rotation="0" Valignment="AlignTop" y="-28" text_width="-1" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal">
-            <text>B63</text>
+            <text>B16</text>
         </dynamic_text>
         <rect ry="0" width="4" rx="0" x="50" height="22" style="line-style:normal;line-weight:thin;filling:white;color:black" antialias="false" y="-66"/>
         <dynamic_text text_from="UserText" z="28" frame="false" keep_visual_rotation="false" Halignment="AlignLeft" uuid="{8bb939d1-3a61-48ee-99ac-e4d3f9f6c390}" x="-57" rotation="0" Valignment="AlignTop" y="-36" text_width="-1" font="Sans Serif,4,-1,5,0,0,0,0,0,0,normal">
-            <text>MBN363</text>
+            <text>MBN316</text>
         </dynamic_text>
         <circle x="29.2" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false" y="-73.3" diameter="13"/>
         <text color="#ffffff" x="32" rotation="0" y="0" text="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
