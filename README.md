@@ -4,6 +4,8 @@ Duplicate elements but with different manufacturer references have been discarde
 Adding some elements I use to update the documentation while renovating the house. Mainly using Wago and Hager components.
 I will add also some elements for the new smarthome using mainly Shelly products.
 
+_NOTE: due to the scale change and the exact units in all caninet graphics I would recommend to set the grid in X direction to 9 instead of 10. The horizontal pitch for a unit is 18 mm  and therefore every grpahic element with a unit width of 1 HP ( or 1TE in german ) is exaclty 26 pixels in width._ 
+
 ## Changes
 
 ### 2024-01-22
