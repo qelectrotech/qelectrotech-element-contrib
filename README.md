@@ -22,7 +22,7 @@ I will add also some elements for the new smarthome using mainly Shelly products
 ### Hager QuickConnect Series KN
 ![Hager QuickConnect Terminals - Serie KN06](preview/hager/kn06.png)
 ![Hager QuickConnect Terminals - Series KN10](preview/hager/kn10.png)
-![Hager QuickConnect Terminals - Series KN14](preview/hager/kn15.png)
+![Hager QuickConnect Terminals - Series KN14](preview/hager/kn14.png)
 ![Hager QuickConnect Terminals - Series KN18](preview/hager/kn18.png)
 ![Hager QuickConnect Terminals - Series KN22](preview/hager/kn22.png)
 ![Hager QuickConnect Terminals - Series KN26](preview/hager/kn26.png)
