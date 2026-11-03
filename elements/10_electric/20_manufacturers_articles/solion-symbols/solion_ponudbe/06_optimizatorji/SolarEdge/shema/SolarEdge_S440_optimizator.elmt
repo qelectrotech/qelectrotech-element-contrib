@@ -1,0 +1,54 @@
+<definition version="0.200" type="element" link_type="simple" width="130" height="290" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{1d15440a-5ced-5ee4-bf32-2b7957c32a96}" />
+    <names>
+        <name lang="en">SolarEdge S440 optimizator</name>
+        <name lang="sl">SolarEdge S440 optimizator</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLES440-1GM4MRM</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge S440 optimizator</elementInformation>
+        <elementInformation name="description" show="1">optimizator; 1 MPPT, nizov na MPPT -, U_dc max - V, MPPT - V, I max [15] A</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Power Optimizer For Residential Installations S440 / S500 / S500B / S650B – datasheet DS-000091-ENG, 19. 1. 2026 – kopija uradnega SolarEdge dokumenta (vir: ottofischer.ch) str. 2 (električni in mehanski podatki, dolžine nizov), 3 (risbi raven/ukrivljen nosilec, opomba 11 o S500B-1GM4MRM); SolarEdge Power Optimizer For Residential Installations S440 / S500 / S500B / S650B – datasheet DS-000091-ENG, 14. 5. 2024 – kopija uradnega SolarEdge dokumenta (vir: midsummer.ie) str. 2 (S500B 550 W za inštalacije po 1. 4. 2024 – primerjava); SolarEdge Optimiseur de puissance S440 / S500 / S500B / S650B – DS-000091-FR, 20. 6. 2023 – kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2 (starejša izdaja: S500B samo z ukrivljenim nosilcem); SolarEdge Installation Guide for Europe, APAC, Australia &amp; South Africa, MAN-01-00057-3.3 – kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk; naslov v PDF metapodatkih je napačen) str. 12–13 (PDF 13–14): montaža M6 9,5 Nm, razmik 24,5 mm, Plus (+)/Minus (-) vhodni in izhodni konektor, vezava v niz; SolarEdge Power Optimizers Installation Guide MAN-01-00112-1.2 (Severna Amerika) – kopija uradnega SolarEdge dokumenta (vir: gridalternatives.org) str. 13 (zunaj NA ozemljitev ni potrebna – dvojna izolacija), 14 (vhodni kabli so kratki, sl. 6/7, vezava Output- na Output+); Prodajalec (samo potrditev kod artiklov): estg.eu S440-1GM4MRM; 7sun.eu 'Optimizer – SOLAREDGE – S500 – 1GM4MRM' str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.72</elementInformation>
+        <elementInformation name="width" show="1">129</elementInformation>
+        <elementInformation name="height" show="1">155</elementInformation>
+        <elementInformation name="depth" show="1">30</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Power Optimizer For Residential Installations S440 / S500 / S500B / S650B – datasheet DS-000091-ENG, 19. 1. 2026 – kopija uradnega SolarEdge dokumenta (vir: ottofischer.ch) str. 2 (električni in mehanski podatki, dolžine nizov), 3 (risbi raven/ukrivljen nosilec, opomba 11 o S500B-1GM4MRM); SolarEdge Power Optimizer For Residential Installations S440 / S500 / S500B / S650B – datasheet DS-000091-ENG, 14. 5. 2024 – kopija uradnega SolarEdge dokumenta (vir: midsummer.ie) str. 2 (S500B 550 W za inštalacije po 1. 4. 2024 – primerjava); SolarEdge Optimiseur de puissance S440 / S500 / S500B / S650B – DS-000091-FR, 20. 6. 2023 – kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2 (starejša izdaja: S500B samo z ukrivljenim nosilcem); SolarEdge Installation Guide for Europe, APAC, Australia &amp; South Africa, MAN-01-00057-3.3 – kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk; naslov v PDF metapodatkih je napačen) str. 12–13 (PDF 13–14): montaža M6 9,5 Nm, razmik 24,5 mm, Plus (+)/Minus (-) vhodni in izhodni konektor, vezava v niz; SolarEdge Power Optimizers Installation Guide MAN-01-00112-1.2 (Severna Amerika) – kopija uradnega SolarEdge dokumenta (vir: gridalternatives.org) str. 13 (zunaj NA ozemljitev ni potrebna – dvojna izolacija), 14 (vhodni kabli so kratki, sl. 6/7, vezava Output- na Output+); Prodajalec (samo potrditev kod artiklov): estg.eu S440-1GM4MRM; 7sun.eu 'Optimizer – SOLAREDGE – S500 – 1GM4MRM' str. -
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="80" height="250" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="30" y1="0" x2="30" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="33" y="36.69" text="Input+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="50" y1="0" x2="50" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="53" y="36.69" text="Input-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="22" y="2" width="36" height="47.69" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="22" y1="37.69" x2="58" y2="37.69" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="40" y1="2" x2="40" y2="37.69" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="35.05" y="46.69" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="30" y1="250" x2="30" y2="260" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="33" y="247" text="Output+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="50" y1="250" x2="50" y2="260" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="53" y="247" text="Output-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="22" y="195.37" width="36" height="52.63" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="22" y1="207.37" x2="58" y2="207.37" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="40" y1="207.37" x2="40" y2="248" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="32.58" y="204.37" text="OUT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="7.44" y="114" text="SolarEdge" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="10.31" y="128" text="S440-1GM4MRM" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="25.16" y="142" text="1 MPPT" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="64" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{3fc4c88e-1abe-5a6f-a31f-33dc8950f1f7}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="77" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{52428a90-c9a7-5f22-a06c-cce96568bc08}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{4a317f88-3370-58ee-a941-3bfb204c7a7b}" x="30" y="-10" orientation="n" type="Generic" name="PV:Input+" />
+        <terminal uuid="{c4fc6fcb-b303-5920-838a-1c83825522e5}" x="50" y="-10" orientation="n" type="Generic" name="PV:Input-" />
+        <terminal uuid="{e9006499-3d92-599b-b18a-79516e0198e2}" x="30" y="260" orientation="s" type="Generic" name="OUT:Output+" />
+        <terminal uuid="{2d0ddfda-a446-5499-ad2b-8a16d4b498b3}" x="50" y="260" orientation="s" type="Generic" name="OUT:Output-" />
+    </description>
+</definition>

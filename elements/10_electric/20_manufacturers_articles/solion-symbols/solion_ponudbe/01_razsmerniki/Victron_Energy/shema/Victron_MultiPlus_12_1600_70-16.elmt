@@ -1,0 +1,138 @@
+<definition version="0.200" type="element" link_type="simple" width="690" height="390" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{e4785a34-f17e-54d9-b66a-5c55f32a7e81}" />
+    <names>
+        <name lang="en">Victron MultiPlus 12/1600/70-16</name>
+        <name lang="sl">Victron MultiPlus 12/1600/70-16</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">MultiPlus 12/1600/70-16 230V VE.Bus (PMP122160000)</elementInformation>
+        <elementInformation name="designation" show="1">Victron MultiPlus 12/1600/70-16</elementInformation>
+        <elementInformation name="description" show="1">razsmernik-polnilnik; komunikacija: 2x VE.Bus RJ45 (C), daljinsko stikalo Remote, 2-polna sponka H z mostičkom (odstrani mostiček za stikalo), temperaturni senzor Temp -/+ (D), programabilni rele ALARM NO/COM/NC (E): AC 230 V/4 A, DC 4 A do 35 V, 1 A do 60 V, DIP stikala (A), stikalo On/Off/Charger only (B)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: MultiPlus 1600VA manual (EN) str. 10-11 (namestitev), 22 (tehnični podatki), 133-134 (Appendix A); Dimension drawing MultiPlus 12/24/48 V 1600VA str. 1 (tabela X: 12/1600 = 468, 24/1600 = 443 mm); Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_multiplus_12_1600/multiplus_12V_1600VA.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">10</elementInformation>
+        <elementInformation name="width" show="1">271</elementInformation>
+        <elementInformation name="height" show="1">468</elementInformation>
+        <elementInformation name="depth" show="1">118</elementInformation>
+    </elementInformations>
+    <informations>Viri: MultiPlus 1600VA manual (EN) str. 10-11 (namestitev), 22 (tehnični podatki), 133-134 (Appendix A); Dimension drawing MultiPlus 12/24/48 V 1600VA str. 1 (tabela X: 12/1600 = 468, 24/1600 = 443 mm); Victron produktna stran (SKU podatki)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="640" height="350" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="240" y1="350" x2="240" y2="360" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="243" y="347" text="AC-in-L1" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="260" y1="350" x2="260" y2="360" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="263" y="347" text="AC-in-PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="350" x2="280" y2="360" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="283" y="347" text="AC-in-N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="320" y1="350" x2="320" y2="360" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="323" y="347" text="AC-out-N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="340" y1="350" x2="340" y2="360" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="343" y="347" text="AC-out-PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="360" y1="350" x2="360" y2="360" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="363" y="347" text="AC-out-L1" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="400" y1="350" x2="400" y2="360" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="403" y="347" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="232" y="285.47" width="56" height="62.53" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="232" y1="297.47" x2="288" y2="297.47" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="250" y1="297.47" x2="250" y2="348" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="270" y1="297.47" x2="270" y2="348" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="247.63" y="294.47" text="AC_IN" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="312" y="285.47" width="56" height="62.53" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="312" y1="297.47" x2="368" y2="297.47" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="330" y1="297.47" x2="330" y2="348" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="350" y1="297.47" x2="350" y2="348" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="325.16" y="294.47" text="AC_OUT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="392" y="285.47" width="16" height="62.53" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="392" y1="297.47" x2="408" y2="297.47" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="395.05" y="294.47" text="PE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="12" width="50" height="76" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="52" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="19.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="52" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="70" x2="52" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="BAT+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="56" y="43" text="Baterija + (K)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="BAT-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="56" y="63" text="Baterija - (F)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="80" x2="-10" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="83" text="STARTER+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="56" y="83" text="Zaganjalna baterija + (G), 1 A" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="578" y="12" width="60" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="578" y1="30" x2="638" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="595.63" y="23" text="VEBUS" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="578" y1="50" x2="638" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="578" y="72" width="60" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="578" y1="90" x2="638" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="593.16" y="83" text="REMOTE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="578" y1="110" x2="638" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="578" y="132" width="60" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="578" y1="150" x2="638" y2="150" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="598.1" y="143" text="TEMP" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="578" y1="170" x2="638" y2="170" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="578" y="192" width="60" height="76" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="578" y1="210" x2="638" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="598.1" y="203" text="RELE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="578" y1="230" x2="638" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="578" y1="250" x2="638" y2="250" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="640" y1="40" x2="650" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="582" y="43" text="VE.Bus-1" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="448.31" y="43" text="RJ45 VE.Bus (panel, vzporedno…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="640" y1="60" x2="650" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="582" y="63" text="VE.Bus-2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="526.65" y="63" text="RJ45 VE.Bus" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="640" y1="100" x2="650" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="582" y="103" text="REMOTE-1" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="452.43" y="103" text="sponka H, levi pin (mostiček)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="640" y1="120" x2="650" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="582" y="123" text="REMOTE-2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="448.31" y="123" text="sponka H, desni pin (mostiček)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="640" y1="160" x2="650" y2="160" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="582" y="163" text="TEMP-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="539.02" y="163" text="senzor -" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="640" y1="180" x2="650" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="582" y="183" text="TEMP+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="539.02" y="183" text="senzor +" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="640" y1="220" x2="650" y2="220" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="582" y="223" text="ALARM-NO" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="543.14" y="223" text="delovni" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="640" y1="240" x2="650" y2="240" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="582" y="243" text="ALARM-COM" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="547.26" y="243" text="skupni" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="640" y1="260" x2="650" y2="260" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="582" y="263" text="ALARM-NC" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="543.14" y="263" text="mirovni" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="264.35" y="164" text="Victron Energy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="191.31" y="178" text="MultiPlus 12/1600/70-16 230V VE.Bus (PMP122160000)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="310.05" y="192" text="1F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="187.69" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e9505512-18d5-5e1a-b916-84c82ad69c61}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="187.69" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{5e08b529-a827-500c-8b10-45b545580142}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{e8bf9b40-4bdc-58aa-87cb-3beb8c2eba4f}" x="240" y="360" orientation="s" type="Generic" name="AC_IN:AC-in-L1" />
+        <terminal uuid="{852aa75d-35da-5148-919f-be09d4668bc5}" x="260" y="360" orientation="s" type="Generic" name="AC_IN:AC-in-PE" />
+        <terminal uuid="{43daad6b-35d9-51cc-bb38-981269d9bbae}" x="280" y="360" orientation="s" type="Generic" name="AC_IN:AC-in-N" />
+        <terminal uuid="{4a8c19eb-bb5d-5d17-af3e-5bd8578f98b9}" x="320" y="360" orientation="s" type="Generic" name="AC_OUT:AC-out-N" />
+        <terminal uuid="{bd8173e1-9b58-5333-8a1b-eca896185902}" x="340" y="360" orientation="s" type="Generic" name="AC_OUT:AC-out-PE" />
+        <terminal uuid="{5c82523d-739e-58bc-b678-92faa7c34b04}" x="360" y="360" orientation="s" type="Generic" name="AC_OUT:AC-out-L1" />
+        <terminal uuid="{f351cf1d-2cf6-53bb-bdef-cdb567ceb8eb}" x="400" y="360" orientation="s" type="Generic" name="PE:PE" />
+        <terminal uuid="{2e1afbcb-1665-5d15-b6b5-712b5f427f4a}" x="-10" y="40" orientation="w" type="Generic" name="BAT:BAT+" />
+        <terminal uuid="{208c477e-02cf-53ad-b522-588c6d96bd99}" x="-10" y="60" orientation="w" type="Generic" name="BAT:BAT-" />
+        <terminal uuid="{99975498-ace4-50b5-9880-1179d95cca4b}" x="-10" y="80" orientation="w" type="Generic" name="BAT:STARTER+" />
+        <terminal uuid="{43fe82ab-111f-5401-aaa3-061f411f568f}" x="650" y="40" orientation="e" type="Generic" name="VEBUS:VE.Bus-1" />
+        <terminal uuid="{9f048743-178d-576f-90a3-5e3aab5a7d3c}" x="650" y="60" orientation="e" type="Generic" name="VEBUS:VE.Bus-2" />
+        <terminal uuid="{f9162123-87b5-524d-a333-94fab15e7132}" x="650" y="100" orientation="e" type="Generic" name="REMOTE:REMOTE-1" />
+        <terminal uuid="{dc8e1313-f783-56a7-a604-fca7a5ab6cb2}" x="650" y="120" orientation="e" type="Generic" name="REMOTE:REMOTE-2" />
+        <terminal uuid="{bc020291-5b83-5d00-8f6a-a9112b0f91aa}" x="650" y="160" orientation="e" type="Generic" name="TEMP:TEMP-" />
+        <terminal uuid="{3db9e42a-6769-59a4-b1f3-1b30e1988092}" x="650" y="180" orientation="e" type="Generic" name="TEMP:TEMP+" />
+        <terminal uuid="{87ffa69e-be80-57a1-89fb-800e275734ce}" x="650" y="220" orientation="e" type="Generic" name="RELE:ALARM-NO" />
+        <terminal uuid="{c364896e-52eb-5d1d-acd4-82f86e6d685f}" x="650" y="240" orientation="e" type="Generic" name="RELE:ALARM-COM" />
+        <terminal uuid="{9ca55a4a-63a1-56c3-bce8-a890e54b2478}" x="650" y="260" orientation="e" type="Generic" name="RELE:ALARM-NC" />
+    </description>
+</definition>

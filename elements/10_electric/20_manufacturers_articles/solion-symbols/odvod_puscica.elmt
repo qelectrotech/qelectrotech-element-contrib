@@ -1,0 +1,22 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="20" hotspot_x="30" hotspot_y="10">
+    <uuid uuid="{fb456ab9-058c-4ecd-96c1-8ceeef957f78}" />
+    <names>
+        <name lang="en">Outgoing feeder (arrow)</name>
+        <name lang="fr">Départ (flèche)</name>
+        <name lang="sl">Odvod (puščica)</name>
+    </names>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <line x1="-30" y1="0" x2="20" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <polygon x1="20" y1="-5" x2="30" y2="0" x3="20" y3="5" closed="true" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" />
+        <dynamic_text x="-30" y="-30" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{0ae2631b-2173-41c0-935a-351caf630bd8}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-30" y="-17" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{ebd69be1-75bc-4c14-ad41-45b5f2e90f8c}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{454a6199-e5e8-41d2-aaf4-6ab79b8f0c93}" name="1" x="-30" y="0" orientation="w" type="Generic" />
+    </description>
+</definition>

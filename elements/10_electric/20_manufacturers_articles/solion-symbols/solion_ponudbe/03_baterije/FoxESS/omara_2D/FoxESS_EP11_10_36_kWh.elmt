@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1440" height="1280" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{5d8edb56-6134-5051-b12a-d8111fbcaf00}" />
+    <names>
+        <name lang="en">FoxESS EP11 10,36 kWh (front view)</name>
+        <name lang="sl">FoxESS EP11 10,36 kWh (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">FoxESS</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">EP11</elementInformation>
+        <elementInformation name="designation" show="1">FoxESS EP11 10,36 kWh</elementInformation>
+        <elementInformation name="description" show="1">baterija; baterija [348, 438] V; komunikacija: PCS (do BMS vhoda razsmernika): pin1 Wakeup+, pin2 Wakeup-, pin4 CANL, pin5 CANH, pin6 CANH, pin7 CANL, LINK IN / LINK OUT (vzporedno, CAN): pin1 Main_SL/Last_SL, pin2 CANL, pin5 CANH, pin6 GND, pin7 Wakeup, pin8 Encode, LED ×5 (status, SOC)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: FoxESS EP11 Datasheet V1.6 (2026-07-10) str. 2; FoxESS EP11 Datasheet V1.4 (2025-04-01) str. 2; FoxESS EP11 User Manual EN – kopija pri prodajalcu 7sun.eu (proizvajalec ne objavlja javno) str. 3–5 (spec., vmesniki, pini), 5 (paket), 9–13 (vezava); FoxESS EP11 skrajšana navodila – kopija 7sun.eu (samo slike) str. 1–3</elementInformation>
+        <elementInformation name="mass_kg" show="1">99</elementInformation>
+        <elementInformation name="width" show="1">710</elementInformation>
+        <elementInformation name="height" show="1">625</elementInformation>
+        <elementInformation name="depth" show="1">147</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: FoxESS EP11 Datasheet V1.6 (2026-07-10) str. 2; FoxESS EP11 Datasheet V1.4 (2025-04-01) str. 2; FoxESS EP11 User Manual EN – kopija pri prodajalcu 7sun.eu (proizvajalec ne objavlja javno) str. 3–5 (spec., vmesniki, pini), 5 (paket), 9–13 (vezava); FoxESS EP11 skrajšana navodila – kopija 7sun.eu (samo slike) str. 1–3
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1420" height="1250" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1414" height="1244" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="644.88" y="437.5" text="FoxESS" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="670.42" y="473.42" text="EP11" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{bb82b582-df6e-5cd5-b6d7-5caad2dda293}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

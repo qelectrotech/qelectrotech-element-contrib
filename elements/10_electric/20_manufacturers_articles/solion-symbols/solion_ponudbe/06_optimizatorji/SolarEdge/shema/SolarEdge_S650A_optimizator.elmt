@@ -1,0 +1,54 @@
+<definition version="0.200" type="element" link_type="simple" width="140" height="290" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{eefac591-984e-5a6e-b7e2-949814333281}" />
+    <names>
+        <name lang="en">SolarEdge S650A optimizator</name>
+        <name lang="sl">SolarEdge S650A optimizator</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLES650A-1DM4MBM</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge S650A optimizator</elementInformation>
+        <elementInformation name="description" show="1">optimizator; 1 MPPT, nizov na MPPT -, U_dc max 80 V, MPPT [12.5, 80] V, I max [15] A</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Leistungsoptimierer S650A – datasheet DS-000237-DE, 19. 7. 2026 – kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.de) str. 2 (električni in mehanski podatki, združljivi razsmerniki), 3 (dolžine nizov, opombe 4–9, risba ukrivljenega nosilca); SolarEdge Power Optimizer For Residential Installations S650A – datasheet DS-000237-ENG, 3. 12. 2024 – kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. 2 (tabela, samo 3F Home Wave/Hub od FW 4.22, max niz 50, zmanjšanje moči &gt;75 °C); SolarEdge Power Optimizer For Residential Installations S650A – datasheet DS-000237-ENG, 9. 3. 2025 – kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 2 (max niz 38, FW 4.23.XX); SolarEdge Power Optimizer S440 / S500 / S500B / S650B – DS-000091-ENG, 19. 1. 2026 (za primerjavo S650A ↔ S650B) – kopija uradnega SolarEdge dokumenta (vir: ottofischer.ch) str. 2; SolarEdge Installation Guide MAN-01-00057-3.3 (Europe) in Power Optimizers Installation Guide MAN-01-00112-1.2 – kopiji uradnih SolarEdge dokumentov (vir: portal.segen.co.uk, gridalternatives.org) str. MAN-01-00057: 12–13; MAN-01-00112: 13–14 (montaža, imena konektorjev, ozemljitev); Prodajalec (samo potrditev kode artikla): BayWa r.e. 'SolarEdge Power Optimizer S650A (S650A-1DM4MBM)' str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.79</elementInformation>
+        <elementInformation name="width" show="1">129</elementInformation>
+        <elementInformation name="height" show="1">165</elementInformation>
+        <elementInformation name="depth" show="1">45</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Leistungsoptimierer S650A – datasheet DS-000237-DE, 19. 7. 2026 – kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.de) str. 2 (električni in mehanski podatki, združljivi razsmerniki), 3 (dolžine nizov, opombe 4–9, risba ukrivljenega nosilca); SolarEdge Power Optimizer For Residential Installations S650A – datasheet DS-000237-ENG, 3. 12. 2024 – kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. 2 (tabela, samo 3F Home Wave/Hub od FW 4.22, max niz 50, zmanjšanje moči &gt;75 °C); SolarEdge Power Optimizer For Residential Installations S650A – datasheet DS-000237-ENG, 9. 3. 2025 – kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 2 (max niz 38, FW 4.23.XX); SolarEdge Power Optimizer S440 / S500 / S500B / S650B – DS-000091-ENG, 19. 1. 2026 (za primerjavo S650A ↔ S650B) – kopija uradnega SolarEdge dokumenta (vir: ottofischer.ch) str. 2; SolarEdge Installation Guide MAN-01-00057-3.3 (Europe) in Power Optimizers Installation Guide MAN-01-00112-1.2 – kopiji uradnih SolarEdge dokumentov (vir: portal.segen.co.uk, gridalternatives.org) str. MAN-01-00057: 12–13; MAN-01-00112: 13–14 (montaža, imena konektorjev, ozemljitev); Prodajalec (samo potrditev kode artikla): BayWa r.e. 'SolarEdge Power Optimizer S650A (S650A-1DM4MBM)' str. -
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="90" height="250" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="40" y1="0" x2="40" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="43" y="36.69" text="Input+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="60" y1="0" x2="60" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="63" y="36.69" text="Input-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="32" y="2" width="36" height="47.69" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="32" y1="37.69" x2="68" y2="37.69" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="50" y1="2" x2="50" y2="37.69" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="45.05" y="46.69" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="40" y1="250" x2="40" y2="260" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="43" y="247" text="Output+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="60" y1="250" x2="60" y2="260" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="63" y="247" text="Output-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="32" y="195.37" width="36" height="52.63" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="32" y1="207.37" x2="68" y2="207.37" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="50" y1="207.37" x2="50" y2="248" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="42.58" y="204.37" text="OUT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="12.44" y="114" text="SolarEdge" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="12.84" y="128" text="S650A-1DM4MBM" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="30.16" y="142" text="1 MPPT" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="64" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{2ad84762-6826-50ed-abdd-6bb17d9361ac}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="77" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{64397b52-02dd-51d8-a5a4-8ae38d42acce}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{59a2a545-2070-55ce-a33a-0fb8f03c8af0}" x="40" y="-10" orientation="n" type="Generic" name="PV:Input+" />
+        <terminal uuid="{1f34e885-f3fd-554e-8e89-690ad6e44b35}" x="60" y="-10" orientation="n" type="Generic" name="PV:Input-" />
+        <terminal uuid="{180726c0-63a6-5fb7-88e7-f67c866a0c3a}" x="40" y="260" orientation="s" type="Generic" name="OUT:Output+" />
+        <terminal uuid="{ac86aa07-beb1-50cf-a16e-0eafdd712941}" x="60" y="260" orientation="s" type="Generic" name="OUT:Output-" />
+    </description>
+</definition>

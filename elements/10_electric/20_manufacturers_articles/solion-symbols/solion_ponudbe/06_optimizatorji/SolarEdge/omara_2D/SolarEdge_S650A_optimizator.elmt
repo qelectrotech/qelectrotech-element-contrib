@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="280" height="360" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{1b607046-1b6f-527d-b352-34303c383235}" />
+    <names>
+        <name lang="en">SolarEdge S650A optimizator (front view)</name>
+        <name lang="sl">SolarEdge S650A optimizator (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLES650A-1DM4MBM</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge S650A optimizator</elementInformation>
+        <elementInformation name="description" show="1">optimizator; 1 MPPT, nizov na MPPT -, U_dc max 80 V, MPPT [12.5, 80] V, I max [15] A</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Leistungsoptimierer S650A – datasheet DS-000237-DE, 19. 7. 2026 – kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.de) str. 2 (električni in mehanski podatki, združljivi razsmerniki), 3 (dolžine nizov, opombe 4–9, risba ukrivljenega nosilca); SolarEdge Power Optimizer For Residential Installations S650A – datasheet DS-000237-ENG, 3. 12. 2024 – kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. 2 (tabela, samo 3F Home Wave/Hub od FW 4.22, max niz 50, zmanjšanje moči &gt;75 °C); SolarEdge Power Optimizer For Residential Installations S650A – datasheet DS-000237-ENG, 9. 3. 2025 – kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 2 (max niz 38, FW 4.23.XX); SolarEdge Power Optimizer S440 / S500 / S500B / S650B – DS-000091-ENG, 19. 1. 2026 (za primerjavo S650A ↔ S650B) – kopija uradnega SolarEdge dokumenta (vir: ottofischer.ch) str. 2; SolarEdge Installation Guide MAN-01-00057-3.3 (Europe) in Power Optimizers Installation Guide MAN-01-00112-1.2 – kopiji uradnih SolarEdge dokumentov (vir: portal.segen.co.uk, gridalternatives.org) str. MAN-01-00057: 12–13; MAN-01-00112: 13–14 (montaža, imena konektorjev, ozemljitev); Prodajalec (samo potrditev kode artikla): BayWa r.e. 'SolarEdge Power Optimizer S650A (S650A-1DM4MBM)' str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.79</elementInformation>
+        <elementInformation name="width" show="1">129</elementInformation>
+        <elementInformation name="height" show="1">165</elementInformation>
+        <elementInformation name="depth" show="1">45</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Leistungsoptimierer S650A – datasheet DS-000237-DE, 19. 7. 2026 – kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.de) str. 2 (električni in mehanski podatki, združljivi razsmerniki), 3 (dolžine nizov, opombe 4–9, risba ukrivljenega nosilca); SolarEdge Power Optimizer For Residential Installations S650A – datasheet DS-000237-ENG, 3. 12. 2024 – kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. 2 (tabela, samo 3F Home Wave/Hub od FW 4.22, max niz 50, zmanjšanje moči &gt;75 °C); SolarEdge Power Optimizer For Residential Installations S650A – datasheet DS-000237-ENG, 9. 3. 2025 – kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 2 (max niz 38, FW 4.23.XX); SolarEdge Power Optimizer S440 / S500 / S500B / S650B – DS-000091-ENG, 19. 1. 2026 (za primerjavo S650A ↔ S650B) – kopija uradnega SolarEdge dokumenta (vir: ottofischer.ch) str. 2; SolarEdge Installation Guide MAN-01-00057-3.3 (Europe) in Power Optimizers Installation Guide MAN-01-00112-1.2 – kopiji uradnih SolarEdge dokumentov (vir: portal.segen.co.uk, gridalternatives.org) str. MAN-01-00057: 12–13; MAN-01-00112: 13–14 (montaža, imena konektorjev, ozemljitev); Prodajalec (samo potrditev kode artikla): BayWa r.e. 'SolarEdge Power Optimizer S650A (S650A-1DM4MBM)' str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="258" height="330" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="252" height="324" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="313" width="252" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="96.02" y="324.5" text="PV · OUT" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="39.46" y="119.49" text="SolarEdge" rotation="0" font="Liberation Sans,22,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="43.24" y="144.77" text="S650A-1DM4MBM" rotation="0" font="Liberation Sans,16,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{92cf4c5a-f594-5ab8-a28a-2e7377c3d00c}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

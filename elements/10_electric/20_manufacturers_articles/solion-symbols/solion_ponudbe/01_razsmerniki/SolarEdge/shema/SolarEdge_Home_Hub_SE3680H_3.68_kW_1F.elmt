@@ -1,0 +1,180 @@
+<definition version="0.200" type="element" link_type="simple" width="510" height="570" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{8af4d06f-6c32-5f83-930f-9f35d4bdea26}" />
+    <names>
+        <name lang="en">SolarEdge Home Hub SE3680H 3.68 kW 1F</name>
+        <name lang="sl">SolarEdge Home Hub SE3680H 3.68 kW 1F</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE3680H-RWBMNBF54</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Home Hub SE3680H 3.68 kW 1F</elementInformation>
+        <elementInformation name="description" show="1">hibridni razsmernik; 1 MPPT, nizov na MPPT [2], U_dc max 480 V, MPPT - V, I max - A; komunikacija: RS485-1 (B, A, G) – števec SolarEdge ali tuji (Modbus); terminacija s stikali, RS485-2 (B, A, G) – veriga leader/follower, vtič 'Backup Interface': 12V +/-, RSD -/+, RS485 G/A/B (do Home Backup Interface), vtič '2nd Inv. / Battery': RSD -/+ (RSD več razsmernikov), Battery G/En/A/B, Ethernet RJ45 (LAN, CAT5e/6), SolarEdge Home Network (vgrajen plug-in + antena; Inline Meter, Smart Energy Hot Water, Home Battery 400V), Wi-Fi (opcijska antena), LTE (opcija), SetApp (vgrajena Wi-Fi dostopna točka)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Home Hub Inverter Single Phase, for Europe – datasheet DS-000198-EU (22. 8. 2023); kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 2; SolarEdge Home Hub-Wechselrichter Einphasig – Datenblatt DS-000198-DE (24. 8. 2023); kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2; Home Hub Inverter – Single Phase Quick Installation Guide for Europe models SEXXXXH-RWMBNBF54, Rev 1.2 (julij 2023); kopija uradnega SolarEdge dokumenta (vir: cdn.shopify.com) str. 1 (A montaža, B ožičenje AC/PV/baterija, zaščita 28/50 A), 2 (C LAN, D baterija G En A B, E Home Network, F Backup Interface 12V/RSD/RS485, G več razsmernikov RS485-2, H števec RS485-1 in RSD); Home Hub Inverter – Single Phase Quick Installation Guide For Europe (marec 2023); kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 1 (masa 12,6 kg na sliki montaže), 2; teh_iz_ponudb (skupine/A5_solaredge.json) – vir v zapisu: goodenergy.co.uk SolarEdge-inverter-datasheet.pdf; vrednosti tokov/napetosti potrjene z DS-000198-EU str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">12</elementInformation>
+        <elementInformation name="width" show="1">370</elementInformation>
+        <elementInformation name="height" show="1">459</elementInformation>
+        <elementInformation name="depth" show="1">154</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Home Hub Inverter Single Phase, for Europe – datasheet DS-000198-EU (22. 8. 2023); kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 2; SolarEdge Home Hub-Wechselrichter Einphasig – Datenblatt DS-000198-DE (24. 8. 2023); kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2; Home Hub Inverter – Single Phase Quick Installation Guide for Europe models SEXXXXH-RWMBNBF54, Rev 1.2 (julij 2023); kopija uradnega SolarEdge dokumenta (vir: cdn.shopify.com) str. 1 (A montaža, B ožičenje AC/PV/baterija, zaščita 28/50 A), 2 (C LAN, D baterija G En A B, E Home Network, F Backup Interface 12V/RSD/RS485, G več razsmernikov RS485-2, H števec RS485-1 in RSD); Home Hub Inverter – Single Phase Quick Installation Guide For Europe (marec 2023); kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 1 (masa 12,6 kg na sliki montaže), 2; teh_iz_ponudb (skupine/A5_solaredge.json) – vir v zapisu: goodenergy.co.uk SolarEdge-inverter-datasheet.pdf; vrednosti tokov/napetosti potrjene z DS-000198-EU str. -
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="460" height="530" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="200" y1="0" x2="200" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="203" y="26.79" text="PV1+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="220" y1="0" x2="220" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="223" y="26.79" text="PV1-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="240" y1="0" x2="240" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="243" y="26.79" text="PV2+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="260" y1="0" x2="260" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="263" y="26.79" text="PV2-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="192" y="2" width="76" height="37.79" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="192" y1="27.79" x2="268" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="210" y1="2" x2="210" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="230" y1="2" x2="230" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="250" y1="2" x2="250" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="225.05" y="36.79" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="210" y1="530" x2="210" y2="540" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="213" y="527" text="L" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="230" y1="530" x2="230" y2="540" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="233" y="527" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="250" y1="530" x2="250" y2="540" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="253" y="527" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="202" y="500.1" width="56" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="202" y1="512.1" x2="258" y2="512.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="220" y1="512.1" x2="220" y2="528" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="240" y1="512.1" x2="240" y2="528" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="220.1" y="509.1" text="GRID" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="62" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="80" x2="32" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.58" y="73" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="100" x2="32" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="90" x2="-10" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="93" text="BAT+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="93" text="Home Battery 400V + (MC4)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="110" x2="-10" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="113" text="BAT-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="113" text="Home Battery 400V - (MC4)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="398" y="62" width="60" height="416" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="80" x2="458" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="420.58" y="73" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="398" y1="100" x2="458" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="120" x2="458" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="140" x2="458" y2="140" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="160" x2="458" y2="160" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="180" x2="458" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="200" x2="458" y2="200" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="220" x2="458" y2="220" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="240" x2="458" y2="240" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="260" x2="458" y2="260" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="280" x2="458" y2="280" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="300" x2="458" y2="300" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="320" x2="458" y2="320" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="340" x2="458" y2="340" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="360" x2="458" y2="360" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="380" x2="458" y2="380" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="400" x2="458" y2="400" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="420" x2="458" y2="420" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="440" x2="458" y2="440" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="398" y1="460" x2="458" y2="460" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="460" y1="90" x2="470" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="93" text="RS485-1 B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="280.68" y="93" text="RS485-1 B – števec (Modbus)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="110" x2="470" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="113" text="RS485-1 A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="317.79" y="113" text="RS485-1 A – števec" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="130" x2="470" y2="130" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="133" text="RS485-1 G" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="317.79" y="133" text="RS485-1 G – števec" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="150" x2="470" y2="150" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="153" text="RS485-2 B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="280.68" y="153" text="RS485-2 B – leader/follower" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="170" x2="470" y2="170" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="173" text="RS485-2 A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="280.68" y="173" text="RS485-2 A – leader/follower" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="190" x2="470" y2="190" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="193" text="RS485-2 G" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="280.68" y="193" text="RS485-2 G – leader/follower" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="210" x2="470" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="213" text="BI 12V+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="272.43" y="213" text="vtič 'Backup Interface' 12V +" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="230" x2="470" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="233" text="BI 12V-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="272.43" y="233" text="vtič 'Backup Interface' 12V -" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="250" x2="470" y2="250" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="253" text="BI RSD-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="276.56" y="253" text="vtič 'Backup Interface' RSD…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="270" x2="470" y2="270" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="273" text="BI RSD+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="272.43" y="273" text="vtič 'Backup Interface' RSD +" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="290" x2="470" y2="290" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="293" text="BI G" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="268.31" y="293" text="vtič 'Backup Interface' RS485…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="310" x2="470" y2="310" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="313" text="BI A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="268.31" y="313" text="vtič 'Backup Interface' RS485…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="330" x2="470" y2="330" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="333" text="BI B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="268.31" y="333" text="vtič 'Backup Interface' RS485…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="350" x2="470" y2="350" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="353" text="2INV RSD-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="268.31" y="353" text="vtič '2nd Inv.' RSD - (RSD ve…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="370" x2="470" y2="370" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="373" text="2INV RSD+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="305.42" y="373" text="vtič '2nd Inv.' RSD +" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="390" x2="470" y2="390" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="393" text="BAT G" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="268.31" y="393" text="vtič 'Battery' G – kom. do Ho…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="410" x2="470" y2="410" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="413" text="BAT En" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="284.8" y="413" text="vtič 'Battery' En (enable)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="430" x2="470" y2="430" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="433" text="BAT A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="326.03" y="433" text="vtič 'Battery' A" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="450" x2="470" y2="450" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="453" text="BAT B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="326.03" y="453" text="vtič 'Battery' B" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="460" y1="470" x2="470" y2="470" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="402" y="473" text="ETH" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="313.66" y="473" text="RJ45 Ethernet (LAN)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="172.13" y="254" text="SolarEdge" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="162.64" y="268" text="SE3680H-RWBMNBF54" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="152.74" y="282" text="3.68 kW · 1 MPPT · 1F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="147.07" y="54" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{c85806eb-42dc-5932-8a41-9f5f5686ae76}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="147.07" y="67" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{66d26fa2-b633-5a82-bb87-59f7f4862b29}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{988303cd-f7f3-5e63-bf74-dcad0ac445ff}" x="200" y="-10" orientation="n" type="Generic" name="PV:PV1+" />
+        <terminal uuid="{a870d12a-c998-5f2a-bebd-a5138ccdc80d}" x="220" y="-10" orientation="n" type="Generic" name="PV:PV1-" />
+        <terminal uuid="{00ac4924-ded5-5267-a201-c2e0a9bff63f}" x="240" y="-10" orientation="n" type="Generic" name="PV:PV2+" />
+        <terminal uuid="{3f728c9c-5f0b-533b-8cfb-ef3c64094cf2}" x="260" y="-10" orientation="n" type="Generic" name="PV:PV2-" />
+        <terminal uuid="{a640b0b0-e834-5145-8b14-d41f765116b1}" x="210" y="540" orientation="s" type="Generic" name="GRID:L" />
+        <terminal uuid="{a0d466ae-2816-5066-9bbf-7d4224c90d9d}" x="230" y="540" orientation="s" type="Generic" name="GRID:N" />
+        <terminal uuid="{ba016d9a-2625-5f10-9931-c78fd04f34e4}" x="250" y="540" orientation="s" type="Generic" name="GRID:PE" />
+        <terminal uuid="{45b0b06b-34df-520f-acaa-2db4a1800b47}" x="-10" y="90" orientation="w" type="Generic" name="BAT:BAT+" />
+        <terminal uuid="{62d77f3a-56d8-556e-84b2-66caea8486ae}" x="-10" y="110" orientation="w" type="Generic" name="BAT:BAT-" />
+        <terminal uuid="{b396bdc7-1c10-5e0b-8798-c9fac93d6ad3}" x="470" y="90" orientation="e" type="Generic" name="COM:RS485-1 B" />
+        <terminal uuid="{dc1c46ad-afc6-5aa4-ba82-c6449045bd89}" x="470" y="110" orientation="e" type="Generic" name="COM:RS485-1 A" />
+        <terminal uuid="{1ff1937b-e7e5-5578-be08-f493c708f227}" x="470" y="130" orientation="e" type="Generic" name="COM:RS485-1 G" />
+        <terminal uuid="{1ee93d43-96d9-5025-bef6-9fbe2ca8fb95}" x="470" y="150" orientation="e" type="Generic" name="COM:RS485-2 B" />
+        <terminal uuid="{f2bd7537-a1e6-57b9-8d08-82b68b3c70ef}" x="470" y="170" orientation="e" type="Generic" name="COM:RS485-2 A" />
+        <terminal uuid="{b43461ce-2392-5de5-938e-6602dad1a5cf}" x="470" y="190" orientation="e" type="Generic" name="COM:RS485-2 G" />
+        <terminal uuid="{1d477e41-9d02-5372-bc2f-dabd6bc692cb}" x="470" y="210" orientation="e" type="Generic" name="COM:BI 12V+" />
+        <terminal uuid="{215418f9-8fd0-56ef-a265-287c243ad79d}" x="470" y="230" orientation="e" type="Generic" name="COM:BI 12V-" />
+        <terminal uuid="{6c3f93ab-a049-5d5c-90fb-40d03dd01b1d}" x="470" y="250" orientation="e" type="Generic" name="COM:BI RSD-" />
+        <terminal uuid="{0f8174c2-7328-5962-ba42-e0490e9660ef}" x="470" y="270" orientation="e" type="Generic" name="COM:BI RSD+" />
+        <terminal uuid="{1472921f-57d7-597b-8fe2-c8345e5b6c44}" x="470" y="290" orientation="e" type="Generic" name="COM:BI G" />
+        <terminal uuid="{1b1a6ced-c0a8-5d3b-970d-cfc7fb9a59e5}" x="470" y="310" orientation="e" type="Generic" name="COM:BI A" />
+        <terminal uuid="{cd4cdcb1-89dd-59b4-9688-0f6094e1c2ad}" x="470" y="330" orientation="e" type="Generic" name="COM:BI B" />
+        <terminal uuid="{f3123607-720a-5df9-b36e-a85cb301a1b5}" x="470" y="350" orientation="e" type="Generic" name="COM:2INV RSD-" />
+        <terminal uuid="{2661e4da-6cf9-5155-b25f-d16e07688ca6}" x="470" y="370" orientation="e" type="Generic" name="COM:2INV RSD+" />
+        <terminal uuid="{1229d69f-ddb4-5f6d-956a-1c20b157ef87}" x="470" y="390" orientation="e" type="Generic" name="COM:BAT G" />
+        <terminal uuid="{d902012b-44aa-5e0b-9de3-728f79601eba}" x="470" y="410" orientation="e" type="Generic" name="COM:BAT En" />
+        <terminal uuid="{cb00143f-bb2f-5090-9fbc-edacfa3c5c29}" x="470" y="430" orientation="e" type="Generic" name="COM:BAT A" />
+        <terminal uuid="{9de65376-6023-5782-9552-b362d2cd97a9}" x="470" y="450" orientation="e" type="Generic" name="COM:BAT B" />
+        <terminal uuid="{9dee5348-7d57-537c-a4d5-eb46677de6a6}" x="470" y="470" orientation="e" type="Generic" name="COM:ETH" />
+    </description>
+</definition>

@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="500" height="810" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{fe4bb9e4-2d51-51d9-9d83-43a4d096635b}" />
+    <names>
+        <name lang="en">SolarEdge Home Backup Interface 3F (front view)</name>
+        <name lang="sl">SolarEdge Home Backup Interface 3F (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLEBI-NEUNU-3P-01</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Home Backup Interface 3F</elementInformation>
+        <elementInformation name="description" show="1">gateway/backup; komunikacija: RS485 (1 komunikacijski vhod, do razsmernika RS485-1, CAT5e/CAT6), SolarEdge Home Network (brezžično, v pričakovanju podpore FW), Vgrajen števec uvoz/izvoz 1,25 % (v pričakovanju podpore FW)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Home Backup Interface, Three Phase, for Europe BI-EU3P - datasheet (EN), DS-000142-EU, 30. 3. 2023; kopija uradnega SolarEdge dokumenta (vir: res.cloudinary.com/gpceurope) str. 2; (lokalna kopija) DS-000142-EU 2023 str. 2; SolarEdge Home Backup-Interface, dreiphasig BI-EU3P - Datenblatt (DE), DS-000142, 18. 4. 2022; kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 2; SolarEdge Home Backup Interface, Three Phase BI-EU3P - Quick Installation Guide v1.6, januar 2025, MAN-01-00988-1.6; kopija uradnega SolarEdge dokumenta (vir: solarhandel24.de) str. 1 (Main connection scheme, Bottom interface, montaža), 2 (Grid/Load connection, Connecting the Backup Interface - G, A, B, 12V +/-, LED); SolarEdge Home Backup Interface, Three Phase - Quick Installation Guide v1.2, junij 2023; kopija uradnega SolarEdge dokumenta (vir: cdn.estg.eu) str. 1-2 (barve žil L1 rjava, L2 črna, L3 siva, N modra; RS485 opcijsko ob Home Network); Siblik - Datenblatt BI-NEUNU3P-01 (prodajalec, samo mere/IP/material ohišja), 24. 10. 2024 str. 1</elementInformation>
+        <elementInformation name="mass_kg" show="1">5</elementInformation>
+        <elementInformation name="width" show="1">238</elementInformation>
+        <elementInformation name="height" show="1">390</elementInformation>
+        <elementInformation name="depth" show="1">147</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Home Backup Interface, Three Phase, for Europe BI-EU3P - datasheet (EN), DS-000142-EU, 30. 3. 2023; kopija uradnega SolarEdge dokumenta (vir: res.cloudinary.com/gpceurope) str. 2; (lokalna kopija) DS-000142-EU 2023 str. 2; SolarEdge Home Backup-Interface, dreiphasig BI-EU3P - Datenblatt (DE), DS-000142, 18. 4. 2022; kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 2; SolarEdge Home Backup Interface, Three Phase BI-EU3P - Quick Installation Guide v1.6, januar 2025, MAN-01-00988-1.6; kopija uradnega SolarEdge dokumenta (vir: solarhandel24.de) str. 1 (Main connection scheme, Bottom interface, montaža), 2 (Grid/Load connection, Connecting the Backup Interface - G, A, B, 12V +/-, LED); SolarEdge Home Backup Interface, Three Phase - Quick Installation Guide v1.2, junij 2023; kopija uradnega SolarEdge dokumenta (vir: cdn.estg.eu) str. 1-2 (barve žil L1 rjava, L2 črna, L3 siva, N modra; RS485 opcijsko ob Home Network); Siblik - Datenblatt BI-NEUNU3P-01 (prodajalec, samo mere/IP/material ohišja), 24. 10. 2024 str. 1
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="476" height="780" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="470" height="774" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="763" width="470" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="192.65" y="774.5" text="GRID · LOAD" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="140.32" y="273" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="99.47" y="308.92" text="BI-NEUNU-3P-01" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{37a38e9b-74b4-5c20-9cfb-1f1d40d8629e}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

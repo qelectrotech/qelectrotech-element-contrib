@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="280" height="360" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{cc1a5ac9-4106-523d-8688-30b7d394b575}" />
+    <names>
+        <name lang="en">Solaredge P850 (front view)</name>
+        <name lang="sl">Solaredge P850 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">P850 (izvedba/koda ni znana)</elementInformation>
+        <elementInformation name="designation" show="1">Solaredge P850</elementInformation>
+        <elementInformation name="description" show="1">optimizator; 1 MPPT, nizov na MPPT -, U_dc max 125 V, MPPT [12.5, 105] V, I max - A</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Power Optimizer P605 … P1100 (stran P800p / P850 / P950 / P1100) – datasheet DS-000012-ENG, 29. 12. 2022 – kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 3 (električni in mehanski podatki P850, dolžine nizov, opombe 3–8); SolarEdge Power Optimizer P650 / P701 / P730 / P800p / P801 / P850 / P950 – datasheet 08/2020/V01/EN ROW – kopija uradnega SolarEdge dokumenta (vir: midsummer.ie) str. 3 (starejša izdaja: Isc 12,5 A, izhod max 85 V, opomba 1: P850 nadomešča P800s); SolarEdge Power Optimizer S440 / S500 / S500B / S650B – DS-000091-ENG, 19. 1. 2026 (pravilo: S- in P-serije ne mešati v istem nizu) – kopija uradnega SolarEdge dokumenta (vir: ottofischer.ch) str. 2 (opomba 7); SolarEdge Installation Guide MAN-01-00057-3.3 (Europe) in Power Optimizers Installation Guide MAN-01-00112-1.2 – kopiji uradnih SolarEdge dokumentov (vir: portal.segen.co.uk, gridalternatives.org) str. MAN-01-00057: 12–13; MAN-01-00112: 13–14 (montaža, imena konektorjev, ozemljitev)</elementInformation>
+        <elementInformation name="mass_kg" show="1">1.064</elementInformation>
+        <elementInformation name="width" show="1">129</elementInformation>
+        <elementInformation name="height" show="1">162</elementInformation>
+        <elementInformation name="depth" show="1">59</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Power Optimizer P605 … P1100 (stran P800p / P850 / P950 / P1100) – datasheet DS-000012-ENG, 29. 12. 2022 – kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 3 (električni in mehanski podatki P850, dolžine nizov, opombe 3–8); SolarEdge Power Optimizer P650 / P701 / P730 / P800p / P801 / P850 / P950 – datasheet 08/2020/V01/EN ROW – kopija uradnega SolarEdge dokumenta (vir: midsummer.ie) str. 3 (starejša izdaja: Isc 12,5 A, izhod max 85 V, opomba 1: P850 nadomešča P800s); SolarEdge Power Optimizer S440 / S500 / S500B / S650B – DS-000091-ENG, 19. 1. 2026 (pravilo: S- in P-serije ne mešati v istem nizu) – kopija uradnega SolarEdge dokumenta (vir: ottofischer.ch) str. 2 (opomba 7); SolarEdge Installation Guide MAN-01-00057-3.3 (Europe) in Power Optimizers Installation Guide MAN-01-00112-1.2 – kopiji uradnih SolarEdge dokumentov (vir: portal.segen.co.uk, gridalternatives.org) str. MAN-01-00057: 12–13; MAN-01-00112: 13–14 (montaža, imena konektorjev, ozemljitev)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="258" height="324" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="252" height="318" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="39.46" y="123.37" text="SolarEdge" rotation="0" font="Liberation Sans,22,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="48.19" y="136.68" text="P850 (izvedba/koda ni znana)" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f8003a5e-a347-5c1c-bf48-20b4399e63bf}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

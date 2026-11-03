@@ -1,0 +1,40 @@
+<definition version="0.200" type="element" link_type="simple" width="330" height="160" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{59c112c6-8e0f-5f87-954c-2eff2fa78512}" />
+    <names>
+        <name lang="en">SigenStack Battery 12,06 kWh</name>
+        <name lang="sl">SigenStack Battery 12,06 kWh</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11130014</elementInformation>
+        <elementInformation name="designation" show="1">SigenStack Battery 12,06 kWh</elementInformation>
+        <elementInformation name="description" show="1">baterija</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - SigenStack BAT 12.0 &amp; SigenStack BC (V20260924) str. 2; SigenStack Energy Storage System Installation Guide, V07 2026-07-02 str. 7-9 (modeli, vrata), 17 (kabli), 20 (tab. 5-1 vrata baze), 26-28 (PE, DC, signal)</elementInformation>
+        <elementInformation name="mass_kg" show="1">105</elementInformation>
+        <elementInformation name="width" show="1">770</elementInformation>
+        <elementInformation name="height" show="1">300</elementInformation>
+        <elementInformation name="depth" show="1">363</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - SigenStack BAT 12.0 &amp; SigenStack BC (V20260924) str. 2; SigenStack Energy Storage System Installation Guide, V07 2026-07-02 str. 7-9 (modeli, vrata), 17 (kabli), 20 (tab. 5-1 vrata baze), 26-28 (PE, DC, signal)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="280" height="120" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="2" y="12" width="40" height="36" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="42" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="14.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="SKLAD" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="43" text="Vtični (slepi) spoj v skladu…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="191.23" y="56" text="Sigenergy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="176.78" y="70" text="SigenStack BAT 12.0" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="173.57" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{5cf780b9-e795-57b0-8f64-319fde9a7745}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="173.57" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{99d47f89-fd7e-5843-b0d4-039117e8992d}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{3d0cd9df-12b9-5da0-a6f3-72659aa8f972}" x="-10" y="40" orientation="w" type="Generic" name="BAT:SKLAD" />
+    </description>
+</definition>

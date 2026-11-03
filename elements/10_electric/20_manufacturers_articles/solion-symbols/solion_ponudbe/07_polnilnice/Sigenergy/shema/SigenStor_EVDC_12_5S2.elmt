@@ -1,0 +1,46 @@
+<definition version="0.200" type="element" link_type="simple" width="350" height="220" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{95d57ce4-f39a-56f3-ba56-921f61ad51db}" />
+    <names>
+        <name lang="en">SigenStor EVDC 12 5S2</name>
+        <name lang="sl">SigenStor EVDC 12 5S2</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11080015</elementInformation>
+        <elementInformation name="designation" show="1">SigenStor EVDC 12 5S2</elementInformation>
+        <elementInformation name="description" show="1">DC polnilnica</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - SigenStor EVDC 12/25 (V20260609) str. 2; Sigen EV DC Charging Module Installation Guide, V03 2025-10-28 (v ZIP) str. 1-2 (modeli, scenariji), 6-30 (vgradnja v sklad); SigenStor Home Installation Guide - Three-phase System A1, V12 2026-08-17 (v ZIP) str. 1-8 (sistem, kabli), 12-16 (vgradnja BAT), 5.5.1 (COM)</elementInformation>
+        <elementInformation name="width" show="1">700</elementInformation>
+        <elementInformation name="height" show="1">270</elementInformation>
+        <elementInformation name="depth" show="1">260</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - SigenStor EVDC 12/25 (V20260609) str. 2; Sigen EV DC Charging Module Installation Guide, V03 2025-10-28 (v ZIP) str. 1-2 (modeli, scenariji), 6-30 (vgradnja v sklad); SigenStor Home Installation Guide - Three-phase System A1, V12 2026-08-17 (v ZIP) str. 1-8 (sistem, kabli), 12-16 (vgradnja BAT), 5.5.1 (COM)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="300" height="180" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="150" y1="180" x2="150" y2="190" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="153" y="177" text="CCS2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="142" y="140.21" width="16" height="37.79" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="142" y1="152.21" x2="158" y2="152.21" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="145.05" y="149.21" text="EV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="12" width="40" height="36" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="42" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="17.05" y="23" text="DC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="SKLAD" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="43" text="Vtični spoj v skladu do razsm…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="203.29" y="79" text="Sigenergy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="183.9" y="93" text="SigenStor EVDC 12 5S2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="218.53" y="107" text="12.5 kW" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="177.69" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{dd36110f-bd36-582b-be52-94325c969523}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="177.69" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{65b4c3a7-0877-5e15-80ce-f2b0aa7156ee}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{18af748c-9d5e-55cc-a48b-a0f7c0fa2888}" x="150" y="190" orientation="s" type="Generic" name="EV:CCS2" />
+        <terminal uuid="{6286eacd-e07d-5f9d-8e12-5c7ae2fc5807}" x="-10" y="40" orientation="w" type="Generic" name="DC:SKLAD" />
+    </description>
+</definition>

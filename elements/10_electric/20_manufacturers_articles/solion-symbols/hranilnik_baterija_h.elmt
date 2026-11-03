@@ -1,0 +1,34 @@
+<definition version="0.100.0" type="element" link_type="simple" width="70" height="70" hotspot_x="30" hotspot_y="30">
+    <uuid uuid="{dc76a810-8415-4e37-9c9e-f1062c5ed919}" />
+    <names>
+        <name lang="en">Battery storage (horizontal, BMS)</name>
+        <name lang="fr">Stockage batterie (horizontal, BMS)</name>
+        <name lang="sl">Hranilnik energije (vodoravno, BMS)</name>
+    </names>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <rect x="-30" y="-30" width="60" height="60" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-12" y1="-16" x2="-12" y2="16" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-6" y1="-8" x2="-6" y2="8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" />
+        <line x1="4" y1="-16" x2="4" y2="16" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="10" y1="-8" x2="10" y2="8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" />
+        <line x1="-24" y1="0" x2="-12" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-6" y1="0" x2="4" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="10" y1="0" x2="30" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <text text="+" x="-16" y="-20" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text text="-" x="12" y="-12" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="30" y1="0" x2="40" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="20" y1="30" x2="20" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <text text="BMS" x="23" y="39" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="-30" y="-60" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e58e7e83-37f4-44f6-b5f4-bcff37bbc8a6}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-30" y="-47" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{bab1165f-70ed-424e-a57b-8eed54071fbf}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{31d671e5-6fb5-4b81-aa8c-5cfc247bec09}" name="DC" x="40" y="0" orientation="e" type="Generic" />
+        <terminal uuid="{ae2fcc97-b466-43b5-9a7f-6318f5bac8fd}" name="BMS" x="20" y="40" orientation="s" type="Generic" />
+    </description>
+</definition>

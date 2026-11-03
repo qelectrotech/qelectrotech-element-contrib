@@ -1,0 +1,57 @@
+<definition version="0.200" type="element" link_type="simple" width="530" height="160" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{8117e135-19db-5dda-8aef-b629769b50d0}" />
+    <names>
+        <name lang="en">Sigen Battery Controller M2 0.5C Boost</name>
+        <name lang="sl">Sigen Battery Controller M2 0.5C Boost</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11140003</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Battery Controller M2 0.5C Boost</elementInformation>
+        <elementInformation name="description" show="1">baterijski krmilnik; baterija [550, 1100] V; komunikacija: CAN (datasheet), COM – 8-žilni oklopljen par ali omrežni kabel EIA/TIA 568B, 0,13-0,2 mm², ≤50 m, do razsmernika</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - SigenStack BAT 12.0 &amp; SigenStack BC (V20260924) str. 2; SigenStack Energy Storage System Installation Guide, V07 2026-07-02 str. 7-9 (modeli, vrata), 17 (kabli), 20 (tab. 5-1 vrata baze), 26-28 (PE, DC, signal)</elementInformation>
+        <elementInformation name="mass_kg" show="1">60</elementInformation>
+        <elementInformation name="width" show="1">770</elementInformation>
+        <elementInformation name="height" show="1">248</elementInformation>
+        <elementInformation name="depth" show="1">363</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - SigenStack BAT 12.0 &amp; SigenStack BC (V20260924) str. 2; SigenStack Energy Storage System Installation Guide, V07 2026-07-02 str. 7-9 (modeli, vrata), 17 (kabli), 20 (tab. 5-1 vrata baze), 26-28 (PE, DC, signal)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="480" height="120" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="2" y="12" width="40" height="76" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="42" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="14.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="42" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="70" x2="42" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="BAT+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="43" text="Battery power port + (do BAT+…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="BAT-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="63" text="Battery power port - (do BAT…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="80" x2="-10" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="83" text="SKLAD" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="83" text="Vtični spoj do modulov SigenS…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="448" y="12" width="30" height="36" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="448" y1="30" x2="478" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="455.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="480" y1="40" x2="490" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="452" y="43" text="COM" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="318.31" y="43" text="Communication port – signalni…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="212.44" y="56" text="Sigenergy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="183.16" y="70" text="SigenStack BC M2-0.5C-BST" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="177.69" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e48949ca-f3ca-5f4d-b670-5690eb1e96c0}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="177.69" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{1ae5a1a6-153b-5996-bcb7-40b44bcdea22}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{8eb23165-c76a-5bda-999e-43a1a0167e62}" x="-10" y="40" orientation="w" type="Generic" name="BAT:BAT+" />
+        <terminal uuid="{b36f72d5-9c26-5ccf-9a3f-fa1be98efc5c}" x="-10" y="60" orientation="w" type="Generic" name="BAT:BAT-" />
+        <terminal uuid="{58e3ad00-d03e-500e-a880-75d4b197d06c}" x="-10" y="80" orientation="w" type="Generic" name="BAT:SKLAD" />
+        <terminal uuid="{64b546dd-f99f-561f-9b0a-f926e0fc7e27}" x="490" y="40" orientation="e" type="Generic" name="COM:COM" />
+    </description>
+</definition>

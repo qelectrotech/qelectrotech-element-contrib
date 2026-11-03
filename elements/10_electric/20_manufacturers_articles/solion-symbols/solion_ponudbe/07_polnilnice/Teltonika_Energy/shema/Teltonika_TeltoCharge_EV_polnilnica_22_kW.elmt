@@ -1,0 +1,84 @@
+<definition version="0.200" type="element" link_type="simple" width="760" height="210" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{f1409641-93b4-542b-9cf5-9824c35bbddb}" />
+    <names>
+        <name lang="en">Teltonika TeltoCharge EV polnilnica 22 kW</name>
+        <name lang="sl">Teltonika TeltoCharge EV polnilnica 22 kW</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Teltonika Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">TeltoCharge 22 kW (EVC1200P4011 / EVC1201P4011 / EVC1210P1000 / EVC1210W1011 / EVC1211P1000 / EVC1211W1011)</elementInformation>
+        <elementInformation name="designation" show="1">Teltonika TeltoCharge EV polnilnica 22 kW</elementInformation>
+        <elementInformation name="description" show="1">polnilnica EV; komunikacija: Ethernet RJ45, Wi-Fi 2,4 GHz, Bluetooth LE, 4G/LTE (opcija, izvedbe EVCxx1x), RS-485 / Modbus (pametni števec za dinamično uravnavanje obremenitve): sponke A, B, GND, OCPP 1.6, RFID/NFC</elementInformation>
+        <elementInformation name="notes" show="1">Viri: TeltoCharge installation manual v2.3_G 2024 (s slovenskim dodatkom) str. PDF 8 (splošno), 9 (električno), 17 (priključki), 20 (vezava sponk); TeltoCharge datasheet GLOBAL 2 (2023-08) str. 1–3; Wiki: 22 kW TeltoCharge Electrical information str. -; Wiki: Dynamic Load Balancing + shema Eastron SDM72 (sponke GND/A/B) str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">2.8</elementInformation>
+        <elementInformation name="width" show="1">170</elementInformation>
+        <elementInformation name="height" show="1">341</elementInformation>
+        <elementInformation name="depth" show="1">94</elementInformation>
+    </elementInformations>
+    <informations>Viri: TeltoCharge installation manual v2.3_G 2024 (s slovenskim dodatkom) str. PDF 8 (splošno), 9 (električno), 17 (priključki), 20 (vezava sponk); TeltoCharge datasheet GLOBAL 2 (2023-08) str. 1–3; Wiki: 22 kW TeltoCharge Electrical information str. -; Wiki: Dynamic Load Balancing + shema Eastron SDM72 (sponke GND/A/B) str. -
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="710" height="170" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="300" y1="170" x2="300" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="303" y="167" text="L1" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="320" y1="170" x2="320" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="323" y="167" text="L2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="340" y1="170" x2="340" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="343" y="167" text="L3" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="360" y1="170" x2="360" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="363" y="167" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="380" y1="170" x2="380" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="383" y="167" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="420" y1="170" x2="420" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="423" y="167" text="T2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="292" y="140.1" width="96" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="292" y1="152.1" x2="388" y2="152.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="310" y1="152.1" x2="310" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="330" y1="152.1" x2="330" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="350" y1="152.1" x2="350" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="370" y1="152.1" x2="370" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="335.05" y="149.1" text="AC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="412" y="140.1" width="16" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="412" y1="152.1" x2="428" y2="152.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="415.05" y="149.1" text="EV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="678" y="12" width="30" height="96" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="678" y1="30" x2="708" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="685.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="678" y1="50" x2="708" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="678" y1="70" x2="708" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="678" y1="90" x2="708" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="710" y1="40" x2="720" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="682" y="43" text="A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="548.31" y="43" text="RS-485 A (pametni števec, DLM)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="710" y1="60" x2="720" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="682" y="63" text="B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="639.02" y="63" text="RS-485 B" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="710" y1="80" x2="720" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="682" y="83" text="GND" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="630.77" y="83" text="RS-485 GND" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="710" y1="100" x2="720" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="682" y="103" text="LAN" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="618.4" y="103" text="Ethernet RJ45" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="216.27" y="74" text="Teltonika Energy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="9.46" y="88" text="TeltoCharge 22 kW (EVC1200P4011 / EVC1201P4011 / EVC1210P1000 / EVC1210W1011 / EVC1211P1000 / EVC1211W1011)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="269.21" y="102" text="3F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{52445c19-15f9-5c06-96e3-0bcea7639fbf}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{b435c0c0-eac8-59fe-835a-c58cdacbcc29}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{a43aee4d-a47f-5ad2-b424-26dee2e01404}" x="300" y="180" orientation="s" type="Generic" name="AC:L1" />
+        <terminal uuid="{57b9a2c7-4e84-57f9-9af5-c967c6fe3943}" x="320" y="180" orientation="s" type="Generic" name="AC:L2" />
+        <terminal uuid="{8f21417c-a558-5288-8179-92c646f454e3}" x="340" y="180" orientation="s" type="Generic" name="AC:L3" />
+        <terminal uuid="{d577f187-6dbe-5d70-94fd-05ba91b0de8c}" x="360" y="180" orientation="s" type="Generic" name="AC:N" />
+        <terminal uuid="{189b967e-ac12-5b0d-9640-40940325c258}" x="380" y="180" orientation="s" type="Generic" name="AC:PE" />
+        <terminal uuid="{9cce4798-2908-5867-a7c3-454cbabb7b7a}" x="420" y="180" orientation="s" type="Generic" name="EV:T2" />
+        <terminal uuid="{7757c753-beee-5ff0-9bd6-c56c11a1746b}" x="720" y="40" orientation="e" type="Generic" name="COM:A" />
+        <terminal uuid="{54ac1248-949f-5e34-aa07-79043cb01e03}" x="720" y="60" orientation="e" type="Generic" name="COM:B" />
+        <terminal uuid="{a188c0e5-9f4e-5ced-97cb-261fac714ff0}" x="720" y="80" orientation="e" type="Generic" name="COM:GND" />
+        <terminal uuid="{6286ab3c-7956-5b81-b662-6aacd3c2dbce}" x="720" y="100" orientation="e" type="Generic" name="COM:LAN" />
+    </description>
+</definition>

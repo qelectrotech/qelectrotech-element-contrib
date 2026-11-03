@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="3620" height="4630" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{c4e10deb-2880-5e7b-a3a4-57246edb10cf}" />
+    <names>
+        <name lang="en">Sigen Gateway C1200-B (front view)</name>
+        <name lang="sl">Sigen Gateway C1200-B (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11110054</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Gateway C1200-B</elementInformation>
+        <elementInformation name="description" show="1">gateway/backup; komunikacija: 2x FE (RJ45, J5/J6), RS485 P6 (rezervirano), DI1 zasilni izklop, DI2/DI3 ATS (P8), DO1/DO2/DO3 preklopni (P10), DO3 = 2-žilni zagon agregata</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - Sigen Energy Gateway for Sigen C&amp;I Inverter C600-B / C1200-B (Preliminary), Sigenergy str. 2; Sigen Gateway (C600, C1200, C600-B, C1200-B) Installation Guide, v04 (2025-11-28) str. 2 (mere, Top/Bottom view), 3-4 (notranjost QA/SA/2QF), 6-7 (kabli), 24-25 (INV L1 L2 L3 N PE), 26-27 (P6/J5/J6/P10/P8), 29 (ACB nastavitve); Sigen Energy Gateway C&amp;I Series User Manual, v08 (2026-08-24) str. 24-26 (C60-2), 30-32 (C120-6), 33-35 (C180-9/C300-12), 36-45 (C600/C1200/-B); Application Note - How to connect the Generator to Sigen Energy Gateway</elementInformation>
+        <elementInformation name="mass_kg" show="1">1300</elementInformation>
+        <elementInformation name="width" show="1">1800</elementInformation>
+        <elementInformation name="height" show="1">2300</elementInformation>
+        <elementInformation name="depth" show="1">1270</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - Sigen Energy Gateway for Sigen C&amp;I Inverter C600-B / C1200-B (Preliminary), Sigenergy str. 2; Sigen Gateway (C600, C1200, C600-B, C1200-B) Installation Guide, v04 (2025-11-28) str. 2 (mere, Top/Bottom view), 3-4 (notranjost QA/SA/2QF), 6-7 (kabli), 24-25 (INV L1 L2 L3 N PE), 26-27 (P6/J5/J6/P10/P8), 29 (ACB nastavitve); Sigen Energy Gateway C&amp;I Series User Manual, v08 (2026-08-24) str. 24-26 (C60-2), 30-32 (C120-6), 33-35 (C180-9/C300-12), 36-45 (C600/C1200/-B); Application Note - How to connect the Generator to Sigen Energy Gateway
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="3600" height="4600" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="3594" height="4594" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="1702.32" y="1610" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="1592.2" y="1645.92" text="Sigen Gateway C1200-B" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e1cf4f5d-e08a-53e8-b7d8-e774e9d3e43f}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

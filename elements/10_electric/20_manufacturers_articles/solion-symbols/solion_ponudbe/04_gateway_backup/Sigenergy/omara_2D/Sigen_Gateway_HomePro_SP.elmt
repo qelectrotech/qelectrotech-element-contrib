@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="920" height="1170" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{fbfd4cdd-bc7a-5714-b7cd-301225d3d7c6}" />
+    <names>
+        <name lang="en">Sigen Gateway HomePro SP (front view)</name>
+        <name lang="sl">Sigen Gateway HomePro SP (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11110030</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Gateway HomePro SP</elementInformation>
+        <elementInformation name="description" show="1">gateway/backup; komunikacija: 2x FE (RJ45), RS485 (rezervirano), DI1 (bypass), DI2 (ATS), DO1 (omrežni kontaktor), DO2 (kontaktor agregata), DO3 (2-žilni zagon agregata)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - Sigen Energy Gateway HomePro (SP / SP-F / TP), Version 20260618, Sigenergy str. 2; Sigen Gateway HomePro SP Installation Guide, v03 (2026-01-16); iz ZIP Sigen Gateway HomePro SP Installer Manual_EN.zip str. 2 (Port Description), 3 (notranjost KM1/KM2/QS1/QF), 5 (kabli), 11-15 (priključki, QF3 ali QF4), 16 (komunikacija); Sigen Energy Gateway Home Series User Manual, v08 (2026-06-05) str. 25-27 (HomePro SP), 33-35 (HomeMax SP), 36-38 (HomeMax SP 12K), 55-57 (HomePro TP), 59-61 (HomeMax TP) - risbe mer; Application Note - How to connect the Generator to Sigen Energy Gateway</elementInformation>
+        <elementInformation name="mass_kg" show="1">25</elementInformation>
+        <elementInformation name="width" show="1">450</elementInformation>
+        <elementInformation name="height" show="1">570</elementInformation>
+        <elementInformation name="depth" show="1">197</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - Sigen Energy Gateway HomePro (SP / SP-F / TP), Version 20260618, Sigenergy str. 2; Sigen Gateway HomePro SP Installation Guide, v03 (2026-01-16); iz ZIP Sigen Gateway HomePro SP Installer Manual_EN.zip str. 2 (Port Description), 3 (notranjost KM1/KM2/QS1/QF), 5 (kabli), 11-15 (priključki, QF3 ali QF4), 16 (komunikacija); Sigen Energy Gateway Home Series User Manual, v08 (2026-06-05) str. 25-27 (HomePro SP), 33-35 (HomeMax SP), 36-38 (HomeMax SP 12K), 55-57 (HomePro TP), 59-61 (HomeMax TP) - risbe mer; Application Note - How to connect the Generator to Sigen Energy Gateway
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="900" height="1140" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="894" height="1134" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="352.32" y="399" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="212.52" y="434.92" text="Sigen Gateway HomePro SP" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{9b01d028-fffc-532f-89ae-c713caff4b3d}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

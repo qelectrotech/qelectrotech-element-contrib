@@ -1,0 +1,103 @@
+<definition version="0.200" type="element" link_type="simple" width="370" height="280" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{f5e6b7da-d9ed-5fe4-8b58-c78650d59ae5}" />
+    <names>
+        <name lang="en">Sigen EV AC Charger 22 kW z vtičnico Tip 2</name>
+        <name lang="sl">Sigen EV AC Charger 22 kW z vtičnico Tip 2</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11070009</elementInformation>
+        <elementInformation name="designation" show="1">Sigen EV AC Charger 22 kW z vtičnico Tip 2</elementInformation>
+        <elementInformation name="description" show="1">polnilnica EV; komunikacija: RS485 Modbus RTU, 4G (SIM), WLAN, Fast Ethernet (RJ45), DO (COM/NC), OCPP 1.6J</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - Sigen EVAC 7/11/22 (18. 9. 2025) str. 2; Datasheet - Sigen EV AC Charger (14. 7. 2025, starejša izdaja) str. 2; Sigen EV AC Charger Installation Guide, V05 2025-07-17 (v ZIP) str. 1-2 (zunanjost), 3-4 (MCB, kabli), 10-16 (priključki)</elementInformation>
+        <elementInformation name="width" show="1">234</elementInformation>
+        <elementInformation name="height" show="1">384</elementInformation>
+        <elementInformation name="depth" show="1">139</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - Sigen EVAC 7/11/22 (18. 9. 2025) str. 2; Datasheet - Sigen EV AC Charger (14. 7. 2025, starejša izdaja) str. 2; Sigen EV AC Charger Installation Guide, V05 2025-07-17 (v ZIP) str. 1-2 (zunanjost), 3-4 (MCB, kabli), 10-16 (priključki)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="320" height="240" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="100" y1="240" x2="100" y2="250" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="103" y="237" text="L1" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="120" y1="240" x2="120" y2="250" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="237" text="L2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="140" y1="240" x2="140" y2="250" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="143" y="237" text="L3" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="160" y1="240" x2="160" y2="250" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="163" y="237" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="180" y1="240" x2="180" y2="250" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="183" y="237" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="220" y1="240" x2="220" y2="250" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="223" y="237" text="T2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="92" y="210.1" width="96" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="92" y1="222.1" x2="188" y2="222.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="110" y1="222.1" x2="110" y2="238" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="130" y1="222.1" x2="130" y2="238" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="150" y1="222.1" x2="150" y2="238" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="170" y1="222.1" x2="170" y2="238" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="135.05" y="219.1" text="AC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="212" y="210.1" width="16" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="212" y1="222.1" x2="228" y2="222.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="215.05" y="219.1" text="EV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="268" y="12" width="50" height="176" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="268" y1="30" x2="318" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="285.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="268" y1="50" x2="318" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="268" y1="70" x2="318" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="268" y1="90" x2="318" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="268" y1="110" x2="318" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="268" y1="130" x2="318" y2="130" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="268" y1="150" x2="318" y2="150" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="268" y1="170" x2="318" y2="170" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="320" y1="40" x2="330" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="272" y="43" text="RS485_A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="138.31" y="43" text="RS485 A+ (do Sigen Sensor, np…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="320" y1="60" x2="330" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="272" y="63" text="RS485_B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="138.31" y="63" text="RS485 B- (Sigen Sensor sponka…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="320" y1="80" x2="330" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="272" y="83" text="DO-COM" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="142.43" y="83" text="Digitalni izhod COM (1 A, 30…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="320" y1="100" x2="330" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="272" y="103" text="DO-NC" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="187.79" y="103" text="Digitalni izhod NC" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="320" y1="120" x2="330" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="272" y="123" text="FE" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="138.31" y="123" text="RJ45 Fast Ethernet do usmerje…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="320" y1="140" x2="330" y2="140" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="272" y="143" text="MCB-N" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="138.31" y="143" text="(opcija, izvedbe s sponkami M…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="320" y1="160" x2="330" y2="160" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="272" y="163" text="MCB-L" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="142.43" y="163" text="(opcija) PEN krmilni vod L →…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="320" y1="180" x2="330" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="272" y="183" text="Meter" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="191.91" y="183" text="Rezervirana vrata" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36.6" y="109" text="Sigenergy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="9.78" y="123" text="Sigen EVAC 22 4G T2SH WH" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="44.42" y="137" text="22 kW · 3F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{1087be32-ce1e-5da7-bd61-2374d72ad986}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{292c7b22-bec7-5827-aeba-14ecf3dd4ab8}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{64bb4910-44b1-50c2-9e19-d17c3d99c015}" x="100" y="250" orientation="s" type="Generic" name="AC:L1" />
+        <terminal uuid="{c93c36b2-4dd3-538c-9617-2993f33bb5d9}" x="120" y="250" orientation="s" type="Generic" name="AC:L2" />
+        <terminal uuid="{4080355c-ea21-5b84-bda2-84185c611cb1}" x="140" y="250" orientation="s" type="Generic" name="AC:L3" />
+        <terminal uuid="{b1fb01a2-4b33-531e-ad1e-6096a8720e60}" x="160" y="250" orientation="s" type="Generic" name="AC:N" />
+        <terminal uuid="{867bbac0-baed-5179-a1e7-78b8a24d3ce7}" x="180" y="250" orientation="s" type="Generic" name="AC:PE" />
+        <terminal uuid="{fdddfee4-bc8a-59f5-8d9e-fe7cc27aa33f}" x="220" y="250" orientation="s" type="Generic" name="EV:T2" />
+        <terminal uuid="{15677a20-36b0-5e11-bfaa-38b1442b2673}" x="330" y="40" orientation="e" type="Generic" name="COM:RS485_A" />
+        <terminal uuid="{5983a222-cb22-5021-8899-60bfefa31bda}" x="330" y="60" orientation="e" type="Generic" name="COM:RS485_B" />
+        <terminal uuid="{ce06f2c9-281f-57b4-9745-2ebf4c7e4229}" x="330" y="80" orientation="e" type="Generic" name="COM:DO-COM" />
+        <terminal uuid="{437f2c75-8b3b-5ec0-83fe-a7ad473b7737}" x="330" y="100" orientation="e" type="Generic" name="COM:DO-NC" />
+        <terminal uuid="{b2da6991-4735-5bde-afaf-b1bede1b886a}" x="330" y="120" orientation="e" type="Generic" name="COM:FE" />
+        <terminal uuid="{58afafb3-eda5-52bc-a1e3-b2ea0a3e74e2}" x="330" y="140" orientation="e" type="Generic" name="COM:MCB-N" />
+        <terminal uuid="{04914153-9787-59f5-baa8-c7290d97bde7}" x="330" y="160" orientation="e" type="Generic" name="COM:MCB-L" />
+        <terminal uuid="{7f35dd74-c5ee-594f-b5ee-6d00ea4f5703}" x="330" y="180" orientation="e" type="Generic" name="COM:Meter" />
+    </description>
+</definition>

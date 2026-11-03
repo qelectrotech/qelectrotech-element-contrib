@@ -1,0 +1,32 @@
+<definition version="0.100.0" type="element" link_type="simple" width="90" height="70" hotspot_x="60" hotspot_y="30">
+    <uuid uuid="{492b2053-8408-4c72-9b2f-ac682541a2e8}" />
+    <names>
+        <name lang="de">PV-Generator (einpolig)</name>
+        <name lang="en">PV generator / string (single line)</name>
+        <name lang="fr">Générateur photovoltaïque (unifilaire)</name>
+        <name lang="sl">PV generator / niz (enopolno)</name>
+    </names>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <rect x="-30" y="-30" width="60" height="60" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <text text="G" x="-5" y="-8" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="-10" y1="10" x2="0" y2="10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="0" y1="5" x2="0" y2="15" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="5" y1="0" x2="5" y2="20" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="5" y1="10" x2="15" y2="10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-36" y1="-16" x2="-46" y2="-26" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-41" y1="-11" x2="-51" y2="-21" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <polygon x1="-40" y1="-17" x2="-37" y2="-20" x3="-35" y3="-15" closed="true" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" />
+        <polygon x1="-42" y1="-15" x2="-45" y2="-12" x3="-40" y3="-10" closed="true" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" />
+        <line x1="0" y1="30" x2="0" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <dynamic_text x="36" y="-30" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e44af17b-0b1c-4186-967a-696f1e2a1c44}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="36" y="-17" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{60a60113-97c8-4d91-96f9-217a3d345516}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{ddf82e10-9f74-4065-90a8-86ff194ec00d}" name="DC" x="0" y="40" orientation="s" type="Generic" />
+    </description>
+</definition>

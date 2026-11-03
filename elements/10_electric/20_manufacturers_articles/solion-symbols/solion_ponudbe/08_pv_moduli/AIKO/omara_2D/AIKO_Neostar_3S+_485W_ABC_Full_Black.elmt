@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="2290" height="3560" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{8518b250-bc8a-5fb8-939a-de6d4f7aa997}" />
+    <names>
+        <name lang="en">AIKO Neostar 3S+ 485W ABC Full Black (front view)</name>
+        <name lang="sl">AIKO Neostar 3S+ 485W ABC Full Black (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">AIKO</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">AIKO-A485-MCE54Db</elementInformation>
+        <elementInformation name="designation" show="1">AIKO Neostar 3S+ 485W ABC Full Black</elementInformation>
+        <elementInformation name="description" show="1">PV modul</elementInformation>
+        <elementInformation name="notes" show="1">Viri: AIKO Neostar 3S+54 Dual Glass 470–485 W datasheet V2.1_202502 (AU) str. 1; AIKO Neostar 3S+54 460–475 W datasheet 202604_V3.1 EN str. 1</elementInformation>
+        <elementInformation name="mass_kg" show="1">24.2</elementInformation>
+        <elementInformation name="width" show="1">1134</elementInformation>
+        <elementInformation name="height" show="1">1762</elementInformation>
+        <elementInformation name="depth" show="1">30</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: AIKO Neostar 3S+54 Dual Glass 470–485 W datasheet V2.1_202502 (AU) str. 1; AIKO Neostar 3S+54 460–475 W datasheet 202604_V3.1 EN str. 1
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="2268" height="3524" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="2262" height="3518" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="1090.59" y="1233.4" text="AIKO" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="965.78" y="1269.32" text="AIKO-A485-MCE54Db" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{7887265c-254d-529e-817d-06ba4656cb71}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

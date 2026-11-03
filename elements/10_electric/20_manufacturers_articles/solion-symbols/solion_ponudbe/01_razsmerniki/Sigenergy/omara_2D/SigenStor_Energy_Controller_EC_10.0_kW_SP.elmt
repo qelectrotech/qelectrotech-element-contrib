@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1420" height="630" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{e8fbc461-e8e2-5b99-b931-8fcceee6fb76}" />
+    <names>
+        <name lang="en">SigenStor Energy Controller EC 10.0 kW SP (front view)</name>
+        <name lang="sl">SigenStor Energy Controller EC 10.0 kW SP (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11040028</elementInformation>
+        <elementInformation name="designation" show="1">SigenStor Energy Controller EC 10.0 kW SP</elementInformation>
+        <elementInformation name="description" show="1">hibridni razsmernik; 4 MPPT, nizov na MPPT [1, 1, 1, 1], U_dc max 600 V, MPPT [50, 550] V, I max [16, 16, 16, 16] A; baterija [300, 600] V; komunikacija: RS485-1 (EMS / števec / TČ, COM 15-16), RS485-2 (Sigen Sensor SP-DH / SP-CT120-DH, COM 13-14), 2x RJ45 Fast Ethernet (RJ45 1 / RJ45 2), WLAN 2,4 GHz (ANT), 4G Sigen CommMod, 5x DI (DI1-DI4 DRM/RCR, DI5 hitri izklop/NS/EPO), 2x DO suhi kontakt (rezervirano, 12 V / 1 A)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - SigenStor EC (Sigen Energy Controller 3.0-12.0 SP / 5.0-30.0 TP), Sigenergy str. 1 (SP), 2 (TP); SigenStor Home Installation Guide - Single-phase (8.0-12.0) A1, v10 (2026-08-17); iz ZIP SigenStor Home Installer Manual - Single-phase System (8.0-12.0) A1_EN.zip str. 3 (AC stikalo), 5 (Port Descriptions), 7 (kabli), 28 (COM 16-pin), 35 (PV nizi); Datasheet - SigenStor BAT 6.0/10.0, Sigenergy (tip baterije LiFePO4) str. 2; teh_iz_ponudb (Generator ponudb SOLION) - obstoječi tehnični zapis s preseki kablov in AC stikali str. polje teh_iz_ponudb pri artiklu</elementInformation>
+        <elementInformation name="mass_kg" show="1">36</elementInformation>
+        <elementInformation name="width" show="1">700</elementInformation>
+        <elementInformation name="height" show="1">300</elementInformation>
+        <elementInformation name="depth" show="1">260</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - SigenStor EC (Sigen Energy Controller 3.0-12.0 SP / 5.0-30.0 TP), Sigenergy str. 1 (SP), 2 (TP); SigenStor Home Installation Guide - Single-phase (8.0-12.0) A1, v10 (2026-08-17); iz ZIP SigenStor Home Installer Manual - Single-phase System (8.0-12.0) A1_EN.zip str. 3 (AC stikalo), 5 (Port Descriptions), 7 (kabli), 28 (COM 16-pin), 35 (PV nizi); Datasheet - SigenStor BAT 6.0/10.0, Sigenergy (tip baterije LiFePO4) str. 2; teh_iz_ponudb (Generator ponudb SOLION) - obstoječi tehnični zapis s preseki kablov in AC stikali str. polje teh_iz_ponudb pri artiklu
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1400" height="600" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1394" height="594" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="602.32" y="210" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="502.1" y="245.92" text="SigenStor EC 10.0 SP" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{552c6129-2382-5557-91df-8c7470518e51}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

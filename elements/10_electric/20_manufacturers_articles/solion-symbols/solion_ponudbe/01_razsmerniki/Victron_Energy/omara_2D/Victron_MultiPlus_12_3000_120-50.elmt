@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="540" height="760" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{f2a9aa01-28cb-5297-a63c-2a2ab66feb4e}" />
+    <names>
+        <name lang="en">Victron MultiPlus 12/3000/120-50 (front view)</name>
+        <name lang="sl">Victron MultiPlus 12/3000/120-50 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">MultiPlus 12/3000/120-50 230V VE.Bus (PMP123021010)</elementInformation>
+        <elementInformation name="designation" show="1">Victron MultiPlus 12/3000/120-50</elementInformation>
+        <elementInformation name="description" show="1">razsmernik-polnilnik; komunikacija: 2x VE.Bus RJ45 (B), daljinsko stikalo, 3-polna sponka H, alarmni rele I: NC, NO, COM, sponke E (od leve): TEMP +/-, AUX1 +/-, AUX2 +/-, GND-relay +/-, STARTER+, K1 NC/NO/COM, K2 NC/NO/COM, V-SENSE +/-, 3 programabilni releji (alarm + K1 + K2) in 2 analogna/digitalna vhoda (50 A model), DIP stikala DS1-DS8, tipki Up/Down</elementInformation>
+        <elementInformation name="notes" show="1">Viri: MultiPlus 3k 230V 16A/50A manual (EN) str. 10-12 (namestitev), 25 (tehnični podatki), 145-146 (Appendix A, 50 A); Datasheet MultiPlus 800VA-5kVA str. 2; Dimension drawing MultiPlus/Quattro 3000VA str. 1; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_multiplus_3k_50a/multiplus_quattro_3000VA.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">18</elementInformation>
+        <elementInformation name="width" show="1">258</elementInformation>
+        <elementInformation name="height" show="1">364</elementInformation>
+        <elementInformation name="depth" show="1">221</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: MultiPlus 3k 230V 16A/50A manual (EN) str. 10-12 (namestitev), 25 (tehnični podatki), 145-146 (Appendix A, 50 A); Datasheet MultiPlus 800VA-5kVA str. 2; Dimension drawing MultiPlus/Quattro 3000VA str. 1; Victron produktna stran (SKU podatki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="516" height="728" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="510" height="722" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="106.06" y="265.44" text="Victron Energy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="89.78" y="280.08" text="MultiPlus 12/3000/120-50 230V VE.Bus (PMP123021010)" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{2e4eb0d7-f191-53b8-b78c-2447c7c66bc5}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

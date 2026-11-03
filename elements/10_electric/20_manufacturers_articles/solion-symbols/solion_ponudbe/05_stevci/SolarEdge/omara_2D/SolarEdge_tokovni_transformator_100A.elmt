@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="90" height="120" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{07c2ee03-0686-5f20-8cf7-6e1d44d9d057}" />
+    <names>
+        <name lang="en">SolarEdge tokovni transformator 100A (front view)</name>
+        <name lang="sl">SolarEdge tokovni transformator 100A (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESECT-SPL-100A-A</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge tokovni transformator 100A</elementInformation>
+        <elementInformation name="description" show="1">tokovni transformator</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Energy Meter with Modbus Connection SE-MTR-3Y-400V-A - datasheet, DS-00002-1.0-ENG, 07/2021 (tabela CT, risbe 'Current Transformer Dimensions', opomba 'All CT twisted pair lead wire length are 2.4 meters', CT Inputs 333 mV); kopija uradnega SolarEdge dokumenta (vir: shop.krannich-solar.com, na strani artiklov SECT-SPL-250A-A in -1000A-A objavljen kot 'Datasheet') str. 2; Energy Meter with Modbus Connection - Quick Installation Guide, MAN-01-00754-1.0, julij 2020 (vezava CT: črna/bela pika, 'Point arrow to grid'); kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 1 (B); Krannich Solar - stran artikla Split core CT 100A SECT-SPL-100A-A (mase brez embalaže 0,100 kg; mere 31 x 44 x 20 mm) - PODATEK PRODAJALCA str. tehnični podatki; Krannich Solar - stran artikla Split core CT 250A SECT-SPL-250A-A (masa brez embalaže 0,220 kg; mere 65 x 46 x 41 mm) - PODATEK PRODAJALCA str. tehnični podatki; Krannich Solar - stran artikla SECT-SPL-1000A-A (masa brez embalaže 0,680 kg; mere 125 x 120 x 20 mm) - PODATEK PRODAJALCA str. tehnični podatki</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.1</elementInformation>
+        <elementInformation name="width" show="1">31</elementInformation>
+        <elementInformation name="height" show="1">44</elementInformation>
+        <elementInformation name="depth" show="1">28.8</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Energy Meter with Modbus Connection SE-MTR-3Y-400V-A - datasheet, DS-00002-1.0-ENG, 07/2021 (tabela CT, risbe 'Current Transformer Dimensions', opomba 'All CT twisted pair lead wire length are 2.4 meters', CT Inputs 333 mV); kopija uradnega SolarEdge dokumenta (vir: shop.krannich-solar.com, na strani artiklov SECT-SPL-250A-A in -1000A-A objavljen kot 'Datasheet') str. 2; Energy Meter with Modbus Connection - Quick Installation Guide, MAN-01-00754-1.0, julij 2020 (vezava CT: črna/bela pika, 'Point arrow to grid'); kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 1 (B); Krannich Solar - stran artikla Split core CT 100A SECT-SPL-100A-A (mase brez embalaže 0,100 kg; mere 31 x 44 x 20 mm) - PODATEK PRODAJALCA str. tehnični podatki; Krannich Solar - stran artikla Split core CT 250A SECT-SPL-250A-A (masa brez embalaže 0,220 kg; mere 65 x 46 x 41 mm) - PODATEK PRODAJALCA str. tehnični podatki; Krannich Solar - stran artikla SECT-SPL-1000A-A (masa brez embalaže 0,680 kg; mere 125 x 120 x 20 mm) - PODATEK PRODAJALCA str. tehnični podatki
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="62" height="88" rx="5.2" ry="5.2" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="56" height="82" rx="3.2" ry="3.2" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="10.65" y="32.13" text="SolarEdge" rotation="0" font="Liberation Sans,5,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="12.45" y="40.12" text="SECT-SPL-100A-A" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{a9a5b24f-cd06-5089-b7a4-445bfe1f1396}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

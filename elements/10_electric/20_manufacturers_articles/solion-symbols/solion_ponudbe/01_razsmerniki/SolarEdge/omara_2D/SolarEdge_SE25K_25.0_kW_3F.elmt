@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="680" height="1150" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{b77ccf1d-8aac-5864-b2da-b7ee84012a25}" />
+    <names>
+        <name lang="en">SolarEdge SE25K 25.0 kW 3F (front view)</name>
+        <name lang="sl">SolarEdge SE25K 25.0 kW 3F (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE25K-RW00IBNM4</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge SE25K 25.0 kW 3F</elementInformation>
+        <elementInformation name="description" show="1">omrežni razsmernik; 1 MPPT, nizov na MPPT [4], U_dc max 1000 V, MPPT [680, 1000] V, I max - A; komunikacija: 2x RS485 (RS485-1 in RS485-2, vsak B, A, G; vtična sponka na kom. plošči), Ethernet LAN (RJ45, CAT6, do 100 m), Wi-Fi (vgrajena dostopna točka za SetApp; za povezavo s portalom potrebna zunanja antena, opcija), mobilna povezava: Cellular Plug-in (opcija), PRI - Power Reduction Interface (sponka na kom. plošči; npr. preklop v način alternativnega vira), USB (na kom. plošči), števec energije: prek RS485 (Modbus), terminacija RS485: DIP stikalo SW1</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Three Phase Commercial Inverter For Europe SE20K/SE25K/SE30K/SE33.3K, datasheet DS-000053-EU (17. 6. 2024), velja za SEXXK-RWX0IXXXX - kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2-3; SolarEdge Installation Guide Three Phase Inverter with SetApp Configuration PN: SEXXK-XXXXIXXXX, For Europe and APAC, Version 1.0 (Dec. 2020) - kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. PDF str. 15 (dolžine, preseki DC), 22-27 (vmesniki), 32 (ozemljitev), 34-38 (AC, DC), 47-60 (komunikacija, RS485, PRI), 64 (SPD), 67 (mere), 72-75 (tehnični podatki SE25K-SE33.3K); SolarEdge Three Phase Inverter For Europe SE12.5K-SE20K, datasheet DS-000040-3.2-EU (07/2021), stolpec SE20K velja za SEXXK-XXXXIBXX4 - kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2; SolarEdge C&amp;I Product Portfolio - Three Phase Commercial Inverter For Europe SE20K...SE40K (SE-SIN-RWR0IBNH8 / SE-SIN-RW00IBNM4, MultiRange) - kopija uradnega SolarEdge dokumenta (vir: shop.krannich-solar.com); uporabljeno le za primerjavo opcij po kodi str. 2-3; Siblik Datenblatt SE25K-RW00IBNM4 (distributer, Stand 31.05.2024) - NI SolarEdge dokument, samo za navzkrižno preverjanje str. 1; ESTG (distributer) - naslovi strani v iskalniku: SE25K-RW00IBNM4 'mc4 with setapp configuration', SE30K-RW00IBNM4 'mc4 dc spd with setapp configuration', SE30K-RW00IBNJ4 'mc4 dc safety unit with switch ac dc spd'; strani zaradi HTTP 429 niso bile odprte str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">32</elementInformation>
+        <elementInformation name="width" show="1">328</elementInformation>
+        <elementInformation name="height" show="1">558</elementInformation>
+        <elementInformation name="depth" show="1">273</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Three Phase Commercial Inverter For Europe SE20K/SE25K/SE30K/SE33.3K, datasheet DS-000053-EU (17. 6. 2024), velja za SEXXK-RWX0IXXXX - kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2-3; SolarEdge Installation Guide Three Phase Inverter with SetApp Configuration PN: SEXXK-XXXXIXXXX, For Europe and APAC, Version 1.0 (Dec. 2020) - kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. PDF str. 15 (dolžine, preseki DC), 22-27 (vmesniki), 32 (ozemljitev), 34-38 (AC, DC), 47-60 (komunikacija, RS485, PRI), 64 (SPD), 67 (mere), 72-75 (tehnični podatki SE25K-SE33.3K); SolarEdge Three Phase Inverter For Europe SE12.5K-SE20K, datasheet DS-000040-3.2-EU (07/2021), stolpec SE20K velja za SEXXK-XXXXIBXX4 - kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2; SolarEdge C&amp;I Product Portfolio - Three Phase Commercial Inverter For Europe SE20K...SE40K (SE-SIN-RWR0IBNH8 / SE-SIN-RW00IBNM4, MultiRange) - kopija uradnega SolarEdge dokumenta (vir: shop.krannich-solar.com); uporabljeno le za primerjavo opcij po kodi str. 2-3; Siblik Datenblatt SE25K-RW00IBNM4 (distributer, Stand 31.05.2024) - NI SolarEdge dokument, samo za navzkrižno preverjanje str. 1; ESTG (distributer) - naslovi strani v iskalniku: SE25K-RW00IBNM4 'mc4 with setapp configuration', SE30K-RW00IBNM4 'mc4 dc spd with setapp configuration', SE30K-RW00IBNJ4 'mc4 dc safety unit with switch ac dc spd'; strani zaradi HTTP 429 niso bile odprte str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="656" height="1116" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="650" height="1110" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="1099" width="650" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="299.14" y="1110.5" text="PV · AC" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="230.32" y="390.6" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="179.57" y="426.52" text="SE25K-RW00IBNM4" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{a943472a-c8db-52ae-8a8a-19ad50562485}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

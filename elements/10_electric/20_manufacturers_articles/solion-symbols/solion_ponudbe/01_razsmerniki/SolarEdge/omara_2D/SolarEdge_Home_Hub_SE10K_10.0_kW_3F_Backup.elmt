@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="660" height="1850" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{7a3b8ce5-3990-58ed-9ecc-cfdd55e22215}" />
+    <names>
+        <name lang="en">SolarEdge Home Hub SE10K 10.0 kW 3F Backup (front view)</name>
+        <name lang="sl">SolarEdge Home Hub SE10K 10.0 kW 3F Backup (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE10K-RWB48BFN4</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Home Hub SE10K 10.0 kW 3F Backup</elementInformation>
+        <elementInformation name="description" show="1">hibridni razsmernik; 1 MPPT, nizov na MPPT [2], U_dc max - V, MPPT [750, 900] V, I max - A; baterija [40, 62] V; komunikacija: RS485-1 (G, A, B) – števec, če BUI ni uporabljen; z BUI se števec priključi prek BUI, RS485-2 (B, A, G) – veriga leader/follower (CAT5e/6, 0.2–1 mm², do 1000 m, 32 vozlišč), 7-polna vtičnica za Backup Interface (G, A, B, 12-, 12+; 5-žilni oklopljen kabel ali CAT6), CAN RJ45 – baterija, Ethernet RJ45 (LAN, CAT5e/6, do 100 m), SolarEdge Home Network (predvgrajen plug-in + antena), Wi-Fi (antena, opcija), Cellular plug-in (opcija), SetApp</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Home Hub Inverter Three Phase, for Europe SE5K/SE8K/SE10K-RWB48 – datasheet DS-000112-ENG (1. 2. 2024); kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2-3; SolarEdge Home Hub Inverter Three Phase with Backup – datasheet DS-000112-EN (28. 4. 2022, starejši); kopija uradnega SolarEdge dokumenta (vir: res.cloudinary.com/gpceurope) str. 2; SolarEdge Home Hub Inverter – Three Phase, For Europe and APAC, Installation Guide Version 1.1 (april 2023); kopija uradnega SolarEdge dokumenta (vir: res.cloudinary.com/gpceurope) str. tiskane 23 (vmesniki), 27 (baterija 5 m), 31-35 (CAN, AC sponke L1 L2 L3 N PE, DC kit, ozemljitev), 43-48 (Ethernet, RS485-2, terminacija), 58 (mere); PDF = tiskana + 1; SolarEdge Home Hub Inverter – Three Phase Compact Product Guide for Europe (avgust 2022); kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.pl) str. 1-2 (seznam kom. priključkov 1-7, AC 6-16 mm², ozemljitev 6 mm²); Home Hub Inverter – Three Phase Quick Installation Guide For Europe, APAC and South Africa (marec 2023); kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.pl) str. 1 (A/B: 37 kg, AC 2.5-16 mm², 15-21 mm, CB max 16 A), 2 (D baterija, E RS485-2, F BUI G A B 12- 12+, G števec G A B, H LAN); Application Note – Installing SolarEdge Home Hub three phase inverters and SolarEdge Home 48V Batteries in Commercial Sites, v1.0 (dec. 2023); kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 1</elementInformation>
+        <elementInformation name="mass_kg" show="1">37</elementInformation>
+        <elementInformation name="width" show="1">317</elementInformation>
+        <elementInformation name="height" show="1">907</elementInformation>
+        <elementInformation name="depth" show="1">192</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Home Hub Inverter Three Phase, for Europe SE5K/SE8K/SE10K-RWB48 – datasheet DS-000112-ENG (1. 2. 2024); kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2-3; SolarEdge Home Hub Inverter Three Phase with Backup – datasheet DS-000112-EN (28. 4. 2022, starejši); kopija uradnega SolarEdge dokumenta (vir: res.cloudinary.com/gpceurope) str. 2; SolarEdge Home Hub Inverter – Three Phase, For Europe and APAC, Installation Guide Version 1.1 (april 2023); kopija uradnega SolarEdge dokumenta (vir: res.cloudinary.com/gpceurope) str. tiskane 23 (vmesniki), 27 (baterija 5 m), 31-35 (CAN, AC sponke L1 L2 L3 N PE, DC kit, ozemljitev), 43-48 (Ethernet, RS485-2, terminacija), 58 (mere); PDF = tiskana + 1; SolarEdge Home Hub Inverter – Three Phase Compact Product Guide for Europe (avgust 2022); kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.pl) str. 1-2 (seznam kom. priključkov 1-7, AC 6-16 mm², ozemljitev 6 mm²); Home Hub Inverter – Three Phase Quick Installation Guide For Europe, APAC and South Africa (marec 2023); kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.pl) str. 1 (A/B: 37 kg, AC 2.5-16 mm², 15-21 mm, CB max 16 A), 2 (D baterija, E RS485-2, F BUI G A B 12- 12+, G števec G A B, H LAN); Application Note – Installing SolarEdge Home Hub three phase inverters and SolarEdge Home 48V Batteries in Commercial Sites, v1.0 (dec. 2023); kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 1
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="634" height="1814" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="628" height="1808" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="1797" width="628" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="255.16" y="1808.5" text="PV · BAT · GRID" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="219.32" y="634.9" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="168.57" y="670.82" text="SE10K-RWB48BFN4" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{3e8a8d5d-a842-5795-92f7-9e8626e5173b}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

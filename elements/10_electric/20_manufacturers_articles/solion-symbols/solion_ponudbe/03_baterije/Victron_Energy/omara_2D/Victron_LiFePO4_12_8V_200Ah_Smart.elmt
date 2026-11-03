@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="670" height="510" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{74cbbb5a-d3aa-5061-aef0-7f33358c8dd1}" />
+    <names>
+        <name lang="en">Victron LiFePO4 12,8V/200Ah Smart (front view)</name>
+        <name lang="sl">Victron LiFePO4 12,8V/200Ah Smart (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">LiFePO4 Battery 12,8V/200Ah Smart (BAT512120610)</elementInformation>
+        <elementInformation name="designation" show="1">Victron LiFePO4 12,8V/200Ah Smart</elementInformation>
+        <elementInformation name="description" show="1">baterija; komunikacija: BMS kabla 50 cm z M8 krožnim konektorjem (moški 3-polni + ženski 3-polni), veriženje do BMS, Bluetooth (v bateriji)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet 12,8 &amp; 25,6 V LiFePO4 batteries Smart str. 2; Lithium Battery Smart manual (EN) str. 17 (BMS kabla), 19 (privijanje); Victron produktna stran (SKU podatki); 2D risbe mer str. 1 · 3D (STEP): cad/victron_lifepo4_smart/lfp_12V160_200Ah_a_smart.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">20</elementInformation>
+        <elementInformation name="width" show="1">321</elementInformation>
+        <elementInformation name="height" show="1">237</elementInformation>
+        <elementInformation name="depth" show="1">152</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet 12,8 &amp; 25,6 V LiFePO4 batteries Smart str. 2; Lithium Battery Smart manual (EN) str. 17 (BMS kabla), 19 (privijanje); Victron produktna stran (SKU podatki); 2D risbe mer str. 1
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="642" height="474" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="636" height="468" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="3" width="636" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="308.63" y="14.5" text="BAT" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="169.06" y="174.54" text="Victron Energy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="103.31" y="193.17" text="LiFePO4 Battery 12,8V/200Ah Smart (BAT512120610)" rotation="0" font="Liberation Sans,11,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{bd07ae32-573f-5095-af27-3f34e0edd718}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

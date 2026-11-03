@@ -1,0 +1,74 @@
+<definition version="0.200" type="element" link_type="simple" width="300" height="210" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{99e4ba20-a2db-528f-91bd-ffa599340ccd}" />
+    <names>
+        <name lang="en">SolarEdge Energy Bank 10.3 kWh</name>
+        <name lang="sl">SolarEdge Energy Bank 10.3 kWh</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLEBAT-10K1PS0B-02</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Energy Bank 10.3 kWh</elementInformation>
+        <elementInformation name="description" show="1">baterija; baterija [350, 450] V; komunikacija: SolarEdge Home Network (brezžično, plug-in in antena v razsmerniku), RS485 (G, A, B, En) - samo če Home Network ni mogoč</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Home Battery 400V For Europe BAT-10K1P - datasheet, DS-000164-EU, 9. 7. 2024 (stolpec BAT-10K1PS0B-x2); kopija uradnega SolarEdge dokumenta (vir: goodenergy.co.uk) str. 2; Energy Bank SolarEdge, Batteria da 10 kWh, per l'Europa BAT-10K1PS0B-01 - datasheet (IT), DS-000051-1.5-IT, 08/2021 (Energia totale 10300 Wh); kopija uradnega SolarEdge dokumenta (vir: files.rexel.it) str. 2; SolarEdge Home Battery 400V Installation and Operation Guide, Europe, v1.0, september 2022; kopija uradnega SolarEdge dokumenta (vir: res.cloudinary.com/gpceurope) str. 1 (koraki 1-6: montaža, MC4 DC+/DC-, ozemljitev 7,5 Nm, 121 kg, 50 m), 2 (varnost, 350-450 Vdc); Application Note: SolarEdge Energy Bank Connection and Configuration, v1.0 (RS485 konektor baterije G, A, B, En; DC 10 AWG); kopija uradnega SolarEdge dokumenta (vir: ressupply.com), Severna Amerika str. 1-2; SolarEdge Home Battery 400V Quick Installation Guide, v1.1, januar 2025, North America (za BAT-10K1PS0B-02; samo navzkrižna kontrola DC+/DC- in ozemljitve); kopija uradnega SolarEdge dokumenta (vir: ressupply.com) str. 1</elementInformation>
+        <elementInformation name="mass_kg" show="1">119</elementInformation>
+        <elementInformation name="width" show="1">790</elementInformation>
+        <elementInformation name="height" show="1">1179</elementInformation>
+        <elementInformation name="depth" show="1">250</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Home Battery 400V For Europe BAT-10K1P - datasheet, DS-000164-EU, 9. 7. 2024 (stolpec BAT-10K1PS0B-x2); kopija uradnega SolarEdge dokumenta (vir: goodenergy.co.uk) str. 2; Energy Bank SolarEdge, Batteria da 10 kWh, per l'Europa BAT-10K1PS0B-01 - datasheet (IT), DS-000051-1.5-IT, 08/2021 (Energia totale 10300 Wh); kopija uradnega SolarEdge dokumenta (vir: files.rexel.it) str. 2; SolarEdge Home Battery 400V Installation and Operation Guide, Europe, v1.0, september 2022; kopija uradnega SolarEdge dokumenta (vir: res.cloudinary.com/gpceurope) str. 1 (koraki 1-6: montaža, MC4 DC+/DC-, ozemljitev 7,5 Nm, 121 kg, 50 m), 2 (varnost, 350-450 Vdc); Application Note: SolarEdge Energy Bank Connection and Configuration, v1.0 (RS485 konektor baterije G, A, B, En; DC 10 AWG); kopija uradnega SolarEdge dokumenta (vir: ressupply.com), Severna Amerika str. 1-2; SolarEdge Home Battery 400V Quick Installation Guide, v1.1, januar 2025, North America (za BAT-10K1PS0B-02; samo navzkrižna kontrola DC+/DC- in ozemljitve); kopija uradnega SolarEdge dokumenta (vir: ressupply.com) str. 1
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="250" height="170" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="120" y1="170" x2="120" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="167" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="112" y="140.1" width="16" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="112" y1="152.1" x2="128" y2="152.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="115.05" y="149.1" text="PE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="12" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="32" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="32" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="DC+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="43" text="DC + (MC4)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="DC-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="63" text="DC - (MC4)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="218" y="12" width="30" height="96" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="218" y1="30" x2="248" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="225.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="218" y1="50" x2="248" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="218" y1="70" x2="248" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="218" y1="90" x2="248" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="250" y1="40" x2="260" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="222" y="43" text="G" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="174.89" y="43" text="RS485 GND" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="250" y1="60" x2="260" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="222" y="63" text="A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="183.14" y="63" text="RS485 A" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="250" y1="80" x2="260" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="222" y="83" text="B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="183.14" y="83" text="RS485 B" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="250" y1="100" x2="260" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="222" y="103" text="En" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="187.26" y="103" text="Enable" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="94.5" y="74" text="SolarEdge" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="89.95" y="88" text="BAT-10K1PS0B-02" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="107.27" y="102" text="10.3 kWh" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="85.23" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{0fb78865-f0fe-5406-94ac-fac0297f25c8}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="85.23" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{ba8783e8-cd09-5613-a55d-390c6e5f9dc3}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{366a54ef-fe7e-54ef-a48e-23529a6e175a}" x="120" y="180" orientation="s" type="Generic" name="PE:PE" />
+        <terminal uuid="{b34530e3-83cb-56a3-9b4d-8f5c2e6c976c}" x="-10" y="40" orientation="w" type="Generic" name="BAT:DC+" />
+        <terminal uuid="{63448e78-7b8f-544d-ad6d-ee3c96f002f3}" x="-10" y="60" orientation="w" type="Generic" name="BAT:DC-" />
+        <terminal uuid="{0a1cdd0b-0829-51ac-acb2-a2d4af08a4d1}" x="260" y="40" orientation="e" type="Generic" name="COM:G" />
+        <terminal uuid="{d61ba2eb-5237-5cda-8f71-e812f6af1f03}" x="260" y="60" orientation="e" type="Generic" name="COM:A" />
+        <terminal uuid="{aa96b218-1c84-5f60-a045-023cfe0af020}" x="260" y="80" orientation="e" type="Generic" name="COM:B" />
+        <terminal uuid="{38461126-b108-518b-bf81-1ea478a675c6}" x="260" y="100" orientation="e" type="Generic" name="COM:En" />
+    </description>
+</definition>

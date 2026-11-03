@@ -1,0 +1,55 @@
+<definition version="0.200" type="element" link_type="simple" width="320" height="210" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{740df9b5-a545-505f-a8ef-f292ff3f3a7d}" />
+    <names>
+        <name lang="en">SolarEdge Bus-Bar CT 3000A</name>
+        <name lang="sl">SolarEdge Bus-Bar CT 3000A</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE-CTB-4X4.5-3000</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Bus-Bar CT 3000A</elementInformation>
+        <elementInformation name="description" show="1">tokovni transformator</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Energy Meter with Modbus Connection SE-MTR-3Y-400V-A - datasheet, DS-00002-1.0-ENG, 07/2021 (vrstica SE-CTB-4x4.5-3000: 114 x 102 mm / 171 x 168 mm; risba CTB A/B/C/D; vodniki 2,4 m; ±1,75 % za SE-CTB); kopija uradnega SolarEdge dokumenta (vir: shop.krannich-solar.com) str. 2; Energy Meter with Modbus Connection - Quick Installation Guide, MAN-01-00754-1.0, julij 2020 (vezava CT: črna/bela pika, puščica proti omrežju); kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 1 (B); Continental Control Systems - CTBL Series Bus Bar Split-Core Current Transformers, Doc ID CTBL-DS1, 2. 10. 2017 - dokument OEM proizvajalca (NI SolarEdge; vir: shop.solexis.ch, objavljen pod imenom 'SolarEdge bus bar CT') str. 1 (modeli, CTBL-4.0x4.5-3000), 2 (specifikacije, vodniki 2,4 m #18 AWG, 0,33333 Vac), 3 (mehanika CTBL-4.0x4.5: 114/102/171/168 mm, debelina 29,0 mm, 0,92 kg z vodniki)</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.92</elementInformation>
+        <elementInformation name="width" show="1">168</elementInformation>
+        <elementInformation name="height" show="1">171</elementInformation>
+        <elementInformation name="depth" show="1">29</elementInformation>
+    </elementInformations>
+    <informations>Viri: Energy Meter with Modbus Connection SE-MTR-3Y-400V-A - datasheet, DS-00002-1.0-ENG, 07/2021 (vrstica SE-CTB-4x4.5-3000: 114 x 102 mm / 171 x 168 mm; risba CTB A/B/C/D; vodniki 2,4 m; ±1,75 % za SE-CTB); kopija uradnega SolarEdge dokumenta (vir: shop.krannich-solar.com) str. 2; Energy Meter with Modbus Connection - Quick Installation Guide, MAN-01-00754-1.0, julij 2020 (vezava CT: črna/bela pika, puščica proti omrežju); kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 1 (B); Continental Control Systems - CTBL Series Bus Bar Split-Core Current Transformers, Doc ID CTBL-DS1, 2. 10. 2017 - dokument OEM proizvajalca (NI SolarEdge; vir: shop.solexis.ch, objavljen pod imenom 'SolarEdge bus bar CT') str. 1 (modeli, CTBL-4.0x4.5-3000), 2 (specifikacije, vodniki 2,4 m #18 AWG, 0,33333 Vac), 3 (mehanika CTBL-4.0x4.5: 114/102/171/168 mm, debelina 29,0 mm, 0,92 kg z vodniki)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="270" height="170" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="120" y1="170" x2="120" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="167" text="OMR" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="140" y1="170" x2="140" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="143" y="167" text="BREME" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="112" y="125.26" width="36" height="42.74" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="112" y1="137.26" x2="148" y2="137.26" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="130" y1="137.26" x2="130" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="120.1" y="134.26" text="PRIM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="238" y="12" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="238" y1="30" x2="268" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="245.58" y="23" text="SEK" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="238" y1="50" x2="268" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="270" y1="40" x2="280" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="242" y="43" text="WH" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="108.31" y="43" text="Bel vodnik - na belo piko vho…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="270" y1="60" x2="280" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="242" y="63" text="BK" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="108.31" y="63" text="Črn vodnik - na črno piko vho…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="21.6" y="81" text="SolarEdge" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="12.1" y="95" text="SE-CTB-4x4.5-3000" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{8bcd7a9b-15ee-5e32-be63-a48283d597e4}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{0dea0841-963e-564c-b7e4-e0e370c79bbe}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{f9bc68f4-c60c-5775-93ff-222a8581e96d}" x="120" y="180" orientation="s" type="Generic" name="PRIM:OMR" />
+        <terminal uuid="{98f5e49b-fbb7-502b-8438-abddf1037610}" x="140" y="180" orientation="s" type="Generic" name="PRIM:BREME" />
+        <terminal uuid="{2077a12b-33f2-5f6f-b00f-9d4cc2b94e14}" x="280" y="40" orientation="e" type="Generic" name="SEK:WH" />
+        <terminal uuid="{c39715ce-8620-5d21-ab5e-404bcbe42858}" x="280" y="60" orientation="e" type="Generic" name="SEK:BK" />
+    </description>
+</definition>

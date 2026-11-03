@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1140" height="750" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{b13001b9-534d-5bc2-9c58-f8190cdb80bb}" />
+    <names>
+        <name lang="en">SolarEdge SE66.6K Synergy Manager 66.6 kW 3F (front view)</name>
+        <name lang="sl">SolarEdge SE66.6K Synergy Manager 66.6 kW 3F (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE66.6K-RW00IBNM4</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge SE66.6K Synergy Manager 66.6 kW 3F</elementInformation>
+        <elementInformation name="description" show="1">omrežni razsmernik; 2 MPPT, nizov na MPPT [4, 4], U_dc max 1000 V, MPPT [680, 1000] V, I max - A; komunikacija: 2x RS485 (RS485-1 in RS485-2, vsak B, A, G; vgrajena prenapetostna zaščita tip II na obeh vratih), Ethernet LAN (RJ45, CAT6, do 100 m), Wi-Fi (vgrajen; za portal potrebna zunanja antena, opcija), mobilna povezava: Cellular Plug-in (opcija) s priključkom za anteno, PRI - Power Reduction Interface (sponka na kom. plošči), Power bank vhod (predzagon brez omrežja), števec energije: prek RS485 na vodilnem (leader) razsmerniku, notranja komunikacija do obeh Synergy enot (kabel Comm), terminacija RS485: DIP stikalo SW1</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Installation Guide Three Phase Inverters with Synergy Technology PN: SExxK-xxxxIxxxx, For Europe and APAC, Version 1.4 (Jan. 2023) - kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. PDF str. 11 (sestava), 18 (700 m), 25-31 (vmesniki Managerja in enot, mase), 37-49 (DC, PE, AC), 50-61 (komunikacija, RS485), 71 (PRI), 77-79 (SPD, mere); SolarEdge Three Phase Inverter with Synergy Technology For Europe SE50K/SE66.6K/SE90K/SE100K/SE120K, datasheet DS-000008-EU (20. 6. 2023) - kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2-3; SolarEdge Three Phase Inverter with Synergy Technology For Europe SE50K-SE120K, datasheet DS-00008-1.1-EU (06/2021) - starejša različica, vir teh_iz_ponudb - kopija uradnega SolarEdge dokumenta (vir: irishellas.com) str. 2-3; Distributer ESTG (naslov strani v iskalniku, stran zaradi HTTP 429 ni bila odprta): 'solaredge 3ph inverter synergy manager 66.6kw mc4 dc spd' (SE66.6K-RW00IBNM4) str. -; teh_iz_ponudb (skupine/A5_solaredge.json) - prejšnji zapis iz ponudb; preverjeno (glej negotovo) str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">18</elementInformation>
+        <elementInformation name="width" show="1">560</elementInformation>
+        <elementInformation name="height" show="1">360</elementInformation>
+        <elementInformation name="depth" show="1">295</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Installation Guide Three Phase Inverters with Synergy Technology PN: SExxK-xxxxIxxxx, For Europe and APAC, Version 1.4 (Jan. 2023) - kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. PDF str. 11 (sestava), 18 (700 m), 25-31 (vmesniki Managerja in enot, mase), 37-49 (DC, PE, AC), 50-61 (komunikacija, RS485), 71 (PRI), 77-79 (SPD, mere); SolarEdge Three Phase Inverter with Synergy Technology For Europe SE50K/SE66.6K/SE90K/SE100K/SE120K, datasheet DS-000008-EU (20. 6. 2023) - kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2-3; SolarEdge Three Phase Inverter with Synergy Technology For Europe SE50K-SE120K, datasheet DS-00008-1.1-EU (06/2021) - starejša različica, vir teh_iz_ponudb - kopija uradnega SolarEdge dokumenta (vir: irishellas.com) str. 2-3; Distributer ESTG (naslov strani v iskalniku, stran zaradi HTTP 429 ni bila odprta): 'solaredge 3ph inverter synergy manager 66.6kw mc4 dc spd' (SE66.6K-RW00IBNM4) str. -; teh_iz_ponudb (skupine/A5_solaredge.json) - prejšnji zapis iz ponudb; preverjeno (glej negotovo) str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1120" height="720" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1114" height="714" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="462.32" y="252" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="391.78" y="287.92" text="SE66.6K-RW00IBNM4" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{b704b86c-b605-5e31-b7fc-654e60b4f201}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

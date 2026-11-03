@@ -1,0 +1,30 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="170" height="220" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{7fc28e75-091c-55de-9cb2-2491260ff330}" />
+    <names>
+        <name lang="en">Sigen Merilnik Energije TP CT600 DH (front view)</name>
+        <name lang="sl">Sigen Merilnik Energije TP CT600 DH (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">1426000300</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Merilnik Energije TP CT600 DH</elementInformation>
+        <elementInformation name="description" show="1">izdelal OEM Eastron SDM630MCT V2; števec; komunikacija: RS485 Modbus RTU (13 B, 14 A)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Sigen PV (50–125)M1-HYB Series Installation Guide (COM: TP-CT300-DH, TP-CT600-DH, TPX-CH) str. 46-47 (pogl. 5.10.1); SigenStor Installation Guide - Three-phase Low Voltage System (COM tabela s senzorji) str. 3 (seznam senzorjev), 26 (pogl. 5.4); C&amp;I Sigen Inverter &amp; Sigen Battery ESS User Manual (seznam senzorjev) str. 25; Sigen Sensor TPX-DH (SDM630MCT V2) Quick Guide – kopija uradnega PDF pri distributerju Solexis str. 1-3 (tabela napetost/CT, zahteve CT/PT); Eastron SDM630MCT Series User Manual 2024 V1.0 (proizvajalec merilnika) str. 5-9 (tehnični podatki, mere, ožičenje, ostale sponke)</elementInformation>
+        <elementInformation name="width" show="1">72</elementInformation>
+        <elementInformation name="height" show="1">94.5</elementInformation>
+        <elementInformation name="depth" show="1">65</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Sigen PV (50–125)M1-HYB Series Installation Guide (COM: TP-CT300-DH, TP-CT600-DH, TPX-CH) str. 46-47 (pogl. 5.10.1); SigenStor Installation Guide - Three-phase Low Voltage System (COM tabela s senzorji) str. 3 (seznam senzorjev), 26 (pogl. 5.4); C&amp;I Sigen Inverter &amp; Sigen Battery ESS User Manual (seznam senzorjev) str. 25; Sigen Sensor TPX-DH (SDM630MCT V2) Quick Guide – kopija uradnega PDF pri distributerju Solexis str. 1-3 (tabela napetost/CT, zahteve CT/PT); Eastron SDM630MCT Series User Manual 2024 V1.0 (proizvajalec merilnika) str. 5-9 (tehnični podatki, mere, ožičenje, ostale sponke)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="144" height="189" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="138" height="183" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="23.16" y="72.13" text="Sigenergy" rotation="0" font="Liberation Sans,12,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="17.58" y="80.12" text="Sigen Sensor TP-CT600-DH (SDM630MCT V2/600A)" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{5efba066-7a65-5560-bdd1-1f2f7f534553}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

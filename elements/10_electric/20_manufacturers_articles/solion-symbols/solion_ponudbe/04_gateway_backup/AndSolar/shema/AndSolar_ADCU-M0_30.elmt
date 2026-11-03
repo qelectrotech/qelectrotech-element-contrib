@@ -1,0 +1,65 @@
+<definition version="0.200" type="element" link_type="simple" width="320" height="260" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{b829d53e-aa43-57cf-8be5-a8c13d296a9c}" />
+    <names>
+        <name lang="en">AndSolar ADCU-M0(30)</name>
+        <name lang="sl">AndSolar ADCU-M0(30)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">AndSolar</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">60-002303</elementInformation>
+        <elementInformation name="designation" show="1">AndSolar ADCU-M0(30)</elementInformation>
+        <elementInformation name="description" show="1">gateway/backup; komunikacija: HPLC do AMCL/AMCP prek magnetnega obroča na minus vodnikih nizov (do 800 m), LAN (RJ45 skozi vodotesno uvodnico), 4G, Wi-Fi, RS-485 (fieldbus)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: AndSolar Gateway ADCU DataSheet V3.1-36E18 str. 2; AndSolar AMCL &amp; ADCU User Manual V1.2-36B03 (pogl. 5, 6.2) str. 18–24, 26; AndSolar Products Brochure V3.2-36E18 str. -</elementInformation>
+        <elementInformation name="width" show="1">240</elementInformation>
+        <elementInformation name="height" show="1">340</elementInformation>
+        <elementInformation name="depth" show="1">101</elementInformation>
+    </elementInformations>
+    <informations>Viri: AndSolar Gateway ADCU DataSheet V3.1-36E18 str. 2; AndSolar AMCL &amp; ADCU User Manual V1.2-36B03 (pogl. 5, 6.2) str. 18–24, 26; AndSolar Products Brochure V3.2-36E18 str. -
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="270" height="220" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="120" y1="0" x2="120" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="36.69" text="OBROČ1" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="140" y1="0" x2="140" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="143" y="36.69" text="OBROČ2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="112" y="2" width="36" height="47.69" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="112" y1="37.69" x2="148" y2="37.69" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="130" y1="2" x2="130" y2="37.69" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="125.05" y="46.69" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="120" y1="220" x2="120" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="217" text="L" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="140" y1="220" x2="140" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="143" y="217" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="112" y="195.05" width="36" height="22.95" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="112" y1="207.05" x2="148" y2="207.05" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="130" y1="207.05" x2="130" y2="218" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="125.05" y="204.05" text="AC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="228" y="72" width="40" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="228" y1="90" x2="268" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="240.58" y="83" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="228" y1="110" x2="268" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="270" y1="100" x2="280" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="103" text="LAN" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="110.68" y="103" text="RJ45 Ethernet (LAN izvedba)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="270" y1="120" x2="280" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="123" text="RS485" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="160.16" y="123" text="Fieldbus RS-485" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="26.4" y="114" text="AndSolar" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="10.81" y="128" text="ADCU-M0 (2 obroča)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="50.39" y="142" text="1F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="64" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{7caa80bd-7708-5929-bce6-0e81bcbc8711}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="77" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{2239cc40-3b16-5094-b5e9-d9bfff33e369}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{938150bd-876a-537f-b3c7-69ad0896f8d5}" x="120" y="-10" orientation="n" type="Generic" name="PV:OBROČ1" />
+        <terminal uuid="{91113943-e966-5ad9-a27e-da9c0591354e}" x="140" y="-10" orientation="n" type="Generic" name="PV:OBROČ2" />
+        <terminal uuid="{1958b3fa-a89d-5a9f-b00e-4264594e1898}" x="120" y="230" orientation="s" type="Generic" name="AC:L" />
+        <terminal uuid="{5a56c922-e2b0-5777-a039-359a76588191}" x="140" y="230" orientation="s" type="Generic" name="AC:N" />
+        <terminal uuid="{e4b7de03-79ae-5a50-b557-f922111acd19}" x="280" y="100" orientation="e" type="Generic" name="COM:LAN" />
+        <terminal uuid="{757d0226-feca-5375-8f97-fa3e4bfc1e0b}" x="280" y="120" orientation="e" type="Generic" name="COM:RS485" />
+    </description>
+</definition>

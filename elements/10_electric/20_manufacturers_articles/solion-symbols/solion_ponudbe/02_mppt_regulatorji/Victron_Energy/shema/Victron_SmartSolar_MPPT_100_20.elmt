@@ -1,0 +1,79 @@
+<definition version="0.200" type="element" link_type="simple" width="590" height="260" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{ae975bb4-0910-5a3d-b74d-e62d1ac3edee}" />
+    <names>
+        <name lang="en">Victron SmartSolar MPPT 100/20</name>
+        <name lang="sl">Victron SmartSolar MPPT 100/20</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SmartSolar MPPT 100/20 (up to 48V) (SCC110020160R)</elementInformation>
+        <elementInformation name="designation" show="1">Victron SmartSolar MPPT 100/20</elementInformation>
+        <elementInformation name="description" show="1">MPPT regulator; 1 MPPT, nizov na MPPT [1], U_dc max 100 V, MPPT - V, I max - A; komunikacija: VE.Direct (GX, MPPT Control, TX/RX kabli), Bluetooth Smart (vgrajen), navidezni remote on/off prek VE.Direct non-inverting remote on/off kabla</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SmartSolar MPPT 75/10 up to 100/20 manual (EN) str. 6 (ozemljitev), 15 (varovalka), 17 (Connection overview); Datasheet SmartSolar MPPT 75/10, 75/15, 100/15, 100/20-48V str. 1; Dimension drawing str. 1; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_smartsolar_100_20/mppt_100_20.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.65</elementInformation>
+        <elementInformation name="width" show="1">131</elementInformation>
+        <elementInformation name="height" show="1">100</elementInformation>
+        <elementInformation name="depth" show="1">60</elementInformation>
+    </elementInformations>
+    <informations>Viri: SmartSolar MPPT 75/10 up to 100/20 manual (EN) str. 6 (ozemljitev), 15 (varovalka), 17 (Connection overview); Datasheet SmartSolar MPPT 75/10, 75/15, 100/15, 100/20-48V str. 1; Dimension drawing str. 1; Victron produktna stran (SKU podatki)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="540" height="220" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="260" y1="0" x2="260" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="263" y="21.84" text="PV+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="0" x2="280" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="283" y="21.84" text="PV-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="252" y="2" width="36" height="32.84" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="252" y1="22.84" x2="288" y2="22.84" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="270" y1="2" x2="270" y2="22.84" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="265.05" y="31.84" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="240" y1="220" x2="240" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="243" y="217" text="LOAD+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="260" y1="220" x2="260" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="263" y="217" text="LOAD-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="300" y1="220" x2="300" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="303" y="217" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="232" y="175.26" width="36" height="42.74" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="232" y1="187.26" x2="268" y2="187.26" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="250" y1="187.26" x2="250" y2="218" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="240.1" y="184.26" text="LOAD" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="292" y="175.26" width="16" height="42.74" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="292" y1="187.26" x2="308" y2="187.26" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="295.05" y="184.26" text="PE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="52" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="70" x2="32" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.58" y="63" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="90" x2="32" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="80" x2="-10" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="83" text="BAT+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="83" text="Baterija +" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="100" x2="-10" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="103" text="BAT-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="103" text="Baterija -" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="478" y="52" width="60" height="36" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="478" y1="70" x2="538" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="500.58" y="63" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="540" y1="80" x2="550" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="482" y="83" text="VE.Direct" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="348.31" y="83" text="VE.Direct vtičnica (z mostičk…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="163.12" y="99" text="Victron Energy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="90.08" y="113" text="SmartSolar MPPT 100/20 (up to 48V) (SCC110020160R)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="198.93" y="127" text="1 MPPT" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="85.23" y="44" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{4db54a62-ba3f-5622-9220-00efca3c15e4}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="85.23" y="57" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{60d6b3a6-1fb1-5bc3-aca2-88160f3160b0}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{77fd61a3-9c79-5955-809e-0fe4d362d4ac}" x="260" y="-10" orientation="n" type="Generic" name="PV:PV+" />
+        <terminal uuid="{f9d47079-5b6b-5934-a9f7-f723f82409a2}" x="280" y="-10" orientation="n" type="Generic" name="PV:PV-" />
+        <terminal uuid="{b779215e-e982-5940-bea8-fbbe45ca40c4}" x="240" y="230" orientation="s" type="Generic" name="LOAD:LOAD+" />
+        <terminal uuid="{a39f3879-2dae-5e81-9f3a-01511d29c1be}" x="260" y="230" orientation="s" type="Generic" name="LOAD:LOAD-" />
+        <terminal uuid="{6de129cd-bea3-56ce-b034-f34f0d2524ad}" x="300" y="230" orientation="s" type="Generic" name="PE:PE" />
+        <terminal uuid="{dd18e3f1-d324-5958-bf81-d037029e6cd7}" x="-10" y="80" orientation="w" type="Generic" name="BAT:BAT+" />
+        <terminal uuid="{1e423123-ae70-5cda-a5e1-99a4eb965ede}" x="-10" y="100" orientation="w" type="Generic" name="BAT:BAT-" />
+        <terminal uuid="{78f11f27-0781-59a5-aad9-3a7442f7d8cf}" x="550" y="80" orientation="e" type="Generic" name="COM:VE.Direct" />
+    </description>
+</definition>

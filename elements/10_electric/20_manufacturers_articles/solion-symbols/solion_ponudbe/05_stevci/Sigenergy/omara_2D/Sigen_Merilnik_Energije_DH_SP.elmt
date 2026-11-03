@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="100" height="230" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{efb104bf-51cb-5503-a00a-5559c1dd22bd}" />
+    <names>
+        <name lang="en">Sigen Merilnik Energije DH SP (front view)</name>
+        <name lang="sl">Sigen Merilnik Energije DH SP (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">1426000004</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Merilnik Energije DH SP</elementInformation>
+        <elementInformation name="description" show="1">izdelal OEM Eastron SDM230-Modbus; števec; komunikacija: RS485 Modbus RTU, 9600 bps</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3); SigenStor-(8S–12S) Series Installation Guide (COM – Sigen Sensor SP-DH / SP-CT120-DH) str. 26-27 (pogl. 5.5.1); Datasheet - Sigen Power Sensor (for Residential), V20260515 str. 2; Eastron SDM230-Modbus User Manual V1.8 (proizvajalec merilnika) str. 12 (ožičenje in mere)</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.2</elementInformation>
+        <elementInformation name="width" show="1">36</elementInformation>
+        <elementInformation name="height" show="1">100</elementInformation>
+        <elementInformation name="depth" show="1">63</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3); SigenStor-(8S–12S) Series Installation Guide (COM – Sigen Sensor SP-DH / SP-CT120-DH) str. 26-27 (pogl. 5.5.1); Datasheet - Sigen Power Sensor (for Residential), V20260515 str. 2; Eastron SDM230-Modbus User Manual V1.8 (proizvajalec merilnika) str. 12 (ožičenje in mere)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="72" height="200" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="66" height="194" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="11.58" y="72" text="Sigenergy" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="-4.82" y="79.98" text="Sigen Sensor SP-DH (SDM230Modbus)" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{5b81d09d-15ea-5bac-82ac-ae54e222b380}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

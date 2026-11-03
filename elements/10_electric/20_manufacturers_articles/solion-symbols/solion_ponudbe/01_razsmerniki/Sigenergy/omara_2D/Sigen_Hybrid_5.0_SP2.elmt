@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="770" height="980" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{b5e8b74b-5992-5768-990b-9858c9ad3ce7}" />
+    <names>
+        <name lang="en">Sigen Hybrid 5.0 SP2 (front view)</name>
+        <name lang="sl">Sigen Hybrid 5.0 SP2 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11020009</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Hybrid 5.0 SP2</elementInformation>
+        <elementInformation name="description" show="1">hibridni razsmernik; 2 MPPT, nizov na MPPT [1, 1], U_dc max 600 V, MPPT [50, 550] V, I max [16, 16] A; baterija [300, 600] V; komunikacija: RS485-1 (prosta), RS485-2 (Sigen Sensor SP-DH / SP-CT120-DH), RJ45 BAT (SigenStor BC), 2x FE (RJ45), WLAN (ANT), 4G Sigen CommMod, 5x DI (rezervirano DRM/RCR), 2x DO preklopni (NC/COM/NO, rezervirano), 5 V (rezervirano)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - Sigen Hybrid Inverter SP2 &amp; TP2 (Version 20260601), Sigenergy str. 2 (levo SP2, desno TP2); Sigen Hybrid (2.0-6.0) SP2 Series Installation Guide, v04 (2026-04-21); iz ZIP Sigen Hybrid (2.0-6.0) SP2 Series Installer Manual_EN.zip str. 2 (Port Introduction, mere), 4 (kabli), 11 (COM), 14 (PV); Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 17-18 (AC stikalo), 24-25; teh_iz_ponudb (Generator ponudb SOLION) - obstoječi tehnični zapis s preseki kablov in AC stikali str. polje teh_iz_ponudb pri artiklu; SigenStor ESS Installation Guide (Supporting Sigen Hybrid SP2, TP2); iz ZIP SigenStor Energy Storage System Installer Manual (Supporting Sigen Hybrid SP2, TP2 Series Inverters)_EN.zip str. 4 (DC kabel BC-razsmernik Cu 6 mm2, &lt;= 20 m) - prek teh_iz_ponudb</elementInformation>
+        <elementInformation name="mass_kg" show="1">11.5</elementInformation>
+        <elementInformation name="width" show="1">373</elementInformation>
+        <elementInformation name="height" show="1">473</elementInformation>
+        <elementInformation name="depth" show="1">99</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - Sigen Hybrid Inverter SP2 &amp; TP2 (Version 20260601), Sigenergy str. 2 (levo SP2, desno TP2); Sigen Hybrid (2.0-6.0) SP2 Series Installation Guide, v04 (2026-04-21); iz ZIP Sigen Hybrid (2.0-6.0) SP2 Series Installer Manual_EN.zip str. 2 (Port Introduction, mere), 4 (kabli), 11 (COM), 14 (PV); Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 17-18 (AC stikalo), 24-25; teh_iz_ponudb (Generator ponudb SOLION) - obstoječi tehnični zapis s preseki kablov in AC stikali str. polje teh_iz_ponudb pri artiklu; SigenStor ESS Installation Guide (Supporting Sigen Hybrid SP2, TP2); iz ZIP SigenStor Energy Storage System Installer Manual (Supporting Sigen Hybrid SP2, TP2 Series Inverters)_EN.zip str. 4 (DC kabel BC-razsmernik Cu 6 mm2, &lt;= 20 m) - prek teh_iz_ponudb
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="746" height="946" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="740" height="940" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="929" width="740" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="298.79" y="940.5" text="PV · BAT · AC · PE" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="275.32" y="331.1" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="175.1" y="367.02" text="Sigen Hybrid 5.0 SP2" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{4feb4988-a793-583d-9894-b44a99266ac7}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

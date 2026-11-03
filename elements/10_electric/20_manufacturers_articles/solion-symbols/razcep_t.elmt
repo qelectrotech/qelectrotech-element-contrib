@@ -1,0 +1,21 @@
+<definition version="0.100.0" type="element" link_type="terminal" width="20" height="20" hotspot_x="10" hotspot_y="10">
+    <uuid uuid="{c6b639f1-fd66-4b2f-b5c8-663b173d6504}" />
+    <names>
+        <name lang="en">T junction (dot)</name>
+        <name lang="fr">Jonction en T</name>
+        <name lang="sl">Razcep T (točka)</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <line x1="-10" y1="0" x2="10" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="0" y1="0" x2="0" y2="10" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <circle x="-2.5" y="-2.5" diameter="5" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" />
+        <terminal uuid="{dc85ed8c-fda6-483c-9228-8b19b569a1d4}" name="1" x="-10" y="0" orientation="w" type="Generic" />
+        <terminal uuid="{302dd2ed-6983-41ab-be6a-72a444a42205}" name="2" x="10" y="0" orientation="e" type="Generic" />
+        <terminal uuid="{db18d6be-f402-4a2c-8d8f-323e109b083a}" name="3" x="0" y="10" orientation="s" type="Generic" />
+    </description>
+</definition>

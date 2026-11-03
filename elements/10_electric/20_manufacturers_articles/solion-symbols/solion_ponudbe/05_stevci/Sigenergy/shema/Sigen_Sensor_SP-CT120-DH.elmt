@@ -1,0 +1,61 @@
+<definition version="0.200" type="element" link_type="simple" width="580" height="200" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{3792046c-bb74-592d-98ea-3c385e2dcb93}" />
+    <names>
+        <name lang="en">Sigen Sensor SP-CT120-DH</name>
+        <name lang="sl">Sigen Sensor SP-CT120-DH</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">1426000005</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Sensor SP-CT120-DH</elementInformation>
+        <elementInformation name="description" show="1">izdelal OEM Eastron SDM120CT 40mA; števec; komunikacija: RS485 Modbus RTU</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3); SigenStor-(8S–12S) Series Installation Guide (COM – Sigen Sensor SP-DH / SP-CT120-DH) str. 26-27 (pogl. 5.5.1)</elementInformation>
+    </elementInformations>
+    <informations>Viri: Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3); SigenStor-(8S–12S) Series Installation Guide (COM – Sigen Sensor SP-DH / SP-CT120-DH) str. 26-27 (pogl. 5.5.1)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="530" height="160" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="260" y1="160" x2="260" y2="170" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="263" y="157" text="L" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="160" x2="280" y2="170" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="283" y="157" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="252" y="135.05" width="36" height="22.95" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="252" y1="147.05" x2="288" y2="147.05" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="270" y1="147.05" x2="270" y2="158" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="265.05" y="144.05" text="AC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="12" width="40" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="42" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.63" y="23" text="RS485" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="42" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="-10.25" y="38" text="10" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="43" text="RS485 A+ (razsmernik 485-A2…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="-7" y="58" text="9" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="63" text="RS485 B- (razsmernik 485-B2…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="508" y="12" width="20" height="36" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="508" y1="30" x2="528" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="513.05" y="23" text="CT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="530" y1="40" x2="540" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="512" y="43" text="CT" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="378.31" y="43" text="Vhod za zunanji CT 120 A/40 m…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="238.32" y="69" text="Sigenergy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="171.93" y="83" text="Sigen Sensor SP-CT120-DH (SDM120CT 40mA)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="265.93" y="97" text="1F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="169.44" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{60a2e0ea-9d5f-5ec8-8cc3-4cbecc38b1ae}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="169.44" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e196e7ac-a0e9-533e-995c-e2683e15cc02}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{12da708d-b732-5574-b856-f96ef704ecbb}" x="260" y="170" orientation="s" type="Generic" name="AC:L" />
+        <terminal uuid="{791ce0ce-6926-5ab1-bea4-c88e19154aff}" x="280" y="170" orientation="s" type="Generic" name="AC:N" />
+        <terminal uuid="{02fd92e3-fc32-5203-8dad-090b742cf17a}" x="-10" y="40" orientation="w" type="Generic" name="RS485:10" />
+        <terminal uuid="{6a9057ac-0654-5352-b163-4cf8d9d177ac}" x="-10" y="60" orientation="w" type="Generic" name="RS485:9" />
+        <terminal uuid="{1c7d0bfc-6617-543f-8cf2-820b4e1aa851}" x="540" y="40" orientation="e" type="Generic" name="CT:CT" />
+    </description>
+</definition>

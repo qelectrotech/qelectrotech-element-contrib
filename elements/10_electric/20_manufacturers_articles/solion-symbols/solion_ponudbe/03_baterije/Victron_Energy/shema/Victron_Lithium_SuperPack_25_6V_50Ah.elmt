@@ -1,0 +1,45 @@
+<definition version="0.200" type="element" link_type="simple" width="400" height="160" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{578effa4-24d0-5fb7-abbf-e44c0c1f73ab}" />
+    <names>
+        <name lang="en">Victron Lithium SuperPack 25,6V/50Ah</name>
+        <name lang="sl">Victron Lithium SuperPack 25,6V/50Ah</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Lithium SuperPack 25,6V/50Ah (M8) (BAT524050705)</elementInformation>
+        <elementInformation name="designation" show="1">Victron Lithium SuperPack 25,6V/50Ah</elementInformation>
+        <elementInformation name="description" show="1">baterija</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet 12,8 V &amp; 25,6 V Lithium SuperPack str. 1; Victron produktna stran (SKU podatki); 2D risbe mer str. 1 · 3D (STEP): cad/victron_lithium_superpack/superpack_12V100Ah_25V50Ah_older.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">14</elementInformation>
+        <elementInformation name="width" show="1">330</elementInformation>
+        <elementInformation name="height" show="1">220</elementInformation>
+        <elementInformation name="depth" show="1">172</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet 12,8 V &amp; 25,6 V Lithium SuperPack str. 1; Victron produktna stran (SKU podatki); 2D risbe mer str. 1
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="350" height="120" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="2" y="12" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="32" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="32" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="BAT+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="43" text="pozitivni pol" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="BAT-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="63" text="negativni pol" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="170.15" y="56" text="Victron Energy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="102.06" y="70" text="Lithium SuperPack 25,6V/50Ah (M8) (BAT524050705)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="97.6" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{a4362155-0967-59b9-8bf5-0d2edc565819}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="97.6" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{d8b6c219-2870-5994-988f-e6277e88785f}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{c23057e5-c6dd-5be8-b4ee-2699e23e72ea}" x="-10" y="40" orientation="w" type="Generic" name="BAT:BAT+" />
+        <terminal uuid="{b60a02eb-33cd-5230-bf97-f3fcc363fb3f}" x="-10" y="60" orientation="w" type="Generic" name="BAT:BAT-" />
+    </description>
+</definition>

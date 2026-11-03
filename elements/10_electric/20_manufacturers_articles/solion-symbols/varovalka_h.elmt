@@ -1,0 +1,23 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="20" hotspot_x="30" hotspot_y="10">
+    <uuid uuid="{4396dc2b-04df-4b2d-8c68-640164b4acfe}" />
+    <names>
+        <name lang="en">Fuse, general symbol (horizontal)</name>
+        <name lang="fr">Fusible, symbole général (horizontal)</name>
+        <name lang="sl">Varovalka (vodoravno)</name>
+    </names>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <line x1="-30" y1="0" x2="30" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <rect x="-15" y="-5" width="30" height="10" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <terminal uuid="{f600a06b-3ff7-44c7-b3ae-44350e921cf5}" name="2" x="30" y="0" orientation="e" type="Generic" />
+        <terminal uuid="{9e9b4f9f-b25a-4113-b41a-f2345dab56fc}" name="1" x="-30" y="0" orientation="w" type="Generic" />
+        <dynamic_text x="-28" y="-35" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{c8a5b53c-9d6f-4f2e-809e-c3abe0536df4}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-28" y="-22" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{d284377a-3baa-4041-ad79-8d541558aeb9}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+    </description>
+</definition>

@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="920" height="450" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{a8b8a15f-61fc-53bd-906b-59cd5f3fe47e}" />
+    <names>
+        <name lang="en">Victron LiFePO4 12,8V/300Ah NG (front view)</name>
+        <name lang="sl">Victron LiFePO4 12,8V/300Ah NG (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">LiFePO4 Battery 12,8V/300Ah NG (BAT512130620)</elementInformation>
+        <elementInformation name="designation" show="1">Victron LiFePO4 12,8V/300Ah NG</elementInformation>
+        <elementInformation name="description" show="1">baterija; komunikacija: BMS kabla 50 cm z M8 krožnim konektorjem (moški 3-polni + ženski 3-polni), hitra digitalna komunikacija; podaljški 1-5 m, Bluetooth v BMS</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet Lithium NG batteries 12,8/25,6/51,2 V str. 2; Lithium NG battery manual 12,8 V (EN) str. 7, 13 (BMS kabla), 16 (priključki, 10 Nm); Victron produktna stran (SKU podatki); 2D risbe mer str. 1 · 3D (STEP): cad/victron_lifepo4_ng/lfp_12V300Ah_ng.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">29</elementInformation>
+        <elementInformation name="width" show="1">447</elementInformation>
+        <elementInformation name="height" show="1">206</elementInformation>
+        <elementInformation name="depth" show="1">205</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet Lithium NG batteries 12,8/25,6/51,2 V str. 2; Lithium NG battery manual 12,8 V (EN) str. 7, 13 (BMS kabla), 16 (priključki, 10 Nm); Victron produktna stran (SKU podatki); 2D risbe mer str. 1
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="894" height="412" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="888" height="406" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="3" width="888" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="434.63" y="14.5" text="BAT" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="295.06" y="149.52" text="Victron Energy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="150.14" y="174.8" text="LiFePO4 Battery 12,8V/300Ah NG (BAT512130620)" rotation="0" font="Liberation Sans,16,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{5cb2a42f-0414-54d2-8d70-d780caba795c}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

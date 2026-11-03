@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="170" height="210" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{a5192eb5-6a35-58d8-8467-ab0b827789e2}" />
+    <names>
+        <name lang="en">SolarEdge Inline Energy Meter 1F/3F 65A (front view)</name>
+        <name lang="sl">SolarEdge Inline Energy Meter 1F/3F 65A (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLEMTR-240-3PC1-D-A-MW</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Inline Energy Meter 1F/3F 65A</elementInformation>
+        <elementInformation name="description" show="1">števec; komunikacija: SolarEdge Home Network / Energy Net (brezžično, 863-870 MHz EU, notranja antena; zunanja antena SE-ANT-ENET-HB-01 na SMA-RP opcija), RS485 half duplex, 3 žice (A, B, GND), Modbus RTU, privzeti Modbus ID 2, zaključitev 120 Ω izbirna v meniju števca (privzeto ON po IG)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Home Inline Meter - datasheet, DS-000001-ENG, 15. 11. 2022 (stolpec MTR-240-3PC1-D-A-MW / MTR EU3); kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 2-3 (električni podatki, RS485, brezžično, mere, masa, IP, okolje); Installation Guide - Inline Energy Meter with SolarEdge Home Network Communications, For Europe and Australia, Version 1.1 (marec 2022); kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. tiskane str. 6, 11 (sl. 7 vmesniki, sponke zgoraj/spodaj L1 L2 L3 N), 15 (RS485 kabel), 16 (DIN), 17 (razred A/B, prerez 1,0-26,0 mm², max 65 A), 18 (sl. 9 številke sponk 1-8), 24 (RS485 A+ B- G, vtič B A G), 31 (RS485 Term privzeto ON); PDF stran = tiskana + 1; Inline Energy Meter Quick Installation Guide For Europe, APAC and South Africa, avgust 2021; kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. 1-2 (EN: vezava 3Ø razred A/B, 1,2 Nm, 1,5-25 mm², RS485 ID 2)</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.32</elementInformation>
+        <elementInformation name="width" show="1">72</elementInformation>
+        <elementInformation name="height" show="1">90</elementInformation>
+        <elementInformation name="depth" show="1">58</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Home Inline Meter - datasheet, DS-000001-ENG, 15. 11. 2022 (stolpec MTR-240-3PC1-D-A-MW / MTR EU3); kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 2-3 (električni podatki, RS485, brezžično, mere, masa, IP, okolje); Installation Guide - Inline Energy Meter with SolarEdge Home Network Communications, For Europe and Australia, Version 1.1 (marec 2022); kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. tiskane str. 6, 11 (sl. 7 vmesniki, sponke zgoraj/spodaj L1 L2 L3 N), 15 (RS485 kabel), 16 (DIN), 17 (razred A/B, prerez 1,0-26,0 mm², max 65 A), 18 (sl. 9 številke sponk 1-8), 24 (RS485 A+ B- G, vtič B A G), 31 (RS485 Term privzeto ON); PDF stran = tiskana + 1; Inline Energy Meter Quick Installation Guide For Europe, APAC and South Africa, avgust 2021; kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. 1-2 (EN: vezava 3Ø razred A/B, 1,2 Nm, 1,5-25 mm², RS485 ID 2)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="144" height="180" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="138" height="174" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="23.16" y="66.99" text="SolarEdge" rotation="0" font="Liberation Sans,12,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="25" y="78.97" text="MTR-240-3PC1-D-A-MW" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{72f25786-6eba-5655-beae-be4bf33b7f65}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

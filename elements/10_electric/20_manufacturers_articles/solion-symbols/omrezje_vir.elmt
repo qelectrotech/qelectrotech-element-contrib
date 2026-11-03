@@ -1,0 +1,24 @@
+<definition version="0.100.0" type="element" link_type="simple" width="50" height="40" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{258a5e31-3d10-4280-8fc4-4e3547b3362f}" />
+    <names>
+        <name lang="en">Grid supply</name>
+        <name lang="fr">Réseau</name>
+        <name lang="sl">Omrežje / dovod (distribucija)</name>
+    </names>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <circle x="-20" y="-20" diameter="40" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <arc x="-9" y="-3" width="9" height="6" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <arc x="0" y="-3" width="9" height="6" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="20" y1="0" x2="30" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <dynamic_text x="-20" y="-52" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{bcd3e319-972f-460a-b37d-597ae31f2e7b}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-20" y="-39" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{312ceaf7-0844-4ca7-a071-2de85583a6a1}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{1bb3b938-2dcb-4a9a-af8e-76ac6789b380}" name="L" x="30" y="0" orientation="e" type="Generic" />
+    </description>
+</definition>

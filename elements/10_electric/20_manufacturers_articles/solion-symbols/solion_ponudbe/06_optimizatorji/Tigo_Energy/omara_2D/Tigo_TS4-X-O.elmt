@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="300" height="310" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{fa137fd6-ecdf-5b92-8bad-a848bc714f1c}" />
+    <names>
+        <name lang="en">Tigo TS4-X-O (front view)</name>
+        <name lang="sl">Tigo TS4-X-O (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Tigo Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">TS4-X-O</elementInformation>
+        <elementInformation name="designation" show="1">Tigo TS4-X-O</elementInformation>
+        <elementInformation name="description" show="1">optimizator; 1 MPPT, nizov na MPPT -, U_dc max 80 V, MPPT [12, 80] V, I max [20] A</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Tigo TS4-X-O Datasheet 002-00203-00 Rev 1.1 (20250429) EN str. 1–2; Tigo TS4-X-O Datasheet SL (slovenski) str. 1–2; Tigo IOM TS4-X &amp; TS4 (725W) w TAP CCA and MFRS 002-00240-00 Rev 1.1 str. vgradnja TS4 (kabli vhod/izhod); Tigo QSG TS4-X 002-00097-00 Rev 1.2 str. -; Tigo produktna stran TS4-X-O str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.52</elementInformation>
+        <elementInformation name="width" show="1">138.4</elementInformation>
+        <elementInformation name="height" show="1">139.7</elementInformation>
+        <elementInformation name="depth" show="1">22.9</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Tigo TS4-X-O Datasheet 002-00203-00 Rev 1.1 (20250429) EN str. 1–2; Tigo TS4-X-O Datasheet SL (slovenski) str. 1–2; Tigo IOM TS4-X &amp; TS4 (725W) w TAP CCA and MFRS 002-00240-00 Rev 1.1 str. vgradnja TS4 (kabli vhod/izhod); Tigo QSG TS4-X 002-00097-00 Rev 1.2 str. -; Tigo produktna stran TS4-X-O str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="276.8" height="279.4" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="270.8" height="273.4" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="43.89" y="94.47" text="Tigo Energy" rotation="0" font="Liberation Sans,19,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="69.13" y="130.38" text="TS4-X-O" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{caf59c21-b9cb-5dc5-99f1-98d64877d3be}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1420" height="630" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{be5c70b3-e3c6-5054-974d-72e459c48b8e}" />
+    <names>
+        <name lang="en">Sigen Hibridni razsmernik 6.0 kW TP (front view)</name>
+        <name lang="sl">Sigen Hibridni razsmernik 6.0 kW TP (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11010020</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Hibridni razsmernik 6.0 kW TP</elementInformation>
+        <elementInformation name="description" show="1">hibridni razsmernik; 2 MPPT, nizov na MPPT [1, 1], U_dc max 1100 V, MPPT [160, 1000] V, I max [16, 16] A; baterija [600, 900] V; komunikacija: RS485-1 (EMS / števec / TČ, COM 15-16), RS485-2 (Sigen Sensor števec, COM 13-14), 2x RJ45 Fast Ethernet (RJ45 1 / RJ45 2), WLAN 2,4 GHz (antena ANT), 4G Sigen CommMod (vtičnica 4G), 5x DI (DI1-DI4 DRM/RCR, DI5 hitri izklop/NS/EPO), 2x DO suhi kontakt (rezervirano, 12 V / 1 A)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - Sigen Hybrid (5.0-30.0) TP, Sigenergy str. 2; SigenStor Home Installation Guide - Three-phase System A1, v12 (2026-08-17); iz ZIP SigenStor Home Installer Manual - Three-phase System A1_EN.zip str. 3 (AC stikalo), 6 (Port Descriptions), 8-9 (kabli, M5 OT/DT), 26-30 (AC priključek, L1 L2 L3 N PE), 31 (COM 16-pin), 38 (PV nizi); Sigen Hybrid / SigenStor EC (5.0-30.0) TP Installation Guide (AU), v03 (2025-03-25); iz ZIP 5-30 three phase AU inverter Manual &amp; Declaration Documentation.zip str. 2 (Ports introduction), 4-5 (kabli), 17 (COM 16-pin), 19 (PV nizi); SigenStor EC (5.0-30.0) TP, Sigen Hybrid (5.0-30.0) TP User Manual (AU); iz istega ZIP str. 11 (Port Introduction), 27 (Isc battery port 90 A); Datasheet - SigenStor BAT 6.0/10.0, Sigenergy (tip baterije LiFePO4) str. 2; teh_iz_ponudb (Generator ponudb SOLION) - obstoječi tehnični zapis s preseki kablov in AC stikali str. polje teh_iz_ponudb pri artiklu</elementInformation>
+        <elementInformation name="mass_kg" show="1">36</elementInformation>
+        <elementInformation name="width" show="1">700</elementInformation>
+        <elementInformation name="height" show="1">300</elementInformation>
+        <elementInformation name="depth" show="1">283</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - Sigen Hybrid (5.0-30.0) TP, Sigenergy str. 2; SigenStor Home Installation Guide - Three-phase System A1, v12 (2026-08-17); iz ZIP SigenStor Home Installer Manual - Three-phase System A1_EN.zip str. 3 (AC stikalo), 6 (Port Descriptions), 8-9 (kabli, M5 OT/DT), 26-30 (AC priključek, L1 L2 L3 N PE), 31 (COM 16-pin), 38 (PV nizi); Sigen Hybrid / SigenStor EC (5.0-30.0) TP Installation Guide (AU), v03 (2025-03-25); iz ZIP 5-30 three phase AU inverter Manual &amp; Declaration Documentation.zip str. 2 (Ports introduction), 4-5 (kabli), 17 (COM 16-pin), 19 (PV nizi); SigenStor EC (5.0-30.0) TP, Sigen Hybrid (5.0-30.0) TP User Manual (AU); iz istega ZIP str. 11 (Port Introduction), 27 (Isc battery port 90 A); Datasheet - SigenStor BAT 6.0/10.0, Sigenergy (tip baterije LiFePO4) str. 2; teh_iz_ponudb (Generator ponudb SOLION) - obstoječi tehnični zapis s preseki kablov in AC stikali str. polje teh_iz_ponudb pri artiklu
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1400" height="600" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1394" height="594" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="602.32" y="210" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="511.99" y="245.92" text="Sigen Hybrid 6.0 TP" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{57d84021-7c2a-5485-b4c1-9713c308716c}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

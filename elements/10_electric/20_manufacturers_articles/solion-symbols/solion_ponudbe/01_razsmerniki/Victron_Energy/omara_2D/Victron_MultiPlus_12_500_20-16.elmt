@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="390" height="660" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{856b5d64-cdd4-5ddb-b439-d1b5f2af3273}" />
+    <names>
+        <name lang="en">Victron MultiPlus 12/500/20-16 (front view)</name>
+        <name lang="sl">Victron MultiPlus 12/500/20-16 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">MultiPlus 12/500/20-16 230V VE.Bus (PMP121500000)</elementInformation>
+        <elementInformation name="designation" show="1">Victron MultiPlus 12/500/20-16</elementInformation>
+        <elementInformation name="description" show="1">razsmernik-polnilnik; komunikacija: 1x VE.Bus RJ45 (C); vzporedno/3-fazno prek RJ45 razdelilnika (priročnik 4.4.5), daljinsko stikalo REMOTE ON/Ch/+ (H), temperaturni senzor TEMP -/+ (D, priložen), programabilni rele ALARM COM/NC/NO (E): AC 230 V/4 A, DC 4 A do 35 V, 1 A do 60 V, DIP stikala (A), stikalo On/Off/Charger only (B)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: MultiPlus 500VA-1200VA manual (EN) str. 9-12 (namestitev), 21 (tehnični podatki), 133-134 (Appendix A); Dimension drawing MultiPlus 500VA str. 1; Datasheet MultiPlus 500VA-2000VA (slika, brez besedila) str. 1-2; Victron produktna stran (podatki SKU: mere, masa, IP) · 3D (STEP): cad/victron_multiplus_500/multiplus_500VA.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">4.4</elementInformation>
+        <elementInformation name="width" show="1">183</elementInformation>
+        <elementInformation name="height" show="1">311.9</elementInformation>
+        <elementInformation name="depth" show="1">101</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: MultiPlus 500VA-1200VA manual (EN) str. 9-12 (namestitev), 21 (tehnični podatki), 133-134 (Appendix A); Dimension drawing MultiPlus 500VA str. 1; Datasheet MultiPlus 500VA-2000VA (slika, brez besedila) str. 1-2; Victron produktna stran (podatki SKU: mere, masa, IP)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="366" height="623.8" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="360" height="617.8" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="606.8" width="360" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="79.92" y="618.3" text="BAT · AC_IN · AC_OUT · PE" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="56.38" y="227.64" text="Victron Energy" rotation="0" font="Liberation Sans,20,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="61.78" y="239.62" text="MultiPlus 12/500/20-16 230V VE.Bus (PMP121500000)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{9b0171a4-8ba5-593f-addc-01a53699ad1e}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

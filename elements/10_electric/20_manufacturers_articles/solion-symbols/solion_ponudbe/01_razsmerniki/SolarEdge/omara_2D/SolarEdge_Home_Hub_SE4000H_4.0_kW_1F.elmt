@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="760" height="950" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{165db969-e20f-5303-aba2-69f605c5ab11}" />
+    <names>
+        <name lang="en">SolarEdge Home Hub SE4000H 4.0 kW 1F (front view)</name>
+        <name lang="sl">SolarEdge Home Hub SE4000H 4.0 kW 1F (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE4000H-RWBMNBF54</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Home Hub SE4000H 4.0 kW 1F</elementInformation>
+        <elementInformation name="description" show="1">hibridni razsmernik; 1 MPPT, nizov na MPPT [2], U_dc max 480 V, MPPT - V, I max - A; komunikacija: RS485-1 (B, A, G) – števec SolarEdge ali tuji (Modbus); terminacija s stikali, RS485-2 (B, A, G) – veriga leader/follower, vtič 'Backup Interface': 12V +/-, RSD -/+, RS485 G/A/B (do Home Backup Interface), vtič '2nd Inv. / Battery': RSD -/+ (RSD več razsmernikov), Battery G/En/A/B, Ethernet RJ45 (LAN, CAT5e/6), SolarEdge Home Network (vgrajen plug-in + antena; Inline Meter, Smart Energy Hot Water, Home Battery 400V), Wi-Fi (opcijska antena), LTE (opcija), SetApp (vgrajena Wi-Fi dostopna točka)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Home Hub Inverter Single Phase, for Europe – datasheet DS-000198-EU (22. 8. 2023); kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 2; SolarEdge Home Hub-Wechselrichter Einphasig – Datenblatt DS-000198-DE (24. 8. 2023); kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2; Home Hub Inverter – Single Phase Quick Installation Guide for Europe models SEXXXXH-RWMBNBF54, Rev 1.2 (julij 2023); kopija uradnega SolarEdge dokumenta (vir: cdn.shopify.com) str. 1 (A montaža, B ožičenje AC/PV/baterija, zaščita 28/50 A), 2 (C LAN, D baterija G En A B, E Home Network, F Backup Interface 12V/RSD/RS485, G več razsmernikov RS485-2, H števec RS485-1 in RSD); Home Hub Inverter – Single Phase Quick Installation Guide For Europe (marec 2023); kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 1 (masa 12,6 kg na sliki montaže), 2; teh_iz_ponudb (skupine/A5_solaredge.json) – vir v zapisu: goodenergy.co.uk SolarEdge-inverter-datasheet.pdf; vrednosti tokov/napetosti potrjene z DS-000198-EU str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">12</elementInformation>
+        <elementInformation name="width" show="1">370</elementInformation>
+        <elementInformation name="height" show="1">459</elementInformation>
+        <elementInformation name="depth" show="1">154</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Home Hub Inverter Single Phase, for Europe – datasheet DS-000198-EU (22. 8. 2023); kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 2; SolarEdge Home Hub-Wechselrichter Einphasig – Datenblatt DS-000198-DE (24. 8. 2023); kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2; Home Hub Inverter – Single Phase Quick Installation Guide for Europe models SEXXXXH-RWMBNBF54, Rev 1.2 (julij 2023); kopija uradnega SolarEdge dokumenta (vir: cdn.shopify.com) str. 1 (A montaža, B ožičenje AC/PV/baterija, zaščita 28/50 A), 2 (C LAN, D baterija G En A B, E Home Network, F Backup Interface 12V/RSD/RS485, G več razsmernikov RS485-2, H števec RS485-1 in RSD); Home Hub Inverter – Single Phase Quick Installation Guide For Europe (marec 2023); kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 1 (masa 12,6 kg na sliki montaže), 2; teh_iz_ponudb (skupine/A5_solaredge.json) – vir v zapisu: goodenergy.co.uk SolarEdge-inverter-datasheet.pdf; vrednosti tokov/napetosti potrjene z DS-000198-EU str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="740" height="918" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="734" height="912" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="901" width="734" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="308.15" y="912.5" text="PV · BAT · GRID" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="272.32" y="321.3" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="201.78" y="357.22" text="SE4000H-RWBMNBF54" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{95e5d981-dc64-53f5-a2ad-bc8967b5a381}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

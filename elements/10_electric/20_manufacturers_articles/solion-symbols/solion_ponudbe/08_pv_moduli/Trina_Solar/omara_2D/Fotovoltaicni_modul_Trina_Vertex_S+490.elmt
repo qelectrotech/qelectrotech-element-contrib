@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="2290" height="3960" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{1f3c0f93-77be-52a3-9b5d-86e59fccaf5d}" />
+    <names>
+        <name lang="en">Fotovoltaični modul Trina Vertex S+490 (front view)</name>
+        <name lang="sl">Fotovoltaični modul Trina Vertex S+490 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Trina Solar</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">TSM-490NEG18R.28</elementInformation>
+        <elementInformation name="designation" show="1">Fotovoltaični modul Trina Vertex S+490</elementInformation>
+        <elementInformation name="description" show="1">PV modul</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Trina Vertex S+ NEG18R.28 datasheet EN 2024 C (485–510 W) str. 1–2; Trina produktna stran NEG18R.28 str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">23.5</elementInformation>
+        <elementInformation name="width" show="1">1134</elementInformation>
+        <elementInformation name="height" show="1">1961</elementInformation>
+        <elementInformation name="depth" show="1">30</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Trina Vertex S+ NEG18R.28 datasheet EN 2024 C (485–510 W) str. 1–2; Trina produktna stran NEG18R.28 str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="2268" height="3922" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="2262" height="3916" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="1014.62" y="1372.7" text="Trina Solar" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="975.68" y="1408.62" text="TSM-490NEG18R.28" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{4877f05d-fc1e-5547-876e-e9462e309059}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

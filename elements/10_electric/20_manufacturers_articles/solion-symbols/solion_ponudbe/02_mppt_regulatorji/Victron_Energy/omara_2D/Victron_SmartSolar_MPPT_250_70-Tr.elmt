@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="520" height="400" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{1b5f1898-2e2f-5a12-8143-86223f9f81f6}" />
+    <names>
+        <name lang="en">Victron SmartSolar MPPT 250/70-Tr (front view)</name>
+        <name lang="sl">Victron SmartSolar MPPT 250/70-Tr (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SmartSolar MPPT 250/70-Tr (SCC125070221)</elementInformation>
+        <elementInformation name="designation" show="1">Victron SmartSolar MPPT 250/70-Tr</elementInformation>
+        <elementInformation name="description" show="1">MPPT regulator; 1 MPPT, nizov na MPPT [1], U_dc max 150 (abs.), 145 zagon/obratovanje V, MPPT - V, I max - A; komunikacija: VE.Direct, Bluetooth Smart, remote on/off L/H (2-polni konektor), programabilni rele NO/C/NC (DPST; AC 240 V/4 A, DC 4 A do 35 V, 1 A do 60 V)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SmartSolar MPPT 150/60 up to 250/70 manual (EN) str. 8 (Tr/MC4), 13 (remote, rele), 15 (varovalka), 17-18 (Connection overview), 30 (rele NO/C/NC); Datasheet SmartSolar MPPT 150/60 &amp; 150/70 str. 2; Datasheet SmartSolar MPPT 250/60 &amp; 250/70 str. 2; Dimension drawings Tr str. 1; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_smartsolar_60_70_tr/mppt_250_60_250_70_tr.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">3</elementInformation>
+        <elementInformation name="width" show="1">250</elementInformation>
+        <elementInformation name="height" show="1">185</elementInformation>
+        <elementInformation name="depth" show="1">95</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SmartSolar MPPT 150/60 up to 250/70 manual (EN) str. 8 (Tr/MC4), 13 (remote, rele), 15 (varovalka), 17-18 (Connection overview), 30 (rele NO/C/NC); Datasheet SmartSolar MPPT 150/60 &amp; 150/70 str. 2; Datasheet SmartSolar MPPT 250/60 &amp; 250/70 str. 2; Dimension drawings Tr str. 1; Victron produktna stran (SKU podatki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="500" height="370" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="494" height="364" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="353" width="494" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="196.4" y="364.5" text="PV · BAT · PE" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="98.06" y="138.81" text="Victron Energy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="85.08" y="156.11" text="SmartSolar MPPT 250/70-Tr (SCC125070221)" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e71041ac-92dd-5316-83ff-cb2028232415}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

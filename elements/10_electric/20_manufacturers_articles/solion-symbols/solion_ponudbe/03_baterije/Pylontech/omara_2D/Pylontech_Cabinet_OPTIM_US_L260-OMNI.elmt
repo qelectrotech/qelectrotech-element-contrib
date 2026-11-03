@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1920" height="4990" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{62100f8e-b1b0-5a44-8d16-d07d4d906790}" />
+    <names>
+        <name lang="en">Pylontech Cabinet OPTIM US L260-OMNI (front view)</name>
+        <name lang="sl">Pylontech Cabinet OPTIM US L260-OMNI (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Pylontech</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Optim US-A1-M7-B-125/261-EU-xx (L260-OMNI)</elementInformation>
+        <elementInformation name="designation" show="1">Pylontech Cabinet OPTIM US L260-OMNI</elementInformation>
+        <elementInformation name="description" show="1">baterija; baterija [702, 936] V; komunikacija: LEMS LAN2 – zunanji EMS (Modbus TCP, IP 192.168.11.100), LEMS LAN4 / LAN5 – vzporedni omari 1/2, LAN (debug) na sprednji strani omare, NET – opcijski modul za internet/oblak, zunanji protokol Modbus-TCP / Modbus-RTU</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Pylontech Utility, C&amp;I ESS Product Portfolio PY240603EN – stran L260-OMNI (kopija BayWa r.e.) str. 2 (v dokumentu str. 17–18); L260-OMNI 1000V All-in-one ESS Cabinet User Manual V2.4 20251027 (kopija BayWa r.e.) str. 5–6 (spec.), 9–15 (zgradba, LEMS), 22–24 (PCS), 49–55 (ozemljitev, AC, LEMS porti) – tiskane številke</elementInformation>
+        <elementInformation name="mass_kg" show="1">2900</elementInformation>
+        <elementInformation name="width" show="1">950</elementInformation>
+        <elementInformation name="height" show="1">2480</elementInformation>
+        <elementInformation name="depth" show="1">1300</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Pylontech Utility, C&amp;I ESS Product Portfolio PY240603EN – stran L260-OMNI (kopija BayWa r.e.) str. 2 (v dokumentu str. 17–18); L260-OMNI 1000V All-in-one ESS Cabinet User Manual V2.4 20251027 (kopija BayWa r.e.) str. 5–6 (spec.), 9–15 (zgradba, LEMS), 22–24 (PCS), 49–55 (ozemljitev, AC, LEMS porti) – tiskane številke
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1900" height="4960" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1894" height="4954" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="852.32" y="1736" text="Pylontech" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="534.4" y="1771.92" text="Optim US-A1-M7-B-125/261-EU-xx (L260-OMNI)" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{39ba4e2d-5e90-5583-8c28-6c12109b771a}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

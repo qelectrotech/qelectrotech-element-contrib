@@ -1,0 +1,32 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="260" height="340" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{bd2e17e3-2dd9-555b-abc1-8330a346b0c4}" />
+    <names>
+        <name lang="en">AndSolar AMCP1000-1200 (front view)</name>
+        <name lang="sl">AndSolar AMCP1000-1200 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">AndSolar</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">60-002203</elementInformation>
+        <elementInformation name="designation" show="1">AndSolar AMCP1000-1200</elementInformation>
+        <elementInformation name="description" show="1">optimizator; 1 MPPT, nizov na MPPT -, U_dc max - V, MPPT [24, 130] V, I max [16] A</elementInformation>
+        <elementInformation name="notes" show="1">Viri: AndSolar Smart PV Optimizer AMCP(T2) &amp; ADCU User Manual V1.2-36B04 str. 12, 17, 26–27; AMCP (1to2) Physical Layout Template Usage Guide V5.1 str. 1–2; AndSolar AMCP Brochure V2.3-36E18 str. -; AMCP(T1) &amp; ADCU User Manual V1.2-36B24 (za primerjavo) str. 26</elementInformation>
+        <elementInformation name="width" show="1">120</elementInformation>
+        <elementInformation name="height" show="1">155</elementInformation>
+        <elementInformation name="depth" show="1">49</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: AndSolar Smart PV Optimizer AMCP(T2) &amp; ADCU User Manual V1.2-36B04 str. 12, 17, 26–27; AMCP (1to2) Physical Layout Template Usage Guide V5.1 str. 1–2; AndSolar AMCP Brochure V2.3-36E18 str. -; AMCP(T1) &amp; ADCU User Manual V1.2-36B24 (za primerjavo) str. 26
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="240" height="310" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="234" height="304" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="293" width="234" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="87.02" y="304.5" text="PV · OUT" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36.8" y="113.82" text="AndSolar" rotation="0" font="Liberation Sans,23,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="39.6" y="137.77" text="AMCP1000-1200" rotation="0" font="Liberation Sans,15,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{c48225d5-7ce2-52bd-b7b8-825f2150bce6}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

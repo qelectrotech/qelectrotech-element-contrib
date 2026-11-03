@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="2290" height="3480" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{026b3b56-e029-5aaf-887e-865c6d38fb64}" />
+    <names>
+        <name lang="en">JW-HD108N-435W (front view)</name>
+        <name lang="sl">JW-HD108N-435W (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Jolywood</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">JW-HD108N-435</elementInformation>
+        <elementInformation name="designation" show="1">JW-HD108N-435W</elementInformation>
+        <elementInformation name="description" show="1">PV modul</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Jolywood JW-HD108N Black Series datasheet (Version 2024.04) str. 1–2; Jolywood JW-HD108N Pro Series datasheet (Version 2024.04) str. 1–2; Jolywood Installation Manual for 182 and 210 series module str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">24.5</elementInformation>
+        <elementInformation name="width" show="1">1134</elementInformation>
+        <elementInformation name="height" show="1">1722</elementInformation>
+        <elementInformation name="depth" show="1">30</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Jolywood JW-HD108N Black Series datasheet (Version 2024.04) str. 1–2; Jolywood JW-HD108N Pro Series datasheet (Version 2024.04) str. 1–2; Jolywood Installation Manual for 182 and 210 series module str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="2268" height="3444" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="2262" height="3438" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="1047.18" y="1205.4" text="Jolywood" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="1005.36" y="1241.32" text="JW-HD108N-435" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{b7a68623-e687-53db-9187-b1aa8441a4be}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

@@ -1,0 +1,30 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="230" height="240" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{45501c83-fb9a-547d-82cf-6e4b4dd08347}" />
+    <names>
+        <name lang="en">AndSolar AMCL-E2 Long (front view)</name>
+        <name lang="sl">AndSolar AMCL-E2 Long (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">AndSolar</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">60-002102</elementInformation>
+        <elementInformation name="designation" show="1">AndSolar AMCL-E2 Long</elementInformation>
+        <elementInformation name="description" show="1">optimizator</elementInformation>
+        <elementInformation name="notes" show="1">Viri: AndSolar Smart Rapid Shutdown System AMCL &amp; ADCU User Manual V1.2-36B03 str. 8–9, 12–17, 24–25, 27–28; AndSolar AMCL Gen2 Brochure V3.1-36E18 (Product Parameters) str. 5; AMCL Physical Layout Template Usage Guide V5.1 str. 1–3; AndSolar – stran prenosov str. -</elementInformation>
+        <elementInformation name="width" show="1">103</elementInformation>
+        <elementInformation name="height" show="1">105</elementInformation>
+        <elementInformation name="depth" show="1">23</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: AndSolar Smart Rapid Shutdown System AMCL &amp; ADCU User Manual V1.2-36B03 str. 8–9, 12–17, 24–25, 27–28; AndSolar AMCL Gen2 Brochure V3.1-36E18 (Product Parameters) str. 5; AMCL Physical Layout Template Usage Guide V5.1 str. 1–3; AndSolar – stran prenosov str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="206" height="210" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="200" height="204" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="34.27" y="83.47" text="AndSolar" rotation="0" font="Liberation Sans,19,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="38.68" y="92.79" text="AMCL-E2 (izvedba 'Long' – daljši kabli)" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{cc7f60ff-64eb-50bf-af69-d96722110bb7}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="760" height="590" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{8371b632-6211-5549-9e1f-fc4f3fcd8a0d}" />
+    <names>
+        <name lang="en">SolarEdge SE3000H HD-Wave 3.0 kW 1F (front view)</name>
+        <name lang="sl">SolarEdge SE3000H HD-Wave 3.0 kW 1F (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE3000H-RW000BEN4</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge SE3000H HD-Wave 3.0 kW 1F</elementInformation>
+        <elementInformation name="description" show="1">omrežni razsmernik; 1 MPPT, nizov na MPPT [1], U_dc max 480 V, MPPT - V, I max - A; komunikacija: RS485-1 (B, A(+), G) in RS485-2 (B, A, G) – 6-polna sponka; terminacija SW2, Ethernet RJ45, USB, 8-polni priključek za naprave za krmiljenje moči (power control / power reducer, 5 V), Wi-Fi (opcija, antena), ZigBee (opcijski plug-in), Cellular (opcijski plug-in), SolarEdge Home Network (opcija, Home Wave DS 2022), SetApp</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Home Wave Inverter Single Phase, for Europe (2.2–6 kW) SE2200H–SE6000H – datasheet DS-000094-ENG (24. 4. 2022), velja za PN SEXXXXH-XXXXXBXX4; kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 2 (DC vhod 1 x MC4 za SE2200H–SE3680H; masa 7.8 kg – po položaju stolpcev); Single Phase Inverter with HD-Wave Technology SE2200H–SE6000H – datasheet 1/2019/V01/ENG ROW (starejši); kopija uradnega SolarEdge dokumenta (vir: efobasen.efo.no) str. 2 (preverjeno s sliko tabele), 3 (RCD izjava); Single Phase Inverter with HD-Wave Technology Installation Guide (SetApp), Europe and APAC, MAN-01-00540-1.1 (junij 2020); kopija uradnega SolarEdge dokumenta (vir: res.cloudinary.com/gpceurope) str. PDF 21 (vmesniki), 28-29 (AC L-PE-N, 16 mm², navori), 29-30 (DC, RCD), 39-40 (kom. uvodnica in plošča), 45-47 (RS485-1/RS485-2 B A G, SW2), 55 (risba mer), 72 (kom. plošča); teh_iz_ponudb (skupine/A5_solaredge.json) – vir v zapisu: knowledge-center.solaredge.com se-home-wave-inverter-single-phase-setapp-datasheet-eur.pdf; vrednosti potrjene (1 niz) str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">7.8</elementInformation>
+        <elementInformation name="width" show="1">370</elementInformation>
+        <elementInformation name="height" show="1">280</elementInformation>
+        <elementInformation name="depth" show="1">142</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Home Wave Inverter Single Phase, for Europe (2.2–6 kW) SE2200H–SE6000H – datasheet DS-000094-ENG (24. 4. 2022), velja za PN SEXXXXH-XXXXXBXX4; kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 2 (DC vhod 1 x MC4 za SE2200H–SE3680H; masa 7.8 kg – po položaju stolpcev); Single Phase Inverter with HD-Wave Technology SE2200H–SE6000H – datasheet 1/2019/V01/ENG ROW (starejši); kopija uradnega SolarEdge dokumenta (vir: efobasen.efo.no) str. 2 (preverjeno s sliko tabele), 3 (RCD izjava); Single Phase Inverter with HD-Wave Technology Installation Guide (SetApp), Europe and APAC, MAN-01-00540-1.1 (junij 2020); kopija uradnega SolarEdge dokumenta (vir: res.cloudinary.com/gpceurope) str. PDF 21 (vmesniki), 28-29 (AC L-PE-N, 16 mm², navori), 29-30 (DC, RCD), 39-40 (kom. uvodnica in plošča), 45-47 (RS485-1/RS485-2 B A G, SW2), 55 (risba mer), 72 (kom. plošča); teh_iz_ponudb (skupine/A5_solaredge.json) – vir v zapisu: knowledge-center.solaredge.com se-home-wave-inverter-single-phase-setapp-datasheet-eur.pdf; vrednosti potrjene (1 niz) str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="740" height="560" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="734" height="554" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="543" width="734" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="332.89" y="554.5" text="PV · GRID" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="272.32" y="196" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="201.78" y="231.92" text="SE3000H-RW000BEN4" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{caa99b6b-9b06-56e3-86d7-542131094d8b}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

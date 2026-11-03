@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="290" height="230" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{85f2163b-3f34-5035-8fed-4e50d4eab4ce}" />
+    <names>
+        <name lang="en">Victron SmartSolar MPPT 100/20 (front view)</name>
+        <name lang="sl">Victron SmartSolar MPPT 100/20 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SmartSolar MPPT 100/20 (up to 48V) (SCC110020160R)</elementInformation>
+        <elementInformation name="designation" show="1">Victron SmartSolar MPPT 100/20</elementInformation>
+        <elementInformation name="description" show="1">MPPT regulator; 1 MPPT, nizov na MPPT [1], U_dc max 100 V, MPPT - V, I max - A; komunikacija: VE.Direct (GX, MPPT Control, TX/RX kabli), Bluetooth Smart (vgrajen), navidezni remote on/off prek VE.Direct non-inverting remote on/off kabla</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SmartSolar MPPT 75/10 up to 100/20 manual (EN) str. 6 (ozemljitev), 15 (varovalka), 17 (Connection overview); Datasheet SmartSolar MPPT 75/10, 75/15, 100/15, 100/20-48V str. 1; Dimension drawing str. 1; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_smartsolar_100_20/mppt_100_20.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.65</elementInformation>
+        <elementInformation name="width" show="1">131</elementInformation>
+        <elementInformation name="height" show="1">100</elementInformation>
+        <elementInformation name="depth" show="1">60</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SmartSolar MPPT 75/10 up to 100/20 manual (EN) str. 6 (ozemljitev), 15 (varovalka), 17 (Connection overview); Datasheet SmartSolar MPPT 75/10, 75/15, 100/15, 100/20-48V str. 1; Dimension drawing str. 1; Victron produktna stran (SKU podatki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="262" height="200" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="256" height="194" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="183" width="256" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="48.54" y="194.5" text="PV · BAT · LOAD · PE" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="42.37" y="76.65" text="Victron Energy" rotation="0" font="Liberation Sans,14,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="48.54" y="85.97" text="SmartSolar MPPT 100/20 (up to 48V) (SCC110020160R)" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{795dc529-2bd7-5455-918d-ca60364361ac}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

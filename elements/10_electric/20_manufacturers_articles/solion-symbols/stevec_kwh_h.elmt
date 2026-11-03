@@ -1,0 +1,25 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="40" hotspot_x="30" hotspot_y="20">
+    <uuid uuid="{9e6321d7-14a1-48a3-9787-1df3fe5c9bdf}" />
+    <names>
+        <name lang="en">Energy meter kWh (horizontal)</name>
+        <name lang="fr">Compteur kWh (horizontal)</name>
+        <name lang="sl">Števec električne energije kWh (vodoravno)</name>
+    </names>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <circle x="-20" y="-20" diameter="40" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <text text="kWh" x="-12" y="4" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="-30" y1="0" x2="-20" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="20" y1="0" x2="30" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <dynamic_text x="-20" y="-52" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{2568ec92-7ec4-42aa-8631-ee89220fcc26}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-20" y="-39" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f7649c5b-cc29-4f59-a9b9-ad49cd304b78}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{056f3391-ec02-4547-a10d-ccc42e15904a}" name="1" x="-30" y="0" orientation="w" type="Generic" />
+        <terminal uuid="{bbbc6c06-290a-4538-851c-e1041247ebbd}" name="2" x="30" y="0" orientation="e" type="Generic" />
+    </description>
+</definition>

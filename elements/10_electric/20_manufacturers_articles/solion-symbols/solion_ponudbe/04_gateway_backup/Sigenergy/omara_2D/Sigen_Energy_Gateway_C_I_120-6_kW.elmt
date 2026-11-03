@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1720" height="2340" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{5805a94d-f14d-58ac-b229-89ed943b024c}" />
+    <names>
+        <name lang="en">Sigen Energy Gateway C&amp;I 120-6 kW (front view)</name>
+        <name lang="sl">Sigen Energy Gateway C&amp;I 120-6 kW (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11110009</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Energy Gateway C&amp;I 120-6 kW</elementInformation>
+        <elementInformation name="description" show="1">gateway/backup; komunikacija: 2x FE (RJ45), RS485 (rezervirano), DI1 (bypass), DI2 (ATS), DO1 (omrežni kontaktor), DO2 (kontaktor agregata), DO3 (2-žilni zagon agregata)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - Sigen Energy Gateway (for SigenStor) C60-2 / C120-6 / C180-9 / C300-12 / C600 / C1200, Sigenergy str. 2; Sigen Gateway (C120-6, TPLV C70-6) Installation Guide, v03 (2025-03-27) str. 2 (Port Description), 3 (notranjost KM1/KM2/QS1/QF), 5 (kabli, OT M12), 12-13 (komunikacija); Sigen Energy Gateway C&amp;I Series User Manual, v08 (2026-08-24) str. 24-26 (C60-2), 30-32 (C120-6), 33-35 (C180-9/C300-12), 36-45 (C600/C1200/-B); Application Note - How to connect the Generator to Sigen Energy Gateway</elementInformation>
+        <elementInformation name="mass_kg" show="1">74</elementInformation>
+        <elementInformation name="width" show="1">850</elementInformation>
+        <elementInformation name="height" show="1">1152</elementInformation>
+        <elementInformation name="depth" show="1">305</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - Sigen Energy Gateway (for SigenStor) C60-2 / C120-6 / C180-9 / C300-12 / C600 / C1200, Sigenergy str. 2; Sigen Gateway (C120-6, TPLV C70-6) Installation Guide, v03 (2025-03-27) str. 2 (Port Description), 3 (notranjost KM1/KM2/QS1/QF), 5 (kabli, OT M12), 12-13 (komunikacija); Sigen Energy Gateway C&amp;I Series User Manual, v08 (2026-08-24) str. 24-26 (C60-2), 30-32 (C120-6), 33-35 (C180-9/C300-12), 36-45 (C600/C1200/-B); Application Note - How to connect the Generator to Sigen Energy Gateway
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1700" height="2304" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1694" height="2298" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="2287" width="1694" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="553.14" y="2298.5" text="INV1 · INV2 · INV3 · INV4 · INV5 · INV6 · GRID · BACKUP · GENERATOR · PE" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="752.32" y="806.4" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="652.1" y="842.32" text="Sigen Gateway C120-6" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{68f90be1-1e7a-5859-889e-4d2aa996d26b}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

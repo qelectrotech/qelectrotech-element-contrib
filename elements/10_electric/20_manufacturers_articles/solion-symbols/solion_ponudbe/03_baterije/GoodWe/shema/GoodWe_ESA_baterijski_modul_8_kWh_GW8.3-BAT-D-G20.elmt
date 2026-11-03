@@ -1,0 +1,40 @@
+<definition version="0.200" type="element" link_type="simple" width="320" height="160" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{803dacb9-c423-502a-86dc-ce70cc38bf76}" />
+    <names>
+        <name lang="en">GoodWe ESA baterijski modul 8 kWh GW8.3-BAT-D-G20</name>
+        <name lang="sl">GoodWe ESA baterijski modul 8 kWh GW8.3-BAT-D-G20</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">GoodWe</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">GW8.3-BAT-D-G20</elementInformation>
+        <elementInformation name="designation" show="1">GoodWe ESA baterijski modul 8 kWh GW8.3-BAT-D-G20</elementInformation>
+        <elementInformation name="description" show="1">baterija; baterija [700, 950] V; komunikacija: CAN</elementInformation>
+        <elementInformation name="notes" show="1">Viri: GoodWe ESA Series 5-30kW/5-108kWh Datasheet (Single page 20260616 V2.1) str. 2-3; GoodWe ESA (ETA/BTA-G20 + BAT-D-G20 + STS) User Manual V1.5-2026-09-04 str. 2-4 (izdelki), 46-52 (konfiguracija, komponente), 138-146 (odklopniki, kabli, PE), 147-163 (PV, BAT, AC, COM)</elementInformation>
+        <elementInformation name="mass_kg" show="1">79</elementInformation>
+        <elementInformation name="width" show="1">800</elementInformation>
+        <elementInformation name="height" show="1">326</elementInformation>
+        <elementInformation name="depth" show="1">270</elementInformation>
+    </elementInformations>
+    <informations>Viri: GoodWe ESA Series 5-30kW/5-108kWh Datasheet (Single page 20260616 V2.1) str. 2-3; GoodWe ESA (ETA/BTA-G20 + BAT-D-G20 + STS) User Manual V1.5-2026-09-04 str. 2-4 (izdelki), 46-52 (konfiguracija, komponente), 138-146 (odklopniki, kabli, PE), 147-163 (PV, BAT, AC, COM)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="270" height="120" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="2" y="12" width="40" height="36" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="42" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="14.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="SKLAD" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="43" text="Slepi konektor do razsmernika…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="199.14" y="56" text="GoodWe" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="183.74" y="70" text="GW8.3-BAT-D-G20" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="177.69" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{ea3df2ab-2d5d-5150-bff5-948bd1334359}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="177.69" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f6a5ac7d-ddce-5f7f-b0ab-94b477d59450}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{8baa3341-378e-58c8-80fb-184ff2f2dc8d}" x="-10" y="40" orientation="w" type="Generic" name="BAT:SKLAD" />
+    </description>
+</definition>

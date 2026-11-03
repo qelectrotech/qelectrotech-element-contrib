@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="540" height="760" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{364fc403-6ec2-5ec7-8ed8-ee565f552838}" />
+    <names>
+        <name lang="en">Victron MultiPlus 24/3000/70-16 (front view)</name>
+        <name lang="sl">Victron MultiPlus 24/3000/70-16 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">MultiPlus 24/3000/70-16 230V VE.Bus (PMP242300001)</elementInformation>
+        <elementInformation name="designation" show="1">Victron MultiPlus 24/3000/70-16</elementInformation>
+        <elementInformation name="description" show="1">razsmernik-polnilnik; komunikacija: 2x VE.Bus RJ45 (B), daljinsko stikalo, 3-polna sponka H (levo+sredina = vklop, desno+sredina = samo polnilnik), alarmni rele I: NC, NO, COM (AC 230 V/4 A; DC 4 A do 35 V, 1 A do 60 V), sponke E (od leve): V-SENSE +/-, AUX vhod 1 +/-, STARTER+, GND-relay +/-, T-SENSE +/-, 1 programabilni rele in 1 analogni/digitalni vhod (16 A model), DIP stikala DS1-DS8 (M), tipki Up/Down (K)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: MultiPlus 3k 230V 16A/50A manual (EN) str. 10-12 (namestitev), 25 (tehnični podatki), 144 in 146 (Appendix A, 16 A); Datasheet MultiPlus 800VA-5kVA str. 2; Dimension drawing MultiPlus/Quattro/Inverter 12-24-48V 3000VA str. 1; Quick Install Guide MultiPlus 3000VA 16A; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_multiplus_3k_16a/multiplus_quattro_3000VA.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">18</elementInformation>
+        <elementInformation name="width" show="1">258</elementInformation>
+        <elementInformation name="height" show="1">364</elementInformation>
+        <elementInformation name="depth" show="1">221</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: MultiPlus 3k 230V 16A/50A manual (EN) str. 10-12 (namestitev), 25 (tehnični podatki), 144 in 146 (Appendix A, 16 A); Datasheet MultiPlus 800VA-5kVA str. 2; Dimension drawing MultiPlus/Quattro/Inverter 12-24-48V 3000VA str. 1; Quick Install Guide MultiPlus 3000VA 16A; Victron produktna stran (SKU podatki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="516" height="728" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="510" height="722" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="106.06" y="265.44" text="Victron Energy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="93.08" y="280.08" text="MultiPlus 24/3000/70-16 230V VE.Bus (PMP242300001)" rotation="0" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{4e19090e-bc7b-56f0-95ae-d43b92100bcc}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

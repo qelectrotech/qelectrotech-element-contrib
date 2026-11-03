@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="660" height="1130" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{29c8f0f7-f977-53d7-8928-915d7b911f6d}" />
+    <names>
+        <name lang="en">SolarEdge SE17K 17.0 kW 3F (front view)</name>
+        <name lang="sl">SolarEdge SE17K 17.0 kW 3F (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE17K-RW0T0BNN4</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge SE17K 17.0 kW 3F</elementInformation>
+        <elementInformation name="description" show="1">omrežni razsmernik; 1 MPPT, nizov na MPPT [2], U_dc max 1000 V, MPPT - V, I max - A; komunikacija: RS485-1 (B, A, G) – 6-polna sponka, RS485-2 (B, A, G) – 6-polna sponka; terminacija DIP SW, Ethernet RJ45 (CAT5/6), USB (servis), Wi-Fi (opcija, dodatna komponenta), Cellular (opcija), RS485 prenapetostna zaščita – opcijski SPD plug-in, power reduction (kabel skozi uvodnico 2), SetApp (vgrajena Wi-Fi dostopna točka)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Three Phase Inverter For Europe SE12.5K–SE20K – datasheet DS-000040-3.2-EU (07/2021); kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2; SolarEdge Three Phase Inverter SE12.5K–SE27.6K (SetApp) – datasheet 12/2018/V02/ENG ROW (starejši); kopija uradnega SolarEdge dokumenta (vir: midsummer.ie) str. 2; Three Phase System Installation Guide with SetApp Configuration, Europe and APAC, MAN-01-00505-1.4 (junij 2020); kopija uradnega SolarEdge dokumenta (vir: solarshop.baywa-re.lv) str. PDF 22 (vmesniki), 31-33 (AC sponke), 34 (RCD), 44 (kom. priključki), 50 (RS485-1/-2), 57 (risba mer), 74 (tabela odklopnikov), 78-83 (tehnični podatki); teh_iz_ponudb (skupine/A5_solaredge.json) – vir v zapisu: knowledge-center.solaredge.com se-three-phase-inverter-setapp-datasheet.pdf str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">30.7</elementInformation>
+        <elementInformation name="width" show="1">317</elementInformation>
+        <elementInformation name="height" show="1">549</elementInformation>
+        <elementInformation name="depth" show="1">264</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Three Phase Inverter For Europe SE12.5K–SE20K – datasheet DS-000040-3.2-EU (07/2021); kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2; SolarEdge Three Phase Inverter SE12.5K–SE27.6K (SetApp) – datasheet 12/2018/V02/ENG ROW (starejši); kopija uradnega SolarEdge dokumenta (vir: midsummer.ie) str. 2; Three Phase System Installation Guide with SetApp Configuration, Europe and APAC, MAN-01-00505-1.4 (junij 2020); kopija uradnega SolarEdge dokumenta (vir: solarshop.baywa-re.lv) str. PDF 22 (vmesniki), 31-33 (AC sponke), 34 (RCD), 44 (kom. priključki), 50 (RS485-1/-2), 57 (risba mer), 74 (tabela odklopnikov), 78-83 (tehnični podatki); teh_iz_ponudb (skupine/A5_solaredge.json) – vir v zapisu: knowledge-center.solaredge.com se-three-phase-inverter-setapp-datasheet.pdf str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="634" height="1098" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="628" height="1092" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="1081" width="628" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="279.89" y="1092.5" text="PV · GRID" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="219.32" y="384.3" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="168.57" y="420.22" text="SE17K-RW0T0BNN4" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{14df25fd-d08a-5470-9c53-4c52bc8c11db}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

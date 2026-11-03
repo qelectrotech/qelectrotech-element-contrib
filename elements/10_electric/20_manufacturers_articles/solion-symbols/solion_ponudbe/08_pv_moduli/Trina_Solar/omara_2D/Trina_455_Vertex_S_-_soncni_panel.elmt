@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="2290" height="3560" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{1e047a1e-1e9b-5046-889a-c1fd944c3ac5}" />
+    <names>
+        <name lang="en">Trina 455 Vertex S - sončni panel (front view)</name>
+        <name lang="sl">Trina 455 Vertex S - sončni panel (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Trina Solar</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">TSM-455NEG9R.28</elementInformation>
+        <elementInformation name="designation" show="1">Trina 455 Vertex S - sončni panel</elementInformation>
+        <elementInformation name="description" show="1">PV modul</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Trina Vertex S+ NEG9R.28 datasheet EN 2026 A (450–475 W) str. 1–2; Trina produktna stran NEG9R.28 str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">21.0</elementInformation>
+        <elementInformation name="width" show="1">1134</elementInformation>
+        <elementInformation name="height" show="1">1762</elementInformation>
+        <elementInformation name="depth" show="1">30</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Trina Vertex S+ NEG9R.28 datasheet EN 2026 A (450–475 W) str. 1–2; Trina produktna stran NEG9R.28 str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="2268" height="3524" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="2262" height="3518" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="1014.62" y="1233.4" text="Trina Solar" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="985.57" y="1269.32" text="TSM-455NEG9R.28" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{5ddf3c88-641c-5806-8203-69caa67a3ad1}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

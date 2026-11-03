@@ -1,0 +1,45 @@
+<definition version="0.200" type="element" link_type="simple" width="270" height="160" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{8c9943dc-396d-551c-885c-88ce871d9f78}" />
+    <names>
+        <name lang="en">Victron GEL Deep Cycle 12V/90Ah</name>
+        <name lang="sl">Victron GEL Deep Cycle 12V/90Ah</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">90Ah 12V BAT412800104</elementInformation>
+        <elementInformation name="designation" show="1">Victron GEL Deep Cycle 12V/90Ah</elementInformation>
+        <elementInformation name="description" show="1">baterija</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet Gel and AGM batteries str. 4 (tabela 12 V Deep Cycle GEL); Victron produktna stran (SKU podatki); 2D risbi GEL 60 in 90 Ah str. 1</elementInformation>
+        <elementInformation name="mass_kg" show="1">26</elementInformation>
+        <elementInformation name="width" show="1">350</elementInformation>
+        <elementInformation name="height" show="1">183</elementInformation>
+        <elementInformation name="depth" show="1">167</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet Gel and AGM batteries str. 4 (tabela 12 V Deep Cycle GEL); Victron produktna stran (SKU podatki); 2D risbi GEL 60 in 90 Ah str. 1
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="220" height="120" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="2" y="12" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="32" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="32" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="BAT+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="43" text="pozitivni pol" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="BAT-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="63" text="negativni pol" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="105.15" y="56" text="Victron Energy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="103.85" y="70" text="90Ah 12V BAT412800104" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="97.6" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{82237eb2-5b53-560c-af32-fb6118e9ded2}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="97.6" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f669672d-95a4-57c9-a711-648e8b738b16}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{b3460b8f-8fc5-57f4-8ff6-46e9d0f6394f}" x="-10" y="40" orientation="w" type="Generic" name="BAT:BAT+" />
+        <terminal uuid="{5ab2b2bc-766e-5e39-8c3b-1de54bfacc94}" x="-10" y="60" orientation="w" type="Generic" name="BAT:BAT-" />
+    </description>
+</definition>

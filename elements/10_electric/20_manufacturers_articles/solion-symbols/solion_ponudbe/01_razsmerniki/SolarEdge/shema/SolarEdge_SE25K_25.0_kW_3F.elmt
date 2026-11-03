@@ -1,0 +1,155 @@
+<definition version="0.200" type="element" link_type="simple" width="350" height="430" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{82c2f18e-ea13-56b5-bdaa-81cc8849e676}" />
+    <names>
+        <name lang="en">SolarEdge SE25K 25.0 kW 3F</name>
+        <name lang="sl">SolarEdge SE25K 25.0 kW 3F</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE25K-RW00IBNM4</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge SE25K 25.0 kW 3F</elementInformation>
+        <elementInformation name="description" show="1">omrežni razsmernik; 1 MPPT, nizov na MPPT [4], U_dc max 1000 V, MPPT [680, 1000] V, I max - A; komunikacija: 2x RS485 (RS485-1 in RS485-2, vsak B, A, G; vtična sponka na kom. plošči), Ethernet LAN (RJ45, CAT6, do 100 m), Wi-Fi (vgrajena dostopna točka za SetApp; za povezavo s portalom potrebna zunanja antena, opcija), mobilna povezava: Cellular Plug-in (opcija), PRI - Power Reduction Interface (sponka na kom. plošči; npr. preklop v način alternativnega vira), USB (na kom. plošči), števec energije: prek RS485 (Modbus), terminacija RS485: DIP stikalo SW1</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Three Phase Commercial Inverter For Europe SE20K/SE25K/SE30K/SE33.3K, datasheet DS-000053-EU (17. 6. 2024), velja za SEXXK-RWX0IXXXX - kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2-3; SolarEdge Installation Guide Three Phase Inverter with SetApp Configuration PN: SEXXK-XXXXIXXXX, For Europe and APAC, Version 1.0 (Dec. 2020) - kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. PDF str. 15 (dolžine, preseki DC), 22-27 (vmesniki), 32 (ozemljitev), 34-38 (AC, DC), 47-60 (komunikacija, RS485, PRI), 64 (SPD), 67 (mere), 72-75 (tehnični podatki SE25K-SE33.3K); SolarEdge Three Phase Inverter For Europe SE12.5K-SE20K, datasheet DS-000040-3.2-EU (07/2021), stolpec SE20K velja za SEXXK-XXXXIBXX4 - kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2; SolarEdge C&amp;I Product Portfolio - Three Phase Commercial Inverter For Europe SE20K...SE40K (SE-SIN-RWR0IBNH8 / SE-SIN-RW00IBNM4, MultiRange) - kopija uradnega SolarEdge dokumenta (vir: shop.krannich-solar.com); uporabljeno le za primerjavo opcij po kodi str. 2-3; Siblik Datenblatt SE25K-RW00IBNM4 (distributer, Stand 31.05.2024) - NI SolarEdge dokument, samo za navzkrižno preverjanje str. 1; ESTG (distributer) - naslovi strani v iskalniku: SE25K-RW00IBNM4 'mc4 with setapp configuration', SE30K-RW00IBNM4 'mc4 dc spd with setapp configuration', SE30K-RW00IBNJ4 'mc4 dc safety unit with switch ac dc spd'; strani zaradi HTTP 429 niso bile odprte str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">32</elementInformation>
+        <elementInformation name="width" show="1">328</elementInformation>
+        <elementInformation name="height" show="1">558</elementInformation>
+        <elementInformation name="depth" show="1">273</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Three Phase Commercial Inverter For Europe SE20K/SE25K/SE30K/SE33.3K, datasheet DS-000053-EU (17. 6. 2024), velja za SEXXK-RWX0IXXXX - kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2-3; SolarEdge Installation Guide Three Phase Inverter with SetApp Configuration PN: SEXXK-XXXXIXXXX, For Europe and APAC, Version 1.0 (Dec. 2020) - kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. PDF str. 15 (dolžine, preseki DC), 22-27 (vmesniki), 32 (ozemljitev), 34-38 (AC, DC), 47-60 (komunikacija, RS485, PRI), 64 (SPD), 67 (mere), 72-75 (tehnični podatki SE25K-SE33.3K); SolarEdge Three Phase Inverter For Europe SE12.5K-SE20K, datasheet DS-000040-3.2-EU (07/2021), stolpec SE20K velja za SEXXK-XXXXIBXX4 - kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2; SolarEdge C&amp;I Product Portfolio - Three Phase Commercial Inverter For Europe SE20K...SE40K (SE-SIN-RWR0IBNH8 / SE-SIN-RW00IBNM4, MultiRange) - kopija uradnega SolarEdge dokumenta (vir: shop.krannich-solar.com); uporabljeno le za primerjavo opcij po kodi str. 2-3; Siblik Datenblatt SE25K-RW00IBNM4 (distributer, Stand 31.05.2024) - NI SolarEdge dokument, samo za navzkrižno preverjanje str. 1; ESTG (distributer) - naslovi strani v iskalniku: SE25K-RW00IBNM4 'mc4 with setapp configuration', SE30K-RW00IBNM4 'mc4 dc spd with setapp configuration', SE30K-RW00IBNJ4 'mc4 dc safety unit with switch ac dc spd'; strani zaradi HTTP 429 niso bile odprte str. -
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="300" height="390" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="80" y1="0" x2="80" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="83" y="26.79" text="DC1+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="100" y1="0" x2="100" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="103" y="26.79" text="DC1-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="120" y1="0" x2="120" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="26.79" text="DC2+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="140" y1="0" x2="140" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="143" y="26.79" text="DC2-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="160" y1="0" x2="160" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="163" y="26.79" text="DC3+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="180" y1="0" x2="180" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="183" y="26.79" text="DC3-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="200" y1="0" x2="200" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="203" y="26.79" text="DC4+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="220" y1="0" x2="220" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="223" y="26.79" text="DC4-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="72" y="2" width="156" height="37.79" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="72" y1="27.79" x2="228" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="90" y1="2" x2="90" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="110" y1="2" x2="110" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="130" y1="2" x2="130" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="150" y1="2" x2="150" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="170" y1="2" x2="170" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="190" y1="2" x2="190" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="210" y1="2" x2="210" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="145.05" y="36.79" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="100" y1="390" x2="100" y2="400" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="103" y="387" text="L1" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="120" y1="390" x2="120" y2="400" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="387" text="L2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="140" y1="390" x2="140" y2="400" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="143" y="387" text="L3" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="160" y1="390" x2="160" y2="400" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="163" y="387" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="180" y1="390" x2="180" y2="400" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="183" y="387" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="200" y1="390" x2="200" y2="400" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="203" y="387" text="GND" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="92" y="355.16" width="116" height="32.84" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="92" y1="367.16" x2="208" y2="367.16" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="110" y1="367.16" x2="110" y2="388" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="130" y1="367.16" x2="130" y2="388" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="150" y1="367.16" x2="150" y2="388" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="170" y1="367.16" x2="170" y2="388" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="190" y1="367.16" x2="190" y2="388" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="145.05" y="364.16" text="AC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="248" y="62" width="50" height="76" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="248" y1="80" x2="298" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="255.68" y="73" text="RS485-1" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="248" y1="100" x2="298" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="248" y1="120" x2="298" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="248" y="142" width="50" height="76" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="248" y1="160" x2="298" y2="160" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="255.68" y="153" text="RS485-2" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="248" y1="180" x2="298" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="248" y1="200" x2="298" y2="200" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="248" y="222" width="50" height="116" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="248" y1="240" x2="298" y2="240" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="265.58" y="233" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="248" y1="260" x2="298" y2="260" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="248" y1="280" x2="298" y2="280" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="248" y1="300" x2="298" y2="300" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="248" y1="320" x2="298" y2="320" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="300" y1="90" x2="310" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="252" y="93" text="B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="188.4" y="93" text="RS485-1 B (-)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="300" y1="110" x2="310" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="252" y="113" text="A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="188.4" y="113" text="RS485-1 A (+)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="300" y1="130" x2="310" y2="130" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="252" y="133" text="G" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="204.89" y="133" text="RS485-1 G" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="300" y1="170" x2="310" y2="170" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="252" y="173" text="B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="188.4" y="173" text="RS485-2 B (-)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="300" y1="190" x2="310" y2="190" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="252" y="193" text="A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="188.4" y="193" text="RS485-2 A (+)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="300" y1="210" x2="310" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="252" y="213" text="G" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="204.89" y="213" text="RS485-2 G" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="300" y1="250" x2="310" y2="250" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="252" y="253" text="LAN" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="159.54" y="253" text="RJ45 Ethernet (CAT6)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="300" y1="270" x2="310" y2="270" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="252" y="273" text="PRI" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="118.31" y="273" text="Power Reduction Interface (sp…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="300" y1="290" x2="310" y2="290" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="252" y="293" text="USB" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="167.79" y="293" text="USB na kom. plošči" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="300" y1="310" x2="310" y2="310" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="252" y="313" text="CELL" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="118.31" y="313" text="reža za Cellular Plug-in (opc…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="300" y1="330" x2="310" y2="330" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="252" y="333" text="WIFI" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="118.31" y="333" text="priključek za Wi-Fi anteno (o…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="26.6" y="184" text="SolarEdge" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="22.05" y="198" text="SE25K-RW00IBNM4" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="12.15" y="212" text="25 kW · 1 MPPT · 3F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="54" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{9689d81a-2b32-571d-8ae0-4e5a9615a0ed}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="67" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{d6fdff1c-0b35-50d2-82d9-3718779cdf38}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{2116e94c-a37c-5dfb-a3ae-3dd304db05b1}" x="80" y="-10" orientation="n" type="Generic" name="PV:DC1+" />
+        <terminal uuid="{afd618cc-bf13-5b23-8d22-cc0ce586cee0}" x="100" y="-10" orientation="n" type="Generic" name="PV:DC1-" />
+        <terminal uuid="{7b17ceaa-c815-5df4-9601-90963ec75553}" x="120" y="-10" orientation="n" type="Generic" name="PV:DC2+" />
+        <terminal uuid="{4251070e-94b7-58ff-a780-24a62a308ef6}" x="140" y="-10" orientation="n" type="Generic" name="PV:DC2-" />
+        <terminal uuid="{f7fd451a-6826-5b36-9c45-0d6685165e20}" x="160" y="-10" orientation="n" type="Generic" name="PV:DC3+" />
+        <terminal uuid="{6cf4b910-6fbc-5be8-a47b-d402d4b48fcc}" x="180" y="-10" orientation="n" type="Generic" name="PV:DC3-" />
+        <terminal uuid="{1b54fc67-8b35-5247-b538-cdf5fadb5988}" x="200" y="-10" orientation="n" type="Generic" name="PV:DC4+" />
+        <terminal uuid="{823385a9-dea8-59c8-8b9a-06f66d5556b1}" x="220" y="-10" orientation="n" type="Generic" name="PV:DC4-" />
+        <terminal uuid="{2249efaf-3c59-5882-9df4-dbbd7d0474d6}" x="100" y="400" orientation="s" type="Generic" name="AC:L1" />
+        <terminal uuid="{ddb160f3-3e8e-5577-86c8-fcf3cdf4240d}" x="120" y="400" orientation="s" type="Generic" name="AC:L2" />
+        <terminal uuid="{33707a76-fecd-51cd-887c-f89edf058508}" x="140" y="400" orientation="s" type="Generic" name="AC:L3" />
+        <terminal uuid="{5e9b300d-bf65-5ebd-b19d-fefcfdd26c9e}" x="160" y="400" orientation="s" type="Generic" name="AC:N" />
+        <terminal uuid="{f0fde39d-6283-5c4d-90c8-384acf6f376c}" x="180" y="400" orientation="s" type="Generic" name="AC:PE" />
+        <terminal uuid="{a50c0e60-55fe-56a8-b05d-e1c0f0ba78bc}" x="200" y="400" orientation="s" type="Generic" name="AC:GND" />
+        <terminal uuid="{987e2cf0-2daf-59b6-9c26-091d2fc5508b}" x="310" y="90" orientation="e" type="Generic" name="RS485-1:B" />
+        <terminal uuid="{d04a4de0-9aab-5137-bb5c-4f8e8421eb52}" x="310" y="110" orientation="e" type="Generic" name="RS485-1:A" />
+        <terminal uuid="{134fd24f-b3e4-5e9a-a60e-0d8daee0e7a5}" x="310" y="130" orientation="e" type="Generic" name="RS485-1:G" />
+        <terminal uuid="{070bb03f-ea82-5a48-9fe4-7d8520560c18}" x="310" y="170" orientation="e" type="Generic" name="RS485-2:B" />
+        <terminal uuid="{c0dc1474-6894-558e-9c68-3fd02cfb14b0}" x="310" y="190" orientation="e" type="Generic" name="RS485-2:A" />
+        <terminal uuid="{fb8140d0-1a40-50a3-884e-57366a6157a3}" x="310" y="210" orientation="e" type="Generic" name="RS485-2:G" />
+        <terminal uuid="{e30016fa-6698-5bc3-ad97-608afa634520}" x="310" y="250" orientation="e" type="Generic" name="COM:LAN" />
+        <terminal uuid="{248cd060-000b-5e33-92c2-9c2cff4526b2}" x="310" y="270" orientation="e" type="Generic" name="COM:PRI" />
+        <terminal uuid="{6273644d-1b2c-55c9-9148-2c0537a17fd7}" x="310" y="290" orientation="e" type="Generic" name="COM:USB" />
+        <terminal uuid="{0a26cc20-2be1-5872-805b-baadc20f28b3}" x="310" y="310" orientation="e" type="Generic" name="COM:CELL" />
+        <terminal uuid="{90ace6d3-dd9e-52a7-9061-0cd3dc85ab8c}" x="310" y="330" orientation="e" type="Generic" name="COM:WIFI" />
+    </description>
+</definition>

@@ -1,0 +1,25 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="70" hotspot_x="30" hotspot_y="40">
+    <uuid uuid="{8268bc2a-b501-4bc9-86f4-d830b4211736}" />
+    <names>
+        <name lang="de">Ladestation Elektrofahrzeug</name>
+        <name lang="en">EV charging station</name>
+        <name lang="fr">Borne de recharge VE</name>
+        <name lang="sl">Polnilnica za električna vozila (EV)</name>
+    </names>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <rect x="-30" y="-30" width="60" height="60" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="0" y1="-40" x2="0" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <text text="EV" x="-10" y="24" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <polygon x1="4" y1="-26" x2="-7" y2="-9" x3="0" y3="-9" x4="-5" y4="6" x5="8" y5="-14" x6="1" y6="-14" closed="true" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <dynamic_text x="36" y="-42" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e9def2eb-6233-4c78-9dee-770cabb7acff}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="36" y="-29" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e41a28be-b958-4f64-9d75-5ea54b9b3d39}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{63fd9c39-9d66-4b1b-a908-b194f91fd4b1}" name="AC" x="0" y="-40" orientation="n" type="Generic" />
+    </description>
+</definition>

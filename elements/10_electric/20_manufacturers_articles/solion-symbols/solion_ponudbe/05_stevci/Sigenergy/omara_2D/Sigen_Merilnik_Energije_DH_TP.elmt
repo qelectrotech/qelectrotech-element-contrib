@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="170" height="230" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{a6770dad-6de9-55a9-b8c7-6048aa04f3c6}" />
+    <names>
+        <name lang="en">Sigen Merilnik Energije DH TP (front view)</name>
+        <name lang="sl">Sigen Merilnik Energije DH TP (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">1426000003</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Merilnik Energije DH TP</elementInformation>
+        <elementInformation name="description" show="1">izdelal OEM Eastron SDM630-Modbus V2; števec; komunikacija: RS485 Modbus RTU, 9600 bps (sponke B, A, G: 0,5-1,5 mm²)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3); SigenStor Home Installation Guide - Three-phase System A1, V12 2026-08-17 (v ZIP) str. 1-8 (sistem, kabli), 12-16 (vgradnja BAT), 5.5.1 (COM); SigenStor Installation Guide - Three-phase Low Voltage System (COM tabela s senzorji) str. 3 (seznam senzorjev), 26 (pogl. 5.4); Datasheet - Sigen Power Sensor (for Residential), V20260515 str. 2; Eastron SDM630-Modbus V2 User Manual (2023 V1.5) – proizvajalec merilnika str. 20-21 (mere, ožičenje)</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.32</elementInformation>
+        <elementInformation name="width" show="1">72</elementInformation>
+        <elementInformation name="height" show="1">100</elementInformation>
+        <elementInformation name="depth" show="1">66</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3); SigenStor Home Installation Guide - Three-phase System A1, V12 2026-08-17 (v ZIP) str. 1-8 (sistem, kabli), 12-16 (vgradnja BAT), 5.5.1 (COM); SigenStor Installation Guide - Three-phase Low Voltage System (COM tabela s senzorji) str. 3 (seznam senzorjev), 26 (pogl. 5.4); Datasheet - Sigen Power Sensor (for Residential), V20260515 str. 2; Eastron SDM630-Modbus V2 User Manual (2023 V1.5) – proizvajalec merilnika str. 20-21 (mere, ožičenje)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="144" height="200" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="138" height="194" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="23.16" y="75.98" text="Sigenergy" rotation="0" font="Liberation Sans,12,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="27.47" y="83.97" text="Sigen Sensor TP-DH (SDM630MODBUS V2)" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{9d46570d-fa55-5e7a-8000-b42aeef786e2}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

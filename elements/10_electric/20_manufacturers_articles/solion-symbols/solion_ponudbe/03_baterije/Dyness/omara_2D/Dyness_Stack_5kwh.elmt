@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1200" height="300" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{557f419e-7b77-5ef1-87e4-24fead96cc1c}" />
+    <names>
+        <name lang="en">Dyness Stack 5kwh (front view)</name>
+        <name lang="sl">Dyness Stack 5kwh (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Dyness</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">STACK100 modul S51100</elementInformation>
+        <elementInformation name="designation" show="1">Dyness Stack 5kwh</elementInformation>
+        <elementInformation name="description" show="1">baterija; komunikacija: notranje prek kompozitnega konektorja (IPB, IMB, IPC, IMC, 24 V napajanje)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Dyness STACK100 Datasheet EN 20260520 str. 2; STACK100 User Manual EN V7.0 str. 7–12 (tabele 2-1…2-4); Dyness STACK LV Datasheet (za primerjavo) str. 2</elementInformation>
+        <elementInformation name="mass_kg" show="1">47</elementInformation>
+        <elementInformation name="width" show="1">590</elementInformation>
+        <elementInformation name="height" show="1">133.5</elementInformation>
+        <elementInformation name="depth" show="1">390</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Dyness STACK100 Datasheet EN 20260520 str. 2; STACK100 User Manual EN V7.0 str. 7–12 (tabele 2-1…2-4); Dyness STACK LV Datasheet (za primerjavo) str. 2
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1180" height="267" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1174" height="261" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="524.88" y="93.45" text="Dyness" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="382.2" y="129.37" text="STACK100 modul S51100" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{c476479e-a50d-56ac-8f53-989059af7266}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

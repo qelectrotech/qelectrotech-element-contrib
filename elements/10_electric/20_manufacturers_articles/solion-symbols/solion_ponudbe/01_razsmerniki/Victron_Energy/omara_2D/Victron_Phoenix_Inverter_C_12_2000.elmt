@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="530" height="1080" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{f8aef0d1-761c-5efb-a9c1-0a3cd079448f}" />
+    <names>
+        <name lang="en">Victron Phoenix Inverter C 12/2000 (front view)</name>
+        <name lang="sl">Victron Phoenix Inverter C 12/2000 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Phoenix Inverter Compact 12/2000 230V VE.Bus (CIN122200000)</elementInformation>
+        <elementInformation name="designation" show="1">Victron Phoenix Inverter C 12/2000</elementInformation>
+        <elementInformation name="description" show="1">razsmernik; komunikacija: 2x VE.Bus RJ45 (B), sponke H: temperaturni senzor +/- (po legendi), daljinsko stikalo L (desno+sredina = vklop), programabilni rele P: NO - COM - NC, DIP stikala (M)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Inverter Compact 2000 manual (EN) str. 8-10 (namestitev), 18 (tehnični podatki), 115-116 (Appendix A); Datasheet Phoenix Inverter 1200VA-5000VA str. 2; Dimension drawing Inverter Compact 12/24V 2000VA str. 1; Quick Install Guide Compact Inverter 2000VA; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_phoenix_c_2000/inverter_compact_2000VA.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">12</elementInformation>
+        <elementInformation name="width" show="1">252</elementInformation>
+        <elementInformation name="height" show="1">524</elementInformation>
+        <elementInformation name="depth" show="1">128</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Inverter Compact 2000 manual (EN) str. 8-10 (namestitev), 18 (tehnični podatki), 115-116 (Appendix A); Datasheet Phoenix Inverter 1200VA-5000VA str. 2; Dimension drawing Inverter Compact 12/24V 2000VA str. 1; Quick Install Guide Compact Inverter 2000VA; Victron produktna stran (SKU podatki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="504" height="1048" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="498" height="1042" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="100.06" y="378.1" text="Victron Energy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="81.72" y="391.41" text="Phoenix Inverter Compact 12/2000 230V VE.Bus (CIN122200000)" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{8ead965d-3a30-56cd-bf95-faff73614a3b}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

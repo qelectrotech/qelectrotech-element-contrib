@@ -1,0 +1,26 @@
+<definition version="0.100.0" type="element" link_type="simple" width="60" height="20" hotspot_x="40" hotspot_y="10">
+    <uuid uuid="{4a5b4d22-c625-47ca-b27a-629379ea1538}" />
+    <names>
+        <name lang="en">Circuit breaker (horizontal)</name>
+        <name lang="fr">Disjoncteur (horizontal)</name>
+        <name lang="sl">Odklopnik (vodoravno)</name>
+    </names>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <line x1="-20" y1="0" x2="-40" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="0" y1="0" x2="20" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="0" y1="0" x2="-23" y2="-8" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-22" y1="-2" x2="-18" y2="2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-22" y1="2" x2="-18" y2="-2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <terminal uuid="{cedf3023-cfca-4d05-b755-75c97f63eb3a}" name="2" x="20" y="0" orientation="e" type="Generic" />
+        <terminal uuid="{502cf539-9206-475c-9774-08afacdf5cdf}" name="1" x="-40" y="0" orientation="w" type="Generic" />
+        <dynamic_text x="-38" y="-38" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{ec28e330-0af7-40a5-96bf-ce76f4c554ca}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-38" y="-25" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{cd9cb7e7-e02e-4a84-beb4-505e3b383d17}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+    </description>
+</definition>

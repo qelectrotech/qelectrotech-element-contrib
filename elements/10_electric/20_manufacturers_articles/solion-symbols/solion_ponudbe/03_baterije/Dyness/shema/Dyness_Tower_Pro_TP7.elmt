@@ -1,0 +1,68 @@
+<definition version="0.200" type="element" link_type="simple" width="490" height="200" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{6b72b979-a953-52e9-95d3-22af5159c9e7}" />
+    <names>
+        <name lang="en">Dyness Tower Pro TP7</name>
+        <name lang="sl">Dyness Tower Pro TP7</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Dyness</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Tower Pro TP7</elementInformation>
+        <elementInformation name="designation" show="1">Dyness Tower Pro TP7</elementInformation>
+        <elementInformation name="description" show="1">baterija; baterija glej artikel (168–648 V) V; komunikacija: RJ45 'Inverter CAN/RS485' (pin1 485_B, pin2 485_A, pin4 CANH, pin5 CANL), RJ45 Parallel 1# / Parallel 2# (CAN med stolpi, 120 Ω zaključni upor), WiFi (aplikacija Dyness, OTA)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Dyness Tower Pro datasheet (uradna stran, 2026) str. 2; Dyness Tower Pro datasheet V1.0-20241011 (lokalno) str. 2; Tower Pro ESS Unit User Manual EN (20260713) str. 7–12 (tabele 2-1…2-6), 15 (pini RJ45), 19–20 (pakiranje), 24–27 (vezava, vzporedno)</elementInformation>
+        <elementInformation name="mass_kg" show="1">109.5</elementInformation>
+        <elementInformation name="width" show="1">587</elementInformation>
+        <elementInformation name="height" show="1">778</elementInformation>
+        <elementInformation name="depth" show="1">310</elementInformation>
+    </elementInformations>
+    <informations>Viri: Dyness Tower Pro datasheet (uradna stran, 2026) str. 2; Dyness Tower Pro datasheet V1.0-20241011 (lokalno) str. 2; Tower Pro ESS Unit User Manual EN (20260713) str. 7–12 (tabele 2-1…2-6), 15 (pini RJ45), 19–20 (pakiranje), 24–27 (vezava, vzporedno)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="440" height="160" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="220" y1="160" x2="220" y2="170" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="223" y="157" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="212" y="130.1" width="16" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="212" y1="142.1" x2="228" y2="142.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="215.05" y="139.1" text="PE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="12" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="32" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="32" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="B+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="43" text="External positive socket – na…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="B-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="63" text="External negative socket – na…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="378" y="12" width="60" height="76" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="378" y1="30" x2="438" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="400.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="378" y1="50" x2="438" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="378" y1="70" x2="438" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="440" y1="40" x2="450" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="382" y="43" text="CAN/RS485" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="248.31" y="43" text="RJ45 Inverter CAN/RS485 (1=48…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="440" y1="60" x2="450" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="382" y="63" text="PAR1" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="248.31" y="63" text="RJ45 Parallel 1# (CAN med sto…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="440" y1="80" x2="450" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="382" y="83" text="PAR2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="248.31" y="83" text="RJ45 Parallel 2# (CAN med sto…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="183.29" y="76" text="Dyness" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="172.84" y="90" text="Tower Pro TP7" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="167.69" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{ad623efe-9dc9-55a6-901d-c1ccd7705a8c}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="167.69" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{93a3d104-d66f-5e2d-8060-40b15be08a5e}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{108b0b38-0df0-5024-b6e4-252188f0493c}" x="220" y="170" orientation="s" type="Generic" name="PE:PE" />
+        <terminal uuid="{e22d7d65-d503-5e4b-9c25-9767d098f8be}" x="-10" y="40" orientation="w" type="Generic" name="BAT:B+" />
+        <terminal uuid="{052d6572-2afc-50bf-bef5-fbfc2130fe20}" x="-10" y="60" orientation="w" type="Generic" name="BAT:B-" />
+        <terminal uuid="{6aad049a-acb9-518f-820e-1baa2c64d707}" x="450" y="40" orientation="e" type="Generic" name="COM:CAN/RS485" />
+        <terminal uuid="{13f4b9c6-0bae-546d-b625-0ec4a214a659}" x="450" y="60" orientation="e" type="Generic" name="COM:PAR1" />
+        <terminal uuid="{fbfc312c-d074-5ae1-8331-3b881a3aa500}" x="450" y="80" orientation="e" type="Generic" name="COM:PAR2" />
+    </description>
+</definition>

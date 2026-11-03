@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="2220" height="1370" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{d6b9738e-ae5a-5a63-afee-8a7af7916ef0}" />
+    <names>
+        <name lang="en">Sigen Hybrid Inverter 80.0 kW M1 z Backup (HYB) (front view)</name>
+        <name lang="sl">Sigen Hybrid Inverter 80.0 kW M1 z Backup (HYB) (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11010201</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Hybrid Inverter 80.0 kW M1 z Backup (HYB)</elementInformation>
+        <elementInformation name="description" show="1">hibridni razsmernik; 6 MPPT, nizov na MPPT [2, 2, 2, 2, 2, 2], U_dc max 1100 V, MPPT [160, 1000] V, I max [40, 40, 40, 40, 40, 40] A; baterija [550, 1100] V; komunikacija: RS485-1 (COM 15-16), RS485-2 števec (COM 13-14), 3x RJ45 (RJ45 1/2 FE, RJ45 3 SigenStack), WLAN (ANT), 4G Sigen CommMod, 5x DI (DRM/RCR, DI5 NS/EPO/hitri izklop), DO1 (NO), DO2 (NO/NC, agregat)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - Sigen Hybrid 50/60/80/100/110/125M1 (HYB) (Version 20260709, Preliminary), Sigenergy str. 2; Sigen PV (36-125)M1-HYB Series Installation Guide, v01 (2026-08-15) str. 7 (mere), 8-9 (Port Introduction), 11-15 (kabli grid/load), 32-39 (Backup load / Grid L1 L2 L3 N PE), 44 (PV nizi), 46-47 (COM); Datasheet - SigenStack BAT 12.0 &amp; SigenStack BC, Sigenergy str. 2 (550-1100 V, 180 A); C&amp;I Sigen Inverter &amp; Sigen Battery Energy Storage System User Manual (2025-09-08) str. 45 (AC stikalo PV/HYA), 48 (AC stikalo HYB grid/backup); teh_iz_ponudb (Generator ponudb SOLION) - obstoječi tehnični zapis s preseki kablov in AC stikali str. polje teh_iz_ponudb pri artiklu</elementInformation>
+        <elementInformation name="mass_kg" show="1">105</elementInformation>
+        <elementInformation name="width" show="1">1097</elementInformation>
+        <elementInformation name="height" show="1">668</elementInformation>
+        <elementInformation name="depth" show="1">340</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - Sigen Hybrid 50/60/80/100/110/125M1 (HYB) (Version 20260709, Preliminary), Sigenergy str. 2; Sigen PV (36-125)M1-HYB Series Installation Guide, v01 (2026-08-15) str. 7 (mere), 8-9 (Port Introduction), 11-15 (kabli grid/load), 32-39 (Backup load / Grid L1 L2 L3 N PE), 44 (PV nizi), 46-47 (COM); Datasheet - SigenStack BAT 12.0 &amp; SigenStack BC, Sigenergy str. 2 (550-1100 V, 180 A); C&amp;I Sigen Inverter &amp; Sigen Battery Energy Storage System User Manual (2025-09-08) str. 45 (AC stikalo PV/HYA), 48 (AC stikalo HYB grid/backup); teh_iz_ponudb (Generator ponudb SOLION) - obstoječi tehnični zapis s preseki kablov in AC stikali str. polje teh_iz_ponudb pri artiklu
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="2194" height="1336" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="2188" height="1330" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="1319" width="2188" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="985.68" y="1330.5" text="PV · BAT · GRID · LOAD · PE" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="999.32" y="467.6" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="928.78" y="503.52" text="Sigen PV 80M1-HYB" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{3f3834c5-5f49-5a3a-9248-cedfc6cf647c}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

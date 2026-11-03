@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1060" height="450" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{5bbfb5bc-642b-5efc-b773-2c2a91cf81b3}" />
+    <names>
+        <name lang="en">Victron Lithium SuperPack 12,8V/200Ah (front view)</name>
+        <name lang="sl">Victron Lithium SuperPack 12,8V/200Ah (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Lithium SuperPack 12,8V/200Ah (M8) (BAT512120705)</elementInformation>
+        <elementInformation name="designation" show="1">Victron Lithium SuperPack 12,8V/200Ah</elementInformation>
+        <elementInformation name="description" show="1">baterija</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet 12,8 V &amp; 25,6 V Lithium SuperPack str. 1; Victron produktna stran (SKU podatki); 2D risbe mer str. 1</elementInformation>
+        <elementInformation name="mass_kg" show="1">21</elementInformation>
+        <elementInformation name="width" show="1">520</elementInformation>
+        <elementInformation name="height" show="1">208</elementInformation>
+        <elementInformation name="depth" show="1">269</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet 12,8 V &amp; 25,6 V Lithium SuperPack str. 1; Victron produktna stran (SKU podatki); 2D risbe mer str. 1
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1040" height="416" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1034" height="410" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="3" width="1034" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="507.63" y="14.5" text="BAT" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="368.06" y="149.59" text="Victron Energy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="156.35" y="177.53" text="Lithium SuperPack 12,8V/200Ah (M8) (BAT512120705)" rotation="0" font="Liberation Sans,18,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{bbecd784-7277-5467-8f4e-a1cd03763652}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

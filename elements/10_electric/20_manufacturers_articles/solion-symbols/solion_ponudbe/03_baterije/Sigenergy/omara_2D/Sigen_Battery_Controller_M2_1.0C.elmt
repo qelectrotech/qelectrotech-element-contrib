@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1560" height="530" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{cd74484a-0437-5c97-9f51-8b00985a6f4e}" />
+    <names>
+        <name lang="en">Sigen Battery Controller M2 1.0C (front view)</name>
+        <name lang="sl">Sigen Battery Controller M2 1.0C (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11140002</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Battery Controller M2 1.0C</elementInformation>
+        <elementInformation name="description" show="1">baterijski krmilnik; baterija [550, 1100] V; komunikacija: CAN (datasheet), COM – 8-žilni oklopljen par ali omrežni kabel EIA/TIA 568B, 0,13-0,2 mm², ≤50 m, do razsmernika</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - SigenStack BAT 12.0 &amp; SigenStack BC (V20260924) str. 2; SigenStack Energy Storage System Installation Guide, V07 2026-07-02 str. 7-9 (modeli, vrata), 17 (kabli), 20 (tab. 5-1 vrata baze), 26-28 (PE, DC, signal)</elementInformation>
+        <elementInformation name="mass_kg" show="1">60</elementInformation>
+        <elementInformation name="width" show="1">770</elementInformation>
+        <elementInformation name="height" show="1">248</elementInformation>
+        <elementInformation name="depth" show="1">363</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - SigenStack BAT 12.0 &amp; SigenStack BC (V20260924) str. 2; SigenStack Energy Storage System Installation Guide, V07 2026-07-02 str. 7-9 (modeli, vrata), 17 (kabli), 20 (tab. 5-1 vrata baze), 26-28 (PE, DC, signal)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1540" height="496" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1534" height="490" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="672.32" y="173.6" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="542.41" y="209.52" text="SigenStack BC M2-1C-BST" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{110b7232-57b9-5f84-a737-28991ecdcaad}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

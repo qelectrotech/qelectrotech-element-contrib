@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="930" height="1350" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{faaf5f28-ed01-5d4b-800b-642ba29d6120}" />
+    <names>
+        <name lang="en">Sigen Gateway HomeMax SP 12K (front view)</name>
+        <name lang="sl">Sigen Gateway HomeMax SP 12K (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11110015</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Gateway HomeMax SP 12K</elementInformation>
+        <elementInformation name="description" show="1">gateway/backup; komunikacija: 2x FE (RJ45), RS485 (rezervirano), DI1 (bypass), DI2 (ATS), DO1 (omrežni kontaktor), DO2 (kontaktor agregata), DO3 (2-žilni zagon agregata)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet Sigen Energy Gateway HomeMax SP 12K / HomeMax TP (nizozemski, uradna predloga Sigenergy) - VIR PRODAJALEC: gostuje GPC Europe (res.cloudinary.com), ker ga Sigenergy Download Center nima str. 1; Sigen Gateway HomeMax (SP, SP 12K) Installation Guide, v05 (2025-12-11); iz ZIP Sigen Gateway HomeMax (SP, SP 12K) Installer Manual_EN.zip str. 2 (Port Description), 3 (notranjost QF/KM), 5 (kabli), 10 (QF3-QF5 max 22 kW), 14-15 (FE/RS485/DI/DO, 2 izvedbi), 18 (vklop, QS1); Sigen Energy Gateway Home Series User Manual, v08 (2026-06-05) str. 25-27 (HomePro SP), 33-35 (HomeMax SP), 36-38 (HomeMax SP 12K), 55-57 (HomePro TP), 59-61 (HomeMax TP) - risbe mer; Application Note - How to connect the Generator to Sigen Energy Gateway</elementInformation>
+        <elementInformation name="mass_kg" show="1">19</elementInformation>
+        <elementInformation name="width" show="1">455</elementInformation>
+        <elementInformation name="height" show="1">660</elementInformation>
+        <elementInformation name="depth" show="1">179</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet Sigen Energy Gateway HomeMax SP 12K / HomeMax TP (nizozemski, uradna predloga Sigenergy) - VIR PRODAJALEC: gostuje GPC Europe (res.cloudinary.com), ker ga Sigenergy Download Center nima str. 1; Sigen Gateway HomeMax (SP, SP 12K) Installation Guide, v05 (2025-12-11); iz ZIP Sigen Gateway HomeMax (SP, SP 12K) Installer Manual_EN.zip str. 2 (Port Description), 3 (notranjost QF/KM), 5 (kabli), 10 (QF3-QF5 max 22 kW), 14-15 (FE/RS485/DI/DO, 2 izvedbi), 18 (vklop, QS1); Sigen Energy Gateway Home Series User Manual, v08 (2026-06-05) str. 25-27 (HomePro SP), 33-35 (HomeMax SP), 36-38 (HomeMax SP 12K), 55-57 (HomePro TP), 59-61 (HomeMax TP) - risbe mer; Application Note - How to connect the Generator to Sigen Energy Gateway
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="910" height="1320" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="904" height="1314" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="1303" width="904" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="240.6" y="1314.5" text="INV1 · INV2 · INV3 · GRID · BACKUP · SMART-PORT · PE" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="357.32" y="462" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="177.93" y="497.92" text="Sigen Gateway HomeMax SP 12K" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{b29ad9b7-e899-5182-bd3a-9ff37c240492}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

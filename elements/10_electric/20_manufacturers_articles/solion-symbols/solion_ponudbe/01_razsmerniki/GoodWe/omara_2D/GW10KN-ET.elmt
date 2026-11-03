@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="850" height="1070" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{77c33dc2-09c0-540a-b16f-94414f7e2675}" />
+    <names>
+        <name lang="en">GW10KN-ET (front view)</name>
+        <name lang="sl">GW10KN-ET (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">GoodWe</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">GW10KN-ET</elementInformation>
+        <elementInformation name="designation" show="1">GW10KN-ET</elementInformation>
+        <elementInformation name="description" show="1">hibridni razsmernik; 2 MPPT, nizov na MPPT [1, 1], U_dc max 1000 V, MPPT [200, 850] V, I max [16, 16] A; baterija [180, 600] V; komunikacija: RS485 / CAN (BMS), RS485 (števec), WiFi / WiFi+LAN / 4G (opcija), DRED / RCR, Remote Shutdown, DO (krmiljenje bremena)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: GoodWe ET Series / ET Plus Series 5.0-10.0kW, BT Series 5.0-10.0kW User Manual V2.0-2026-09-20 str. 9-10 (odklopniki), 18 (deli 3.5.1), 32-52 (pogl. 6: PE, PV, BAT, AC, COM 18PIN, števec, BMS), 78-82 (tehn. podatki KN), 84-88 (BT)</elementInformation>
+        <elementInformation name="mass_kg" show="1">24</elementInformation>
+        <elementInformation name="width" show="1">415</elementInformation>
+        <elementInformation name="height" show="1">516</elementInformation>
+        <elementInformation name="depth" show="1">180</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: GoodWe ET Series / ET Plus Series 5.0-10.0kW, BT Series 5.0-10.0kW User Manual V2.0-2026-09-20 str. 9-10 (odklopniki), 18 (deli 3.5.1), 32-52 (pogl. 6: PE, PV, BAT, AC, COM 18PIN, števec, BMS), 78-82 (tehn. podatki KN), 84-88 (BT)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="830" height="1032" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="824" height="1026" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="349.88" y="361.2" text="GoodWe" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="325.94" y="397.12" text="GW10KN-ET" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e5b0e2db-1a0a-5db1-98de-57f28c502ae7}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

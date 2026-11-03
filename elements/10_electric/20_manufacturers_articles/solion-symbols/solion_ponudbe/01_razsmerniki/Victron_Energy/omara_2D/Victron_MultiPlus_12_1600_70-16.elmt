@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="570" height="970" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{81921c6e-7d37-5a8e-bc8e-afde81aaf945}" />
+    <names>
+        <name lang="en">Victron MultiPlus 12/1600/70-16 (front view)</name>
+        <name lang="sl">Victron MultiPlus 12/1600/70-16 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">MultiPlus 12/1600/70-16 230V VE.Bus (PMP122160000)</elementInformation>
+        <elementInformation name="designation" show="1">Victron MultiPlus 12/1600/70-16</elementInformation>
+        <elementInformation name="description" show="1">razsmernik-polnilnik; komunikacija: 2x VE.Bus RJ45 (C), daljinsko stikalo Remote, 2-polna sponka H z mostičkom (odstrani mostiček za stikalo), temperaturni senzor Temp -/+ (D), programabilni rele ALARM NO/COM/NC (E): AC 230 V/4 A, DC 4 A do 35 V, 1 A do 60 V, DIP stikala (A), stikalo On/Off/Charger only (B)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: MultiPlus 1600VA manual (EN) str. 10-11 (namestitev), 22 (tehnični podatki), 133-134 (Appendix A); Dimension drawing MultiPlus 12/24/48 V 1600VA str. 1 (tabela X: 12/1600 = 468, 24/1600 = 443 mm); Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_multiplus_12_1600/multiplus_12V_1600VA.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">10</elementInformation>
+        <elementInformation name="width" show="1">271</elementInformation>
+        <elementInformation name="height" show="1">468</elementInformation>
+        <elementInformation name="depth" show="1">118</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: MultiPlus 1600VA manual (EN) str. 10-11 (namestitev), 22 (tehnični podatki), 133-134 (Appendix A); Dimension drawing MultiPlus 12/24/48 V 1600VA str. 1 (tabela X: 12/1600 = 468, 24/1600 = 443 mm); Victron produktna stran (SKU podatki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="542" height="936" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="536" height="930" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="919" width="536" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="167.93" y="930.5" text="BAT · AC_IN · AC_OUT · PE" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="119.06" y="337.57" text="Victron Energy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="85.47" y="353.55" text="MultiPlus 12/1600/70-16 230V VE.Bus (PMP122160000)" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{9eb2954c-0a79-5940-a21a-9533fc68d3cf}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

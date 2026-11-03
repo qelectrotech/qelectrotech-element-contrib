@@ -1,0 +1,83 @@
+<definition version="0.200" type="element" link_type="simple" width="700" height="240" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{40d6fe8e-ca33-543f-900d-444af6f3431a}" />
+    <names>
+        <name lang="en">Victron Phoenix 12/250 VE.Direct Schuko</name>
+        <name lang="sl">Victron Phoenix 12/250 VE.Direct Schuko</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Phoenix Inverter 12/250 230V VE.Direct SCHUKO (PIN121251200)</elementInformation>
+        <elementInformation name="designation" show="1">Victron Phoenix 12/250 VE.Direct Schuko</elementInformation>
+        <elementInformation name="description" show="1">razsmernik; komunikacija: VE.Direct (VictronConnect prek USB/Bluetooth dongla, GX), daljinski vklop/izklop: 2-polni konektor (levi kontakt je lahko vezan na BAT+, npr. kontakt ključa), sprednje stikalo On / Off / ECO</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Inverter VE.Direct 250-1200VA manual (EN) str. 5-6 (namestitev), 9-10 (tehnični podatki), 13-14 (Appendix A, B); Datasheet Inverter VE.Direct 230V (2026) str. 2; Datasheet Inverter VE.Direct 250VA-1600VA (2025) str. 2; Dimension drawing str. 1; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_phoenix_vedirect_250_375/inverter_vedirect_250_375VA.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">2.4</elementInformation>
+        <elementInformation name="width" show="1">161</elementInformation>
+        <elementInformation name="height" show="1">246</elementInformation>
+        <elementInformation name="depth" show="1">84</elementInformation>
+    </elementInformations>
+    <informations>Viri: Inverter VE.Direct 250-1200VA manual (EN) str. 5-6 (namestitev), 9-10 (tehnični podatki), 13-14 (Appendix A, B); Datasheet Inverter VE.Direct 230V (2026) str. 2; Datasheet Inverter VE.Direct 250VA-1600VA (2025) str. 2; Dimension drawing str. 1; Victron produktna stran (SKU podatki)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="650" height="200" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="280" y1="200" x2="280" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="283" y="197" text="AC-out-L" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="300" y1="200" x2="300" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="303" y="197" text="AC-out-N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="320" y1="200" x2="320" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="323" y="197" text="AC-out-PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="360" y1="200" x2="360" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="363" y="197" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="272" y="135.47" width="56" height="62.53" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="272" y1="147.47" x2="328" y2="147.47" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="290" y1="147.47" x2="290" y2="198" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="310" y1="147.47" x2="310" y2="198" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="285.16" y="144.47" text="AC_OUT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="352" y="135.47" width="16" height="62.53" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="352" y1="147.47" x2="368" y2="147.47" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="355.05" y="144.47" text="PE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="12" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="32" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="32" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="BAT+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="43" text="Baterija +, vijačna sponka" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="BAT-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="63" text="Baterija -, vijačna sponka" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="588" y="12" width="60" height="76" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="588" y1="30" x2="648" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="610.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="588" y1="50" x2="648" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="588" y1="70" x2="648" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="650" y1="40" x2="660" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="592" y="43" text="VE.Direct" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="507.79" y="43" text="VE.Direct vtičnica" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="650" y1="60" x2="660" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="592" y="63" text="REMOTE-1" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="466.56" y="63" text="levi kontakt (lahko na BAT+)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="650" y1="80" x2="660" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="592" y="83" text="REMOTE-2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="528.4" y="83" text="desni kontakt" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="255.23" y="89" text="Victron Energy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="157.45" y="103" text="Phoenix Inverter 12/250 230V VE.Direct SCHUKO (PIN121251200)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="300.93" y="117" text="1F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="151.2" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{b5fa872f-0c12-5aa5-80ff-5e93e6187216}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="151.2" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{1c8fee06-df99-5898-988b-68ab8246ddf2}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{4c8f972b-d6ed-5b49-b311-ec03f23bbb3f}" x="280" y="210" orientation="s" type="Generic" name="AC_OUT:AC-out-L" />
+        <terminal uuid="{26b451e2-b90c-5eae-af11-d351783dabc3}" x="300" y="210" orientation="s" type="Generic" name="AC_OUT:AC-out-N" />
+        <terminal uuid="{a741297e-a172-514e-a18f-49939e3225ed}" x="320" y="210" orientation="s" type="Generic" name="AC_OUT:AC-out-PE" />
+        <terminal uuid="{3caa00ac-2917-561a-b507-3c54b4d955ad}" x="360" y="210" orientation="s" type="Generic" name="PE:PE" />
+        <terminal uuid="{8b803a14-461e-535c-88be-7a7f7054f1f2}" x="-10" y="40" orientation="w" type="Generic" name="BAT:BAT+" />
+        <terminal uuid="{6319862c-c3fe-53b9-a475-8a13a015b320}" x="-10" y="60" orientation="w" type="Generic" name="BAT:BAT-" />
+        <terminal uuid="{46c9ee9e-eeb9-56b2-84c2-d29ac9fbab09}" x="660" y="40" orientation="e" type="Generic" name="COM:VE.Direct" />
+        <terminal uuid="{2ccf1ee8-a645-52f2-bc73-0839b8c1e091}" x="660" y="60" orientation="e" type="Generic" name="COM:REMOTE-1" />
+        <terminal uuid="{8d12c9d3-1244-5ea8-bac5-a8a60cbe48e3}" x="660" y="80" orientation="e" type="Generic" name="COM:REMOTE-2" />
+    </description>
+</definition>

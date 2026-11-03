@@ -1,0 +1,108 @@
+<definition version="0.200" type="element" link_type="simple" width="610" height="360" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{bc3f2281-ee99-5be0-a8b9-406e8ac9d9cf}" />
+    <names>
+        <name lang="en">Victron SmartSolar MPPT 150/85-Tr VE.Can</name>
+        <name lang="sl">Victron SmartSolar MPPT 150/85-Tr VE.Can</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SmartSolar MPPT 150/85-Tr VE.Can (SCC115085411)</elementInformation>
+        <elementInformation name="designation" show="1">Victron SmartSolar MPPT 150/85-Tr VE.Can</elementInformation>
+        <elementInformation name="description" show="1">MPPT regulator; 1 MPPT, nizov na MPPT [1], U_dc max 150 (abs.), 145 zagon/obratovanje V, MPPT - V, I max - A; komunikacija: VE.Direct, 2x VE.Can RJ45 (do 25 naprav, sinhrono polnjenje; +V vezan na BAT+, -V na BAT- in PV-; ni galvansko ločen), Bluetooth Smart, remote on/off L/H (2-polni konektor), programabilni rele NO/C/NC (DPST; AC 240 V/4 A, DC 4 A do 35 V, 1 A do 60 V)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SmartSolar MPPT 150/70 up to 250/100 VE.Can manual (EN) str. 8, 11, 13, 15, 17-19, 31; Datasheet SmartSolar MPPT 150/70 up to 150/100 VE.Can str. 2; Datasheet SmartSolar MPPT 250/70 up to 250/100 VE.Can str. 2; Dimension drawing Tr VE.Can (XL) str. 1; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_smartsolar_vecan_tr_85_100/mppt_vecan_tr_XL.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">4.5</elementInformation>
+        <elementInformation name="width" show="1">295</elementInformation>
+        <elementInformation name="height" show="1">216</elementInformation>
+        <elementInformation name="depth" show="1">103</elementInformation>
+    </elementInformations>
+    <informations>Viri: SmartSolar MPPT 150/70 up to 250/100 VE.Can manual (EN) str. 8, 11, 13, 15, 17-19, 31; Datasheet SmartSolar MPPT 150/70 up to 150/100 VE.Can str. 2; Datasheet SmartSolar MPPT 250/70 up to 250/100 VE.Can str. 2; Dimension drawing Tr VE.Can (XL) str. 1; Victron produktna stran (SKU podatki)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="560" height="320" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="270" y1="0" x2="270" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="273" y="21.84" text="PV+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="290" y1="0" x2="290" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="293" y="21.84" text="PV-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="262" y="2" width="36" height="32.84" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="262" y1="22.84" x2="298" y2="22.84" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="280" y1="2" x2="280" y2="22.84" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="275.05" y="31.84" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="280" y1="320" x2="280" y2="330" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="283" y="317" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="272" y="290.1" width="16" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="272" y1="302.1" x2="288" y2="302.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="275.05" y="299.1" text="PE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="52" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="70" x2="32" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.58" y="63" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="90" x2="32" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="80" x2="-10" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="83" text="BAT+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="83" text="Baterija +, 35 mm²" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="100" x2="-10" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="103" text="BAT-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="103" text="Baterija -, 35 mm²" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="498" y="52" width="60" height="76" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="498" y1="70" x2="558" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="520.58" y="63" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="498" y1="90" x2="558" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="498" y1="110" x2="558" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="498" y="132" width="60" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="498" y1="150" x2="558" y2="150" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="513.16" y="143" text="REMOTE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="498" y1="170" x2="558" y2="170" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="498" y="192" width="60" height="76" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="498" y1="210" x2="558" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="518.1" y="203" text="RELE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="498" y1="230" x2="558" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="498" y1="250" x2="558" y2="250" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="560" y1="80" x2="570" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="502" y="83" text="VE.Direct" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="401.29" y="83" text="VE.Direct vtičnica (D)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="560" y1="100" x2="570" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="502" y="103" text="VE.Can-1" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="368.31" y="103" text="RJ45 VE.Can (veriga, terminat…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="560" y1="120" x2="570" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="502" y="123" text="VE.Can-2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="446.65" y="123" text="RJ45 VE.Can" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="560" y1="160" x2="570" y2="160" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="502" y="163" text="REMOTE-L" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="368.31" y="163" text="remote on/off L (vleči na BAT…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="560" y1="180" x2="570" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="502" y="183" text="REMOTE-H" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="368.31" y="183" text="remote on/off H (&gt; 2,9 V do V…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="560" y1="220" x2="570" y2="220" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="502" y="223" text="RELE-NO" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="380.68" y="223" text="programabilni rele, delovni" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="560" y1="240" x2="570" y2="240" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="502" y="243" text="RELE-C" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="384.8" y="243" text="programabilni rele, skupni" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="560" y1="260" x2="570" y2="260" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="502" y="263" text="RELE-NC" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="380.68" y="263" text="programabilni rele, mirovni" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="189.62" y="149" text="Victron Energy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="123.99" y="163" text="SmartSolar MPPT 150/85-Tr VE.Can (SCC115085411)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="225.42" y="177" text="1 MPPT" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="118.21" y="44" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f55ee475-65f1-59db-a720-c5e9b02d4d1b}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="118.21" y="57" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{6d0cd68f-04d3-53a1-b47e-1d30f316cbd4}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{01a9b1da-4fc9-5bd2-b177-ea9189419ca5}" x="270" y="-10" orientation="n" type="Generic" name="PV:PV+" />
+        <terminal uuid="{9ac4179a-9a7a-5696-8161-50cbec2a1e35}" x="290" y="-10" orientation="n" type="Generic" name="PV:PV-" />
+        <terminal uuid="{869f9cd4-494f-51a9-9aa4-93e8d01680d6}" x="280" y="330" orientation="s" type="Generic" name="PE:PE" />
+        <terminal uuid="{818daae1-8bac-5dcc-aab3-2de8537e1131}" x="-10" y="80" orientation="w" type="Generic" name="BAT:BAT+" />
+        <terminal uuid="{362ee477-2cb5-5b05-a666-7ecc8d9465ab}" x="-10" y="100" orientation="w" type="Generic" name="BAT:BAT-" />
+        <terminal uuid="{2a3c4d5d-38ce-550f-96ef-807e51abcbdf}" x="570" y="80" orientation="e" type="Generic" name="COM:VE.Direct" />
+        <terminal uuid="{ecedac69-aee2-5e55-bb2a-8d57b0c0f37f}" x="570" y="100" orientation="e" type="Generic" name="COM:VE.Can-1" />
+        <terminal uuid="{add32907-ebb7-595c-8638-c3e03f2734d5}" x="570" y="120" orientation="e" type="Generic" name="COM:VE.Can-2" />
+        <terminal uuid="{20b88694-deda-55fe-8fb1-bddb75d67433}" x="570" y="160" orientation="e" type="Generic" name="REMOTE:REMOTE-L" />
+        <terminal uuid="{8ccd75f1-0565-5457-915e-e9c74f644524}" x="570" y="180" orientation="e" type="Generic" name="REMOTE:REMOTE-H" />
+        <terminal uuid="{829824c5-9662-5abe-a03a-79dd9356b706}" x="570" y="220" orientation="e" type="Generic" name="RELE:RELE-NO" />
+        <terminal uuid="{dd17d252-293a-5236-9a3d-3c9a2a0b1a37}" x="570" y="240" orientation="e" type="Generic" name="RELE:RELE-C" />
+        <terminal uuid="{1596648c-fd75-5284-b0df-a4234736324e}" x="570" y="260" orientation="e" type="Generic" name="RELE:RELE-NC" />
+    </description>
+</definition>

@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="170" height="230" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{5339ebeb-29f7-5077-a995-c2258798609f}" />
+    <names>
+        <name lang="en">Sigen Merilnik Energije TPX-CH (front view)</name>
+        <name lang="sl">Sigen Merilnik Energije TPX-CH (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">1426002200</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Merilnik Energije TPX-CH</elementInformation>
+        <elementInformation name="description" show="1">izdelal OEM CHINT DTSU666; števec; komunikacija: RS485 Modbus RTU, 9600 bps (sponki 24 A, 25 B)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - Sigen Power Sensor (for C&amp;I), V20260112 str. 2; Sigen PV (50–125)M1-HYB Series Installation Guide (COM: TP-CT300-DH, TP-CT600-DH, TPX-CH) str. 46-47 (pogl. 5.10.1); SigenStor Neo Home User Manual (seznam senzorjev: TPX-CH = DTSU666 3×230/400V 1.5(6)A) str. seznam modelov (Three-phase System); C&amp;I Sigen Inverter &amp; Sigen Battery ESS User Manual (seznam senzorjev) str. 25; SigenStor Installation Guide - Three-phase Low Voltage System (COM tabela s senzorji) str. 3 (seznam senzorjev), 26 (pogl. 5.4); CHINT DTSU666/DSSU666 User Manual ZTW0.464.0104 V1 (Oct 2023) – kopija uradnega PDF pri distributerju Klinkmann (izvedba 100A/40mA, 250A/50mA) str. 2, 13, 15 (tipi, mere, sponke 24/25)</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.35</elementInformation>
+        <elementInformation name="width" show="1">72</elementInformation>
+        <elementInformation name="height" show="1">100</elementInformation>
+        <elementInformation name="depth" show="1">65.5</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - Sigen Power Sensor (for C&amp;I), V20260112 str. 2; Sigen PV (50–125)M1-HYB Series Installation Guide (COM: TP-CT300-DH, TP-CT600-DH, TPX-CH) str. 46-47 (pogl. 5.10.1); SigenStor Neo Home User Manual (seznam senzorjev: TPX-CH = DTSU666 3×230/400V 1.5(6)A) str. seznam modelov (Three-phase System); C&amp;I Sigen Inverter &amp; Sigen Battery ESS User Manual (seznam senzorjev) str. 25; SigenStor Installation Guide - Three-phase Low Voltage System (COM tabela s senzorji) str. 3 (seznam senzorjev), 26 (pogl. 5.4); CHINT DTSU666/DSSU666 User Manual ZTW0.464.0104 V1 (Oct 2023) – kopija uradnega PDF pri distributerju Klinkmann (izvedba 100A/40mA, 250A/50mA) str. 2, 13, 15 (tipi, mere, sponke 24/25)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="144" height="200" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="138" height="194" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="23.16" y="75.32" text="Sigenergy" rotation="0" font="Liberation Sans,12,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="24.17" y="84.64" text="Sigen Sensor TPX-CH (DTSU666)" rotation="0" font="Liberation Sans,4,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{71f3e5ad-6b55-5f7f-abdf-4adb3f1fb4f6}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="450" height="790" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{9b6fbbab-e75c-50bc-a471-86c95f344cc5}" />
+    <names>
+        <name lang="en">Victron Phoenix Inverter C 12/1200 (front view)</name>
+        <name lang="sl">Victron Phoenix Inverter C 12/1200 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Phoenix Inverter Compact 12/1200 230V VE.Bus (CIN121220000)</elementInformation>
+        <elementInformation name="designation" show="1">Victron Phoenix Inverter C 12/1200</elementInformation>
+        <elementInformation name="description" show="1">razsmernik; komunikacija: 2x VE.Bus RJ45 (C), daljinsko stikalo H: 1 = charger only, 2 = srednja (GND), 3 = on, alarmni/programabilni rele E: 1 = NO, 2 = COM, 3 = NC, DIP stikala (A)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Inverter Compact 1200/1600 manual (EN) str. 7-9 (namestitev), 17 (tehnični podatki), 99-101 (Appendix A); Datasheet Phoenix Inverter 1200VA-5000VA str. 2; Dimension drawing Inverter Compact 12/24V 1200-1600VA str. 1; Quick Install Guide Compact Phoenix Inverter 1200-1600VA; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_phoenix_c_1200/inverter_compact_1200_1600VA.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">10</elementInformation>
+        <elementInformation name="width" show="1">214</elementInformation>
+        <elementInformation name="height" show="1">375.6</elementInformation>
+        <elementInformation name="depth" show="1">110.5</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Inverter Compact 1200/1600 manual (EN) str. 7-9 (namestitev), 17 (tehnični podatki), 99-101 (Appendix A); Datasheet Phoenix Inverter 1200VA-5000VA str. 2; Dimension drawing Inverter Compact 12/24V 1200-1600VA str. 1; Quick Install Guide Compact Phoenix Inverter 1200-1600VA; Victron produktna stran (SKU podatki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="428" height="751.2" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="422" height="745.2" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="734.2" width="422" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="143.91" y="745.7" text="BAT · AC_OUT · PE" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="68.39" y="274.23" text="Victron Energy" rotation="0" font="Liberation Sans,23,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="68.05" y="286.21" text="Phoenix Inverter Compact 12/1200 230V VE.Bus (CIN121220000)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e7faeb98-cb71-50f0-9270-6ced84683a5b}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

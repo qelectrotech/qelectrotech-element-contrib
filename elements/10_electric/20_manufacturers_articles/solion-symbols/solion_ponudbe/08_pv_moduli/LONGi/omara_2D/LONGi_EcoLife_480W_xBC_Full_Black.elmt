@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="2290" height="3630" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{0845f619-066a-53a9-a61f-773bb42d6cce}" />
+    <names>
+        <name lang="en">LONGi EcoLife 480W xBC Full Black (front view)</name>
+        <name lang="sl">LONGi EcoLife 480W xBC Full Black (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">LONGi</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">LR7-54HVBB-480M</elementInformation>
+        <elementInformation name="designation" show="1">LONGi EcoLife 480W xBC Full Black</elementInformation>
+        <elementInformation name="description" show="1">PV modul</elementInformation>
+        <elementInformation name="notes" show="1">Viri: LONGi LR7-54HVBB 470~485M datasheet BGV02 20250427-EN – kopija pri prodajalcu solarmagazine.nl str. 1–2; Opomba v seznamu ponudb (komponente_iz_ponudb.json) str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">23.5</elementInformation>
+        <elementInformation name="width" show="1">1134</elementInformation>
+        <elementInformation name="height" show="1">1800</elementInformation>
+        <elementInformation name="depth" show="1">30</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: LONGi LR7-54HVBB 470~485M datasheet BGV02 20250427-EN – kopija pri prodajalcu solarmagazine.nl str. 1–2; Opomba v seznamu ponudb (komponente_iz_ponudb.json) str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="2268" height="3600" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="2262" height="3594" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="1079.74" y="1260" text="LONGi" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="985.57" y="1295.92" text="LR7-54HVBB-480M" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{dffe9083-85d8-5d6f-9413-bcc758415521}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

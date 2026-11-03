@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1060" height="1350" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{40660a83-6800-5f05-98f4-4074148dbed3}" />
+    <names>
+        <name lang="en">GoodWe GW25K-ET (front view)</name>
+        <name lang="sl">GoodWe GW25K-ET (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">GoodWe</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">GW25K-ET</elementInformation>
+        <elementInformation name="designation" show="1">GoodWe GW25K-ET</elementInformation>
+        <elementInformation name="description" show="1">hibridni razsmernik; 3 MPPT, nizov na MPPT [2, 2, 2], U_dc max 1000 V, MPPT [200, 850] V, I max [30, 30, 30] A; baterija [200, 800] V; komunikacija: CAN (BMS1, BMS2), RS485 (METER), RS485 (EMS / polnilnica), CAN/BUS (paralela), DRED / RCR / EnWG 14a, Remote Shutdown / NS (DI), DO (LOAD / SG Ready), DO2/GEN, 12 V napajanje, WiFi + LAN + Bluetooth</elementInformation>
+        <elementInformation name="notes" show="1">Viri: GoodWe ET 15-30kW Series Datasheet (Single page 20241203 V2.1) str. 2; GoodWe ET 15-30kW User Manual V2.2 2026-09-15 str. 34-35 (komponente), 127-133 (odklopniki, kabli), 141-146 (BAT1/BAT2, BMS pini), 169-172 (COM)</elementInformation>
+        <elementInformation name="mass_kg" show="1">54</elementInformation>
+        <elementInformation name="width" show="1">520</elementInformation>
+        <elementInformation name="height" show="1">660</elementInformation>
+        <elementInformation name="depth" show="1">220</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: GoodWe ET 15-30kW Series Datasheet (Single page 20241203 V2.1) str. 2; GoodWe ET 15-30kW User Manual V2.2 2026-09-15 str. 34-35 (komponente), 127-133 (odklopniki, kabli), 141-146 (BAT1/BAT2, BMS pini), 169-172 (COM)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1040" height="1320" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1034" height="1314" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="454.88" y="462" text="GoodWe" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="440.84" y="497.92" text="GW25K-ET" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{ccef704c-69fd-5a14-bf3f-a3f2b050e189}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

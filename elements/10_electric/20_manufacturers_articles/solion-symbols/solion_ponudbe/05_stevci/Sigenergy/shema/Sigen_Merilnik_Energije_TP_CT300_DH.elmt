@@ -1,0 +1,153 @@
+<definition version="0.200" type="element" link_type="simple" width="630" height="240" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{12376410-64b0-56d5-b57e-7a7fb0162bb2}" />
+    <names>
+        <name lang="en">Sigen Merilnik Energije TP CT300 DH</name>
+        <name lang="sl">Sigen Merilnik Energije TP CT300 DH</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">1426000200</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Merilnik Energije TP CT300 DH</elementInformation>
+        <elementInformation name="description" show="1">izdelal OEM Eastron SDM630MCT 40mA; števec; komunikacija: RS485 Modbus RTU (sponke 12 GND, 13 B, 14 A)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3); SigenStor Home Installation Guide - Three-phase System A1, V12 2026-08-17 (v ZIP) str. 1-8 (sistem, kabli), 12-16 (vgradnja BAT), 5.5.1 (COM); SigenStor Installation Guide - Three-phase Low Voltage System (COM tabela s senzorji) str. 3 (seznam senzorjev), 26 (pogl. 5.4); Sigen EV AC Charger Installation Guide, V05 2025-07-17 (v ZIP) str. 1-2 (zunanjost), 3-4 (MCB, kabli), 10-16 (priključki); C&amp;I Sigen Inverter &amp; Sigen Battery ESS User Manual (seznam senzorjev) str. 25; Eastron SDM630MCT 40mA User Manual V3.6 (kopija uradnega PDF na deyeinverter.com) str. 21-24 (specifikacije, mere, ožičenje 3P4W)</elementInformation>
+        <elementInformation name="width" show="1">72</elementInformation>
+        <elementInformation name="height" show="1">94.5</elementInformation>
+        <elementInformation name="depth" show="1">65</elementInformation>
+    </elementInformations>
+    <informations>Viri: Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3); SigenStor Home Installation Guide - Three-phase System A1, V12 2026-08-17 (v ZIP) str. 1-8 (sistem, kabli), 12-16 (vgradnja BAT), 5.5.1 (COM); SigenStor Installation Guide - Three-phase Low Voltage System (COM tabela s senzorji) str. 3 (seznam senzorjev), 26 (pogl. 5.4); Sigen EV AC Charger Installation Guide, V05 2025-07-17 (v ZIP) str. 1-2 (zunanjost), 3-4 (MCB, kabli), 10-16 (priključki); C&amp;I Sigen Inverter &amp; Sigen Battery ESS User Manual (seznam senzorjev) str. 25; Eastron SDM630MCT 40mA User Manual V3.6 (kopija uradnega PDF na deyeinverter.com) str. 21-24 (specifikacije, mere, ožičenje 3P4W)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="580" height="200" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="210" y1="200" x2="210" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="213" y="197" text="L1" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="212" y="207" text="4" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="230" y1="200" x2="230" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="233" y="197" text="L2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="232" y="207" text="3" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="250" y1="200" x2="250" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="253" y="197" text="L3" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="252" y="207" text="2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="270" y1="200" x2="270" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="273" y="197" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="272" y="207" text="1" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="310" y1="200" x2="310" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="313" y="197" text="L" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="312" y="207" text="5" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="330" y1="200" x2="330" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="333" y="197" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="332" y="207" text="6" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="350" y1="200" x2="350" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="353" y="197" text="L" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="352" y="207" text="7" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="370" y1="200" x2="370" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="373" y="197" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="372" y="207" text="8" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="202" y="170.1" width="76" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="202" y1="182.1" x2="278" y2="182.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="220" y1="182.1" x2="220" y2="198" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="240" y1="182.1" x2="240" y2="198" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="260" y1="182.1" x2="260" y2="198" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="237.53" y="179.1" text="U" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="302" y="170.1" width="76" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="302" y1="182.1" x2="378" y2="182.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="320" y1="182.1" x2="320" y2="198" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="340" y1="182.1" x2="340" y2="198" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="360" y1="182.1" x2="360" y2="198" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="332.58" y="179.1" text="AUX" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="12" width="40" height="136" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="42" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.63" y="23" text="RS485" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="42" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="70" x2="42" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="90" x2="42" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="110" x2="42" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="130" x2="42" y2="130" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="-10.25" y="38" text="14" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="43" text="RS485 A+ (razsmernik 485_A2…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="-10.25" y="58" text="13" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="63" text="RS485 B- (razsmernik 485_B2…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="80" x2="-10" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="83" text="GND" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="-10.25" y="78" text="12" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="83" text="RS485 GND" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="100" x2="-10" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="103" text="S0-1+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="-7" y="98" text="9" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="103" text="Impulzni izhod 1 +" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="120" x2="-10" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="123" text="S0-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="-10.25" y="118" text="10" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="123" text="Impulzni izhod -" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="140" x2="-10" y2="140" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="143" text="S0-2+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="-10.25" y="138" text="11" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="143" text="Impulzni izhod 2 +" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="528" y="12" width="50" height="136" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="528" y1="30" x2="578" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="548.05" y="23" text="CT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="528" y1="50" x2="578" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="528" y1="70" x2="578" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="528" y1="90" x2="578" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="528" y1="110" x2="578" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="528" y1="130" x2="578" y2="130" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="580" y1="40" x2="590" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="532" y="43" text="I1 (19)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="581" y="38" text="19" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="410.68" y="43" text="Tokovni vhod L1 (par 19/20)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="580" y1="60" x2="590" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="532" y="63" text="I1 (20)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="581" y="58" text="20" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="410.68" y="63" text="Tokovni vhod L1 (par 19/20)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="580" y1="80" x2="590" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="532" y="83" text="I2 (17)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="581" y="78" text="17" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="410.68" y="83" text="Tokovni vhod L2 (par 17/18)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="580" y1="100" x2="590" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="532" y="103" text="I2 (18)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="581" y="98" text="18" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="410.68" y="103" text="Tokovni vhod L2 (par 17/18)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="580" y1="120" x2="590" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="532" y="123" text="I3 (15)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="581" y="118" text="15" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="410.68" y="123" text="Tokovni vhod L3 (par 15/16)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="580" y1="140" x2="590" y2="140" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="532" y="143" text="I3 (16)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="581" y="138" text="16" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="410.68" y="143" text="Tokovni vhod L3 (par 15/16)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="254.5" y="89" text="Sigenergy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="173.27" y="103" text="Sigen Sensor TP-CT300-DH (SDM630MCT 40mA/300A)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="282.11" y="117" text="3F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="169.44" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{ee0b2465-933f-57ed-977b-515351598698}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="169.44" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{bb925c80-0110-5e59-8b22-7a2c0f49951e}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{d8237fdf-a373-5907-b469-e8a35af5c467}" x="210" y="210" orientation="s" type="Generic" name="U:4" />
+        <terminal uuid="{7b0eb510-a2e9-553a-93f7-f6323c1cf41d}" x="230" y="210" orientation="s" type="Generic" name="U:3" />
+        <terminal uuid="{732b88ae-d9e0-56ce-bd67-7caf33de56f3}" x="250" y="210" orientation="s" type="Generic" name="U:2" />
+        <terminal uuid="{1b73c4d1-a7cd-57ef-90dd-1401f3226e5a}" x="270" y="210" orientation="s" type="Generic" name="U:1" />
+        <terminal uuid="{8b74f7a0-d9f0-5869-91b7-66678416bcc6}" x="310" y="210" orientation="s" type="Generic" name="AUX:5" />
+        <terminal uuid="{426e009b-69d1-53c8-91ad-96d3bfa17702}" x="330" y="210" orientation="s" type="Generic" name="AUX:6" />
+        <terminal uuid="{9fef38ab-b9d4-5249-a194-587e32d97bc0}" x="350" y="210" orientation="s" type="Generic" name="AUX:7" />
+        <terminal uuid="{a157c4d8-e898-5110-8470-da23436c6ae5}" x="370" y="210" orientation="s" type="Generic" name="AUX:8" />
+        <terminal uuid="{cd3c3de7-e325-52a1-b8af-99cd44221c1f}" x="-10" y="40" orientation="w" type="Generic" name="RS485:14" />
+        <terminal uuid="{bd9436cd-6cec-5047-a922-af614bc8c047}" x="-10" y="60" orientation="w" type="Generic" name="RS485:13" />
+        <terminal uuid="{aa0f5cc7-0ee5-59b1-9531-f07c2d2badba}" x="-10" y="80" orientation="w" type="Generic" name="RS485:12" />
+        <terminal uuid="{b43538b0-6b27-5672-b5cf-77559269cd19}" x="-10" y="100" orientation="w" type="Generic" name="RS485:9" />
+        <terminal uuid="{9adf791c-77d5-576f-a313-af0db8764629}" x="-10" y="120" orientation="w" type="Generic" name="RS485:10" />
+        <terminal uuid="{f22211b7-f4b4-5dcf-8865-55acf9d9fba8}" x="-10" y="140" orientation="w" type="Generic" name="RS485:11" />
+        <terminal uuid="{fe880cb6-f0f9-5135-9d04-169a64d4ca5a}" x="590" y="40" orientation="e" type="Generic" name="CT:19" />
+        <terminal uuid="{15cdd6b2-c997-55d5-a5ed-9eb3b0067550}" x="590" y="60" orientation="e" type="Generic" name="CT:20" />
+        <terminal uuid="{7d605a23-80d5-56de-bd2b-dfa553fd86fd}" x="590" y="80" orientation="e" type="Generic" name="CT:17" />
+        <terminal uuid="{67eef71b-6218-5edc-88ab-7348e5509634}" x="590" y="100" orientation="e" type="Generic" name="CT:18" />
+        <terminal uuid="{4f9d6a7d-1eac-5110-938f-ec43a85f5075}" x="590" y="120" orientation="e" type="Generic" name="CT:15" />
+        <terminal uuid="{e9843fe8-4925-5bb2-bb07-f7087c1a0172}" x="590" y="140" orientation="e" type="Generic" name="CT:16" />
+    </description>
+</definition>

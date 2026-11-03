@@ -1,0 +1,40 @@
+<definition version="0.200" type="element" link_type="simple" width="320" height="160" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{2a63ff2b-8989-58ad-be4f-edfda16e70f3}" />
+    <names>
+        <name lang="en">SigenStor BAT 5.0</name>
+        <name lang="sl">SigenStor BAT 5.0</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11130002</elementInformation>
+        <elementInformation name="designation" show="1">SigenStor BAT 5.0</elementInformation>
+        <elementInformation name="description" show="1">baterija; komunikacija: preko vtičnega spoja v skladu do SigenStor EC / SigenStor BC</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - SigenStor BAT 5.0/8.0 (Sigenergy, 30. 4. 2025) str. 2; SigenStor Home Installation Guide - Three-phase System A1, V12 2026-08-17 (v ZIP) str. 1-8 (sistem, kabli), 12-16 (vgradnja BAT), 5.5.1 (COM); Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3)</elementInformation>
+        <elementInformation name="mass_kg" show="1">55</elementInformation>
+        <elementInformation name="width" show="1">767</elementInformation>
+        <elementInformation name="height" show="1">270</elementInformation>
+        <elementInformation name="depth" show="1">260</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - SigenStor BAT 5.0/8.0 (Sigenergy, 30. 4. 2025) str. 2; SigenStor Home Installation Guide - Three-phase System A1, V12 2026-08-17 (v ZIP) str. 1-8 (sistem, kabli), 12-16 (vgradnja BAT), 5.5.1 (COM); Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="270" height="120" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="2" y="12" width="40" height="36" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="42" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="14.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="SKLAD" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="43" text="Vtični (slepi) spoj v skladu…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="186.23" y="56" text="Sigenergy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="176.73" y="70" text="SigenStor BAT 5.0" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="173.57" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{9bf74c88-6034-51f4-80f8-1cdf2fd819cf}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="173.57" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{24ce5248-b3ed-5569-9a3a-387d58165b9f}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{07749cf3-900f-5a56-805c-c31f2c23de8d}" x="-10" y="40" orientation="w" type="Generic" name="BAT:SKLAD" />
+    </description>
+</definition>

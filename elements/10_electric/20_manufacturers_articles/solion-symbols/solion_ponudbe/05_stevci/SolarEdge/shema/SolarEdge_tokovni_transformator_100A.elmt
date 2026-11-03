@@ -1,0 +1,55 @@
+<definition version="0.200" type="element" link_type="simple" width="310" height="210" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{c5560264-d23d-5ea9-a771-d95878d5731e}" />
+    <names>
+        <name lang="en">SolarEdge tokovni transformator 100A</name>
+        <name lang="sl">SolarEdge tokovni transformator 100A</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESECT-SPL-100A-A</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge tokovni transformator 100A</elementInformation>
+        <elementInformation name="description" show="1">tokovni transformator</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Energy Meter with Modbus Connection SE-MTR-3Y-400V-A - datasheet, DS-00002-1.0-ENG, 07/2021 (tabela CT, risbe 'Current Transformer Dimensions', opomba 'All CT twisted pair lead wire length are 2.4 meters', CT Inputs 333 mV); kopija uradnega SolarEdge dokumenta (vir: shop.krannich-solar.com, na strani artiklov SECT-SPL-250A-A in -1000A-A objavljen kot 'Datasheet') str. 2; Energy Meter with Modbus Connection - Quick Installation Guide, MAN-01-00754-1.0, julij 2020 (vezava CT: črna/bela pika, 'Point arrow to grid'); kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 1 (B); Krannich Solar - stran artikla Split core CT 100A SECT-SPL-100A-A (mase brez embalaže 0,100 kg; mere 31 x 44 x 20 mm) - PODATEK PRODAJALCA str. tehnični podatki; Krannich Solar - stran artikla Split core CT 250A SECT-SPL-250A-A (masa brez embalaže 0,220 kg; mere 65 x 46 x 41 mm) - PODATEK PRODAJALCA str. tehnični podatki; Krannich Solar - stran artikla SECT-SPL-1000A-A (masa brez embalaže 0,680 kg; mere 125 x 120 x 20 mm) - PODATEK PRODAJALCA str. tehnični podatki</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.1</elementInformation>
+        <elementInformation name="width" show="1">31</elementInformation>
+        <elementInformation name="height" show="1">44</elementInformation>
+        <elementInformation name="depth" show="1">28.8</elementInformation>
+    </elementInformations>
+    <informations>Viri: Energy Meter with Modbus Connection SE-MTR-3Y-400V-A - datasheet, DS-00002-1.0-ENG, 07/2021 (tabela CT, risbe 'Current Transformer Dimensions', opomba 'All CT twisted pair lead wire length are 2.4 meters', CT Inputs 333 mV); kopija uradnega SolarEdge dokumenta (vir: shop.krannich-solar.com, na strani artiklov SECT-SPL-250A-A in -1000A-A objavljen kot 'Datasheet') str. 2; Energy Meter with Modbus Connection - Quick Installation Guide, MAN-01-00754-1.0, julij 2020 (vezava CT: črna/bela pika, 'Point arrow to grid'); kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 1 (B); Krannich Solar - stran artikla Split core CT 100A SECT-SPL-100A-A (mase brez embalaže 0,100 kg; mere 31 x 44 x 20 mm) - PODATEK PRODAJALCA str. tehnični podatki; Krannich Solar - stran artikla Split core CT 250A SECT-SPL-250A-A (masa brez embalaže 0,220 kg; mere 65 x 46 x 41 mm) - PODATEK PRODAJALCA str. tehnični podatki; Krannich Solar - stran artikla SECT-SPL-1000A-A (masa brez embalaže 0,680 kg; mere 125 x 120 x 20 mm) - PODATEK PRODAJALCA str. tehnični podatki
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="260" height="170" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="120" y1="170" x2="120" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="167" text="OMR" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="140" y1="170" x2="140" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="143" y="167" text="BREME" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="112" y="125.26" width="36" height="42.74" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="112" y1="137.26" x2="148" y2="137.26" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="130" y1="137.26" x2="130" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="120.1" y="134.26" text="PRIM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="228" y="12" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="228" y1="30" x2="258" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="235.58" y="23" text="SEK" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="228" y1="50" x2="258" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="260" y1="40" x2="270" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="43" text="WH" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="98.31" y="43" text="Bel vodnik - na belo piko vho…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="260" y1="60" x2="270" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="63" text="BK" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="98.31" y="63" text="Črn vodnik - na črno piko vho…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="16.6" y="81" text="SolarEdge" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="12.05" y="95" text="SECT-SPL-100A-A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{46cb56f2-7720-5204-94dc-0fb04eb02467}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{d7240554-ced0-5f95-aaa9-eb22d28cad6e}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{39066560-0d04-54ac-820d-b209f429b1b7}" x="120" y="180" orientation="s" type="Generic" name="PRIM:OMR" />
+        <terminal uuid="{907e5c5e-3672-5265-af4d-23acafb728ce}" x="140" y="180" orientation="s" type="Generic" name="PRIM:BREME" />
+        <terminal uuid="{fbb47627-25a5-5fd1-a3be-6257b6b77b44}" x="270" y="40" orientation="e" type="Generic" name="SEK:WH" />
+        <terminal uuid="{203b156f-f7c0-5b5d-b023-a930d7cccb9f}" x="270" y="60" orientation="e" type="Generic" name="SEK:BK" />
+    </description>
+</definition>

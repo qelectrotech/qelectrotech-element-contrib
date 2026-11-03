@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="2320" height="4930" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{3fd89957-c715-5321-8208-92429c1e132a}" />
+    <names>
+        <name lang="en">Sungrow powerstack st225kwh 110kw-2h (front view)</name>
+        <name lang="sl">Sungrow powerstack st225kwh 110kw-2h (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sungrow</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">ST225kWh-110kW-2h</elementInformation>
+        <elementInformation name="designation" show="1">Sungrow powerstack st225kwh 110kw-2h</elementInformation>
+        <elementInformation name="description" show="1">baterija; baterija [691.2, 934.4] V; komunikacija: NET2 / NET3 – Ethernet (CAT6A S/FTP) med omarami in do omrežja kupca; NET1 = PCS (notranje); NET4 rezerva, CONN1 / CONN2 – sponke za suhe kontakte, EMS RS485, vzporedno PCS, FSS, Modbus TCP</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Sungrow ST225kWh-110kW-2h Datasheet V3 EN (APAC&amp;EUR) str. 2; ST225kWh-110kW-2h IEC User Manual Ver31 (2025-02) str. tiskane 8–17 (zgradba), 45–63 (električna vezava); PDF str. 20 (mere), 56 (vezalna shema), 68 (AC sponke), 70–72 (CONN, NET); Sungrow produktna stran B-ST225kWh-110kW-2H str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">3100</elementInformation>
+        <elementInformation name="width" show="1">1150</elementInformation>
+        <elementInformation name="height" show="1">2450</elementInformation>
+        <elementInformation name="depth" show="1">1610</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Sungrow ST225kWh-110kW-2h Datasheet V3 EN (APAC&amp;EUR) str. 2; ST225kWh-110kW-2h IEC User Manual Ver31 (2025-02) str. tiskane 8–17 (zgradba), 45–63 (električna vezava); PDF str. 20 (mere), 56 (vezalna shema), 68 (AC sponke), 70–72 (CONN, NET); Sungrow produktna stran B-ST225kWh-110kW-2H str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="2300" height="4900" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="2294" height="4894" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="1074.03" y="1715" text="Sungrow" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="981.78" y="1750.92" text="ST225kWh-110kW-2h" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{44faed26-2c4a-5e37-828f-2e05287b8c2c}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

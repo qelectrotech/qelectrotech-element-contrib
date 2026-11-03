@@ -1,0 +1,28 @@
+<definition version="0.100.0" type="element" link_type="terminal" width="20" height="20" hotspot_x="10" hotspot_y="10">
+    <uuid uuid="{02790403-1d96-4bb4-81ac-b83831bfdc88}" />
+    <names>
+        <name lang="en">Terminal block (horizontal)</name>
+        <name lang="fr">Borne continuité (horizontal)</name>
+        <name lang="sl">Sponka (vodoravno)</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">generic</kindInformation>
+        <kindInformation name="function">generic</kindInformation>
+    </kindInformations>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <line x1="10" y1="0" x2="3" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-10" y1="0" x2="-3" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <ellipse x="-2.5" y="-2.5" width="5" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" />
+        <terminal uuid="{450b4120-8022-4794-a065-0e9fd13c8a55}" name="1" x="-10" y="0" orientation="w" type="Generic" />
+        <terminal uuid="{e8cf76a1-d34d-4f99-ae17-5121dd38ae36}" name="2" x="10" y="0" orientation="e" type="Generic" />
+        <dynamic_text x="-8" y="-32.5" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f6457f24-099a-4284-be2e-c371e8b7ac8b}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-8" y="-19.5" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{b07a0705-fbef-4ede-829d-e8f6140ad5d3}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+    </description>
+</definition>

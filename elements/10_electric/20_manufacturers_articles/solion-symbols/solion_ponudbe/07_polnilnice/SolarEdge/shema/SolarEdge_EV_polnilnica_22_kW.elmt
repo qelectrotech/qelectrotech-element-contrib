@@ -1,0 +1,100 @@
+<definition version="0.200" type="element" link_type="simple" width="300" height="260" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{83b61d5a-2d66-57f2-91ef-f656bbe4171d}" />
+    <names>
+        <name lang="en">SolarEdge EV polnilnica 22 kW</name>
+        <name lang="sl">SolarEdge EV polnilnica 22 kW</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE-EVK22C00-01</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge EV polnilnica 22 kW</elementInformation>
+        <elementInformation name="description" show="1">polnilnica EV; komunikacija: Ethernet1 X4 - LSA+ sponke (10/100 Mbit/s), Ethernet2 X3 - RJ45 (vzporedno z X4, ne hkrati; v IM 'for debug'), WLAN/Wi-Fi IEEE 802.11 b/g/n 2,4 GHz (AP in client), OCPP (SolarEdge prednastavljen), RFID MIFARE ISO 14443 / ISO 15693 (samo SE-EVK22CRM-01), USB-A 2.0 (500 mA), povezava z razsmernikom prek SetApp &gt; Device Manager (do 3 polnilnice na lokacijo, FW razsmernika ≥ 4.21)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge EV Charger For Europe - datasheet, DS-000191-EU, 17. 6. 2024 (naročilne kode SE-EVK22C00-01, SE-EVK22CRM-01); kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2 (vse specifikacije, mere 643/495 x 240 x 142, 7,8/5 kg, AC sponke, komunikacija, naročilne kode); SolarEdge EV Charger for Europe - datasheet, DS-000105-ENG, 19. 6. 2022; kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2 (primerjava, enaki podatki); SolarEdge Home EV Charger - Installation Manual V 1.00a (© SolarEdge Technologies, © KEBA 2021); kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.pl) str. tiskane str. 26 (sl. 7-15 pregled priključkov 1 2 3 N PE, X1-X4, Shd, USB), 27-30 (napajanje, RCD, vzmetne sponke L1 L2 L3 N PE), 32 (X1, X2 'This function is not available'), 33-34 (Ethernet X3/X4, pini 1-4 Tx+/Tx-/Rx+/Rx-), 35-37 (DIP), 48-50 (tehnični podatki), 51-52 (sl. 13-19/13-20 mere); PDF stran = tiskana + 1; SolarEdge EV Charger Quick Installation Guide, Version 1.7, avgust 2023; kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 1 (D2: vrstni red sponk L1 L2 L3 N PE), 2 (E: Ethernet X3 RJ45 ali X4 LSA+; F: DIP DSW1.6-1.8, DSW1.3 ON, privzeto 16 A)</elementInformation>
+        <elementInformation name="mass_kg" show="1">7.8</elementInformation>
+        <elementInformation name="width" show="1">240</elementInformation>
+        <elementInformation name="height" show="1">643</elementInformation>
+        <elementInformation name="depth" show="1">142</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge EV Charger For Europe - datasheet, DS-000191-EU, 17. 6. 2024 (naročilne kode SE-EVK22C00-01, SE-EVK22CRM-01); kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2 (vse specifikacije, mere 643/495 x 240 x 142, 7,8/5 kg, AC sponke, komunikacija, naročilne kode); SolarEdge EV Charger for Europe - datasheet, DS-000105-ENG, 19. 6. 2022; kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2 (primerjava, enaki podatki); SolarEdge Home EV Charger - Installation Manual V 1.00a (© SolarEdge Technologies, © KEBA 2021); kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.pl) str. tiskane str. 26 (sl. 7-15 pregled priključkov 1 2 3 N PE, X1-X4, Shd, USB), 27-30 (napajanje, RCD, vzmetne sponke L1 L2 L3 N PE), 32 (X1, X2 'This function is not available'), 33-34 (Ethernet X3/X4, pini 1-4 Tx+/Tx-/Rx+/Rx-), 35-37 (DIP), 48-50 (tehnični podatki), 51-52 (sl. 13-19/13-20 mere); PDF stran = tiskana + 1; SolarEdge EV Charger Quick Installation Guide, Version 1.7, avgust 2023; kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 1 (D2: vrstni red sponk L1 L2 L3 N PE), 2 (E: Ethernet X3 RJ45 ali X4 LSA+; F: DIP DSW1.6-1.8, DSW1.3 ON, privzeto 16 A)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="250" height="220" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="80" y1="220" x2="80" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="83" y="217" text="L1" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="82" y="227" text="1" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="100" y1="220" x2="100" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="103" y="217" text="L2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="102" y="227" text="2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="120" y1="220" x2="120" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="217" text="L3" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="122" y="227" text="3" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="140" y1="220" x2="140" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="143" y="217" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="160" y1="220" x2="160" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="163" y="217" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="72" y="190.1" width="96" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="72" y1="202.1" x2="168" y2="202.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="90" y1="202.1" x2="90" y2="218" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="110" y1="202.1" x2="110" y2="218" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="130" y1="202.1" x2="130" y2="218" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="150" y1="202.1" x2="150" y2="218" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="115.05" y="199.1" text="AC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="218" y="12" width="30" height="156" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="218" y1="30" x2="248" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="225.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="218" y1="50" x2="248" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="218" y1="70" x2="248" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="218" y1="90" x2="248" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="218" y1="110" x2="248" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="218" y1="130" x2="248" y2="130" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="218" y1="150" x2="248" y2="150" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="250" y1="40" x2="260" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="222" y="43" text="Tx+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="251" y="38" text="1" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="104.8" y="43" text="X4 Ethernet1 (LSA+), pin 1" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="250" y1="60" x2="260" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="222" y="63" text="Tx-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="251" y="58" text="2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="104.8" y="63" text="X4 Ethernet1 (LSA+), pin 2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="250" y1="80" x2="260" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="222" y="83" text="Rx+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="251" y="78" text="3" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="104.8" y="83" text="X4 Ethernet1 (LSA+), pin 3" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="250" y1="100" x2="260" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="222" y="103" text="Rx-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="251" y="98" text="4" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="104.8" y="103" text="X4 Ethernet1 (LSA+), pin 4" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="250" y1="120" x2="260" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="222" y="123" text="Shd" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="88.31" y="123" text="Sponka za oklop (ozemljitev z…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="250" y1="140" x2="260" y2="140" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="222" y="143" text="X3" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="88.31" y="143" text="Ethernet2 RJ45 (vzporedno z X…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="250" y1="160" x2="260" y2="160" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="222" y="163" text="USB" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="174.89" y="163" text="USB-A 2.0" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="11.6" y="99" text="SolarEdge" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="9.52" y="113" text="SE-EVK22C00-01" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="19.42" y="127" text="22 kW · 3F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{544650a4-f996-58ce-8a12-e05f3718a62f}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{00a0cae1-a39e-5d13-9204-b3e2fb67d881}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{4f590d3c-6b7c-5314-997f-c83bbfb9aff8}" x="80" y="230" orientation="s" type="Generic" name="AC:1" />
+        <terminal uuid="{9c312bc8-6401-5bb6-9f73-9f285c095022}" x="100" y="230" orientation="s" type="Generic" name="AC:2" />
+        <terminal uuid="{72767954-a69e-516e-8759-70fc08916744}" x="120" y="230" orientation="s" type="Generic" name="AC:3" />
+        <terminal uuid="{e4f09c74-5a28-5b5b-b326-9527c3a97a67}" x="140" y="230" orientation="s" type="Generic" name="AC:N" />
+        <terminal uuid="{c4fde00a-2491-54a4-b773-de4b86261a25}" x="160" y="230" orientation="s" type="Generic" name="AC:PE" />
+        <terminal uuid="{a63b0294-7fe0-59fc-85e4-48ea921d461a}" x="260" y="40" orientation="e" type="Generic" name="COM:1" />
+        <terminal uuid="{07621619-1158-5077-b786-43db3f87c7ee}" x="260" y="60" orientation="e" type="Generic" name="COM:2" />
+        <terminal uuid="{b490095d-bcab-5ded-b65a-4b42d018aa2a}" x="260" y="80" orientation="e" type="Generic" name="COM:3" />
+        <terminal uuid="{8df7cfd6-724f-5d62-b850-e3bc287a2fb9}" x="260" y="100" orientation="e" type="Generic" name="COM:4" />
+        <terminal uuid="{ec338508-ef61-5528-8a23-62b137c478cb}" x="260" y="120" orientation="e" type="Generic" name="COM:Shd" />
+        <terminal uuid="{46e039ea-d4ea-51b6-bdce-3850c044afe5}" x="260" y="140" orientation="e" type="Generic" name="COM:X3" />
+        <terminal uuid="{76eae308-60f5-56cd-9d9b-18710e117d01}" x="260" y="160" orientation="e" type="Generic" name="COM:USB" />
+    </description>
+</definition>

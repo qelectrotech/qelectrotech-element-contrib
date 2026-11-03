@@ -1,0 +1,54 @@
+<definition version="0.200" type="element" link_type="simple" width="140" height="260" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{00555128-aece-51e3-aef2-43df94c1a0ad}" />
+    <names>
+        <name lang="en">Tigo TS4-X-O</name>
+        <name lang="sl">Tigo TS4-X-O</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Tigo Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">TS4-X-O</elementInformation>
+        <elementInformation name="designation" show="1">Tigo TS4-X-O</elementInformation>
+        <elementInformation name="description" show="1">optimizator; 1 MPPT, nizov na MPPT -, U_dc max 80 V, MPPT [12, 80] V, I max [20] A</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Tigo TS4-X-O Datasheet 002-00203-00 Rev 1.1 (20250429) EN str. 1–2; Tigo TS4-X-O Datasheet SL (slovenski) str. 1–2; Tigo IOM TS4-X &amp; TS4 (725W) w TAP CCA and MFRS 002-00240-00 Rev 1.1 str. vgradnja TS4 (kabli vhod/izhod); Tigo QSG TS4-X 002-00097-00 Rev 1.2 str. -; Tigo produktna stran TS4-X-O str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.52</elementInformation>
+        <elementInformation name="width" show="1">138.4</elementInformation>
+        <elementInformation name="height" show="1">139.7</elementInformation>
+        <elementInformation name="depth" show="1">22.9</elementInformation>
+    </elementInformations>
+    <informations>Viri: Tigo TS4-X-O Datasheet 002-00203-00 Rev 1.1 (20250429) EN str. 1–2; Tigo TS4-X-O Datasheet SL (slovenski) str. 1–2; Tigo IOM TS4-X &amp; TS4 (725W) w TAP CCA and MFRS 002-00240-00 Rev 1.1 str. vgradnja TS4 (kabli vhod/izhod); Tigo QSG TS4-X 002-00097-00 Rev 1.2 str. -; Tigo produktna stran TS4-X-O str. -
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="90" height="220" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="40" y1="0" x2="40" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="43" y="21.84" text="IN+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="60" y1="0" x2="60" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="63" y="21.84" text="IN-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="32" y="2" width="36" height="32.84" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="32" y1="22.84" x2="68" y2="22.84" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="50" y1="2" x2="50" y2="22.84" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="45.05" y="31.84" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="40" y1="220" x2="40" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="43" y="217" text="OUT+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="60" y1="220" x2="60" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="63" y="217" text="OUT-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="32" y="180.21" width="36" height="37.79" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="32" y1="192.21" x2="68" y2="192.21" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="50" y1="192.21" x2="50" y2="218" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="42.58" y="189.21" text="OUT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="5.21" y="99" text="Tigo Energy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="27.68" y="113" text="TS4-X-O" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="30.16" y="127" text="1 MPPT" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="44" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{d9e9a7ae-b404-5c97-8a57-c66da8cd4e2e}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="57" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{3f432708-539e-5fd2-a19f-01596fb516fc}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{f3466632-fc17-5f55-a857-f3be35fc747f}" x="40" y="-10" orientation="n" type="Generic" name="PV:IN+" />
+        <terminal uuid="{e56438ed-408d-5364-8724-ebaf83baa6fe}" x="60" y="-10" orientation="n" type="Generic" name="PV:IN-" />
+        <terminal uuid="{a02ab16e-c84e-581c-9197-bf4dbfb0f36d}" x="40" y="230" orientation="s" type="Generic" name="OUT:OUT+" />
+        <terminal uuid="{b60d7733-6228-5740-9165-24fec8f706d6}" x="60" y="230" orientation="s" type="Generic" name="OUT:OUT-" />
+    </description>
+</definition>

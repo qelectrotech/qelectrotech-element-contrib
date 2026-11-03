@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="330" height="240" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{92f7c4cd-3f58-541a-9bc3-f8c5e5ee7f94}" />
+    <names>
+        <name lang="en">Victron AGM Deep Cycle 12V/14Ah (front view)</name>
+        <name lang="sl">Victron AGM Deep Cycle 12V/14Ah (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">14Ah 12V BAT212120086</elementInformation>
+        <elementInformation name="designation" show="1">Victron AGM Deep Cycle 12V/14Ah</elementInformation>
+        <elementInformation name="description" show="1">baterija</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet Gel and AGM batteries str. 4 (tabela 12 V Deep Cycle AGM); Victron produktna stran (SKU podatki: priključki, mere, masa); 2D risbe mer str. 1</elementInformation>
+        <elementInformation name="mass_kg" show="1">4.4</elementInformation>
+        <elementInformation name="width" show="1">151</elementInformation>
+        <elementInformation name="height" show="1">101</elementInformation>
+        <elementInformation name="depth" show="1">98</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet Gel and AGM batteries str. 4 (tabela 12 V Deep Cycle AGM); Victron produktna stran (SKU podatki: priključki, mere, masa); 2D risbe mer str. 1
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="302" height="202" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="296" height="196" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="3" width="296" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="138.63" y="14.5" text="BAT" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="49.71" y="73.36" text="Victron Energy" rotation="0" font="Liberation Sans,16,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="47.1" y="93.32" text="14Ah 12V BAT212120086" rotation="0" font="Liberation Sans,12,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{1cbe731b-159d-571f-9bee-e7ef35eb08d1}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

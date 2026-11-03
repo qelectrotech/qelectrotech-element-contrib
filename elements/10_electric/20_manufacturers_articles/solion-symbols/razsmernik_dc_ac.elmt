@@ -1,0 +1,32 @@
+<definition version="0.100.0" type="element" link_type="simple" width="70" height="80" hotspot_x="30" hotspot_y="40">
+    <uuid uuid="{fc71fcea-80ff-4734-b0bb-83ba906f6355}" />
+    <names>
+        <name lang="de">Wechselrichter DC/AC (einpolig)</name>
+        <name lang="en">Inverter DC/AC (single line)</name>
+        <name lang="fr">Onduleur DC/AC (unifilaire)</name>
+        <name lang="sl">Razsmernik DC/AC (enopolno)</name>
+    </names>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <rect x="-30" y="-30" width="60" height="60" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-30" y1="30" x2="30" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-22" y1="-18" x2="-8" y2="-18" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-22" y1="-13" x2="-8" y2="-13" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <arc x="8" y="14" width="8" height="5" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <arc x="16" y="14" width="8" height="5" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="0" y1="-40" x2="0" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="0" y1="30" x2="0" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="30" y1="0" x2="40" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <dynamic_text x="36" y="-42" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{a2ea2fdb-6c34-4981-ab94-7b3b4546e71e}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="36" y="-29" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{ba6d8a2f-bda3-47b6-9e48-5343bfa4ca38}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{a21831ef-c5fd-4c32-a9e3-a73312173335}" name="DC" x="0" y="-40" orientation="n" type="Generic" />
+        <terminal uuid="{78d69d1d-f9f9-4b64-b180-896020f9c9ac}" name="BAT" x="40" y="0" orientation="e" type="Generic" />
+        <terminal uuid="{0f8d05f6-a83f-4d52-8559-1adce5cd43bb}" name="AC" x="0" y="40" orientation="s" type="Generic" />
+    </description>
+</definition>

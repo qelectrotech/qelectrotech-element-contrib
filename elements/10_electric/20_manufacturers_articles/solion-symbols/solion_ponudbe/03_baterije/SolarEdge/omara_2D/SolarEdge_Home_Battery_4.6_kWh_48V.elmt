@@ -1,0 +1,32 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1100" height="1030" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{d8786bff-6eeb-5a1b-8c70-6b8ccc3bdf5c}" />
+    <names>
+        <name lang="en">SolarEdge Home Battery 4.6 kWh 48V (front view)</name>
+        <name lang="sl">SolarEdge Home Battery 4.6 kWh 48V (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLEBAT-05K48M0B-02</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Home Battery 4.6 kWh 48V</elementInformation>
+        <elementInformation name="description" show="1">baterija; baterija [44.8, 56.5] V; komunikacija: CAN bus do razsmernika (RJ45 'Inverter', samo zgornji modul), RS485 med moduli (2x RJ45 'COMM')</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Home Battery 48V for Europe BAT-05K48 - datasheet, DS-000141-EU, 17. 2. 2025 (velja za BAT-05K48M0B-01 in -02); kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. 2; SolarEdge Home Battery 48V Installation Guide, For Europe and APAC, MAN-01-00954-1.2, verzija 1.2; kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. tiskane strani (PDF stran = tiskana + 1): 7-8 (kabel 35 mm2, dodatki), 8-9 (konfiguracije stolpov), 11-12 (odmiki, mere), 13-14 (Figure 3 opis priključkov), 17 (max 3 v stolpu), 19-24 (priključitev), 27-28 (več modulov, Figure 21)</elementInformation>
+        <elementInformation name="mass_kg" show="1">54.7</elementInformation>
+        <elementInformation name="width" show="1">540</elementInformation>
+        <elementInformation name="height" show="1">500</elementInformation>
+        <elementInformation name="depth" show="1">240</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Home Battery 48V for Europe BAT-05K48 - datasheet, DS-000141-EU, 17. 2. 2025 (velja za BAT-05K48M0B-01 in -02); kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. 2; SolarEdge Home Battery 48V Installation Guide, For Europe and APAC, MAN-01-00954-1.2, verzija 1.2; kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. tiskane strani (PDF stran = tiskana + 1): 7-8 (kabel 35 mm2, dodatki), 8-9 (konfiguracije stolpov), 11-12 (odmiki, mere), 13-14 (Figure 3 opis priključkov), 17 (max 3 v stolpu), 19-24 (priključitev), 27-28 (več modulov, Figure 21)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1080" height="1000" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1074" height="994" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="3" width="14" height="994" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="442.32" y="350" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="391.57" y="385.92" text="BAT-05K48M0B-02" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{2809bf30-1c0b-56d1-bf74-6351be6d1a42}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

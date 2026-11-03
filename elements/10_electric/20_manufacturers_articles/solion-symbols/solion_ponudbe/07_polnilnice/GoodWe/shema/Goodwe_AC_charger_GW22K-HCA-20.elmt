@@ -1,0 +1,84 @@
+<definition version="0.200" type="element" link_type="simple" width="330" height="210" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{39595199-053b-5de8-83af-fbbf04f3339b}" />
+    <names>
+        <name lang="en">Goodwe AC charger GW22K-HCA-20</name>
+        <name lang="sl">Goodwe AC charger GW22K-HCA-20</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">GoodWe</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">GW22K-HCA-20</elementInformation>
+        <elementInformation name="designation" show="1">Goodwe AC charger GW22K-HCA-20</elementInformation>
+        <elementInformation name="description" show="1">polnilnica EV; komunikacija: RS485 ×2 (razsmernik / MID števec), LAN, WiFi, Bluetooth, Modbus TCP, RFID, aplikacija, auto-start</elementInformation>
+        <elementInformation name="notes" show="1">Viri: GoodWe HCA G2 Series Datasheet (global EN) str. 2; GoodWe HCA G2 Series Datasheet EMEA (20250306 V1.1) str. 2; GoodWe HCA G2 (GW7K/11K/22K-HCA-20) User Manual (EN) str. 13-17 (opis, blokovna shema), 21-25 (zunanjost), 43-50 (električna vezava), 90-92 (tehn. podatki); GoodWe HCA G2 – Inverter Compatibility and Communication Wiring str. 11-15</elementInformation>
+        <elementInformation name="mass_kg" show="1">7.1</elementInformation>
+        <elementInformation name="width" show="1">208</elementInformation>
+        <elementInformation name="height" show="1">450</elementInformation>
+        <elementInformation name="depth" show="1">170</elementInformation>
+    </elementInformations>
+    <informations>Viri: GoodWe HCA G2 Series Datasheet (global EN) str. 2; GoodWe HCA G2 Series Datasheet EMEA (20250306 V1.1) str. 2; GoodWe HCA G2 (GW7K/11K/22K-HCA-20) User Manual (EN) str. 13-17 (opis, blokovna shema), 21-25 (zunanjost), 43-50 (električna vezava), 90-92 (tehn. podatki); GoodWe HCA G2 – Inverter Compatibility and Communication Wiring str. 11-15
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="280" height="170" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="80" y1="170" x2="80" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="83" y="167" text="L1" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="100" y1="170" x2="100" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="103" y="167" text="L2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="120" y1="170" x2="120" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="167" text="L3" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="140" y1="170" x2="140" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="143" y="167" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="160" y1="170" x2="160" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="163" y="167" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="200" y1="170" x2="200" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="203" y="167" text="T2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="72" y="140.1" width="96" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="72" y1="152.1" x2="168" y2="152.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="90" y1="152.1" x2="90" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="110" y1="152.1" x2="110" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="130" y1="152.1" x2="130" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="150" y1="152.1" x2="150" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="115.05" y="149.1" text="AC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="192" y="140.1" width="16" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="192" y1="152.1" x2="208" y2="152.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="195.05" y="149.1" text="EV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="208" y="12" width="70" height="96" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="208" y1="30" x2="278" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="235.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="208" y1="50" x2="278" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="208" y1="70" x2="278" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="208" y1="90" x2="278" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="280" y1="40" x2="290" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="212" y="43" text="RS485_A1" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="78.31" y="43" text="RS485 A1 do razsmernika GoodWe" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="60" x2="290" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="212" y="63" text="RS485_B1" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="78.31" y="63" text="RS485 B1 do razsmernika GoodWe" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="80" x2="290" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="212" y="83" text="RS485 (MID)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="78.31" y="83" text="Drugi RS485 – MID števec (opc…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="100" x2="290" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="212" y="103" text="LAN" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="94.8" y="103" text="Ethernet do usmerjevalnika" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="17.45" y="74" text="GoodWe" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="9.47" y="88" text="GW22K-HCA-20" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="14.42" y="102" text="22 kW · 3F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{19b55e32-7e8d-52d9-9ace-8f3a6be665f7}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{af9339c6-d62d-5c72-825a-f00d5cfa1c3c}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{cf85438d-82e2-56fb-bb51-05a2c38897e4}" x="80" y="180" orientation="s" type="Generic" name="AC:L1" />
+        <terminal uuid="{418cc86f-199a-52e5-892d-c5e9e4067d66}" x="100" y="180" orientation="s" type="Generic" name="AC:L2" />
+        <terminal uuid="{649cb2c3-88d0-518a-bf68-6d82f943d17c}" x="120" y="180" orientation="s" type="Generic" name="AC:L3" />
+        <terminal uuid="{cc24dd69-2d16-5128-88b1-e79b271c5318}" x="140" y="180" orientation="s" type="Generic" name="AC:N" />
+        <terminal uuid="{7bfbfbed-4744-5090-a075-3753bcd89bfb}" x="160" y="180" orientation="s" type="Generic" name="AC:PE" />
+        <terminal uuid="{1eafde52-e900-50da-8d37-def2742fbe7c}" x="200" y="180" orientation="s" type="Generic" name="EV:T2" />
+        <terminal uuid="{6ec5ff93-c4c8-5b5e-9104-7049e8a470d4}" x="290" y="40" orientation="e" type="Generic" name="COM:RS485_A1" />
+        <terminal uuid="{88fe5d1d-7dab-5455-8564-95b87052bdfa}" x="290" y="60" orientation="e" type="Generic" name="COM:RS485_B1" />
+        <terminal uuid="{452533b0-c01d-5194-97cc-5053a5fb6451}" x="290" y="80" orientation="e" type="Generic" name="COM:RS485 (MID)" />
+        <terminal uuid="{b76af797-fadf-5dba-81f6-704caa8495ab}" x="290" y="100" orientation="e" type="Generic" name="COM:LAN" />
+    </description>
+</definition>

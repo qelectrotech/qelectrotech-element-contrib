@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="680" height="930" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{a58fa28d-fc38-569e-8b8f-5e863deba20f}" />
+    <names>
+        <name lang="en">Victron Quattro 24/5000/120-100/100 (front view)</name>
+        <name lang="sl">Victron Quattro 24/5000/120-100/100 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Quattro 24/5000/120-100/100 230V VE.Bus (QUA245021010)</elementInformation>
+        <elementInformation name="designation" show="1">Victron Quattro 24/5000/120-100/100</elementInformation>
+        <elementInformation name="description" show="1">razsmernik-polnilnik; komunikacija: 2x VE.Bus RJ45 (B), daljinsko stikalo H (3-polno), alarmni rele I: NC, NO, COM, sponke E (od leve): V-SENSE, T-SENSE, AUX1, AUX2, GND-relay, TRICKLE+, K1, K2, 3 programabilni releji, 2 programabilna vhoda</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Quattro 5k-15k 100/100A 230V manual (EN) str. 12-13 (namestitev), 26 (tehnični podatki), 171 in 173 (Appendix A, 5-10 kVA); Datasheet Quattro 3kVA-15kVA str. 2; Dimension drawing str. 1; Enclosure dimensions wall mounting plate str. 1; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_quattro_24_5k/multiplus_quattro_24V_48V_5000VA.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">30</elementInformation>
+        <elementInformation name="width" show="1">328</elementInformation>
+        <elementInformation name="height" show="1">447</elementInformation>
+        <elementInformation name="depth" show="1">241</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Quattro 5k-15k 100/100A 230V manual (EN) str. 12-13 (namestitev), 26 (tehnični podatki), 171 in 173 (Appendix A, 5-10 kVA); Datasheet Quattro 3kVA-15kVA str. 2; Dimension drawing str. 1; Enclosure dimensions wall mounting plate str. 1; Victron produktna stran (SKU podatki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="656" height="894" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="650" height="888" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="176.06" y="322.21" text="Victron Energy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="105.36" y="339.51" text="Quattro 24/5000/120-100/100 230V VE.Bus (QUA245021010)" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e747d408-6c36-5bcd-9e2e-0e20e182bbe1}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

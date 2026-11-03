@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="500" height="1320" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{06c968cd-7d6b-5b26-9a72-63280bc0c492}" />
+    <names>
+        <name lang="en">SolarEdge EV polnilnica 22 kW RFID (front view)</name>
+        <name lang="sl">SolarEdge EV polnilnica 22 kW RFID (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE-EVK22CRM-01</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge EV polnilnica 22 kW RFID</elementInformation>
+        <elementInformation name="description" show="1">polnilnica EV; komunikacija: Ethernet1 X4 - LSA+ sponke (10/100 Mbit/s), Ethernet2 X3 - RJ45 (vzporedno z X4, ne hkrati; v IM 'for debug'), WLAN/Wi-Fi IEEE 802.11 b/g/n 2,4 GHz (AP in client), OCPP (SolarEdge prednastavljen), RFID MIFARE ISO 14443 / ISO 15693 (samo SE-EVK22CRM-01), USB-A 2.0 (500 mA), povezava z razsmernikom prek SetApp &gt; Device Manager (do 3 polnilnice na lokacijo, FW razsmernika ≥ 4.21)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge EV Charger For Europe - datasheet, DS-000191-EU, 17. 6. 2024 (naročilne kode SE-EVK22C00-01, SE-EVK22CRM-01); kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2 (vse specifikacije, mere 643/495 x 240 x 142, 7,8/5 kg, AC sponke, komunikacija, naročilne kode); SolarEdge EV Charger for Europe - datasheet, DS-000105-ENG, 19. 6. 2022; kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2 (primerjava, enaki podatki); SolarEdge Home EV Charger - Installation Manual V 1.00a (© SolarEdge Technologies, © KEBA 2021); kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.pl) str. tiskane str. 26 (sl. 7-15 pregled priključkov 1 2 3 N PE, X1-X4, Shd, USB), 27-30 (napajanje, RCD, vzmetne sponke L1 L2 L3 N PE), 32 (X1, X2 'This function is not available'), 33-34 (Ethernet X3/X4, pini 1-4 Tx+/Tx-/Rx+/Rx-), 35-37 (DIP), 48-50 (tehnični podatki), 51-52 (sl. 13-19/13-20 mere); PDF stran = tiskana + 1; SolarEdge EV Charger Quick Installation Guide, Version 1.7, avgust 2023; kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 1 (D2: vrstni red sponk L1 L2 L3 N PE), 2 (E: Ethernet X3 RJ45 ali X4 LSA+; F: DIP DSW1.6-1.8, DSW1.3 ON, privzeto 16 A)</elementInformation>
+        <elementInformation name="mass_kg" show="1">7.8</elementInformation>
+        <elementInformation name="width" show="1">240</elementInformation>
+        <elementInformation name="height" show="1">643</elementInformation>
+        <elementInformation name="depth" show="1">142</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge EV Charger For Europe - datasheet, DS-000191-EU, 17. 6. 2024 (naročilne kode SE-EVK22C00-01, SE-EVK22CRM-01); kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2 (vse specifikacije, mere 643/495 x 240 x 142, 7,8/5 kg, AC sponke, komunikacija, naročilne kode); SolarEdge EV Charger for Europe - datasheet, DS-000105-ENG, 19. 6. 2022; kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2 (primerjava, enaki podatki); SolarEdge Home EV Charger - Installation Manual V 1.00a (© SolarEdge Technologies, © KEBA 2021); kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.pl) str. tiskane str. 26 (sl. 7-15 pregled priključkov 1 2 3 N PE, X1-X4, Shd, USB), 27-30 (napajanje, RCD, vzmetne sponke L1 L2 L3 N PE), 32 (X1, X2 'This function is not available'), 33-34 (Ethernet X3/X4, pini 1-4 Tx+/Tx-/Rx+/Rx-), 35-37 (DIP), 48-50 (tehnični podatki), 51-52 (sl. 13-19/13-20 mere); PDF stran = tiskana + 1; SolarEdge EV Charger Quick Installation Guide, Version 1.7, avgust 2023; kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. 1 (D2: vrstni red sponk L1 L2 L3 N PE), 2 (E: Ethernet X3 RJ45 ali X4 LSA+; F: DIP DSW1.6-1.8, DSW1.3 ON, privzeto 16 A)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="480" height="1286" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="474" height="1280" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="142.32" y="450.1" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="101.47" y="486.02" text="SE-EVK22CRM-01" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{a7e8890e-4f6b-54f9-8ee5-91eeacae3283}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

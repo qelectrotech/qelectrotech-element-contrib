@@ -1,0 +1,57 @@
+<definition version="0.200" type="element" link_type="simple" width="590" height="160" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{e98d4a4e-1340-5c07-b8a5-f59579f385d7}" />
+    <names>
+        <name lang="en">Victron LiFePO4 12,8V/200Ah Smart</name>
+        <name lang="sl">Victron LiFePO4 12,8V/200Ah Smart</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">LiFePO4 Battery 12,8V/200Ah Smart (BAT512120610)</elementInformation>
+        <elementInformation name="designation" show="1">Victron LiFePO4 12,8V/200Ah Smart</elementInformation>
+        <elementInformation name="description" show="1">baterija; komunikacija: BMS kabla 50 cm z M8 krožnim konektorjem (moški 3-polni + ženski 3-polni), veriženje do BMS, Bluetooth (v bateriji)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet 12,8 &amp; 25,6 V LiFePO4 batteries Smart str. 2; Lithium Battery Smart manual (EN) str. 17 (BMS kabla), 19 (privijanje); Victron produktna stran (SKU podatki); 2D risbe mer str. 1 · 3D (STEP): cad/victron_lifepo4_smart/lfp_12V160_200Ah_a_smart.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">20</elementInformation>
+        <elementInformation name="width" show="1">321</elementInformation>
+        <elementInformation name="height" show="1">237</elementInformation>
+        <elementInformation name="depth" show="1">152</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet 12,8 &amp; 25,6 V LiFePO4 batteries Smart str. 2; Lithium Battery Smart manual (EN) str. 17 (BMS kabla), 19 (privijanje); Victron produktna stran (SKU podatki); 2D risbe mer str. 1
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="540" height="120" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="2" y="12" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="32" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="32" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="BAT+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="43" text="pozitivni pol" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="BAT-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="63" text="negativni pol" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="478" y="12" width="60" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="478" y1="30" x2="538" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="500.58" y="23" text="BMS" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="478" y1="50" x2="538" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="540" y1="40" x2="550" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="482" y="43" text="BMS-male" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="348.31" y="43" text="BMS kabel 50 cm, moški 3-poln…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="540" y1="60" x2="550" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="482" y="63" text="BMS-female" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="348.31" y="63" text="BMS kabel 50 cm, ženski 3-pol…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="169.31" y="56" text="Victron Energy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="101.21" y="70" text="LiFePO4 Battery 12,8V/200Ah Smart (BAT512120610)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="97.6" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{3b4b4877-650e-5d25-b318-45568b038960}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="97.6" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{5fa2a3fe-01ea-540b-8866-4eece717d615}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{d455e569-e73d-541e-a402-63155c29df2d}" x="-10" y="40" orientation="w" type="Generic" name="BAT:BAT+" />
+        <terminal uuid="{dae6b8e3-6e51-5af0-8e87-c26f84faa80a}" x="-10" y="60" orientation="w" type="Generic" name="BAT:BAT-" />
+        <terminal uuid="{29dfad5a-829e-5d83-b558-871c73b239b5}" x="550" y="40" orientation="e" type="Generic" name="BMS:BMS-male" />
+        <terminal uuid="{bf5c6604-6de5-5228-9922-8082cb3afd54}" x="550" y="60" orientation="e" type="Generic" name="BMS:BMS-female" />
+    </description>
+</definition>

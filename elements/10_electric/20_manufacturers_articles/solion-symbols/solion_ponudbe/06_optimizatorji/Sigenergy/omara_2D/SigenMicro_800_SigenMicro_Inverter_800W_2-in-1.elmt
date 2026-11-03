@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="490" height="410" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{6a01e570-170b-5f55-9767-6cf37f97fc3f}" />
+    <names>
+        <name lang="en">SigenMicro 800; SigenMicro Inverter 800W 2-in-1 (front view)</name>
+        <name lang="sl">SigenMicro 800; SigenMicro Inverter 800W 2-in-1 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11100007</elementInformation>
+        <elementInformation name="designation" show="1">SigenMicro 800; SigenMicro Inverter 800W 2-in-1</elementInformation>
+        <elementInformation name="description" show="1">mikrorazsmernik; 2 MPPT, nizov na MPPT [1, 1], U_dc max 60 V, MPPT [16, 60] V, I max [16, 16] A; komunikacija: WLAN Mesh (antena)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - SigenMicro Inverter (V20260305) str. 2; SigenMicro (400-1000) Photovoltaic Micro Inverter Installer Manual str. 15 (vrata), 20-24 (montaža, AC vodilo, DC)</elementInformation>
+        <elementInformation name="mass_kg" show="1">2.8</elementInformation>
+        <elementInformation name="width" show="1">232</elementInformation>
+        <elementInformation name="height" show="1">186</elementInformation>
+        <elementInformation name="depth" show="1">35</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - SigenMicro Inverter (V20260305) str. 2; SigenMicro (400-1000) Photovoltaic Micro Inverter Installer Manual str. 15 (vrata), 20-24 (montaža, AC vodilo, DC)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="464" height="372" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="458" height="366" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="134.32" y="130.2" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="93.47" y="166.12" text="SigenMicro 800" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{380f61e5-ba10-536b-8dcb-4ae6607e4724}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

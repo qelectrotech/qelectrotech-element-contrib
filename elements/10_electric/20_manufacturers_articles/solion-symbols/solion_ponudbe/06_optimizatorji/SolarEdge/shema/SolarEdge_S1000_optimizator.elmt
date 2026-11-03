@@ -1,0 +1,54 @@
+<definition version="0.200" type="element" link_type="simple" width="140" height="290" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{bfe5b263-c153-57e7-bfd7-07644710929f}" />
+    <names>
+        <name lang="en">SolarEdge S1000 optimizator</name>
+        <name lang="sl">SolarEdge S1000 optimizator</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLES1000-1GM4MBT</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge S1000 optimizator</elementInformation>
+        <elementInformation name="description" show="1">optimizator; 1 MPPT, nizov na MPPT -, U_dc max 125 V, MPPT [12.5, 105] V, I max [15] A</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Power Optimizer For Europe S1000 / S1200 – datasheet DS-000105-EU, 25. 3. 2025 – kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 2 (električni in mehanski podatki, risba), 3 (dolžine nizov S1000); SolarEdge Leistungsoptimierer für Europa S1000 / S1200 – datasheet DS-000105-EU, maj 2025 (DE) – kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.de) str. 2 (nazivna vhodna moč 1100 W), 3 (dolžine nizov); SolarEdge Power Optimizer S1000 / S1200 – datasheet DS-000122-ROW, 2. 3. 2024 – kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2 (1000 W, Isc 15 A, izhodni kabel opcija 1 4,7 m / opcija 2 2,7 m), 3 (dolžine nizov); Prodajalec aceflex.de – 'POWER OPTIMIZER S1000 LANDSCAPE, SHORT', S1000-1GM4MBT: CABLE IN 0,1 / 0,1 m, OUT 4,7 / 0,1 m, 129 × 165 × 52 mm, 1,064 kg (samo za razvozlanje izvedbe kode) str. -; Prodajalec BayWa r.e. – 'SolarEdge Power Optimizer S1000 (Outp. 4,8m, Input 0,1m) (S1000-1GM4MBT)', 16,5 × 12,9 × 5,2 cm, 1,06 kg (samo potrditev kode) str. -; SolarEdge Installation Guide MAN-01-00057-3.3 (Europe) in Power Optimizers Installation Guide MAN-01-00112-1.2 – kopiji uradnih SolarEdge dokumentov (vir: portal.segen.co.uk, gridalternatives.org) str. MAN-01-00057: 12–13; MAN-01-00112: 13–14 (montaža, imena konektorjev, ozemljitev)</elementInformation>
+        <elementInformation name="mass_kg" show="1">1.064</elementInformation>
+        <elementInformation name="width" show="1">129</elementInformation>
+        <elementInformation name="height" show="1">165</elementInformation>
+        <elementInformation name="depth" show="1">52</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Power Optimizer For Europe S1000 / S1200 – datasheet DS-000105-EU, 25. 3. 2025 – kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 2 (električni in mehanski podatki, risba), 3 (dolžine nizov S1000); SolarEdge Leistungsoptimierer für Europa S1000 / S1200 – datasheet DS-000105-EU, maj 2025 (DE) – kopija uradnega SolarEdge dokumenta (vir: solar-distribution.baywa-re.de) str. 2 (nazivna vhodna moč 1100 W), 3 (dolžine nizov); SolarEdge Power Optimizer S1000 / S1200 – datasheet DS-000122-ROW, 2. 3. 2024 – kopija uradnega SolarEdge dokumenta (vir: shop.solexis.ch) str. 2 (1000 W, Isc 15 A, izhodni kabel opcija 1 4,7 m / opcija 2 2,7 m), 3 (dolžine nizov); Prodajalec aceflex.de – 'POWER OPTIMIZER S1000 LANDSCAPE, SHORT', S1000-1GM4MBT: CABLE IN 0,1 / 0,1 m, OUT 4,7 / 0,1 m, 129 × 165 × 52 mm, 1,064 kg (samo za razvozlanje izvedbe kode) str. -; Prodajalec BayWa r.e. – 'SolarEdge Power Optimizer S1000 (Outp. 4,8m, Input 0,1m) (S1000-1GM4MBT)', 16,5 × 12,9 × 5,2 cm, 1,06 kg (samo potrditev kode) str. -; SolarEdge Installation Guide MAN-01-00057-3.3 (Europe) in Power Optimizers Installation Guide MAN-01-00112-1.2 – kopiji uradnih SolarEdge dokumentov (vir: portal.segen.co.uk, gridalternatives.org) str. MAN-01-00057: 12–13; MAN-01-00112: 13–14 (montaža, imena konektorjev, ozemljitev)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="90" height="250" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="40" y1="0" x2="40" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="43" y="36.69" text="Input+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="60" y1="0" x2="60" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="63" y="36.69" text="Input-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="32" y="2" width="36" height="47.69" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="32" y1="37.69" x2="68" y2="37.69" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="50" y1="2" x2="50" y2="37.69" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="45.05" y="46.69" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="40" y1="250" x2="40" y2="260" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="43" y="247" text="Output+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="60" y1="250" x2="60" y2="260" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="63" y="247" text="Output-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="32" y="195.37" width="36" height="52.63" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="32" y1="207.37" x2="68" y2="207.37" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="50" y1="207.37" x2="50" y2="248" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="42.58" y="204.37" text="OUT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="12.44" y="114" text="SolarEdge" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="12.84" y="128" text="S1000-1GM4MBT" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="30.16" y="142" text="1 MPPT" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="64" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{998daefb-5273-57cc-8c5a-6f6a65965ee7}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="77" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{733cf384-afbc-5c0d-99af-81c2c77c12d8}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{4788ca58-5821-5891-82c7-340be9ae8e98}" x="40" y="-10" orientation="n" type="Generic" name="PV:Input+" />
+        <terminal uuid="{558e81e0-9a3b-508b-8210-109e0dc80b40}" x="60" y="-10" orientation="n" type="Generic" name="PV:Input-" />
+        <terminal uuid="{a45c011b-dcaf-58ac-91c0-0eb860771644}" x="40" y="260" orientation="s" type="Generic" name="OUT:Output+" />
+        <terminal uuid="{7ffe30ca-ec84-5820-bf1d-d79ea4692ba1}" x="60" y="260" orientation="s" type="Generic" name="OUT:Output-" />
+    </description>
+</definition>

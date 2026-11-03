@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1200" height="2910" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{4daaa750-4dfc-5340-b288-8963ba82c64e}" />
+    <names>
+        <name lang="en">Dyness Tower Pro TP19 (front view)</name>
+        <name lang="sl">Dyness Tower Pro TP19 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Dyness</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Tower Pro TP19</elementInformation>
+        <elementInformation name="designation" show="1">Dyness Tower Pro TP19</elementInformation>
+        <elementInformation name="description" show="1">baterija; baterija glej artikel (168–648 V) V; komunikacija: RJ45 'Inverter CAN/RS485' (pin1 485_B, pin2 485_A, pin4 CANH, pin5 CANL), RJ45 Parallel 1# / Parallel 2# (CAN med stolpi, 120 Ω zaključni upor), WiFi (aplikacija Dyness, OTA)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Dyness Tower Pro datasheet (uradna stran, 2026) str. 2; Dyness Tower Pro datasheet V1.0-20241011 (lokalno) str. 2; Tower Pro ESS Unit User Manual EN (20260713) str. 7–12 (tabele 2-1…2-6), 15 (pini RJ45), 19–20 (pakiranje), 24–27 (vezava, vzporedno)</elementInformation>
+        <elementInformation name="mass_kg" show="1">231.0</elementInformation>
+        <elementInformation name="width" show="1">587</elementInformation>
+        <elementInformation name="height" show="1">1438</elementInformation>
+        <elementInformation name="depth" show="1">310</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Dyness Tower Pro datasheet (uradna stran, 2026) str. 2; Dyness Tower Pro datasheet V1.0-20241011 (lokalno) str. 2; Tower Pro ESS Unit User Manual EN (20260713) str. 7–12 (tabele 2-1…2-6), 15 (pini RJ45), 19–20 (pakiranje), 24–27 (vezava, vzporedno)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1174" height="2876" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1168" height="2870" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="521.88" y="1006.6" text="Dyness" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="448.47" y="1042.52" text="Tower Pro TP19" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{d3b3f88e-1cc4-58c6-aa2f-44cabdc2ef79}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

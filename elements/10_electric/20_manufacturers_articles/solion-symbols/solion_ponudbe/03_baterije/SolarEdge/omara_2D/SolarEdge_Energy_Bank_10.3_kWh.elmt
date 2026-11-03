@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1600" height="2390" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{f89953dc-72d0-5068-89f1-d975e312ce0b}" />
+    <names>
+        <name lang="en">SolarEdge Energy Bank 10.3 kWh (front view)</name>
+        <name lang="sl">SolarEdge Energy Bank 10.3 kWh (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLEBAT-10K1PS0B-02</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Energy Bank 10.3 kWh</elementInformation>
+        <elementInformation name="description" show="1">baterija; baterija [350, 450] V; komunikacija: SolarEdge Home Network (brezžično, plug-in in antena v razsmerniku), RS485 (G, A, B, En) - samo če Home Network ni mogoč</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Home Battery 400V For Europe BAT-10K1P - datasheet, DS-000164-EU, 9. 7. 2024 (stolpec BAT-10K1PS0B-x2); kopija uradnega SolarEdge dokumenta (vir: goodenergy.co.uk) str. 2; Energy Bank SolarEdge, Batteria da 10 kWh, per l'Europa BAT-10K1PS0B-01 - datasheet (IT), DS-000051-1.5-IT, 08/2021 (Energia totale 10300 Wh); kopija uradnega SolarEdge dokumenta (vir: files.rexel.it) str. 2; SolarEdge Home Battery 400V Installation and Operation Guide, Europe, v1.0, september 2022; kopija uradnega SolarEdge dokumenta (vir: res.cloudinary.com/gpceurope) str. 1 (koraki 1-6: montaža, MC4 DC+/DC-, ozemljitev 7,5 Nm, 121 kg, 50 m), 2 (varnost, 350-450 Vdc); Application Note: SolarEdge Energy Bank Connection and Configuration, v1.0 (RS485 konektor baterije G, A, B, En; DC 10 AWG); kopija uradnega SolarEdge dokumenta (vir: ressupply.com), Severna Amerika str. 1-2; SolarEdge Home Battery 400V Quick Installation Guide, v1.1, januar 2025, North America (za BAT-10K1PS0B-02; samo navzkrižna kontrola DC+/DC- in ozemljitve); kopija uradnega SolarEdge dokumenta (vir: ressupply.com) str. 1</elementInformation>
+        <elementInformation name="mass_kg" show="1">119</elementInformation>
+        <elementInformation name="width" show="1">790</elementInformation>
+        <elementInformation name="height" show="1">1179</elementInformation>
+        <elementInformation name="depth" show="1">250</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Home Battery 400V For Europe BAT-10K1P - datasheet, DS-000164-EU, 9. 7. 2024 (stolpec BAT-10K1PS0B-x2); kopija uradnega SolarEdge dokumenta (vir: goodenergy.co.uk) str. 2; Energy Bank SolarEdge, Batteria da 10 kWh, per l'Europa BAT-10K1PS0B-01 - datasheet (IT), DS-000051-1.5-IT, 08/2021 (Energia totale 10300 Wh); kopija uradnega SolarEdge dokumenta (vir: files.rexel.it) str. 2; SolarEdge Home Battery 400V Installation and Operation Guide, Europe, v1.0, september 2022; kopija uradnega SolarEdge dokumenta (vir: res.cloudinary.com/gpceurope) str. 1 (koraki 1-6: montaža, MC4 DC+/DC-, ozemljitev 7,5 Nm, 121 kg, 50 m), 2 (varnost, 350-450 Vdc); Application Note: SolarEdge Energy Bank Connection and Configuration, v1.0 (RS485 konektor baterije G, A, B, En; DC 10 AWG); kopija uradnega SolarEdge dokumenta (vir: ressupply.com), Severna Amerika str. 1-2; SolarEdge Home Battery 400V Quick Installation Guide, v1.1, januar 2025, North America (za BAT-10K1PS0B-02; samo navzkrižna kontrola DC+/DC- in ozemljitve); kopija uradnega SolarEdge dokumenta (vir: ressupply.com) str. 1
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1580" height="2358" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1574" height="2352" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="2341" width="1574" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="757.02" y="2352.5" text="BAT · PE" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="692.32" y="825.3" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="641.57" y="861.22" text="BAT-10K1PS0B-02" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f0be1979-0ed6-5aba-87ae-4282aacd74a2}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

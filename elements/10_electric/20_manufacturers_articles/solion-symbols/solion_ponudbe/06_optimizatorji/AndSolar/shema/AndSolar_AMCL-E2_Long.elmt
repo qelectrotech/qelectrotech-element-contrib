@@ -1,0 +1,60 @@
+<definition version="0.200" type="element" link_type="simple" width="260" height="260" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{a69b6546-56b0-55fd-b97d-cac49c24228b}" />
+    <names>
+        <name lang="en">AndSolar AMCL-E2 Long</name>
+        <name lang="sl">AndSolar AMCL-E2 Long</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">AndSolar</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">60-002102</elementInformation>
+        <elementInformation name="designation" show="1">AndSolar AMCL-E2 Long</elementInformation>
+        <elementInformation name="description" show="1">optimizator</elementInformation>
+        <elementInformation name="notes" show="1">Viri: AndSolar Smart Rapid Shutdown System AMCL &amp; ADCU User Manual V1.2-36B03 str. 8–9, 12–17, 24–25, 27–28; AndSolar AMCL Gen2 Brochure V3.1-36E18 (Product Parameters) str. 5; AMCL Physical Layout Template Usage Guide V5.1 str. 1–3; AndSolar – stran prenosov str. -</elementInformation>
+        <elementInformation name="width" show="1">103</elementInformation>
+        <elementInformation name="height" show="1">105</elementInformation>
+        <elementInformation name="depth" show="1">23</elementInformation>
+    </elementInformations>
+    <informations>Viri: AndSolar Smart Rapid Shutdown System AMCL &amp; ADCU User Manual V1.2-36B03 str. 8–9, 12–17, 24–25, 27–28; AndSolar AMCL Gen2 Brochure V3.1-36E18 (Product Parameters) str. 5; AMCL Physical Layout Template Usage Guide V5.1 str. 1–3; AndSolar – stran prenosov str. -
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="210" height="220" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="80" y1="0" x2="80" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="83" y="26.79" text="PV1+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="100" y1="0" x2="100" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="103" y="26.79" text="PV1-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="120" y1="0" x2="120" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="26.79" text="PV2+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="140" y1="0" x2="140" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="143" y="26.79" text="PV2-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="72" y="2" width="76" height="37.79" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="72" y1="27.79" x2="148" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="90" y1="2" x2="90" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="110" y1="2" x2="110" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="130" y1="2" x2="130" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="105.05" y="36.79" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="100" y1="220" x2="100" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="103" y="217" text="OUT+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="120" y1="220" x2="120" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="217" text="OUT-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="92" y="180.21" width="36" height="37.79" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="92" y1="192.21" x2="128" y2="192.21" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="110" y1="192.21" x2="110" y2="218" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="102.58" y="189.21" text="OUT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="76.06" y="106" text="AndSolar" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="8.52" y="120" text="AMCL-E2 (izvedba 'Long' – daljši kabli)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="54" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{34fe603f-e225-53d0-bb23-e7f1a8ce71b3}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="67" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f871bd9d-d4df-5c56-b29f-9e1fd4d9fe50}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{3db4caac-7621-59e1-ad3d-83b4cd2a3568}" x="80" y="-10" orientation="n" type="Generic" name="PV:PV1+" />
+        <terminal uuid="{459c6b2b-d57f-5298-99dc-877a6d9c3801}" x="100" y="-10" orientation="n" type="Generic" name="PV:PV1-" />
+        <terminal uuid="{0f9551d9-66dc-58b6-bd82-e98f5b2905fd}" x="120" y="-10" orientation="n" type="Generic" name="PV:PV2+" />
+        <terminal uuid="{58bea77b-0c96-5cdf-82d9-11d784a2951d}" x="140" y="-10" orientation="n" type="Generic" name="PV:PV2-" />
+        <terminal uuid="{7bef01e1-d05e-596c-af77-00856d627f98}" x="100" y="230" orientation="s" type="Generic" name="OUT:OUT+" />
+        <terminal uuid="{868fc1a6-1d7f-5a55-ac7c-3880617f33ea}" x="120" y="230" orientation="s" type="Generic" name="OUT:OUT-" />
+    </description>
+</definition>

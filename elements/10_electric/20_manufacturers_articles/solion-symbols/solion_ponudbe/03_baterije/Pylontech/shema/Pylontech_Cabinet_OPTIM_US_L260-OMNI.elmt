@@ -1,0 +1,78 @@
+<definition version="0.200" type="element" link_type="simple" width="430" height="210" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{1acc03ce-9a37-5e6b-ab91-d45868013251}" />
+    <names>
+        <name lang="en">Pylontech Cabinet OPTIM US L260-OMNI</name>
+        <name lang="sl">Pylontech Cabinet OPTIM US L260-OMNI</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Pylontech</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Optim US-A1-M7-B-125/261-EU-xx (L260-OMNI)</elementInformation>
+        <elementInformation name="designation" show="1">Pylontech Cabinet OPTIM US L260-OMNI</elementInformation>
+        <elementInformation name="description" show="1">baterija; baterija [702, 936] V; komunikacija: LEMS LAN2 – zunanji EMS (Modbus TCP, IP 192.168.11.100), LEMS LAN4 / LAN5 – vzporedni omari 1/2, LAN (debug) na sprednji strani omare, NET – opcijski modul za internet/oblak, zunanji protokol Modbus-TCP / Modbus-RTU</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Pylontech Utility, C&amp;I ESS Product Portfolio PY240603EN – stran L260-OMNI (kopija BayWa r.e.) str. 2 (v dokumentu str. 17–18); L260-OMNI 1000V All-in-one ESS Cabinet User Manual V2.4 20251027 (kopija BayWa r.e.) str. 5–6 (spec.), 9–15 (zgradba, LEMS), 22–24 (PCS), 49–55 (ozemljitev, AC, LEMS porti) – tiskane številke</elementInformation>
+        <elementInformation name="mass_kg" show="1">2900</elementInformation>
+        <elementInformation name="width" show="1">950</elementInformation>
+        <elementInformation name="height" show="1">2480</elementInformation>
+        <elementInformation name="depth" show="1">1300</elementInformation>
+    </elementInformations>
+    <informations>Viri: Pylontech Utility, C&amp;I ESS Product Portfolio PY240603EN – stran L260-OMNI (kopija BayWa r.e.) str. 2 (v dokumentu str. 17–18); L260-OMNI 1000V All-in-one ESS Cabinet User Manual V2.4 20251027 (kopija BayWa r.e.) str. 5–6 (spec.), 9–15 (zgradba, LEMS), 22–24 (PCS), 49–55 (ozemljitev, AC, LEMS porti) – tiskane številke
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="380" height="170" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="150" y1="170" x2="150" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="153" y="167" text="A" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="170" y1="170" x2="170" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="173" y="167" text="B" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="190" y1="170" x2="190" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="193" y="167" text="C" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="210" y1="170" x2="210" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="213" y="167" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="230" y1="170" x2="230" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="233" y="167" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="142" y="140.1" width="96" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="142" y1="152.1" x2="238" y2="152.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="160" y1="152.1" x2="160" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="180" y1="152.1" x2="180" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="200" y1="152.1" x2="200" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="220" y1="152.1" x2="220" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="180.1" y="149.1" text="GRID" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="348" y="12" width="30" height="96" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="348" y1="30" x2="378" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="355.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="348" y1="50" x2="378" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="348" y1="70" x2="378" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="348" y1="90" x2="378" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="380" y1="40" x2="390" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="352" y="43" text="LAN2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="247.17" y="43" text="Zunanji EMS, Modbus TCP" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="380" y1="60" x2="390" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="352" y="63" text="LAN4" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="271.91" y="63" text="Vzporedna omara 1" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="380" y1="80" x2="390" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="352" y="83" text="LAN5" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="271.91" y="83" text="Vzporedna omara 2" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="380" y1="100" x2="390" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="352" y="103" text="LAN" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="226.56" y="103" text="Servisni LAN na vratih omare" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="80.72" y="74" text="Pylontech" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="9.38" y="88" text="Optim US-A1-M7-B-125/261-EU-xx (L260-OMNI)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="86.07" y="102" text="125 kW · 3F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{11cd93db-2dc7-5a08-9a38-bb669bdd6f6a}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{2fde724e-ad0f-5c56-a6e4-72ef35f8ab53}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{b227ac3b-9c94-5a6c-8cd0-3e7241646ec5}" x="150" y="180" orientation="s" type="Generic" name="GRID:A" />
+        <terminal uuid="{3a50211d-006f-59ef-a3a1-5278ea1bbd6f}" x="170" y="180" orientation="s" type="Generic" name="GRID:B" />
+        <terminal uuid="{5b2ed3c9-9c02-53a6-a95a-f9593d149fb5}" x="190" y="180" orientation="s" type="Generic" name="GRID:C" />
+        <terminal uuid="{55062fe8-2d15-5fdb-b1ce-4d1820cfd440}" x="210" y="180" orientation="s" type="Generic" name="GRID:N" />
+        <terminal uuid="{07967705-9cb9-54f4-b632-e837652c5860}" x="230" y="180" orientation="s" type="Generic" name="GRID:PE" />
+        <terminal uuid="{9d90bbde-5b9b-53e8-8c54-366813018ab1}" x="390" y="40" orientation="e" type="Generic" name="COM:LAN2" />
+        <terminal uuid="{4c32e382-518a-5f79-aa27-8e70c1eb0cd9}" x="390" y="60" orientation="e" type="Generic" name="COM:LAN4" />
+        <terminal uuid="{09dad4d1-8a44-51f5-8c6e-916f8ecc4029}" x="390" y="80" orientation="e" type="Generic" name="COM:LAN5" />
+        <terminal uuid="{b73dd394-8a2b-5fc9-8142-218903333784}" x="390" y="100" orientation="e" type="Generic" name="COM:LAN" />
+    </description>
+</definition>

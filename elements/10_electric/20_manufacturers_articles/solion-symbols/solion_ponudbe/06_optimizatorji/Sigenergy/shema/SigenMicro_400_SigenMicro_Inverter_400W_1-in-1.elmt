@@ -1,0 +1,64 @@
+<definition version="0.200" type="element" link_type="simple" width="190" height="260" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{daedf7c9-d9a3-512d-8b31-8d859ac7971b}" />
+    <names>
+        <name lang="en">SigenMicro 400; SigenMicro Inverter 400W 1-in-1</name>
+        <name lang="sl">SigenMicro 400; SigenMicro Inverter 400W 1-in-1</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11100005</elementInformation>
+        <elementInformation name="designation" show="1">SigenMicro 400; SigenMicro Inverter 400W 1-in-1</elementInformation>
+        <elementInformation name="description" show="1">mikrorazsmernik; 1 MPPT, nizov na MPPT [1], U_dc max 60 V, MPPT [16, 60] V, I max [16] A; komunikacija: WLAN Mesh (antena)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - SigenMicro Inverter (V20260305) str. 2; SigenMicro (400-1000) Photovoltaic Micro Inverter Installer Manual str. 15 (vrata), 20-24 (montaža, AC vodilo, DC)</elementInformation>
+        <elementInformation name="mass_kg" show="1">2.8</elementInformation>
+        <elementInformation name="width" show="1">232</elementInformation>
+        <elementInformation name="height" show="1">186</elementInformation>
+        <elementInformation name="depth" show="1">35</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - SigenMicro Inverter (V20260305) str. 2; SigenMicro (400-1000) Photovoltaic Micro Inverter Installer Manual str. 15 (vrata), 20-24 (montaža, AC vodilo, DC)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="140" height="220" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="60" y1="0" x2="60" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="63" y="26.79" text="PV1+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="80" y1="0" x2="80" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="83" y="26.79" text="PV1-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="52" y="2" width="36" height="37.79" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="52" y1="27.79" x2="88" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="70" y1="2" x2="70" y2="27.79" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="65.05" y="36.79" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="30" y1="220" x2="30" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="33" y="217" text="L" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="50" y1="220" x2="50" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="53" y="217" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="70" y1="220" x2="70" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="73" y="217" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="110" y1="220" x2="110" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="113" y="217" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="22" y="190.1" width="56" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="22" y1="202.1" x2="78" y2="202.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="40" y1="202.1" x2="40" y2="218" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="60" y1="202.1" x2="60" y2="218" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="45.05" y="199.1" text="AC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="102" y="190.1" width="16" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="102" y1="202.1" x2="118" y2="202.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="105.05" y="199.1" text="PE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="37.44" y="104" text="Sigenergy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="35.37" y="118" text="SigenMicro 400" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="42.79" y="132" text="1 MPPT · 1F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="54" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{2a1f6070-2f65-5eaf-9d77-c178073189a5}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="67" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{7ad0b18c-0b47-502a-b5b6-a5de997c8138}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{14163bcf-3bb2-5185-9c16-cda79ee6748e}" x="60" y="-10" orientation="n" type="Generic" name="PV:PV1+" />
+        <terminal uuid="{bc50bf84-5f37-5c43-b2a7-aa356858b3fd}" x="80" y="-10" orientation="n" type="Generic" name="PV:PV1-" />
+        <terminal uuid="{b7e9e92d-9d9a-57ab-a2d2-33696adaa68a}" x="30" y="230" orientation="s" type="Generic" name="AC:L" />
+        <terminal uuid="{1b6cbd94-14bd-5807-80f3-c78cc31a88ea}" x="50" y="230" orientation="s" type="Generic" name="AC:N" />
+        <terminal uuid="{4e41d055-590e-5946-9577-ab0fc27fa6a8}" x="70" y="230" orientation="s" type="Generic" name="AC:PE" />
+        <terminal uuid="{10d1b0b2-6aca-51a2-854e-002521d48e88}" x="110" y="230" orientation="s" type="Generic" name="PE:PE" />
+    </description>
+</definition>

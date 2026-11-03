@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="490" height="690" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{f1bcc4ce-e9cb-58ab-b22c-080dcb150b6e}" />
+    <names>
+        <name lang="en">Victron Phoenix 24/1200 VE.Direct Schuko (front view)</name>
+        <name lang="sl">Victron Phoenix 24/1200 VE.Direct Schuko (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Phoenix Inverter 24/1200 230V VE.Direct SCHUKO (PIN242121200)</elementInformation>
+        <elementInformation name="designation" show="1">Victron Phoenix 24/1200 VE.Direct Schuko</elementInformation>
+        <elementInformation name="description" show="1">razsmernik; komunikacija: VE.Direct (VictronConnect prek USB/Bluetooth dongla, GX), daljinski vklop/izklop: 2-polni konektor (levi kontakt je lahko vezan na BAT+, npr. kontakt ključa), sprednje stikalo On / Off / ECO</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Inverter VE.Direct 250-1200VA manual (EN) str. 5-6 (namestitev), 9-10 (tehnični podatki), 13-14 (Appendix A, B); Datasheet Inverter VE.Direct 230V (2026) str. 2; Datasheet Inverter VE.Direct 250VA-1600VA (2025) str. 2; Dimension drawing str. 1; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_phoenix_vedirect_24_1200/inverter_vedirect_24V_48V_1200VA.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">7.4</elementInformation>
+        <elementInformation name="width" show="1">231.9</elementInformation>
+        <elementInformation name="height" show="1">327.4</elementInformation>
+        <elementInformation name="depth" show="1">117.8</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Inverter VE.Direct 250-1200VA manual (EN) str. 5-6 (namestitev), 9-10 (tehnični podatki), 13-14 (Appendix A, B); Datasheet Inverter VE.Direct 230V (2026) str. 2; Datasheet Inverter VE.Direct 250VA-1600VA (2025) str. 2; Dimension drawing str. 1; Victron produktna stran (SKU podatki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="463.8" height="654.8" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="457.8" height="648.8" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="79.96" y="241.15" text="Victron Energy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="81" y="253.13" text="Phoenix Inverter 24/1200 230V VE.Direct SCHUKO (PIN242121200)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{acb95ef2-62db-543e-a917-f08d0e111b68}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

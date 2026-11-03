@@ -1,0 +1,67 @@
+<definition version="0.200" type="element" link_type="simple" width="530" height="200" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{f0a45f42-6d94-5c43-92d3-f83e70ab5db9}" />
+    <names>
+        <name lang="en">Sigen Battery Main Base 1C</name>
+        <name lang="sl">Sigen Battery Main Base 1C</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11180006</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Battery Main Base 1C</elementInformation>
+        <elementInformation name="description" show="1">baterija</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SigenStack Energy Storage System Installation Guide, V07 2026-07-02 str. 7-9 (modeli, vrata), 17 (kabli), 20 (tab. 5-1 vrata baze), 26-28 (PE, DC, signal); SigenStack Base Installation Quick Guide (180°), V01 str. 2 (korak 6: povezave Base SUB/MAIN, M8 8-10 N·m); Datasheet - SigenStack BAT 12.0 &amp; SigenStack BC (V20260924) str. 2</elementInformation>
+        <elementInformation name="width" show="1">770</elementInformation>
+        <elementInformation name="height" show="1">195</elementInformation>
+        <elementInformation name="depth" show="1">363</elementInformation>
+    </elementInformations>
+    <informations>Viri: SigenStack Energy Storage System Installation Guide, V07 2026-07-02 str. 7-9 (modeli, vrata), 17 (kabli), 20 (tab. 5-1 vrata baze), 26-28 (PE, DC, signal); SigenStack Base Installation Quick Guide (180°), V01 str. 2 (korak 6: povezave Base SUB/MAIN, M8 8-10 N·m); Datasheet - SigenStack BAT 12.0 &amp; SigenStack BC (V20260924) str. 2
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="480" height="160" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="240" y1="160" x2="240" y2="170" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="243" y="157" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="232" y="130.1" width="16" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="232" y1="142.1" x2="248" y2="142.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="235.05" y="139.1" text="PE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="12" width="40" height="96" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="42" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="17.05" y="23" text="DC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="42" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="70" x2="42" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="90" x2="42" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="B-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="43" text="Battery stack negative connec…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="B-_L" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="63" text="Bus- left connection port" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="80" x2="-10" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="83" text="B+_L" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="83" text="Port on the left side of the…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="100" x2="-10" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="103" text="BAL_L" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="103" text="Battery balancing left connec…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="438" y="12" width="40" height="36" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="438" y1="30" x2="478" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="450.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="480" y1="40" x2="490" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="442" y="43" text="COM_L" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="308.31" y="43" text="Communication port on the lef…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="207.44" y="76" text="Sigenergy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="183.1" y="90" text="SigenStack Base MAIN-1C" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="177.69" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{7c5fe1aa-20bb-509f-b55b-11411a7ae225}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="177.69" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{f6d4ce36-eb2d-5855-8616-d8fadd4ce9d7}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{ba3ab6c1-891e-5903-8668-93708e80b7de}" x="240" y="170" orientation="s" type="Generic" name="PE:PE" />
+        <terminal uuid="{3a6efbaf-ae34-5828-980f-7211c11e99e3}" x="-10" y="40" orientation="w" type="Generic" name="DC:B-" />
+        <terminal uuid="{cf8b5ad2-76ce-5166-833e-be8eb7644b0a}" x="-10" y="60" orientation="w" type="Generic" name="DC:B-_L" />
+        <terminal uuid="{c3dc99a4-72a4-5f5c-a861-6a6b1e320c2c}" x="-10" y="80" orientation="w" type="Generic" name="DC:B+_L" />
+        <terminal uuid="{94858689-7f48-50fc-8429-1e3e87580af4}" x="-10" y="100" orientation="w" type="Generic" name="DC:BAL_L" />
+        <terminal uuid="{add34075-4514-5632-8ea6-a7699f7c229e}" x="490" y="40" orientation="e" type="Generic" name="COM:COM_L" />
+    </description>
+</definition>

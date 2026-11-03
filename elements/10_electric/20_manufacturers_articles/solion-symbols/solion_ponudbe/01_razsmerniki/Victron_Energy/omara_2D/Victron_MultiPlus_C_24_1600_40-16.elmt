@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="450" height="790" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{9e52754b-9b96-59d0-b24c-b36d6d6103e0}" />
+    <names>
+        <name lang="en">Victron MultiPlus C 24/1600/40-16 (front view)</name>
+        <name lang="sl">Victron MultiPlus C 24/1600/40-16 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">MultiPlus Compact 24/1600/40-16 230V VE.Bus (CMP241620000)</elementInformation>
+        <elementInformation name="designation" show="1">Victron MultiPlus C 24/1600/40-16</elementInformation>
+        <elementInformation name="description" show="1">razsmernik-polnilnik; komunikacija: 2x VE.Bus RJ45 (C), daljinsko stikalo H: 1 = samo polnilnik, 2 = sredina (GND), 3 = vklop, temperaturni senzor D: 1 = rdeča (+), 2 = črna (-), programabilni rele E: 1 = NO, 2 = COM, 3 = NC (LED S ob aktivnem releju), DIP stikala (A)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: MultiPlus Compact 800/1200/1600 manual (EN) str. 12-14 (namestitev), 22 (2x RJ45), 27 (tehnični podatki), 141-143 (Appendix A); Datasheet MultiPlus 800VA-5kVA str. 2; Dimension drawing MultiPlus Compact 12/24V 1200-1600VA str. 1; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_multiplus_c_800_1600/multiplus_compact_1200_1600VA.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">10</elementInformation>
+        <elementInformation name="width" show="1">214</elementInformation>
+        <elementInformation name="height" show="1">375.6</elementInformation>
+        <elementInformation name="depth" show="1">110.5</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: MultiPlus Compact 800/1200/1600 manual (EN) str. 12-14 (namestitev), 22 (2x RJ45), 27 (tehnični podatki), 141-143 (Appendix A); Datasheet MultiPlus 800VA-5kVA str. 2; Dimension drawing MultiPlus Compact 12/24V 1200-1600VA str. 1; Victron produktna stran (SKU podatki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="428" height="751.2" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="422" height="745.2" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="734.2" width="422" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="110.92" y="745.7" text="BAT · AC_IN · AC_OUT · PE" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="68.39" y="274.23" text="Victron Energy" rotation="0" font="Liberation Sans,23,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="70.52" y="286.21" text="MultiPlus Compact 24/1600/40-16 230V VE.Bus (CMP241620000)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{fe2c2bde-15c0-5208-8553-b1463f91346e}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

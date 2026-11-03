@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="300" height="180" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{e2648d3e-faba-5091-9c7b-5023198ae8fa}" />
+    <names>
+        <name lang="en">SolarEdge Modbus Meter 1F/3F 230/400V (front view)</name>
+        <name lang="sl">SolarEdge Modbus Meter 1F/3F 230/400V (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE-MTR-3Y-400V-A</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Modbus Meter 1F/3F 230/400V</elementInformation>
+        <elementInformation name="description" show="1">števec; komunikacija: RS485 half duplex, 3 žice (A, B, GND), Modbus, privzeti Modbus ID 2, odzivni čas ≤ 200 ms, Zaključitev RS485 120 Ω z DIP stikalom 'TER' (RS-485 TERM) na števcu, Kabel do razsmernika: CAT5 3-žilni oklopljen sukan par 0,2-1 mm² na RS485-1 ali RS485-2 (B A G)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Energy Meter with Modbus Connection SE-MTR-3Y-400V-A - datasheet, DS-00002-1.0-ENG; kopija uradnega SolarEdge dokumenta (vir: upwatt.com) str. 2 (tabela CT, risbe CT, električni podatki, RS485, mere 75 x 138,6 x 35 HxWxD, 225 g, IP20, sponke; shema priključkov ØL3 ØL2 ØL1 N PE, L3/L2/L1 CT, RS-485 TERM, G A+ B-); Energiezähler mit Modbus-Anschluss SE-MTR-3Y-400V-A - Datenblatt, DS-00002-1.0-DE; kopija uradnega SolarEdge dokumenta (vir: siblik.com) str. 2 (Abmessungen B x H x T 138,6 x 75 x 35 mm); Energy Meter with Modbus Connection - Quick Installation Guide, MAN-01-00754-1.0, julij 2020; kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 1 (B: vezava 3Ø/1Ø, L3 L2 L1 N PE, L3/L2/L1 CT črna/bela pika, puščica proti omrežju, RS485 G A B -&gt; razsmernik B A G, CAT5 0,2-1 mm²), 2 (C: DIP ID 2 in TER, D: DIP razsmernika, F: LED); Installation Guide - Energy Meter with Modbus Connection, MAN-01-00269-1.6 (september 2019) - velja za predhodnika SE-WND-3Y400-MB-K2 (WattNode); kopija uradnega SolarEdge dokumenta (vir: ressupply.com) str. 3 (zgodovina različic: model SE-WND-3Y400-MB-K2); za priključke SE-MTR-3Y-400V-A NI uporabljeno (drugačna razporeditev: CT pini 1-6)</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.225</elementInformation>
+        <elementInformation name="width" show="1">138.6</elementInformation>
+        <elementInformation name="height" show="1">75</elementInformation>
+        <elementInformation name="depth" show="1">35</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Energy Meter with Modbus Connection SE-MTR-3Y-400V-A - datasheet, DS-00002-1.0-ENG; kopija uradnega SolarEdge dokumenta (vir: upwatt.com) str. 2 (tabela CT, risbe CT, električni podatki, RS485, mere 75 x 138,6 x 35 HxWxD, 225 g, IP20, sponke; shema priključkov ØL3 ØL2 ØL1 N PE, L3/L2/L1 CT, RS-485 TERM, G A+ B-); Energiezähler mit Modbus-Anschluss SE-MTR-3Y-400V-A - Datenblatt, DS-00002-1.0-DE; kopija uradnega SolarEdge dokumenta (vir: siblik.com) str. 2 (Abmessungen B x H x T 138,6 x 75 x 35 mm); Energy Meter with Modbus Connection - Quick Installation Guide, MAN-01-00754-1.0, julij 2020; kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 1 (B: vezava 3Ø/1Ø, L3 L2 L1 N PE, L3/L2/L1 CT črna/bela pika, puščica proti omrežju, RS485 G A B -&gt; razsmernik B A G, CAT5 0,2-1 mm²), 2 (C: DIP ID 2 in TER, D: DIP razsmernika, F: LED); Installation Guide - Energy Meter with Modbus Connection, MAN-01-00269-1.6 (september 2019) - velja za predhodnika SE-WND-3Y400-MB-K2 (WattNode); kopija uradnega SolarEdge dokumenta (vir: ressupply.com) str. 3 (zgodovina različic: model SE-WND-3Y400-MB-K2); za priključke SE-MTR-3Y-400V-A NI uporabljeno (drugačna razporeditev: CT pini 1-6)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="277.2" height="150" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="271.2" height="144" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="44.99" y="58.48" text="SolarEdge" rotation="0" font="Liberation Sans,23,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="46.24" y="81.11" text="SE-MTR-3Y-400V-A" rotation="0" font="Liberation Sans,14,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{34f6f66c-a9bc-59ce-8a48-dae8a7cbb599}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

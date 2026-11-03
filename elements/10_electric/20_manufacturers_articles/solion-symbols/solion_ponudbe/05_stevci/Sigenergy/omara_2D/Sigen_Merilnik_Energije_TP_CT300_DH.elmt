@@ -1,0 +1,30 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="170" height="220" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{09d95cf6-1384-5987-8272-d13131024c2d}" />
+    <names>
+        <name lang="en">Sigen Merilnik Energije TP CT300 DH (front view)</name>
+        <name lang="sl">Sigen Merilnik Energije TP CT300 DH (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">1426000200</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Merilnik Energije TP CT300 DH</elementInformation>
+        <elementInformation name="description" show="1">izdelal OEM Eastron SDM630MCT 40mA; števec; komunikacija: RS485 Modbus RTU (sponke 12 GND, 13 B, 14 A)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3); SigenStor Home Installation Guide - Three-phase System A1, V12 2026-08-17 (v ZIP) str. 1-8 (sistem, kabli), 12-16 (vgradnja BAT), 5.5.1 (COM); SigenStor Installation Guide - Three-phase Low Voltage System (COM tabela s senzorji) str. 3 (seznam senzorjev), 26 (pogl. 5.4); Sigen EV AC Charger Installation Guide, V05 2025-07-17 (v ZIP) str. 1-2 (zunanjost), 3-4 (MCB, kabli), 10-16 (priključki); C&amp;I Sigen Inverter &amp; Sigen Battery ESS User Manual (seznam senzorjev) str. 25; Eastron SDM630MCT 40mA User Manual V3.6 (kopija uradnega PDF na deyeinverter.com) str. 21-24 (specifikacije, mere, ožičenje 3P4W)</elementInformation>
+        <elementInformation name="width" show="1">72</elementInformation>
+        <elementInformation name="height" show="1">94.5</elementInformation>
+        <elementInformation name="depth" show="1">65</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3); SigenStor Home Installation Guide - Three-phase System A1, V12 2026-08-17 (v ZIP) str. 1-8 (sistem, kabli), 12-16 (vgradnja BAT), 5.5.1 (COM); SigenStor Installation Guide - Three-phase Low Voltage System (COM tabela s senzorji) str. 3 (seznam senzorjev), 26 (pogl. 5.4); Sigen EV AC Charger Installation Guide, V05 2025-07-17 (v ZIP) str. 1-2 (zunanjost), 3-4 (MCB, kabli), 10-16 (priključki); C&amp;I Sigen Inverter &amp; Sigen Battery ESS User Manual (seznam senzorjev) str. 25; Eastron SDM630MCT 40mA User Manual V3.6 (kopija uradnega PDF na deyeinverter.com) str. 21-24 (specifikacije, mere, ožičenje 3P4W)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="144" height="189" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="138" height="183" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="23.16" y="72.13" text="Sigenergy" rotation="0" font="Liberation Sans,12,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="15.1" y="80.12" text="Sigen Sensor TP-CT300-DH (SDM630MCT 40mA/300A)" rotation="0" font="Liberation Sans,3,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{0a52d416-4a61-5e18-9740-41274cf2688d}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

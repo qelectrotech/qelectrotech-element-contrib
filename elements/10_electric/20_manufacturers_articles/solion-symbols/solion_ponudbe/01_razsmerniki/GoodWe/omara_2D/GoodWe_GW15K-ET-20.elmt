@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1020" height="950" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{d37b4409-c3a4-5965-ac2d-450358e12e21}" />
+    <names>
+        <name lang="en">GoodWe GW15K-ET-20 (front view)</name>
+        <name lang="sl">GoodWe GW15K-ET-20 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">GoodWe</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">GW15K-ET-20</elementInformation>
+        <elementInformation name="designation" show="1">GoodWe GW15K-ET-20</elementInformation>
+        <elementInformation name="description" show="1">hibridni razsmernik; 3 MPPT, nizov na MPPT [1, 1, 1], U_dc max 1000 V, MPPT [120, 850] V, I max [16, 16, 16] A; baterija [150, 720] V; komunikacija: CAN (BMS), RS485 (BMS485), RS485 (METER), CT (vgrajen števec), DRED / RCR / EnWG 14a, DI1/RSD, DO1 (LOAD/SG Ready), DO2 (GEN), EN (12 V / omogočitev baterije), PAR1&amp;EMS / PAR2&amp;EMS (CAN, BUS, RS485), LAN (4G opcija) + Bluetooth + WiFi</elementInformation>
+        <elementInformation name="notes" show="1">Viri: GoodWe ET G2 Series 6-15kW Datasheet (EN) str. 2; GoodWe ET G2 Datasheet EMEA (lokalna kopija, 20231204 V2.1) str. 2; GoodWe Residential Smart Inverter Solutions User Manual ET G2 6-15K + Lynx F/D, V2.2 2026-09-30 str. 33-34 (komponente), 120-122 (odklopniki, kabli), 129-131 (AC), 158-162 (COM)</elementInformation>
+        <elementInformation name="mass_kg" show="1">25</elementInformation>
+        <elementInformation name="width" show="1">496</elementInformation>
+        <elementInformation name="height" show="1">460</elementInformation>
+        <elementInformation name="depth" show="1">221</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: GoodWe ET G2 Series 6-15kW Datasheet (EN) str. 2; GoodWe ET G2 Datasheet EMEA (lokalna kopija, 20231204 V2.1) str. 2; GoodWe Residential Smart Inverter Solutions User Manual ET G2 6-15K + Lynx F/D, V2.2 2026-09-30 str. 33-34 (komponente), 120-122 (odklopniki, kabli), 129-131 (AC), 158-162 (COM)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="992" height="920" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="986" height="914" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="430.88" y="322" text="GoodWe" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="387.15" y="357.92" text="GW15K-ET-20" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{00a015c5-0f2c-5647-aebe-212587aef0ba}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

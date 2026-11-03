@@ -1,0 +1,98 @@
+<definition version="0.200" type="element" link_type="simple" width="460" height="240" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{8d586af5-46ac-5f93-a8e9-bb055fe26cbd}" />
+    <names>
+        <name lang="en">Sigen Merilnik Energije TPX-CH</name>
+        <name lang="sl">Sigen Merilnik Energije TPX-CH</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">1426002200</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Merilnik Energije TPX-CH</elementInformation>
+        <elementInformation name="description" show="1">izdelal OEM CHINT DTSU666; števec; komunikacija: RS485 Modbus RTU, 9600 bps (sponki 24 A, 25 B)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - Sigen Power Sensor (for C&amp;I), V20260112 str. 2; Sigen PV (50–125)M1-HYB Series Installation Guide (COM: TP-CT300-DH, TP-CT600-DH, TPX-CH) str. 46-47 (pogl. 5.10.1); SigenStor Neo Home User Manual (seznam senzorjev: TPX-CH = DTSU666 3×230/400V 1.5(6)A) str. seznam modelov (Three-phase System); C&amp;I Sigen Inverter &amp; Sigen Battery ESS User Manual (seznam senzorjev) str. 25; SigenStor Installation Guide - Three-phase Low Voltage System (COM tabela s senzorji) str. 3 (seznam senzorjev), 26 (pogl. 5.4); CHINT DTSU666/DSSU666 User Manual ZTW0.464.0104 V1 (Oct 2023) – kopija uradnega PDF pri distributerju Klinkmann (izvedba 100A/40mA, 250A/50mA) str. 2, 13, 15 (tipi, mere, sponke 24/25)</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.35</elementInformation>
+        <elementInformation name="width" show="1">72</elementInformation>
+        <elementInformation name="height" show="1">100</elementInformation>
+        <elementInformation name="depth" show="1">65.5</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - Sigen Power Sensor (for C&amp;I), V20260112 str. 2; Sigen PV (50–125)M1-HYB Series Installation Guide (COM: TP-CT300-DH, TP-CT600-DH, TPX-CH) str. 46-47 (pogl. 5.10.1); SigenStor Neo Home User Manual (seznam senzorjev: TPX-CH = DTSU666 3×230/400V 1.5(6)A) str. seznam modelov (Three-phase System); C&amp;I Sigen Inverter &amp; Sigen Battery ESS User Manual (seznam senzorjev) str. 25; SigenStor Installation Guide - Three-phase Low Voltage System (COM tabela s senzorji) str. 3 (seznam senzorjev), 26 (pogl. 5.4); CHINT DTSU666/DSSU666 User Manual ZTW0.464.0104 V1 (Oct 2023) – kopija uradnega PDF pri distributerju Klinkmann (izvedba 100A/40mA, 250A/50mA) str. 2, 13, 15 (tipi, mere, sponke 24/25)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="410" height="200" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="180" y1="200" x2="180" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="183" y="197" text="L1" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="200" y1="200" x2="200" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="203" y="197" text="L2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="220" y1="200" x2="220" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="223" y="197" text="L3" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="240" y1="200" x2="240" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="243" y="197" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="172" y="170.1" width="76" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="172" y1="182.1" x2="248" y2="182.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="190" y1="182.1" x2="190" y2="198" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="210" y1="182.1" x2="210" y2="198" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="230" y1="182.1" x2="230" y2="198" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="207.53" y="179.1" text="U" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="12" width="40" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="42" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.63" y="23" text="RS485" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="42" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="-10.25" y="38" text="24" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="43" text="RS485 A (razsmernik RS485A2…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="-10.25" y="58" text="25" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="46" y="63" text="RS485 B (razsmernik RS485B2…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="378" y="12" width="30" height="136" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="378" y1="30" x2="408" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="388.05" y="23" text="CT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="378" y1="50" x2="408" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="378" y1="70" x2="408" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="378" y1="90" x2="408" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="378" y1="110" x2="408" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="378" y1="130" x2="408" y2="130" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="410" y1="40" x2="420" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="382" y="43" text="IA*" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="330.77" y="43" text="CT L1 vhod" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="410" y1="60" x2="420" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="382" y="63" text="IA" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="326.65" y="63" text="CT L1 izhod" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="410" y1="80" x2="420" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="382" y="83" text="IB*" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="330.77" y="83" text="CT L2 vhod" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="410" y1="100" x2="420" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="382" y="103" text="IB" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="326.65" y="103" text="CT L2 izhod" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="410" y1="120" x2="420" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="382" y="123" text="IC*" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="330.77" y="123" text="CT L3 vhod" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="410" y1="140" x2="420" y2="140" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="382" y="143" text="IC" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="326.65" y="143" text="CT L3 izhod" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="212.49" y="89" text="Sigenergy" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="173.31" y="103" text="Sigen Sensor TPX-CH (DTSU666)" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="240.1" y="117" text="3F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="169.44" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{99c5338b-673e-5fb1-92fe-a6f982c172f2}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="169.44" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{756dd369-f908-5efe-b5cc-23a024e3b8ee}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{e881fb7c-d1d6-5eab-8255-b108e8e4c935}" x="180" y="210" orientation="s" type="Generic" name="U:L1" />
+        <terminal uuid="{29c275d9-8859-5dab-ad66-540efe49261e}" x="200" y="210" orientation="s" type="Generic" name="U:L2" />
+        <terminal uuid="{3cf65678-5c9c-53c1-9aeb-b92cdbe50482}" x="220" y="210" orientation="s" type="Generic" name="U:L3" />
+        <terminal uuid="{b2f0cd0a-0b23-56da-92fb-80c2b8b4bea1}" x="240" y="210" orientation="s" type="Generic" name="U:N" />
+        <terminal uuid="{08b2fa37-a5ce-5215-b665-504ffd192251}" x="-10" y="40" orientation="w" type="Generic" name="RS485:24" />
+        <terminal uuid="{e648e771-2325-5ea8-a779-c149c16b85a6}" x="-10" y="60" orientation="w" type="Generic" name="RS485:25" />
+        <terminal uuid="{669574b0-7ee2-567a-af74-76f76f746c7d}" x="420" y="40" orientation="e" type="Generic" name="CT:IA*" />
+        <terminal uuid="{94b22bb4-e820-5dad-a457-8fcfcfd7ccb1}" x="420" y="60" orientation="e" type="Generic" name="CT:IA" />
+        <terminal uuid="{eaf6c79f-b938-5d4d-afd0-c2862363425f}" x="420" y="80" orientation="e" type="Generic" name="CT:IB*" />
+        <terminal uuid="{ef274fe6-f49f-5312-a6f7-56bb3925063b}" x="420" y="100" orientation="e" type="Generic" name="CT:IB" />
+        <terminal uuid="{4fed6153-6a6c-588e-a11f-f5c93ab0b630}" x="420" y="120" orientation="e" type="Generic" name="CT:IC*" />
+        <terminal uuid="{b4a5e941-9dd8-5e8b-ad2a-bd97a37fd16b}" x="420" y="140" orientation="e" type="Generic" name="CT:IC" />
+    </description>
+</definition>

@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="280" height="340" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{73b07395-5c3c-567e-9f67-48214b43b6e4}" />
+    <names>
+        <name lang="en">SolarEdge S440 optimizator (front view)</name>
+        <name lang="sl">SolarEdge S440 optimizator (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLES440-1GM4MRM</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge S440 optimizator</elementInformation>
+        <elementInformation name="description" show="1">optimizator; 1 MPPT, nizov na MPPT -, U_dc max - V, MPPT - V, I max [15] A</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Power Optimizer For Residential Installations S440 / S500 / S500B / S650B – datasheet DS-000091-ENG, 19. 1. 2026 – kopija uradnega SolarEdge dokumenta (vir: ottofischer.ch) str. 2 (električni in mehanski podatki, dolžine nizov), 3 (risbi raven/ukrivljen nosilec, opomba 11 o S500B-1GM4MRM); SolarEdge Power Optimizer For Residential Installations S440 / S500 / S500B / S650B – datasheet DS-000091-ENG, 14. 5. 2024 – kopija uradnega SolarEdge dokumenta (vir: midsummer.ie) str. 2 (S500B 550 W za inštalacije po 1. 4. 2024 – primerjava); SolarEdge Optimiseur de puissance S440 / S500 / S500B / S650B – DS-000091-FR, 20. 6. 2023 – kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2 (starejša izdaja: S500B samo z ukrivljenim nosilcem); SolarEdge Installation Guide for Europe, APAC, Australia &amp; South Africa, MAN-01-00057-3.3 – kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk; naslov v PDF metapodatkih je napačen) str. 12–13 (PDF 13–14): montaža M6 9,5 Nm, razmik 24,5 mm, Plus (+)/Minus (-) vhodni in izhodni konektor, vezava v niz; SolarEdge Power Optimizers Installation Guide MAN-01-00112-1.2 (Severna Amerika) – kopija uradnega SolarEdge dokumenta (vir: gridalternatives.org) str. 13 (zunaj NA ozemljitev ni potrebna – dvojna izolacija), 14 (vhodni kabli so kratki, sl. 6/7, vezava Output- na Output+); Prodajalec (samo potrditev kod artiklov): estg.eu S440-1GM4MRM; 7sun.eu 'Optimizer – SOLAREDGE – S500 – 1GM4MRM' str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.72</elementInformation>
+        <elementInformation name="width" show="1">129</elementInformation>
+        <elementInformation name="height" show="1">155</elementInformation>
+        <elementInformation name="depth" show="1">30</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Power Optimizer For Residential Installations S440 / S500 / S500B / S650B – datasheet DS-000091-ENG, 19. 1. 2026 – kopija uradnega SolarEdge dokumenta (vir: ottofischer.ch) str. 2 (električni in mehanski podatki, dolžine nizov), 3 (risbi raven/ukrivljen nosilec, opomba 11 o S500B-1GM4MRM); SolarEdge Power Optimizer For Residential Installations S440 / S500 / S500B / S650B – datasheet DS-000091-ENG, 14. 5. 2024 – kopija uradnega SolarEdge dokumenta (vir: midsummer.ie) str. 2 (S500B 550 W za inštalacije po 1. 4. 2024 – primerjava); SolarEdge Optimiseur de puissance S440 / S500 / S500B / S650B – DS-000091-FR, 20. 6. 2023 – kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2 (starejša izdaja: S500B samo z ukrivljenim nosilcem); SolarEdge Installation Guide for Europe, APAC, Australia &amp; South Africa, MAN-01-00057-3.3 – kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk; naslov v PDF metapodatkih je napačen) str. 12–13 (PDF 13–14): montaža M6 9,5 Nm, razmik 24,5 mm, Plus (+)/Minus (-) vhodni in izhodni konektor, vezava v niz; SolarEdge Power Optimizers Installation Guide MAN-01-00112-1.2 (Severna Amerika) – kopija uradnega SolarEdge dokumenta (vir: gridalternatives.org) str. 13 (zunaj NA ozemljitev ni potrebna – dvojna izolacija), 14 (vhodni kabli so kratki, sl. 6/7, vezava Output- na Output+); Prodajalec (samo potrditev kod artiklov): estg.eu S440-1GM4MRM; 7sun.eu 'Optimizer – SOLAREDGE – S500 – 1GM4MRM' str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="258" height="310" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="252" height="304" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="293" width="252" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="96.02" y="304.5" text="PV · OUT" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="39.46" y="111.16" text="SolarEdge" rotation="0" font="Liberation Sans,22,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="39.94" y="139.1" text="S440-1GM4MRM" rotation="0" font="Liberation Sans,18,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{12ef6bc2-1673-5884-b1aa-3ebab2837db0}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

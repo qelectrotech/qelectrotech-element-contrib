@@ -1,0 +1,85 @@
+<definition version="0.200" type="element" link_type="simple" width="490" height="220" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{227e3b5b-1032-58c9-8c45-40e0c9a482fd}" />
+    <names>
+        <name lang="en">SolarEdge Home Battery 48V 23 kWh (komplet)</name>
+        <name lang="sl">SolarEdge Home Battery 48V 23 kWh (komplet)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLEBAT-05K48M0B-02 x5</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Home Battery 48V 23 kWh (komplet)</elementInformation>
+        <elementInformation name="description" show="1">baterija; baterija [44.8, 56.5] V; komunikacija: CAN bus do razsmernika (RJ45 'Inverter', samo zgornji modul), RS485 med moduli (2x RJ45 'COMM')</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Home Battery 48V for Europe BAT-05K48 - datasheet, DS-000141-EU, 17. 2. 2025 (velja za BAT-05K48M0B-01 in -02); kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. 2; SolarEdge Home Battery 48V Installation Guide, For Europe and APAC, MAN-01-00954-1.2, verzija 1.2; kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. tiskane strani (PDF stran = tiskana + 1): 7-8 (kabel 35 mm2, dodatki), 8-9 (konfiguracije stolpov), 11-12 (odmiki, mere), 13-14 (Figure 3 opis priključkov), 17 (max 3 v stolpu), 19-24 (priključitev), 27-28 (več modulov, Figure 21)</elementInformation>
+        <elementInformation name="mass_kg" show="1">54.7</elementInformation>
+        <elementInformation name="width" show="1">540</elementInformation>
+        <elementInformation name="height" show="1">500</elementInformation>
+        <elementInformation name="depth" show="1">240</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Home Battery 48V for Europe BAT-05K48 - datasheet, DS-000141-EU, 17. 2. 2025 (velja za BAT-05K48M0B-01 in -02); kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. 2; SolarEdge Home Battery 48V Installation Guide, For Europe and APAC, MAN-01-00954-1.2, verzija 1.2; kopija uradnega SolarEdge dokumenta (vir: memodo.de) str. tiskane strani (PDF stran = tiskana + 1): 7-8 (kabel 35 mm2, dodatki), 8-9 (konfiguracije stolpov), 11-12 (odmiki, mere), 13-14 (Figure 3 opis priključkov), 17 (max 3 v stolpu), 19-24 (priključitev), 27-28 (več modulov, Figure 21)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="440" height="180" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="210" y1="180" x2="210" y2="190" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="213" y="177" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="230" y1="180" x2="230" y2="190" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="233" y="177" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="202" y="150.1" width="36" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="202" y1="162.1" x2="238" y2="162.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="220" y1="162.1" x2="220" y2="178" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="215.05" y="159.1" text="PE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="12" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="32" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="32" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="2" y="72" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="90" x2="32" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="7.1" y="83" text="BAT2" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="110" x2="32" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="BAT+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="43" text="DC bat + (zgornji konektor)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="BAT-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="63" text="DC bat - (zgornji konektor)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="100" x2="-10" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="103" text="BAT+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="103" text="DC bat + (spodnji konektor)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="120" x2="-10" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="123" text="BAT-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="123" text="DC bat - (spodnji konektor)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="388" y="12" width="50" height="76" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="388" y1="30" x2="438" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="405.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="388" y1="50" x2="438" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="388" y1="70" x2="438" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="440" y1="40" x2="450" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="392" y="43" text="Inverter" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="266.56" y="43" text="RJ45 CAN-bus do razsmernika…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="440" y1="60" x2="450" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="392" y="63" text="COMM" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="258.31" y="63" text="RJ45 RS485 med moduli (zgornj…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="440" y1="80" x2="450" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="392" y="83" text="COMM" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="258.31" y="83" text="RJ45 RS485 med moduli (spodnj…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="171.26" y="79" text="SolarEdge" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="159.29" y="93" text="BAT-05K48M0B-02 x5" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="184.03" y="107" text="23.0 kWh" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="155.32" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{71002530-a6b7-587d-8768-936e784b337e}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="155.32" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{a2123970-9f53-57c8-a2b2-df5cb60ac48a}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{66dd68ab-420e-5de5-84ea-ce280b78f541}" x="210" y="190" orientation="s" type="Generic" name="PE:PE" />
+        <terminal uuid="{e71e2820-feda-5f8e-8316-35d465c55992}" x="230" y="190" orientation="s" type="Generic" name="PE:PE'" />
+        <terminal uuid="{c5200e73-8890-57f6-9b36-b70209969e47}" x="-10" y="40" orientation="w" type="Generic" name="BAT:BAT+" />
+        <terminal uuid="{411b3e41-04f0-5de1-a27f-043a0113c5ad}" x="-10" y="60" orientation="w" type="Generic" name="BAT:BAT-" />
+        <terminal uuid="{0345ceb9-ed04-5326-a52a-9c805ab160db}" x="-10" y="100" orientation="w" type="Generic" name="BAT2:BAT+" />
+        <terminal uuid="{2d40e4aa-7696-523d-8dc8-b7f785cace1d}" x="-10" y="120" orientation="w" type="Generic" name="BAT2:BAT-" />
+        <terminal uuid="{d177d91d-9d6e-5f89-a4e1-5fe6138c36b9}" x="450" y="40" orientation="e" type="Generic" name="COM:Inverter" />
+        <terminal uuid="{bb925822-8558-5e81-b969-001ae5891a5d}" x="450" y="60" orientation="e" type="Generic" name="COM:COMM" />
+        <terminal uuid="{af5e91c6-5627-5d71-90ac-5889467aec29}" x="450" y="80" orientation="e" type="Generic" name="COM:COMM'" />
+    </description>
+</definition>

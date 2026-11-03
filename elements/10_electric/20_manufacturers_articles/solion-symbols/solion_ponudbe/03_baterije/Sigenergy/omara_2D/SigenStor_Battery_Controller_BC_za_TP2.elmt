@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1550" height="250" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{54b51967-7a88-5d03-9f62-08699af0aa26}" />
+    <names>
+        <name lang="en">SigenStor Battery Controller BC (za TP2) (front view)</name>
+        <name lang="sl">SigenStor Battery Controller BC (za TP2) (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11180011</elementInformation>
+        <elementInformation name="designation" show="1">SigenStor Battery Controller BC (za TP2)</elementInformation>
+        <elementInformation name="description" show="1">baterijski krmilnik; baterija [600, 900] V; komunikacija: CAN (datasheet), COM – CAT6 8-žilni oklopljen kabel, 0,2 mm², ≤20 m, do vrat 'BAT' na COM razsmernika TP2/SP2</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SigenStor Energy Storage System Installation Guide (Supporting Sigen Hybrid SP2, TP2), V03 2026-04-21 (v ZIP) str. 1 (pogl. 1.1-1.2), 3 (kabli), 6-13; Datasheet - SigenStor BAT 5.0/8.0 (Sigenergy, 30. 4. 2025) str. 2; Datasheet - SigenStor BAT 6.0/10.0 (Sigenergy, 18. 9. 2025) str. 2; Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3); Sigen Hybrid (3.0-12.0) TP2 Series Installation Guide (v ZIP) str. 3 (kabel razsmernik-baterija), 9 (COM: vrata BAT); Datasheet - Sigen Hybrid Inverter SP2 &amp; TP2 (V20260601) str. 2 (Battery Connection)</elementInformation>
+        <elementInformation name="mass_kg" show="1">8</elementInformation>
+        <elementInformation name="width" show="1">765</elementInformation>
+        <elementInformation name="height" show="1">109</elementInformation>
+        <elementInformation name="depth" show="1">260</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SigenStor Energy Storage System Installation Guide (Supporting Sigen Hybrid SP2, TP2), V03 2026-04-21 (v ZIP) str. 1 (pogl. 1.1-1.2), 3 (kabli), 6-13; Datasheet - SigenStor BAT 5.0/8.0 (Sigenergy, 30. 4. 2025) str. 2; Datasheet - SigenStor BAT 6.0/10.0 (Sigenergy, 18. 9. 2025) str. 2; Sigen Hybrid SP2, TP2 Series and SigenStor Energy User Manual str. 9-13 (pogl. 2.1-2.2.3); Sigen Hybrid (3.0-12.0) TP2 Series Installation Guide (v ZIP) str. 3 (kabel razsmernik-baterija), 9 (COM: vrata BAT); Datasheet - Sigen Hybrid Inverter SP2 &amp; TP2 (V20260601) str. 2 (Battery Connection)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1530" height="218" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1524" height="212" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="667.32" y="76.3" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="646.26" y="112.22" text="SigenStor BC" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{af5930ff-0013-595e-acf1-dd9444fdef95}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

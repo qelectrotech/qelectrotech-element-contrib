@@ -1,0 +1,30 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="490" height="800" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{167ec965-ccb8-5597-b71f-db676c52c8f2}" />
+    <names>
+        <name lang="en">Sigen EV AC Charger 22 kW z vtičnico Tip 2 (front view)</name>
+        <name lang="sl">Sigen EV AC Charger 22 kW z vtičnico Tip 2 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11070009</elementInformation>
+        <elementInformation name="designation" show="1">Sigen EV AC Charger 22 kW z vtičnico Tip 2</elementInformation>
+        <elementInformation name="description" show="1">polnilnica EV; komunikacija: RS485 Modbus RTU, 4G (SIM), WLAN, Fast Ethernet (RJ45), DO (COM/NC), OCPP 1.6J</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - Sigen EVAC 7/11/22 (18. 9. 2025) str. 2; Datasheet - Sigen EV AC Charger (14. 7. 2025, starejša izdaja) str. 2; Sigen EV AC Charger Installation Guide, V05 2025-07-17 (v ZIP) str. 1-2 (zunanjost), 3-4 (MCB, kabli), 10-16 (priključki)</elementInformation>
+        <elementInformation name="width" show="1">234</elementInformation>
+        <elementInformation name="height" show="1">384</elementInformation>
+        <elementInformation name="depth" show="1">139</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - Sigen EVAC 7/11/22 (18. 9. 2025) str. 2; Datasheet - Sigen EV AC Charger (14. 7. 2025, starejša izdaja) str. 2; Sigen EV AC Charger Installation Guide, V05 2025-07-17 (v ZIP) str. 1-2 (zunanjost), 3-4 (MCB, kabli), 10-16 (priključki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="468" height="768" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="462" height="762" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="136.32" y="274.12" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="75.68" y="299.4" text="Sigen EVAC 22 4G T2SH WH" rotation="0" font="Liberation Sans,16,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{285d6767-19ef-5e34-b27c-452575c7e45f}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

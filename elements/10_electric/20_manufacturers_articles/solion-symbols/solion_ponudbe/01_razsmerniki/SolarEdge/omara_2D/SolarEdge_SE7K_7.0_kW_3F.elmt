@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="650" height="1110" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{f33aea27-3008-550e-bfd8-327f6d7c1b77}" />
+    <names>
+        <name lang="en">SolarEdge SE7K 7.0 kW 3F (front view)</name>
+        <name lang="sl">SolarEdge SE7K 7.0 kW 3F (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE7K-RW0TEBEN4</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge SE7K 7.0 kW 3F</elementInformation>
+        <elementInformation name="description" show="1">omrežni razsmernik; 1 MPPT, nizov na MPPT [2], U_dc max 900 V, MPPT - V, I max - A; komunikacija: RS485-1 (B, A, G) – 6-polna sponka, RS485-2 (B, A, G) – 6-polna sponka; terminacija DIP SW, Ethernet RJ45 (CAT5/6), USB (servis), SolarEdge Home Network (brezžično, opcijski plug-in), Wi-Fi (opcija, zunanja antena), Cellular (opcija), power reduction (kabel skozi uvodnico 2), SetApp (vgrajena Wi-Fi dostopna točka)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Home Wave Wechselrichter Dreiphasen SE3K–SE10K – Datenblatt DS-000145b-DE (22. 8. 2023), velja za PN SEXXK-XXXTXBXX4 (ime datoteke: SExRW0TEBEN4); kopija uradnega SolarEdge dokumenta (vir: siblik.com) str. 2; SolarEdge Three Phase Inverter SE3K–SE10K (SetApp) – datasheet 02/2020/V01/ENG ROW (starejši); kopija uradnega SolarEdge dokumenta (vir: solarproof.com.au) str. 2; Three Phase System Installation Guide with SetApp Configuration, Europe and APAC, MAN-01-00505-1.4 (junij 2020); kopija uradnega SolarEdge dokumenta (vir: solarshop.baywa-re.lv) str. PDF 22 (vmesniki), 31-33 (AC L1 L2 L3 N PE, 16 mm², navori), 34 (RCD), 44 (kom. uvodnice, RJ45, 6-polna RS485), 50 (RS485-1/RS485-2 B A G), 78 (AC presek, 2 MC4 para); teh_iz_ponudb (skupine/A5_solaredge.json) – vir v zapisu: knowledge-center.solaredge.com se-home-wave-inverter-three-phase-setapp-ds.pdf str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">16.4</elementInformation>
+        <elementInformation name="width" show="1">315</elementInformation>
+        <elementInformation name="height" show="1">540</elementInformation>
+        <elementInformation name="depth" show="1">191</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Home Wave Wechselrichter Dreiphasen SE3K–SE10K – Datenblatt DS-000145b-DE (22. 8. 2023), velja za PN SEXXK-XXXTXBXX4 (ime datoteke: SExRW0TEBEN4); kopija uradnega SolarEdge dokumenta (vir: siblik.com) str. 2; SolarEdge Three Phase Inverter SE3K–SE10K (SetApp) – datasheet 02/2020/V01/ENG ROW (starejši); kopija uradnega SolarEdge dokumenta (vir: solarproof.com.au) str. 2; Three Phase System Installation Guide with SetApp Configuration, Europe and APAC, MAN-01-00505-1.4 (junij 2020); kopija uradnega SolarEdge dokumenta (vir: solarshop.baywa-re.lv) str. PDF 22 (vmesniki), 31-33 (AC L1 L2 L3 N PE, 16 mm², navori), 34 (RCD), 44 (kom. uvodnice, RJ45, 6-polna RS485), 50 (RS485-1/RS485-2 B A G), 78 (AC presek, 2 MC4 para); teh_iz_ponudb (skupine/A5_solaredge.json) – vir v zapisu: knowledge-center.solaredge.com se-home-wave-inverter-three-phase-setapp-ds.pdf str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="630" height="1080" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="624" height="1074" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="1063" width="624" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="277.89" y="1074.5" text="PV · GRID" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="217.32" y="378" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="176.47" y="413.92" text="SE7K-RW0TEBEN4" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e1d02856-769b-58c5-b489-33660b4e70d3}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

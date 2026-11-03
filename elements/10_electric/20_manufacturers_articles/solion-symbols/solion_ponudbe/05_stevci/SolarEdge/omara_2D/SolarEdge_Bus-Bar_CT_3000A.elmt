@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="360" height="380" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{90fbaf09-ee3e-5cea-8dcc-f53f9df815d2}" />
+    <names>
+        <name lang="en">SolarEdge Bus-Bar CT 3000A (front view)</name>
+        <name lang="sl">SolarEdge Bus-Bar CT 3000A (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE-CTB-4X4.5-3000</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Bus-Bar CT 3000A</elementInformation>
+        <elementInformation name="description" show="1">tokovni transformator</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Energy Meter with Modbus Connection SE-MTR-3Y-400V-A - datasheet, DS-00002-1.0-ENG, 07/2021 (vrstica SE-CTB-4x4.5-3000: 114 x 102 mm / 171 x 168 mm; risba CTB A/B/C/D; vodniki 2,4 m; ±1,75 % za SE-CTB); kopija uradnega SolarEdge dokumenta (vir: shop.krannich-solar.com) str. 2; Energy Meter with Modbus Connection - Quick Installation Guide, MAN-01-00754-1.0, julij 2020 (vezava CT: črna/bela pika, puščica proti omrežju); kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 1 (B); Continental Control Systems - CTBL Series Bus Bar Split-Core Current Transformers, Doc ID CTBL-DS1, 2. 10. 2017 - dokument OEM proizvajalca (NI SolarEdge; vir: shop.solexis.ch, objavljen pod imenom 'SolarEdge bus bar CT') str. 1 (modeli, CTBL-4.0x4.5-3000), 2 (specifikacije, vodniki 2,4 m #18 AWG, 0,33333 Vac), 3 (mehanika CTBL-4.0x4.5: 114/102/171/168 mm, debelina 29,0 mm, 0,92 kg z vodniki)</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.92</elementInformation>
+        <elementInformation name="width" show="1">168</elementInformation>
+        <elementInformation name="height" show="1">171</elementInformation>
+        <elementInformation name="depth" show="1">29</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Energy Meter with Modbus Connection SE-MTR-3Y-400V-A - datasheet, DS-00002-1.0-ENG, 07/2021 (vrstica SE-CTB-4x4.5-3000: 114 x 102 mm / 171 x 168 mm; risba CTB A/B/C/D; vodniki 2,4 m; ±1,75 % za SE-CTB); kopija uradnega SolarEdge dokumenta (vir: shop.krannich-solar.com) str. 2; Energy Meter with Modbus Connection - Quick Installation Guide, MAN-01-00754-1.0, julij 2020 (vezava CT: črna/bela pika, puščica proti omrežju); kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 1 (B); Continental Control Systems - CTBL Series Bus Bar Split-Core Current Transformers, Doc ID CTBL-DS1, 2. 10. 2017 - dokument OEM proizvajalca (NI SolarEdge; vir: shop.solexis.ch, objavljen pod imenom 'SolarEdge bus bar CT') str. 1 (modeli, CTBL-4.0x4.5-3000), 2 (specifikacije, vodniki 2,4 m #18 AWG, 0,33333 Vac), 3 (mehanika CTBL-4.0x4.5: 114/102/171/168 mm, debelina 29,0 mm, 0,92 kg z vodniki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="336" height="342" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="330" height="336" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="70.32" y="125.02" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="55.85" y="150.3" text="SE-CTB-4x4.5-3000" rotation="0" font="Liberation Sans,16,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{9c895c6d-3579-556e-a0a5-741187b6a349}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

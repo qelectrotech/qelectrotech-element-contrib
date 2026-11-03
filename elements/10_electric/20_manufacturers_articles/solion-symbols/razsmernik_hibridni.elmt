@@ -1,0 +1,39 @@
+<definition version="0.100.0" type="element" link_type="simple" width="100" height="110" hotspot_x="50" hotspot_y="50">
+    <uuid uuid="{c9b10232-fcbe-417b-98a6-57b9eca764fc}" />
+    <names>
+        <name lang="en">Hybrid inverter (DC, GRID, BACK-UP, BAT, BMS)</name>
+        <name lang="fr">Onduleur hybride (DC, GRID, BACK-UP, BAT, BMS)</name>
+        <name lang="sl">Hibridni razsmernik (DC, GRID, BACK-UP, BAT, BMS)</name>
+    </names>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <rect x="-40" y="-50" width="80" height="100" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-40" y1="50" x2="40" y2="-50" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-32" y1="-36" x2="-14" y2="-36" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-32" y1="-30" x2="-14" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <arc x="10" y="26" width="9" height="6" start="0" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <arc x="19" y="26" width="9" height="6" start="180" angle="180" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-50" y1="0" x2="-40" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="40" y1="-30" x2="50" y2="-30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="40" y1="30" x2="50" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="-20" y1="50" x2="-20" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <line x1="20" y1="50" x2="20" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <text text="GRID" x="42" y="-34" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text text="BACK-UP" x="42" y="26" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text text="BAT" x="-36" y="59" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text text="BMS" x="23" y="59" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="-40" y="-80" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{5219b775-9b90-4319-8f76-3ad4f0bcdeda}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-40" y="-67" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{43bf1267-4e79-4b1d-94b2-d1a81c16afde}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{99698202-2bf9-4ecd-9bf6-538ff292c78a}" name="DC" x="-50" y="0" orientation="w" type="Generic" />
+        <terminal uuid="{821ac821-33c1-4a87-894c-2420e8d083b9}" name="GRID" x="50" y="-30" orientation="e" type="Generic" />
+        <terminal uuid="{e96a4200-40c1-4bc9-86bc-a1870a262d5a}" name="BACKUP" x="50" y="30" orientation="e" type="Generic" />
+        <terminal uuid="{e57f1732-80bc-4d47-8ee6-5be00ea25940}" name="BAT" x="-20" y="60" orientation="s" type="Generic" />
+        <terminal uuid="{5d98117c-ca3d-4036-840a-e163ff537fb0}" name="BMS" x="20" y="60" orientation="s" type="Generic" />
+    </description>
+</definition>

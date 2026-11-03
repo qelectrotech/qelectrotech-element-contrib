@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="440" height="930" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{c6fcbab2-b186-5690-ae29-6e60ac737bbb}" />
+    <names>
+        <name lang="en">Goodwe AC charger GW22K-HCA-20 (front view)</name>
+        <name lang="sl">Goodwe AC charger GW22K-HCA-20 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">GoodWe</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">GW22K-HCA-20</elementInformation>
+        <elementInformation name="designation" show="1">Goodwe AC charger GW22K-HCA-20</elementInformation>
+        <elementInformation name="description" show="1">polnilnica EV; komunikacija: RS485 ×2 (razsmernik / MID števec), LAN, WiFi, Bluetooth, Modbus TCP, RFID, aplikacija, auto-start</elementInformation>
+        <elementInformation name="notes" show="1">Viri: GoodWe HCA G2 Series Datasheet (global EN) str. 2; GoodWe HCA G2 Series Datasheet EMEA (20250306 V1.1) str. 2; GoodWe HCA G2 (GW7K/11K/22K-HCA-20) User Manual (EN) str. 13-17 (opis, blokovna shema), 21-25 (zunanjost), 43-50 (električna vezava), 90-92 (tehn. podatki); GoodWe HCA G2 – Inverter Compatibility and Communication Wiring str. 11-15</elementInformation>
+        <elementInformation name="mass_kg" show="1">7.1</elementInformation>
+        <elementInformation name="width" show="1">208</elementInformation>
+        <elementInformation name="height" show="1">450</elementInformation>
+        <elementInformation name="depth" show="1">170</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: GoodWe HCA G2 Series Datasheet (global EN) str. 2; GoodWe HCA G2 Series Datasheet EMEA (20250306 V1.1) str. 2; GoodWe HCA G2 (GW7K/11K/22K-HCA-20) User Manual (EN) str. 13-17 (opis, blokovna shema), 21-25 (zunanjost), 43-50 (električna vezava), 90-92 (tehn. podatki); GoodWe HCA G2 – Inverter Compatibility and Communication Wiring str. 11-15
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="416" height="900" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="410" height="894" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="142.88" y="315" text="GoodWe" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="89.26" y="350.92" text="GW22K-HCA-20" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{02bf2619-c34c-5723-bc38-ddc7a959e1aa}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

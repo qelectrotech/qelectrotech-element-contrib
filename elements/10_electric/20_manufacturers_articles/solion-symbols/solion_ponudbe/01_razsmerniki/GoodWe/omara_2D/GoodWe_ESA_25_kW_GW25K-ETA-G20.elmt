@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="1620" height="710" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{42794104-2e5f-5910-a85e-741f4df0c296}" />
+    <names>
+        <name lang="en">GoodWe ESA 25 kW GW25K-ETA-G20 (front view)</name>
+        <name lang="sl">GoodWe ESA 25 kW GW25K-ETA-G20 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">GoodWe</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">GW25K-ETA-G20</elementInformation>
+        <elementInformation name="designation" show="1">GoodWe ESA 25 kW GW25K-ETA-G20</elementInformation>
+        <elementInformation name="description" show="1">hibridni razsmernik; 4 MPPT, nizov na MPPT [1, 1, 2, 2], U_dc max 1000 V, MPPT [120, 950] V, I max [21, 21, 42, 42] A; baterija [700, 950] V; komunikacija: CAN (BMS, interno), RS485 (METER), CT (vgrajen števec), RS485 (EMS / GoodWe polnilnica), PAR1/PAR2 (paralela), STS (RJ45), DRED / RCR / EnWG 14a, DI (Remote/Rapid Shutdown), DO LOAD, DO GEN, WiFi + LAN + Bluetooth, 4G (opcija), Modbus-RTU, Modbus-TCP</elementInformation>
+        <elementInformation name="notes" show="1">Viri: GoodWe ESA Series 5-30kW/5-108kWh Datasheet (Single page 20260616 V2.1) str. 2-3; GoodWe ESA (ETA/BTA-G20 + BAT-D-G20 + STS) User Manual V1.5-2026-09-04 str. 2-4 (izdelki), 46-52 (konfiguracija, komponente), 138-146 (odklopniki, kabli, PE), 147-163 (PV, BAT, AC, COM)</elementInformation>
+        <elementInformation name="mass_kg" show="1">38</elementInformation>
+        <elementInformation name="width" show="1">800</elementInformation>
+        <elementInformation name="height" show="1">340</elementInformation>
+        <elementInformation name="depth" show="1">270</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: GoodWe ESA Series 5-30kW/5-108kWh Datasheet (Single page 20260616 V2.1) str. 2-3; GoodWe ESA (ETA/BTA-G20 + BAT-D-G20 + STS) User Manual V1.5-2026-09-04 str. 2-4 (izdelki), 46-52 (konfiguracija, komponente), 138-146 (odklopniki, kabli, PE), 147-163 (PV, BAT, AC, COM)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1600" height="680" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1594" height="674" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="734.88" y="238" text="GoodWe" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="671.36" y="273.92" text="GW25K-ETA-G20" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{40b2153e-e532-5c0c-b6ef-c4810c1e49d6}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

@@ -1,0 +1,105 @@
+<definition version="0.200" type="element" link_type="simple" width="330" height="320" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{725eb8ef-0bfd-5dee-b19a-33133e75a0e2}" />
+    <names>
+        <name lang="en">SolarEdge Modbus Meter 1F/3F 230/400V</name>
+        <name lang="sl">SolarEdge Modbus Meter 1F/3F 230/400V</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESE-MTR-3Y-400V-A</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge Modbus Meter 1F/3F 230/400V</elementInformation>
+        <elementInformation name="description" show="1">števec; komunikacija: RS485 half duplex, 3 žice (A, B, GND), Modbus, privzeti Modbus ID 2, odzivni čas ≤ 200 ms, Zaključitev RS485 120 Ω z DIP stikalom 'TER' (RS-485 TERM) na števcu, Kabel do razsmernika: CAT5 3-žilni oklopljen sukan par 0,2-1 mm² na RS485-1 ali RS485-2 (B A G)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Energy Meter with Modbus Connection SE-MTR-3Y-400V-A - datasheet, DS-00002-1.0-ENG; kopija uradnega SolarEdge dokumenta (vir: upwatt.com) str. 2 (tabela CT, risbe CT, električni podatki, RS485, mere 75 x 138,6 x 35 HxWxD, 225 g, IP20, sponke; shema priključkov ØL3 ØL2 ØL1 N PE, L3/L2/L1 CT, RS-485 TERM, G A+ B-); Energiezähler mit Modbus-Anschluss SE-MTR-3Y-400V-A - Datenblatt, DS-00002-1.0-DE; kopija uradnega SolarEdge dokumenta (vir: siblik.com) str. 2 (Abmessungen B x H x T 138,6 x 75 x 35 mm); Energy Meter with Modbus Connection - Quick Installation Guide, MAN-01-00754-1.0, julij 2020; kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 1 (B: vezava 3Ø/1Ø, L3 L2 L1 N PE, L3/L2/L1 CT črna/bela pika, puščica proti omrežju, RS485 G A B -&gt; razsmernik B A G, CAT5 0,2-1 mm²), 2 (C: DIP ID 2 in TER, D: DIP razsmernika, F: LED); Installation Guide - Energy Meter with Modbus Connection, MAN-01-00269-1.6 (september 2019) - velja za predhodnika SE-WND-3Y400-MB-K2 (WattNode); kopija uradnega SolarEdge dokumenta (vir: ressupply.com) str. 3 (zgodovina različic: model SE-WND-3Y400-MB-K2); za priključke SE-MTR-3Y-400V-A NI uporabljeno (drugačna razporeditev: CT pini 1-6)</elementInformation>
+        <elementInformation name="mass_kg" show="1">0.225</elementInformation>
+        <elementInformation name="width" show="1">138.6</elementInformation>
+        <elementInformation name="height" show="1">75</elementInformation>
+        <elementInformation name="depth" show="1">35</elementInformation>
+    </elementInformations>
+    <informations>Viri: Energy Meter with Modbus Connection SE-MTR-3Y-400V-A - datasheet, DS-00002-1.0-ENG; kopija uradnega SolarEdge dokumenta (vir: upwatt.com) str. 2 (tabela CT, risbe CT, električni podatki, RS485, mere 75 x 138,6 x 35 HxWxD, 225 g, IP20, sponke; shema priključkov ØL3 ØL2 ØL1 N PE, L3/L2/L1 CT, RS-485 TERM, G A+ B-); Energiezähler mit Modbus-Anschluss SE-MTR-3Y-400V-A - Datenblatt, DS-00002-1.0-DE; kopija uradnega SolarEdge dokumenta (vir: siblik.com) str. 2 (Abmessungen B x H x T 138,6 x 75 x 35 mm); Energy Meter with Modbus Connection - Quick Installation Guide, MAN-01-00754-1.0, julij 2020; kopija uradnega SolarEdge dokumenta (vir: memodo.cz) str. 1 (B: vezava 3Ø/1Ø, L3 L2 L1 N PE, L3/L2/L1 CT črna/bela pika, puščica proti omrežju, RS485 G A B -&gt; razsmernik B A G, CAT5 0,2-1 mm²), 2 (C: DIP ID 2 in TER, D: DIP razsmernika, F: LED); Installation Guide - Energy Meter with Modbus Connection, MAN-01-00269-1.6 (september 2019) - velja za predhodnika SE-WND-3Y400-MB-K2 (WattNode); kopija uradnega SolarEdge dokumenta (vir: ressupply.com) str. 3 (zgodovina različic: model SE-WND-3Y400-MB-K2); za priključke SE-MTR-3Y-400V-A NI uporabljeno (drugačna razporeditev: CT pini 1-6)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="280" height="280" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="100" y1="280" x2="100" y2="290" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="103" y="277" text="L1" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="120" y1="280" x2="120" y2="290" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="123" y="277" text="L2" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="140" y1="280" x2="140" y2="290" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="143" y="277" text="L3" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="160" y1="280" x2="160" y2="290" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="163" y="277" text="N" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="180" y1="280" x2="180" y2="290" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="183" y="277" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="92" y="250.1" width="96" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="92" y1="262.1" x2="188" y2="262.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="110" y1="262.1" x2="110" y2="278" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="130" y1="262.1" x2="130" y2="278" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="150" y1="262.1" x2="150" y2="278" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="170" y1="262.1" x2="170" y2="278" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="135.05" y="259.1" text="AC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="228" y="12" width="50" height="136" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="228" y1="30" x2="278" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="248.05" y="23" text="CT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="228" y1="50" x2="278" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="228" y1="70" x2="278" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="228" y1="90" x2="278" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="228" y1="110" x2="278" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="228" y1="130" x2="278" y2="130" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="228" y="152" width="50" height="76" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="228" y1="170" x2="278" y2="170" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="245.58" y="163" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="228" y1="190" x2="278" y2="190" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="228" y1="210" x2="278" y2="210" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="280" y1="40" x2="290" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="43" text="L1CT-BK" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="98.31" y="43" text="L1 CT, črna pika - črn vodnik…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="60" x2="290" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="63" text="L1CT-WH" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="98.31" y="63" text="L1 CT, bela pika - bel vodnik…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="80" x2="290" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="83" text="L2CT-BK" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="98.31" y="83" text="L2 CT, črna pika - črn vodnik…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="100" x2="290" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="103" text="L2CT-WH" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="98.31" y="103" text="L2 CT, bela pika - bel vodnik…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="120" x2="290" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="123" text="L3CT-BK" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="98.31" y="123" text="L3 CT, črna pika - črn vodnik…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="140" x2="290" y2="140" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="143" text="L3CT-WH" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="98.31" y="143" text="L3 CT, bela pika - bel vodnik…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="180" x2="290" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="183" text="G" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="98.31" y="183" text="RS485 GND / oklop (na napravi…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="200" x2="290" y2="200" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="203" text="A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="123.05" y="203" text="RS485 A+ (na napravi A+)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="280" y1="220" x2="290" y2="220" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="232" y="223" text="B" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="123.05" y="223" text="RS485 B- (na napravi B-)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="16.6" y="129" text="SolarEdge" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="9.57" y="143" text="SE-MTR-3Y-400V-A" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="44.21" y="157" text="3F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{416f0e27-b4b3-5e1b-b538-1a1d156627c4}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{081d2a34-daee-59c3-a062-83ccb32f3206}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{80c5a863-b4e9-543a-8ce0-cb9609fd7d8b}" x="100" y="290" orientation="s" type="Generic" name="AC:L1" />
+        <terminal uuid="{b447bb4c-2cf0-5e17-9b7d-11b16eecc362}" x="120" y="290" orientation="s" type="Generic" name="AC:L2" />
+        <terminal uuid="{ec6fafd8-aa22-5e94-9c80-25fc8e532eda}" x="140" y="290" orientation="s" type="Generic" name="AC:L3" />
+        <terminal uuid="{d51d34aa-f40e-58d8-bca4-491b569b374a}" x="160" y="290" orientation="s" type="Generic" name="AC:N" />
+        <terminal uuid="{aec39070-7700-5bb9-b6ef-376fd8308bbd}" x="180" y="290" orientation="s" type="Generic" name="AC:PE" />
+        <terminal uuid="{135a7b72-7de9-5127-89a9-6ddba33a4308}" x="290" y="40" orientation="e" type="Generic" name="CT:L1CT-BK" />
+        <terminal uuid="{0419fa13-cca5-5ca6-a527-263943f2531a}" x="290" y="60" orientation="e" type="Generic" name="CT:L1CT-WH" />
+        <terminal uuid="{5f8ec834-cc2f-550d-b9ca-19643756dab7}" x="290" y="80" orientation="e" type="Generic" name="CT:L2CT-BK" />
+        <terminal uuid="{c73621ff-7ab9-57ab-9e6a-7771812c6638}" x="290" y="100" orientation="e" type="Generic" name="CT:L2CT-WH" />
+        <terminal uuid="{46418760-f047-5093-a82b-42f8b6d4eb59}" x="290" y="120" orientation="e" type="Generic" name="CT:L3CT-BK" />
+        <terminal uuid="{1bdd83c5-02e8-59d0-9de2-f01ecb78ded1}" x="290" y="140" orientation="e" type="Generic" name="CT:L3CT-WH" />
+        <terminal uuid="{2d26f170-9268-5981-8300-66269b41b178}" x="290" y="180" orientation="e" type="Generic" name="COM:G" />
+        <terminal uuid="{dd1446d5-8776-5943-b295-2352f3e7cc6e}" x="290" y="200" orientation="e" type="Generic" name="COM:A" />
+        <terminal uuid="{7903dc49-2c6d-5ba5-8ce0-3c1e91002bc0}" x="290" y="220" orientation="e" type="Generic" name="COM:B" />
+    </description>
+</definition>

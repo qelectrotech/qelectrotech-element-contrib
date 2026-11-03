@@ -1,0 +1,26 @@
+<definition version="0.100.0" type="element" link_type="simple" width="40" height="20" hotspot_x="20" hotspot_y="10">
+    <uuid uuid="{578a5259-5f88-41b4-9597-b679515ee685}" />
+    <names>
+        <name lang="en">Differential switch (horizontal)</name>
+        <name lang="fr">Interrupteur différentiel (horizontal)</name>
+        <name lang="sl">Zaščitno stikalo na diferenčni tok (RCD) (vodoravno)</name>
+    </names>
+    <informations>Avtor: SOLION d.o.o. / Elektro David Podlesnik s.p. (simboli za enopolne sheme, po vzoru IEC 60617)</informations>
+    <description>
+        <ellipse x="-10" y="-2" width="4" height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" />
+        <line x1="-10" y1="2" x2="-10" y2="-2" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <polygon x1="-10" y1="-5" x2="10" y2="0" x3="20" y3="0" closed="false" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="-20" y1="0" x2="-10" y2="0" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" />
+        <text text="IΔ" x="3" y="-14" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <terminal uuid="{28b133f3-0c00-4dd0-9a00-eed5a81ff6bb}" name="2" x="20" y="0" orientation="e" type="Generic" />
+        <terminal uuid="{8ffd88bd-b490-4544-8304-42cd839fc377}" name="1" x="-20" y="0" orientation="w" type="Generic" />
+        <dynamic_text x="-18" y="-50.0" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{24d1387c-5c14-4783-a38b-eb38cad4a267}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="-18" y="-37.0" z="5" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{1f3c17bb-34d8-4552-a6e8-1ce7efa03eb0}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+    </description>
+</definition>

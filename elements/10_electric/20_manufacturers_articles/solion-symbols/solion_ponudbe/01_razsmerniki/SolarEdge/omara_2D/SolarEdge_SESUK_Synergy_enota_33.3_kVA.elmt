@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="680" height="1150" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{f9826058-4389-5c04-a713-587cf358b1b5}" />
+    <names>
+        <name lang="en">SolarEdge SESUK Synergy enota 33.3 kVA (front view)</name>
+        <name lang="sl">SolarEdge SESUK Synergy enota 33.3 kVA (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESESUK-RW00INNN4</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge SESUK Synergy enota 33.3 kVA</elementInformation>
+        <elementInformation name="description" show="1">omrežni razsmernik; 1 MPPT, nizov na MPPT [1], U_dc max 1000 V, MPPT [680, 1000] V, I max - A; komunikacija: komunikacijski konektor do Synergy Managerja (Comm kabel), zunanja komunikacija (RS485, LAN, Wi-Fi, Cellular) je na Synergy Managerju</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Installation Guide Three Phase Inverters with Synergy Technology PN: SExxK-xxxxIxxxx, For Europe and APAC, Version 1.4 (Jan. 2023) - kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. PDF str. 11 (sestava), 18 (700 m), 29 (povezovalni kabli), 31 (konektorji enote, sl. 12), 33-34 (montaža), 38 (nizi na Managerju), 45 (ozemljitev ohišja), 79 (mere); SolarEdge Three Phase Inverter with Synergy Technology For Europe SE50K/SE66.6K/SE90K/SE100K/SE120K, datasheet DS-000008-EU (20. 6. 2023) - kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2-3; SolarEdge Three Phase Inverter with Synergy Technology For Europe SE50K-SE120K, datasheet DS-00008-1.1-EU (06/2021) - starejša različica, vir teh_iz_ponudb - kopija uradnega SolarEdge dokumenta (vir: irishellas.com) str. 2-3; Distributerji (naslovi/izvlečki iz iskalnika, strani niso bile odprte): solartraders 'SESUK-RW00INNN4 Synergy Unit' (wo/RSD, 4 MC4 pairs, 558 x 328 x 273, 32 kg); ESTG 'SESUK-RW00INNN4' (združljivo s Synergy Manager 50-120 kW) str. -; teh_iz_ponudb (skupine/A5_solaredge.json) - prejšnji zapis iz ponudb; preverjeno (glej negotovo) str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">32</elementInformation>
+        <elementInformation name="width" show="1">328</elementInformation>
+        <elementInformation name="height" show="1">558</elementInformation>
+        <elementInformation name="depth" show="1">273</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Installation Guide Three Phase Inverters with Synergy Technology PN: SExxK-xxxxIxxxx, For Europe and APAC, Version 1.4 (Jan. 2023) - kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. PDF str. 11 (sestava), 18 (700 m), 29 (povezovalni kabli), 31 (konektorji enote, sl. 12), 33-34 (montaža), 38 (nizi na Managerju), 45 (ozemljitev ohišja), 79 (mere); SolarEdge Three Phase Inverter with Synergy Technology For Europe SE50K/SE66.6K/SE90K/SE100K/SE120K, datasheet DS-000008-EU (20. 6. 2023) - kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2-3; SolarEdge Three Phase Inverter with Synergy Technology For Europe SE50K-SE120K, datasheet DS-00008-1.1-EU (06/2021) - starejša različica, vir teh_iz_ponudb - kopija uradnega SolarEdge dokumenta (vir: irishellas.com) str. 2-3; Distributerji (naslovi/izvlečki iz iskalnika, strani niso bile odprte): solartraders 'SESUK-RW00INNN4 Synergy Unit' (wo/RSD, 4 MC4 pairs, 558 x 328 x 273, 32 kg); ESTG 'SESUK-RW00INNN4' (združljivo s Synergy Manager 50-120 kW) str. -; teh_iz_ponudb (skupine/A5_solaredge.json) - prejšnji zapis iz ponudb; preverjeno (glej negotovo) str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="656" height="1116" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="650" height="1110" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="1099" width="650" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="299.14" y="1110.5" text="DC · AC" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="230.32" y="390.6" text="SolarEdge" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="179.57" y="426.52" text="SESUK-RW00INNN4" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{ccb2dca2-e604-52cd-94b6-a14c70766759}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

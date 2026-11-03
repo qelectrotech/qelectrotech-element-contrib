@@ -1,0 +1,86 @@
+<definition version="0.200" type="element" link_type="simple" width="590" height="220" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{6daba843-f584-5bed-a42c-eec552ba152a}" />
+    <names>
+        <name lang="en">Dyness STACK100 – krmilnik/BDU SBDU100</name>
+        <name lang="sl">Dyness STACK100 – krmilnik/BDU SBDU100</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Dyness</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Dyness STACK100 – krmilnik/BDU SBDU100</elementInformation>
+        <elementInformation name="designation" show="1">Dyness STACK100 – krmilnik/BDU SBDU100</elementInformation>
+        <elementInformation name="description" show="1">baterijski krmilnik; baterija [134.4, 864] V; komunikacija: 2× RJ45 Inverter CAN/RS485 (pin1 485_B, pin2 485_A, pin4 CANH, pin5 CANL), RJ45 Parallel in / Parallel out (CAN, 120 Ω na prvem in zadnjem), TCP/IP (rezervirano za nekatere razsmernike večjih moči), WiFi (aplikacija, OTA)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Dyness STACK100 Datasheet EN 20260520 (SBDU100) str. 2; STACK100 User Manual EN V7.0 str. 13–15 (tab. 2-5, 2-8), 22–24 (pakiranje), 40–44 (vezava)</elementInformation>
+        <elementInformation name="mass_kg" show="1">15.3</elementInformation>
+        <elementInformation name="width" show="1">590</elementInformation>
+        <elementInformation name="height" show="1">133</elementInformation>
+        <elementInformation name="depth" show="1">390</elementInformation>
+    </elementInformations>
+    <informations>Viri: Dyness STACK100 Datasheet EN 20260520 (SBDU100) str. 2; STACK100 User Manual EN V7.0 str. 13–15 (tab. 2-5, 2-8), 22–24 (pakiranje), 40–44 (vezava)
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="540" height="180" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="270" y1="180" x2="270" y2="190" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="273" y="177" text="PE" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="272" y="187" text="12" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="262" y="150.1" width="16" height="27.9" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="262" y1="162.1" x2="278" y2="162.1" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="265.05" y="159.1" text="PE" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="12" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="32" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="9.58" y="23" text="BAT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="32" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="B+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="-7" y="38" text="5" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="43" text="External positive socket – na…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="B-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="-7" y="58" text="4" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="63" text="External negative female – na…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="468" y="12" width="70" height="116" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="468" y1="30" x2="538" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="495.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="468" y1="50" x2="538" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="468" y1="70" x2="538" y2="70" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="468" y1="90" x2="538" y2="90" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="468" y1="110" x2="538" y2="110" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="540" y1="40" x2="550" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="472" y="43" text="CAN/RS485-1" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="541" y="38" text="7" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="367.17" y="43" text="RJ45 Inverter CAN/RS485" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="540" y1="60" x2="550" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="472" y="63" text="CAN/RS485-2" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="541" y="58" text="8" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="367.17" y="63" text="RJ45 Inverter CAN/RS485" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="540" y1="80" x2="550" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="472" y="83" text="TCP/IP" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="541" y="78" text="6" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="416.65" y="83" text="rezervirano" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="540" y1="100" x2="550" y2="100" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="472" y="103" text="PAR-IN" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="541" y="98" text="9" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="391.91" y="103" text="Parallel in (CAN)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="540" y1="120" x2="550" y2="120" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="472" y="123" text="PAR-OUT" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="541" y="118" text="10" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="387.79" y="123" text="Parallel out (CAN)" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="242.72" y="86" text="Dyness" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="170.43" y="100" text="Dyness STACK100 – krmilnik/BDU SBDU100" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="167.69" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{856128d0-4689-565d-8606-e9495bf33c03}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="167.69" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e6da3ac4-3cf5-53d5-af02-d91d90fbfd10}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{5073f03c-96ed-51f9-862a-f5906bbc83cb}" x="270" y="190" orientation="s" type="Generic" name="PE:12" />
+        <terminal uuid="{1869ffa3-a4ee-5694-bb63-1bf311c3281e}" x="-10" y="40" orientation="w" type="Generic" name="BAT:5" />
+        <terminal uuid="{20004987-9ec0-5f4e-b1de-39cba5802deb}" x="-10" y="60" orientation="w" type="Generic" name="BAT:4" />
+        <terminal uuid="{a3b637a4-cc0c-5425-a4e1-1f28788cab7a}" x="550" y="40" orientation="e" type="Generic" name="COM:7" />
+        <terminal uuid="{a0a534d9-7b5f-5bdf-8d43-7e64cd7422f7}" x="550" y="60" orientation="e" type="Generic" name="COM:8" />
+        <terminal uuid="{5d587f0a-4ead-5ec0-a9bf-bca689a483a9}" x="550" y="80" orientation="e" type="Generic" name="COM:6" />
+        <terminal uuid="{779397ff-7a81-55fd-92f0-1666c09a4f9f}" x="550" y="100" orientation="e" type="Generic" name="COM:9" />
+        <terminal uuid="{16dfb5ce-371f-5092-81f4-b8e19ce63f5e}" x="550" y="120" orientation="e" type="Generic" name="COM:10" />
+    </description>
+</definition>

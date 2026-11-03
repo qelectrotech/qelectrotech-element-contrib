@@ -1,0 +1,53 @@
+<definition version="0.200" type="element" link_type="simple" width="140" height="260" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{2f779b45-c607-58e4-8f21-26721aaf54e9}" />
+    <names>
+        <name lang="en">AndSolar AMCP-1000-1200</name>
+        <name lang="sl">AndSolar AMCP-1000-1200</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">AndSolar</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">AMCP1000-1200</elementInformation>
+        <elementInformation name="designation" show="1">AndSolar AMCP-1000-1200</elementInformation>
+        <elementInformation name="description" show="1">optimizator; 1 MPPT, nizov na MPPT -, U_dc max - V, MPPT [24, 130] V, I max [16] A</elementInformation>
+        <elementInformation name="notes" show="1">Viri: AndSolar Smart PV Optimizer AMCP(T2) &amp; ADCU User Manual V1.2-36B04 str. 12, 17, 26–27; AMCP (1to2) Physical Layout Template Usage Guide V5.1 str. 1–2; AndSolar AMCP Brochure V2.3-36E18 str. -; AMCP(T1) &amp; ADCU User Manual V1.2-36B24 (za primerjavo) str. 26</elementInformation>
+        <elementInformation name="width" show="1">120</elementInformation>
+        <elementInformation name="height" show="1">155</elementInformation>
+        <elementInformation name="depth" show="1">49</elementInformation>
+    </elementInformations>
+    <informations>Viri: AndSolar Smart PV Optimizer AMCP(T2) &amp; ADCU User Manual V1.2-36B04 str. 12, 17, 26–27; AMCP (1to2) Physical Layout Template Usage Guide V5.1 str. 1–2; AndSolar AMCP Brochure V2.3-36E18 str. -; AMCP(T1) &amp; ADCU User Manual V1.2-36B24 (za primerjavo) str. 26
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="90" height="220" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="40" y1="0" x2="40" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="43" y="21.84" text="IN+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="60" y1="0" x2="60" y2="-10" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="63" y="21.84" text="IN-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="32" y="2" width="36" height="32.84" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="32" y1="22.84" x2="68" y2="22.84" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="50" y1="2" x2="50" y2="22.84" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="45.05" y="31.84" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="40" y1="220" x2="40" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="43" y="217" text="OUT+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="60" y1="220" x2="60" y2="230" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="63" y="217" text="OUT-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="32" y="180.21" width="36" height="37.79" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="32" y1="192.21" x2="68" y2="192.21" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="50" y1="192.21" x2="50" y2="218" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="42.58" y="189.21" text="OUT" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="16.06" y="99" text="AndSolar" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="12.84" y="113" text="AMCP1000-1200" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="30.16" y="127" text="1 MPPT" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="44" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{899916ef-cb90-5c14-b9fb-44fbf4aff488}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="57" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{30ec247f-7a66-5dbc-86a9-ba2dca612946}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{4fc82c38-064d-5320-9c21-158b01e32c21}" x="40" y="-10" orientation="n" type="Generic" name="PV:IN+" />
+        <terminal uuid="{b73b67e7-5977-5781-a611-5638bb573977}" x="60" y="-10" orientation="n" type="Generic" name="PV:IN-" />
+        <terminal uuid="{6605cfd1-f4ea-5f53-b392-73e9b37fa799}" x="40" y="230" orientation="s" type="Generic" name="OUT:OUT+" />
+        <terminal uuid="{91df91d3-dceb-59b7-893d-452ba51ae5e8}" x="60" y="230" orientation="s" type="Generic" name="OUT:OUT-" />
+    </description>
+</definition>

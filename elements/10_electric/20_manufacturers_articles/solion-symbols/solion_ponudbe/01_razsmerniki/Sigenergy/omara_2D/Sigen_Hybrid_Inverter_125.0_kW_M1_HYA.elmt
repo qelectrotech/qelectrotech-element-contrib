@@ -1,0 +1,33 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="2020" height="1370" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{bfb6544f-5bf9-578a-b7ee-188fb3186d09}" />
+    <names>
+        <name lang="en">Sigen Hybrid Inverter 125.0 kW M1 (HYA) (front view)</name>
+        <name lang="sl">Sigen Hybrid Inverter 125.0 kW M1 (HYA) (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sigenergy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">11010136</elementInformation>
+        <elementInformation name="designation" show="1">Sigen Hybrid Inverter 125.0 kW M1 (HYA)</elementInformation>
+        <elementInformation name="description" show="1">hibridni razsmernik; 8 MPPT, nizov na MPPT [2, 2, 2, 2, 2, 2, 2, 2], U_dc max 1100 V, MPPT [160, 1000] V, I max [40, 40, 40, 40, 40, 40, 40, 40] A; baterija [550, 1100] V; komunikacija: RS485-1-1 (COM 15-16), RS485-1-2 rezervirano (COM 3-4), RS485-2 števec (COM 13-14), RJ45 1/2 Fast Ethernet, RJ45 3 SigenStack, WLAN (ANT), 4G Sigen CommMod, 5x DI (DRM/RCR, DI5 NS/EPO), DO1 suhi kontakt (rezervirano)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: Datasheet - Sigen Hybrid 50/60/80/100/110/125M1 (HYA) (Version 20260709), Sigenergy str. 2; Sigen PV (50-125)M1, Sigen PV (36-110)M1-HYA Series Installation Guide, v08 (2026-08-06) str. 7 (mere), 8-9 (Port Introduction PV / HYA), 11-14 (kabli, Table 2-1), 34 (AC L1 L2 L3 N M12, PE M8), 39-43 (PV konektorji Staubli/Amphenol, razporeditev nizov), 45-46 (COM 16-pin), 55-56 (SigenStack); Datasheet - SigenStack BAT 12.0 &amp; SigenStack BC, Sigenergy str. 2 (550-1100 V, 180 A); C&amp;I Sigen Inverter &amp; Sigen Battery Energy Storage System User Manual (2025-09-08) str. 45 (AC stikalo PV/HYA), 48 (AC stikalo HYB grid/backup); teh_iz_ponudb (Generator ponudb SOLION) - obstoječi tehnični zapis s preseki kablov in AC stikali str. polje teh_iz_ponudb pri artiklu</elementInformation>
+        <elementInformation name="mass_kg" show="1">95</elementInformation>
+        <elementInformation name="width" show="1">999</elementInformation>
+        <elementInformation name="height" show="1">668</elementInformation>
+        <elementInformation name="depth" show="1">340</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: Datasheet - Sigen Hybrid 50/60/80/100/110/125M1 (HYA) (Version 20260709), Sigenergy str. 2; Sigen PV (50-125)M1, Sigen PV (36-110)M1-HYA Series Installation Guide, v08 (2026-08-06) str. 7 (mere), 8-9 (Port Introduction PV / HYA), 11-14 (kabli, Table 2-1), 34 (AC L1 L2 L3 N M12, PE M8), 39-43 (PV konektorji Staubli/Amphenol, razporeditev nizov), 45-46 (COM 16-pin), 55-56 (SigenStack); Datasheet - SigenStack BAT 12.0 &amp; SigenStack BC, Sigenergy str. 2 (550-1100 V, 180 A); C&amp;I Sigen Inverter &amp; Sigen Battery Energy Storage System User Manual (2025-09-08) str. 45 (AC stikalo PV/HYA), 48 (AC stikalo HYB grid/backup); teh_iz_ponudb (Generator ponudb SOLION) - obstoječi tehnični zapis s preseki kablov in AC stikali str. polje teh_iz_ponudb pri artiklu
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="1998" height="1336" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="1992" height="1330" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="1319" width="1992" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="924.79" y="1330.5" text="PV · BAT · AC · PE" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="901.32" y="467.6" text="Sigenergy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="820.89" y="503.52" text="Sigen PV 125M1-HYA" rotation="0" font="Liberation Sans,24,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{d7111c46-53ba-590d-bf79-cd4af9548cd8}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

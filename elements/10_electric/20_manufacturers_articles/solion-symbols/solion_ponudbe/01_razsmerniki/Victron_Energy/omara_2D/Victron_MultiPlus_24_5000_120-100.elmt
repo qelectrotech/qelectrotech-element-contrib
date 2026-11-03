@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="680" height="930" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{4298b571-fa15-5af1-af67-699045eb84aa}" />
+    <names>
+        <name lang="en">Victron MultiPlus 24/5000/120-100 (front view)</name>
+        <name lang="sl">Victron MultiPlus 24/5000/120-100 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">MultiPlus 24/5000/120-100 230V VE.Bus (PMP245021010)</elementInformation>
+        <elementInformation name="designation" show="1">Victron MultiPlus 24/5000/120-100</elementInformation>
+        <elementInformation name="description" show="1">razsmernik-polnilnik; komunikacija: 2x VE.Bus RJ45 (B), daljinsko stikalo, 3-polna sponka H, alarmni rele I: NC, NO, COM, sponke E (od leve): V-SENSE, T-SENSE, AUX1, AUX2, GND-relay, STARTER+, K1, K2, 3 programabilni releji, 2 programabilna vhoda</elementInformation>
+        <elementInformation name="notes" show="1">Viri: MultiPlus 5k 230V 100A manual (EN) str. 10-12 (namestitev), 25-26 (tehnični podatki), 149-150 (Appendix A); Datasheet MultiPlus 800VA-5kVA str. 2; Dimension drawing MultiPlus/Quattro/Inverter 24-48V 5000VA str. 1; Quick Install Guide MultiPlus 24/48V 5000VA; Victron produktna stran (SKU podatki) · 3D (STEP): cad/victron_multiplus_5k/multiplus_quattro_24V_48V_5000VA.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">30</elementInformation>
+        <elementInformation name="width" show="1">328</elementInformation>
+        <elementInformation name="height" show="1">447</elementInformation>
+        <elementInformation name="depth" show="1">241</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: MultiPlus 5k 230V 100A manual (EN) str. 10-12 (namestitev), 25-26 (tehnični podatki), 149-150 (Appendix A); Datasheet MultiPlus 800VA-5kVA str. 2; Dimension drawing MultiPlus/Quattro/Inverter 24-48V 5000VA str. 1; Quick Install Guide MultiPlus 24/48V 5000VA; Victron produktna stran (SKU podatki)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="656" height="894" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="650" height="888" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="176.06" y="322.21" text="Victron Energy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="113.6" y="339.51" text="MultiPlus 24/5000/120-100 230V VE.Bus (PMP245021010)" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{2d34fc80-3bde-5057-8f3a-7f9d542a15b6}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

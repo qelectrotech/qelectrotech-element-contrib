@@ -1,0 +1,43 @@
+<definition version="0.200" type="element" link_type="simple" width="160" height="190" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{e9d46f28-5c35-5af8-9a26-42fee42b4e68}" />
+    <names>
+        <name lang="en">AIKO Neostar 3S+ 485W ABC Full Black</name>
+        <name lang="sl">AIKO Neostar 3S+ 485W ABC Full Black</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">AIKO</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">AIKO-A485-MCE54Db</elementInformation>
+        <elementInformation name="designation" show="1">AIKO Neostar 3S+ 485W ABC Full Black</elementInformation>
+        <elementInformation name="description" show="1">PV modul</elementInformation>
+        <elementInformation name="notes" show="1">Viri: AIKO Neostar 3S+54 Dual Glass 470–485 W datasheet V2.1_202502 (AU) str. 1; AIKO Neostar 3S+54 460–475 W datasheet 202604_V3.1 EN str. 1</elementInformation>
+        <elementInformation name="mass_kg" show="1">24.2</elementInformation>
+        <elementInformation name="width" show="1">1134</elementInformation>
+        <elementInformation name="height" show="1">1762</elementInformation>
+        <elementInformation name="depth" show="1">30</elementInformation>
+    </elementInformations>
+    <informations>Viri: AIKO Neostar 3S+54 Dual Glass 470–485 W datasheet V2.1_202502 (AU) str. 1; AIKO Neostar 3S+54 460–475 W datasheet 202604_V3.1 EN str. 1
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="110" height="150" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="40" y1="150" x2="40" y2="160" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="43" y="147" text="+" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="60" y1="150" x2="60" y2="160" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="63" y="147" text="-" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="32" y="125.05" width="36" height="22.95" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="32" y1="137.05" x2="68" y2="137.05" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="50" y1="137.05" x2="50" y2="148" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="45.05" y="134.05" text="PV" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="40.53" y="71" text="AIKO" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="12.95" y="85" text="AIKO-A485-MCE54Db" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="6" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{2f723c67-e345-5b4c-af55-6aeeac828a19}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="6" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{a42b2215-3933-509a-8a57-95cc5d4d96fa}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{672cc390-b7bd-548c-81fa-92c6432f21f6}" x="40" y="160" orientation="s" type="Generic" name="PV:+" />
+        <terminal uuid="{f2f98f08-bc75-56dc-a912-a302efb276d0}" x="60" y="160" orientation="s" type="Generic" name="PV:-" />
+    </description>
+</definition>

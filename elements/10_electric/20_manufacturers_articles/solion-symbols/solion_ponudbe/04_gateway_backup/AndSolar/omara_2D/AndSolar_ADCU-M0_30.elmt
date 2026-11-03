@@ -1,0 +1,32 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="500" height="710" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{99337ab1-a16a-57aa-b24a-955c277e98ef}" />
+    <names>
+        <name lang="en">AndSolar ADCU-M0(30) (front view)</name>
+        <name lang="sl">AndSolar ADCU-M0(30) (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">AndSolar</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">60-002303</elementInformation>
+        <elementInformation name="designation" show="1">AndSolar ADCU-M0(30)</elementInformation>
+        <elementInformation name="description" show="1">gateway/backup; komunikacija: HPLC do AMCL/AMCP prek magnetnega obroča na minus vodnikih nizov (do 800 m), LAN (RJ45 skozi vodotesno uvodnico), 4G, Wi-Fi, RS-485 (fieldbus)</elementInformation>
+        <elementInformation name="notes" show="1">Viri: AndSolar Gateway ADCU DataSheet V3.1-36E18 str. 2; AndSolar AMCL &amp; ADCU User Manual V1.2-36B03 (pogl. 5, 6.2) str. 18–24, 26; AndSolar Products Brochure V3.2-36E18 str. -</elementInformation>
+        <elementInformation name="width" show="1">240</elementInformation>
+        <elementInformation name="height" show="1">340</elementInformation>
+        <elementInformation name="depth" show="1">101</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: AndSolar Gateway ADCU DataSheet V3.1-36E18 str. 2; AndSolar AMCL &amp; ADCU User Manual V1.2-36B03 (pogl. 5, 6.2) str. 18–24, 26; AndSolar Products Brochure V3.2-36E18 str. -
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="480" height="680" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="474" height="674" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <rect x="3" y="663" width="474" height="14" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" />
+        <text x="211.14" y="674.5" text="PV · AC" rotation="0" font="Liberation Sans,10,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="153.18" y="239.33" text="AndSolar" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="76.73" y="272.59" text="ADCU-M0 (2 obroča)" rotation="0" font="Liberation Sans,22,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{207989ed-82ec-5eb4-b0e3-69e2e7ef5ee1}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

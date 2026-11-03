@@ -1,0 +1,63 @@
+<definition version="0.200" type="element" link_type="simple" width="470" height="210" hotspot_x="20" hotspot_y="20">
+    <uuid uuid="{3da1255e-6bf7-523a-ba92-a1e753f4391e}" />
+    <names>
+        <name lang="en">SolarEdge SESUK Synergy enota 33.3 kVA</name>
+        <name lang="sl">SolarEdge SESUK Synergy enota 33.3 kVA</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">SolarEdge</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">SLESESUK-RW00INNN4</elementInformation>
+        <elementInformation name="designation" show="1">SolarEdge SESUK Synergy enota 33.3 kVA</elementInformation>
+        <elementInformation name="description" show="1">omrežni razsmernik; 1 MPPT, nizov na MPPT [1], U_dc max 1000 V, MPPT [680, 1000] V, I max - A; komunikacija: komunikacijski konektor do Synergy Managerja (Comm kabel), zunanja komunikacija (RS485, LAN, Wi-Fi, Cellular) je na Synergy Managerju</elementInformation>
+        <elementInformation name="notes" show="1">Viri: SolarEdge Installation Guide Three Phase Inverters with Synergy Technology PN: SExxK-xxxxIxxxx, For Europe and APAC, Version 1.4 (Jan. 2023) - kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. PDF str. 11 (sestava), 18 (700 m), 29 (povezovalni kabli), 31 (konektorji enote, sl. 12), 33-34 (montaža), 38 (nizi na Managerju), 45 (ozemljitev ohišja), 79 (mere); SolarEdge Three Phase Inverter with Synergy Technology For Europe SE50K/SE66.6K/SE90K/SE100K/SE120K, datasheet DS-000008-EU (20. 6. 2023) - kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2-3; SolarEdge Three Phase Inverter with Synergy Technology For Europe SE50K-SE120K, datasheet DS-00008-1.1-EU (06/2021) - starejša različica, vir teh_iz_ponudb - kopija uradnega SolarEdge dokumenta (vir: irishellas.com) str. 2-3; Distributerji (naslovi/izvlečki iz iskalnika, strani niso bile odprte): solartraders 'SESUK-RW00INNN4 Synergy Unit' (wo/RSD, 4 MC4 pairs, 558 x 328 x 273, 32 kg); ESTG 'SESUK-RW00INNN4' (združljivo s Synergy Manager 50-120 kW) str. -; teh_iz_ponudb (skupine/A5_solaredge.json) - prejšnji zapis iz ponudb; preverjeno (glej negotovo) str. -</elementInformation>
+        <elementInformation name="mass_kg" show="1">32</elementInformation>
+        <elementInformation name="width" show="1">328</elementInformation>
+        <elementInformation name="height" show="1">558</elementInformation>
+        <elementInformation name="depth" show="1">273</elementInformation>
+    </elementInformations>
+    <informations>Viri: SolarEdge Installation Guide Three Phase Inverters with Synergy Technology PN: SExxK-xxxxIxxxx, For Europe and APAC, Version 1.4 (Jan. 2023) - kopija uradnega SolarEdge dokumenta (vir: portal.segen.co.uk) str. PDF str. 11 (sestava), 18 (700 m), 29 (povezovalni kabli), 31 (konektorji enote, sl. 12), 33-34 (montaža), 38 (nizi na Managerju), 45 (ozemljitev ohišja), 79 (mere); SolarEdge Three Phase Inverter with Synergy Technology For Europe SE50K/SE66.6K/SE90K/SE100K/SE120K, datasheet DS-000008-EU (20. 6. 2023) - kopija uradnega SolarEdge dokumenta (vir: vpsolar.com) str. 2-3; SolarEdge Three Phase Inverter with Synergy Technology For Europe SE50K-SE120K, datasheet DS-00008-1.1-EU (06/2021) - starejša različica, vir teh_iz_ponudb - kopija uradnega SolarEdge dokumenta (vir: irishellas.com) str. 2-3; Distributerji (naslovi/izvlečki iz iskalnika, strani niso bile odprte): solartraders 'SESUK-RW00INNN4 Synergy Unit' (wo/RSD, 4 MC4 pairs, 558 x 328 x 273, 32 kg); ESTG 'SESUK-RW00INNN4' (združljivo s Synergy Manager 50-120 kW) str. -; teh_iz_ponudb (skupine/A5_solaredge.json) - prejšnji zapis iz ponudb; preverjeno (glej negotovo) str. -
+Drawn with terminals2qet 0.2.0 from the terminal table</informations>
+    <description>
+        <rect x="0" y="0" width="420" height="170" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <line x1="200" y1="170" x2="200" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="203" y="167" text="AC" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="220" y1="170" x2="220" y2="180" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="223" y="167" text="GND" rotation="270" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="192" y="135.16" width="36" height="32.84" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="192" y1="147.16" x2="228" y2="147.16" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="210" y1="147.16" x2="210" y2="168" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="205.05" y="144.16" text="AC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <rect x="2" y="12" width="30" height="56" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="2" y1="30" x2="32" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="12.05" y="23" text="DC" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="2" y1="50" x2="32" y2="50" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="0" y1="40" x2="-10" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="43" text="DC+" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="43" text="DC+ konektor, kabel iz Manage…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <line x1="0" y1="60" x2="-10" y2="60" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="4" y="63" text="DC-" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="36" y="63" text="DC- konektor, kabel iz Manage…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <rect x="388" y="12" width="30" height="36" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <line x1="388" y1="30" x2="418" y2="30" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="395.58" y="23" text="COM" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <line x1="420" y1="40" x2="430" y2="40" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <text x="392" y="43" text="COMM" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="258.31" y="43" text="komunikacijski konektor do Ma…" rotation="0" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="177.44" y="74" text="SolarEdge" rotation="0" font="Liberation Sans,8,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="172.89" y="88" text="SESUK-RW00INNN4" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <text x="182.79" y="102" text="1 MPPT · 3F" rotation="0" font="Liberation Sans,6,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="167.69" y="4" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{8a413268-629c-597a-9387-87743db74307}" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="167.69" y="17" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{e69be565-49e7-5944-bb0c-9d8bd1bd75b7}" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <terminal uuid="{a02355db-f0e6-54f7-a589-e52e08c89440}" x="200" y="180" orientation="s" type="Generic" name="AC:AC" />
+        <terminal uuid="{f5d008ca-898b-57aa-9d92-b5fedccc3c00}" x="220" y="180" orientation="s" type="Generic" name="AC:GND" />
+        <terminal uuid="{7ac6b5a9-642f-5cae-a8bb-cd9bbfaba630}" x="-10" y="40" orientation="w" type="Generic" name="DC:DC+" />
+        <terminal uuid="{12377485-dbb5-5ee4-8b83-33745ed1494b}" x="-10" y="60" orientation="w" type="Generic" name="DC:DC-" />
+        <terminal uuid="{7287a26e-3c2e-5188-9932-8834b70ea76c}" x="430" y="40" orientation="e" type="Generic" name="COM:COMM" />
+    </description>
+</definition>

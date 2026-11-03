@@ -1,0 +1,31 @@
+<definition version="0.200" type="element" link_type="thumbnail" width="580" height="1050" hotspot_x="10" hotspot_y="20">
+    <uuid uuid="{e7bc601e-14f3-57fa-9afc-5187927ade6b}" />
+    <names>
+        <name lang="en">Victron MultiPlus-II 48/3000/35-32 (front view)</name>
+        <name lang="sl">Victron MultiPlus-II 48/3000/35-32 (pogled od spredaj)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Victron Energy</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">MultiPlus-II 48/3000/35-32 230V (PMP482305010 / PMP482305012)</elementInformation>
+        <elementInformation name="designation" show="1">Victron MultiPlus-II 48/3000/35-32</elementInformation>
+        <elementInformation name="description" show="1">razsmernik-polnilnik; komunikacija: 2x VE.Bus RJ45 (L), daljinsko stikalo Remote On/Off (K), kratek stik = vklop, alarmni rele AUX RELAY D: NO, NC, COM, zunanji tokovni senzor M: INT, EXT, COM (mostiček INT-COM), sponke N 1-12: +12V, K1, GND-relay, AUX1, AUX2, T-sense, V-sense, tipka A (zagon brez asistentov, E), stikalo J: 1 = vklop, 0 = izklop, || = samo polnilnik</elementInformation>
+        <elementInformation name="notes" show="1">Viri: MultiPlus-II 230V manual (EN, rev 14 07/2026) str. 17-19 (namestitev), 31 (tehnični podatki), 35-36 (Appendix A); Datasheet MultiPlus-II inverter/charger str. 2; Dimension drawing MultiPlus-II 24/48V 3kVA str. 1; Victron produktna stran (SKU podatki); Lokalni tehnični list MultiPlus-II GX 48/3000/35-32 (primerjava) str. ni uporabljen za priključke (GX izvedba) · 3D (STEP): cad/victron_multiplus_ii_48_3k/multiplus_ii_48V_3000VA_PMP482305012.step</elementInformation>
+        <elementInformation name="mass_kg" show="1">19</elementInformation>
+        <elementInformation name="width" show="1">275.4</elementInformation>
+        <elementInformation name="height" show="1">506</elementInformation>
+        <elementInformation name="depth" show="1">147.1</elementInformation>
+        <elementInformation name="exclude_from_bom" show="1">true</elementInformation>
+    </elementInformations>
+    <informations>Viri: MultiPlus-II 230V manual (EN, rev 14 07/2026) str. 17-19 (namestitev), 31 (tehnični podatki), 35-36 (Appendix A); Datasheet MultiPlus-II inverter/charger str. 2; Dimension drawing MultiPlus-II 24/48V 3kVA str. 1; Victron produktna stran (SKU podatki); Lokalni tehnični list MultiPlus-II GX 48/3000/35-32 (primerjava) str. ni uporabljen za priključke (GX izvedba)
+Outline from the datasheet dimensions, terminals2qet 0.2.0</informations>
+    <description>
+        <rect x="0" y="0" width="550.8" height="1012" rx="6" ry="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" />
+        <rect x="3" y="3" width="544.8" height="1006" rx="4" ry="4" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" />
+        <text x="123.46" y="365.5" text="Victron Energy" rotation="0" font="Liberation Sans,24,-1,5,75,0,0,0,0,0,Bold" color="#000000" />
+        <text x="99.35" y="378.81" text="MultiPlus-II 48/3000/35-32 230V (PMP482305010 / PMP482305012)" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" color="#000000" />
+        <dynamic_text x="0" y="-14" z="10" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" rotation="0" keep_visual_rotation="false" text_from="ElementInfo" uuid="{bf9c393d-fe9b-51e4-a0f8-dfb3359a9c65}" font="Liberation Sans,8,-1,5,50,0,0,0,0,0,Regular">
+            <text />
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>
